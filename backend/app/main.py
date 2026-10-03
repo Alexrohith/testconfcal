@@ -1,8 +1,14 @@
+import os
+
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 
 from app.routers import conferences, categories, reminders, sync
 
+
+development_origins = ["http://localhost:3000", "http://127.0.0.1:3000"]
+frontend_url = os.getenv("FRONTEND_URL", "https://confcal-five.vercel.app").strip()
+allowed_origins = list(dict.fromkeys([*development_origins, frontend_url.rstrip("/")]))
 
 app = FastAPI(
     title="ConfCal API",
@@ -12,7 +18,7 @@ app = FastAPI(
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000", "http://127.0.0.1:3000"],
+    allow_origins=allowed_origins,
     allow_methods=["GET", "POST", "PATCH", "DELETE"],
     allow_headers=["Accept", "Authorization", "Content-Type"],
 )
