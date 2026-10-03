@@ -4,29 +4,32 @@ import Link from "next/link";
 import { addMonths, endOfMonth, format, isSameDay, isSameMonth, startOfDay, startOfMonth, subMonths } from "date-fns";
 import { useEffect, useState, type FormEvent } from "react";
 import CalendarSkeleton from "@/components/calendar/CalendarSkeleton";
-import { getCalendarConferences, getCategories, getPersonalizedCalendarConferences } from "@/src/lib/api";
+import { ApiRequestError, getCalendarConferences, getCategories } from "@/src/lib/api";
 import { createClient } from "@/src/lib/supabase/client";
-import { getCurrentUserInterestProfile, UnauthenticatedUserError } from "@/src/lib/supabase/interests";
+import { getSavedConferences } from "@/src/lib/saved";
 import {
   formatConferenceDateRange,
+  dateFromDateOnly,
   getCalendarDays,
   getCalendarEvents,
   getDeadlineDaysRemaining,
   getDeadlineUrgency,
+  getPaperDeadlineInfo,
+  matchesPaperDeadlineFilter,
+  paperDeadlineLabel,
   type CalendarEvent,
+  type PaperDeadlineFilter,
 } from "@/src/lib/calendar";
-import type { Category, Conference, ConferenceQuery } from "@/src/types/api";
+import type { Category, Conference, ConferenceQuery, SavedConference } from "@/src/types/api";
 
 type CalendarView = "month" | "agenda";
 type CalendarMode = "mine" | "all";
-type PersonalizationState = "idle" | "ready" | "unauthenticated" | "no-interests" | "unsupported" | "categories-error" | "error";
-type DeadlineFilter = NonNullable<ConferenceQuery["deadline"]> | "";
-
+type MyCalendarState = "loading" | "unauthenticated" | "ready" | "error" | "auth-error";
 interface CalendarFilters {
   search: string;
   country: string;
   category: string;
-  deadline: DeadlineFilter;
+  deadline: PaperDeadlineFilter;
 }
 
 const initialFilters: CalendarFilters = {
@@ -43,11 +46,34 @@ function getConferenceCountries(conferences: Conference[]): string[] {
     .sort((left, right) => left.localeCompare(right));
 }
 
-function deadlineDescription(daysRemaining: number | null): string {
-  if (daysRemaining === null) return "Deadline not listed";
-  if (daysRemaining < 0) return "Deadline passed";
-  if (daysRemaining === 0) return "Due today";
-  return `${daysRemaining} ${daysRemaining === 1 ? "day" : "days"} left`;
+function filterSavedConferences(
+  conferences: SavedConference[],
+  filters: CalendarFilters,
+  today: Date,
+): SavedConference[] {
+  const search = filters.search.toLocaleLowerCase();
+  const country = filters.country.toLocaleLowerCase();
+
+  return conferences.filter((conference) => {
+    if (search && ![
+      conference.title,
+      conference.scope ?? "",
+      conference.about ?? "",
+    ].some((value) => value.toLocaleLowerCase().includes(search))) return false;
+
+    if (country && !(conference.country ?? "").toLocaleLowerCase().includes(country)) return false;
+
+    if (filters.category && !conference.categories?.some(
+      (item) => item.name === filters.category,
+    )) return false;
+
+    if (!matchesPaperDeadlineFilter(
+      getPaperDeadlineInfo(conference.paper_deadline, conference.days_until_deadline, today),
+      filters.deadline,
+    )) return false;
+
+    return true;
+  });
 }
 
 function CalendarEventLink({ event, compact, today }: {
@@ -59,19 +85,26 @@ function CalendarEventLink({ event, compact, today }: {
   const daysRemaining = isDeadline ? getDeadlineDaysRemaining(event.conference, today) : null;
   const urgency = getDeadlineUrgency(daysRemaining);
   const eventLabel = isDeadline ? "Paper deadline" : "Conference";
+  const deadlineText = isDeadline
+    ? paperDeadlineLabel(getPaperDeadlineInfo(
+      event.conference.paper_deadline,
+      event.conference.days_until_deadline,
+      today,
+    ))
+    : null;
 
   return (
     <Link
       className={`calendar-event-link ${isDeadline ? `calendar-event-deadline urgency-${urgency}` : "calendar-event-conference"}`}
       href={`/conference/${event.conference.id}`}
-      aria-label={`${eventLabel}: ${event.conference.title}, ${format(event.date, "MMMM d, yyyy")}`}
+      aria-label={`${eventLabel}: ${event.conference.title}, ${format(event.date, "MMMM d, yyyy")}${deadlineText ? `, ${deadlineText}` : ""}`}
     >
       <span className="calendar-event-type">{eventLabel}</span>
       <span className="calendar-event-title">{event.conference.title}</span>
       {!compact && (
         <span className="calendar-event-detail">
           {isDeadline
-            ? deadlineDescription(daysRemaining)
+            ? deadlineText
             : formatConferenceDateRange(event.conference.start_date, event.conference.end_date)}
         </span>
       )}
@@ -94,23 +127,67 @@ export default function CalendarExperience() {
   const [filters, setFilters] = useState<CalendarFilters>(initialFilters);
   const [searchDraft, setSearchDraft] = useState("");
   const [categories, setCategories] = useState<Category[]>([]);
-  const [categoriesLoadedRetry, setCategoriesLoadedRetry] = useState(-1);
   const [categoriesFailedRetry, setCategoriesFailedRetry] = useState(-1);
   const [categoryRetry, setCategoryRetry] = useState(0);
   const [countryOptions, setCountryOptions] = useState<string[]>([]);
-  const [conferences, setConferences] = useState<Conference[]>([]);
-  const [interestCategories, setInterestCategories] = useState<Category[]>([]);
-  const [personalizationState, setPersonalizationState] = useState<PersonalizationState>("idle");
+  const [allConferences, setAllConferences] = useState<Conference[]>([]);
+  const [savedConferences, setSavedConferences] = useState<SavedConference[]>([]);
+  const [myCalendarState, setMyCalendarState] = useState<MyCalendarState>("loading");
+  const [accessToken, setAccessToken] = useState<string | null>(null);
+  const [sessionLoaded, setSessionLoaded] = useState(false);
   const [selectedDate, setSelectedDate] = useState<Date | null>(null);
   const [loadedRequest, setLoadedRequest] = useState("");
   const [failedRequest, setFailedRequest] = useState("");
   const [retry, setRetry] = useState(0);
   const { search, country, category, deadline } = filters;
   const requestKey = `${mode}#${search}#${country}#${category}#${deadline}#${retry}`;
-  const loading = loadedRequest !== requestKey;
-  const error = failedRequest === requestKey;
-  const categoriesLoading = categoriesLoadedRetry !== categoryRetry;
   const categoryError = categoriesFailedRetry === categoryRetry;
+
+  useEffect(() => {
+    let active = true;
+    let receivedAuthEvent = false;
+    let unsubscribe = () => {};
+
+    void Promise.resolve()
+      .then(() => createClient())
+      .then((supabase) => {
+        if (!active) return null;
+        const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+          receivedAuthEvent = true;
+          const token = session?.access_token ?? null;
+          setAccessToken(token);
+          setSavedConferences([]);
+          setMyCalendarState(token ? "loading" : "unauthenticated");
+          setSessionLoaded(true);
+        });
+        unsubscribe = () => subscription.unsubscribe();
+        return supabase.auth.getSession();
+      })
+      .then((result) => {
+        if (!active || !result || receivedAuthEvent) return;
+        if (result.error) {
+          setAccessToken(null);
+          setSessionLoaded(true);
+          setMyCalendarState("error");
+          return;
+        }
+        const token = result.data.session?.access_token ?? null;
+        setAccessToken(token);
+        setMyCalendarState(token ? "loading" : "unauthenticated");
+        setSessionLoaded(true);
+      })
+      .catch(() => {
+        if (!active) return;
+        setAccessToken(null);
+        setSessionLoaded(true);
+        setMyCalendarState("error");
+      });
+
+    return () => {
+      active = false;
+      unsubscribe();
+    };
+  }, []);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -119,12 +196,10 @@ export default function CalendarExperience() {
         if (controller.signal.aborted) return;
         setCategories(response.categories);
         setCategoriesFailedRetry(-1);
-        setCategoriesLoadedRetry(categoryRetry);
       })
       .catch(() => {
         if (!controller.signal.aborted) {
           setCategoriesFailedRetry(categoryRetry);
-          setCategoriesLoadedRetry(categoryRetry);
         }
       });
     return () => controller.abort();
@@ -133,21 +208,29 @@ export default function CalendarExperience() {
   useEffect(() => {
     if (mode !== "all") return;
     const controller = new AbortController();
-    const query = {
+    const apiDeadline: ConferenceQuery["deadline"] = deadline === "today" || deadline === "30days"
+      ? "upcoming"
+      : deadline === "7days" || deadline === "passed" || deadline === "none"
+        ? deadline
+        : undefined;
+    const query: Omit<ConferenceQuery, "page" | "limit"> = {
       search: search || undefined,
       country: country || undefined,
       category: category || undefined,
-      deadline: deadline || undefined,
+      deadline: apiDeadline,
     };
 
     getCalendarConferences(query, controller.signal)
       .then((conferenceResults) => {
         if (controller.signal.aborted) return;
-        setConferences(conferenceResults);
+        const filteredResults = conferenceResults.filter((conference) => matchesPaperDeadlineFilter(
+          getPaperDeadlineInfo(conference.paper_deadline, conference.days_until_deadline, today),
+          deadline,
+        ));
+        setAllConferences(filteredResults);
         setCountryOptions((current) => [...new Set([...current, ...getConferenceCountries(conferenceResults)])]
           .sort((left, right) => left.localeCompare(right)));
         setSelectedDate(null);
-        setPersonalizationState("idle");
         setFailedRequest("");
         setLoadedRequest(requestKey);
       })
@@ -159,86 +242,47 @@ export default function CalendarExperience() {
       });
 
     return () => controller.abort();
-  }, [category, country, deadline, mode, requestKey, retry, search]);
+  }, [category, country, deadline, mode, requestKey, retry, search, today]);
 
   useEffect(() => {
-    if (mode !== "mine" || categoriesLoading) return;
-    const controller = new AbortController();
+      if (mode !== "mine" || !sessionLoaded) return;
+      let active = true;
+      if (!accessToken) return;
 
-    async function loadPersonalizedConferences() {
-      if (categoryError) {
-        setConferences([]);
-        setPersonalizationState("categories-error");
-        setFailedRequest("");
-        setLoadedRequest(requestKey);
-        return;
-      }
+      queueMicrotask(() => {
+        if (!active) return;
+        setMyCalendarState("loading");
+        getSavedConferences(accessToken)
+          .then((results) => {
+            if (!active) return;
+            setSavedConferences(results);
+            setMyCalendarState("ready");
+            setSelectedDate(null);
+          })
+          .catch((caught: unknown) => {
+            if (!active) return;
+            setSavedConferences([]);
+            setMyCalendarState(
+              caught instanceof ApiRequestError && (caught.status === 401 || caught.status === 403)
+                ? "auth-error"
+                : "error",
+            );
+          });
+      });
 
-      try {
-        const profile = await getCurrentUserInterestProfile(createClient());
-        if (controller.signal.aborted) return;
+      return () => {
+      active = false;
+    };
+  }, [accessToken, mode, retry, sessionLoaded]);
 
-        const selectedInterests = categories.filter((item) => profile.categoryIds.includes(item.id));
-        setInterestCategories(selectedInterests);
-
-        if (selectedInterests.length === 0) {
-          setConferences([]);
-          setPersonalizationState("no-interests");
-          setFailedRequest("");
-          setLoadedRequest(requestKey);
-          return;
-        }
-
-        const requestedInterests = category
-          ? selectedInterests.filter((item) => item.name === category)
-          : selectedInterests;
-
-        if (requestedInterests.length === 0) {
-          setConferences([]);
-          setPersonalizationState("ready");
-          setFailedRequest("");
-          setLoadedRequest(requestKey);
-          return;
-        }
-
-        if (requestedInterests.length > 1) {
-          setConferences([]);
-          setPersonalizationState("unsupported");
-          setFailedRequest("");
-          setLoadedRequest(requestKey);
-          return;
-        }
-
-        const conferenceResults = await getPersonalizedCalendarConferences(
-          requestedInterests.map((item) => item.name),
-          {
-            search: search || undefined,
-            country: country || undefined,
-            deadline: deadline || undefined,
-          },
-          controller.signal,
-        );
-        if (controller.signal.aborted) return;
-
-        setConferences(conferenceResults);
-        setCountryOptions((current) => [...new Set([...current, ...getConferenceCountries(conferenceResults)])]
-          .sort((left, right) => left.localeCompare(right)));
-        setSelectedDate(null);
-        setPersonalizationState("ready");
-        setFailedRequest("");
-        setLoadedRequest(requestKey);
-      } catch (caught) {
-        if (controller.signal.aborted) return;
-        setConferences([]);
-        setPersonalizationState(caught instanceof UnauthenticatedUserError ? "unauthenticated" : "error");
-        setFailedRequest(caught instanceof UnauthenticatedUserError ? "" : requestKey);
-        setLoadedRequest(requestKey);
-      }
-    }
-
-    void loadPersonalizedConferences();
-    return () => controller.abort();
-  }, [categories, categoriesLoading, category, categoryError, country, deadline, mode, requestKey, search]);
+  const filteredSavedConferences = filterSavedConferences(savedConferences, filters, today);
+  const conferences = mode === "all" ? allConferences : filteredSavedConferences;
+  const loading = mode === "all"
+    ? loadedRequest !== requestKey
+    : !sessionLoaded || myCalendarState === "loading";
+  const error = mode === "all"
+    ? failedRequest === requestKey
+    : myCalendarState === "error" || myCalendarState === "auth-error";
 
   const events = getCalendarEvents(conferences);
   const monthDays = getCalendarDays(visibleMonth);
@@ -250,7 +294,10 @@ export default function CalendarExperience() {
       const remaining = getDeadlineDaysRemaining(conference, today);
       return remaining !== null && remaining >= 0;
     })
-    .sort((left, right) => (left.days_until_deadline ?? 0) - (right.days_until_deadline ?? 0))
+    .sort((left, right) => (
+      (getDeadlineDaysRemaining(left, today) ?? Number.POSITIVE_INFINITY)
+      - (getDeadlineDaysRemaining(right, today) ?? Number.POSITIVE_INFINITY)
+    ))
     .slice(0, 6);
 
   const agendaStart = startOfMonth(visibleMonth);
@@ -359,10 +406,11 @@ export default function CalendarExperience() {
           </label>
           <label>
             <span className="field-label">Paper deadline</span>
-            <select className="field-control" value={filters.deadline} onChange={(event) => applyDropdownFilter({ deadline: event.target.value as DeadlineFilter })}>
+            <select className="field-control" value={filters.deadline} onChange={(event) => applyDropdownFilter({ deadline: event.target.value as PaperDeadlineFilter })}>
               <option value="">All deadlines</option>
-              <option value="upcoming">Upcoming</option>
-              <option value="7days">Next 7 days</option>
+              <option value="today">Due today</option>
+              <option value="7days">Due in 7 days</option>
+              <option value="30days">Due in 30 days</option>
               <option value="passed">Passed</option>
               <option value="none">No deadline</option>
             </select>
@@ -377,57 +425,50 @@ export default function CalendarExperience() {
 
         {loading ? <CalendarSkeleton /> : error ? (
           <div className="state-panel calendar-error" role="alert">
-            <h2>{mode === "mine" ? "Unable to load your personalized conferences." : "Unable to load conferences."}</h2>
-            <p>Check that the ConfCal API is running and try again.</p>
-            <button className="button-primary" type="button" onClick={() => setRetry((value) => value + 1)}>Retry</button>
+            <h2>{mode === "mine"
+              ? myCalendarState === "auth-error"
+                ? "Sign in to view your calendar."
+                : "Unable to load your saved conferences."
+              : "Unable to load conferences."}</h2>
+            <p>{mode === "mine"
+              ? myCalendarState === "auth-error"
+                ? "Your session has expired or could not be verified."
+                : "Your saved conferences could not be loaded. Check your connection and try again."
+              : "Conference listings are temporarily unavailable. Check your connection and try again."}</p>
+            {mode === "mine" && myCalendarState === "auth-error"
+              ? <Link className="button-primary" href="/login">Sign in</Link>
+              : <button className="button-primary" type="button" onClick={() => setRetry((value) => value + 1)}>Retry</button>}
           </div>
-        ) : mode === "mine" && personalizationState === "unauthenticated" ? (
+        ) : mode === "mine" && myCalendarState === "unauthenticated" ? (
           <div className="state-panel calendar-personal-state">
-            <h2>Sign in to use My Calendar.</h2>
-            <p>Your calendar will be based on your saved research interests.</p>
+            <h2>Sign in to view your calendar.</h2>
+            <p>Your calendar will show conferences you have saved.</p>
             <Link className="button-primary" href="/login">Sign in</Link>
           </div>
-        ) : mode === "mine" && personalizationState === "no-interests" ? (
+        ) : mode === "mine" && savedConferences.length === 0 ? (
           <div className="state-panel calendar-personal-state">
-            <h2>Choose research interests to personalize your calendar.</h2>
-            <p>Select research areas to see relevant conferences and deadlines.</p>
-            <Link className="button-primary" href="/onboarding">Choose interests</Link>
-          </div>
-        ) : mode === "mine" && personalizationState === "unsupported" ? (
-          <div className="state-panel calendar-personal-state">
-            <h2>My Calendar needs multi-category API support.</h2>
-            <p>The conference API accepts one research area per request. Choose a research area filter to view that interest, or switch to All Conferences.</p>
-          </div>
-        ) : mode === "mine" && personalizationState === "categories-error" ? (
-          <div className="state-panel calendar-error" role="alert">
-            <h2>Unable to load research areas.</h2>
-            <p>Your personalized calendar needs category data to match your saved interests.</p>
-            <button className="button-primary" type="button" onClick={() => setCategoryRetry((value) => value + 1)}>Retry</button>
+            <h2>Your calendar is empty.</h2>
+            <p>Save conferences from Explore to see them here.</p>
+            <Link className="button-primary" href="/explore">Explore conferences</Link>
           </div>
         ) : conferences.length === 0 ? (
           <div className="state-panel">
-            <h2>{mode === "mine" ? "No conferences match your research interests yet." : "No conferences match your filters."}</h2>
-            <p>{mode === "mine" ? "Edit your interests or filters to broaden your personalized calendar." : "Clear one or more filters to broaden your search."}</p>
-            {mode === "mine" ? <Link className="button-secondary" href="/onboarding">Edit interests</Link> : <button className="button-secondary" type="button" onClick={clearFilters}>Clear filters</button>}
+            <h2>No conferences match your filters.</h2>
+            <p>Clear one or more filters to broaden your calendar.</p>
+            <button className="button-secondary" type="button" onClick={clearFilters}>Clear filters</button>
           </div>
         ) : (
           <>
-            {mode === "mine" && interestCategories.length > 0 && (
-              <section className="calendar-personal-context" aria-label="Personalized calendar interests">
-                <div>
-                  <span>Based on your research interests</span>
-                  <div className="dashboard-interest-tags">
-                    {interestCategories.map((interest) => <span className="dashboard-interest-tag" key={interest.id}>{interest.display_name}</span>)}
-                  </div>
-                </div>
-                <Link className="text-link" href="/onboarding">Edit interests</Link>
-              </section>
-            )}
             <div className="calendar-results-line" aria-live="polite">
-              <span>{conferences.length} conferences loaded from the API</span>
+              <span>{mode === "mine"
+                ? `${conferences.length} saved ${conferences.length === 1 ? "conference" : "conferences"}`
+                : `${conferences.length} conferences loaded from the API`}</span>
               {filters.category && <span>{categories.find((category) => category.name === filters.category)?.display_name}</span>}
             </div>
-            <div className={`calendar-layout calendar-view-${view}`}>
+            <div
+              className={`calendar-layout calendar-view-${view}`}
+              key={`${format(visibleMonth, "yyyy-MM")}-${view}`}
+            >
               <section className="calendar-main-view" aria-label={`${format(visibleMonth, "MMMM yyyy")} calendar`}>
                 <div className="calendar-weekdays" aria-hidden="true">
                   {weekdays.map((weekday) => <span key={weekday}>{weekday}</span>)}
@@ -458,7 +499,7 @@ export default function CalendarExperience() {
                 {agendaGroups.size === 0 ? (
                   <div className="calendar-empty-day">No conference deadlines or events.</div>
                 ) : [...agendaGroups.entries()].sort(([left], [right]) => left.localeCompare(right)).map(([dayKey, dayEvents]) => {
-                  const day = new Date(`${dayKey}T00:00:00`);
+                  const day = dateFromDateOnly(dayKey) ?? new Date(`${dayKey}T12:00:00`);
                   return (
                     <section className="agenda-day-group" key={dayKey}>
                       <header className="agenda-day-heading">
@@ -484,11 +525,22 @@ export default function CalendarExperience() {
                       {upcomingDeadlines.map((conference) => {
                         const remaining = getDeadlineDaysRemaining(conference, today);
                         const urgency = getDeadlineUrgency(remaining);
+                        const deadlineDate = conference.paper_deadline
+                          ? dateFromDateOnly(conference.paper_deadline)
+                          : null;
                         return (
                           <li key={conference.id}>
-                            <span className={`upcoming-countdown urgency-${urgency}`}>{deadlineDescription(remaining)}</span>
+                            <span className={`upcoming-countdown urgency-${urgency}`}>
+                              {paperDeadlineLabel(getPaperDeadlineInfo(
+                                conference.paper_deadline,
+                                conference.days_until_deadline,
+                                today,
+                              ))}
+                            </span>
                             <Link href={`/conference/${conference.id}`}>{conference.title}</Link>
-                            <time dateTime={conference.paper_deadline ?? undefined}>{conference.paper_deadline ? format(new Date(`${conference.paper_deadline}T00:00:00`), "MMM d, yyyy") : ""}</time>
+                            <time dateTime={conference.paper_deadline ?? undefined}>
+                              {deadlineDate ? format(deadlineDate, "MMM d, yyyy") : ""}
+                            </time>
                           </li>
                         );
                       })}

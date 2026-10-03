@@ -116,16 +116,15 @@ export default function ResearchInterestOnboarding() {
             <div className="onboarding-skeleton-grid">
               {Array.from({ length: 6 }, (_, index) => <div className="onboarding-skeleton-card" key={index}><div className="skeleton-line medium" /></div>)}
             </div>
-            <p>Checking your account and loading research areas...</p>
           </div>
         ) : categoryError ? (
           <div className="onboarding-error" role="alert">
-            <p>Unable to load research areas.</p>
+            <p>Research area options couldn’t be loaded. Check your connection and try again.</p>
             <button className="text-link" type="button" onClick={() => setRetry((value) => value + 1)}>Retry</button>
           </div>
         ) : interestError ? (
           <div className="onboarding-error" role="alert">
-            <p>Unable to load your research interests.</p>
+            <p>Your saved research interests couldn’t be loaded. Check your connection and try again.</p>
             <button className="text-link" type="button" onClick={() => setRetry((value) => value + 1)}>Retry</button>
           </div>
         ) : (

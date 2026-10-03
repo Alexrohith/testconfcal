@@ -4,9 +4,20 @@ import Link from "next/link";
 import { format, parseISO } from "date-fns";
 import { useEffect, useState } from "react";
 import ConferenceCard from "@/components/conferences/ConferenceCard";
-import { getCalendarConferences } from "@/src/lib/api";
+import ConferenceSkeleton from "@/components/conferences/ConferenceSkeleton";
+import {
+  ApiRequestError,
+  getCalendarConferences,
+  getRecommendedConferences,
+} from "@/src/lib/api";
 import { getDeadlineDaysRemaining } from "@/src/lib/calendar";
-import type { Category, Conference } from "@/src/types/api";
+import type { Category, Conference, RecommendedConferenceResponse } from "@/src/types/api";
+
+type RecommendationState =
+  | { status: "loading" }
+  | { status: "signed-out" }
+  | { status: "loaded"; response: RecommendedConferenceResponse }
+  | { status: "error"; authenticationError: boolean };
 
 interface DashboardExperienceProps {
   userName: string;
@@ -19,6 +30,8 @@ export default function DashboardExperience({ userName, researchInterests, resea
   const [loaded, setLoaded] = useState(false);
   const [error, setError] = useState(false);
   const [retry, setRetry] = useState(0);
+  const [recommendations, setRecommendations] = useState<RecommendationState>({ status: "loading" });
+  const [recommendationRetry, setRecommendationRetry] = useState(0);
 
   useEffect(() => {
     const controller = new AbortController();
@@ -36,6 +49,26 @@ export default function DashboardExperience({ userName, researchInterests, resea
       });
     return () => controller.abort();
   }, [retry]);
+
+  useEffect(() => {
+    const controller = new AbortController();
+    getRecommendedConferences(1, 6, controller.signal)
+      .then((response) => {
+        if (controller.signal.aborted) return;
+        setRecommendations(response
+          ? { status: "loaded", response }
+          : { status: "signed-out" });
+      })
+      .catch((caught: unknown) => {
+        if (controller.signal.aborted) return;
+        setRecommendations({
+          status: "error",
+          authenticationError: caught instanceof ApiRequestError
+            && (caught.status === 401 || caught.status === 403),
+        });
+      });
+    return () => controller.abort();
+  }, [recommendationRetry]);
 
   const today = new Date();
   const upcomingDeadlines = conferences
@@ -62,21 +95,123 @@ export default function DashboardExperience({ userName, researchInterests, resea
           <Link className="button-primary" href="/calendar">Open calendar</Link>
         </header>
 
-        {error ? (
+        <section className="dashboard-section dashboard-recommendations" aria-labelledby="recommendations-heading">
+          <header className="dashboard-section-heading">
+            <div>
+              <span className="eyebrow">Personalized discovery</span>
+              <h2 id="recommendations-heading">Recommended for You</h2>
+              <p className="dashboard-section-description">Based on your research interests</p>
+            </div>
+            {recommendations.status === "loaded" && recommendations.response.results.length > 0 && (
+              <span className="recommendation-count">
+                {recommendations.response.total} {recommendations.response.total === 1 ? "match" : "matches"}
+              </span>
+            )}
+          </header>
+          {recommendations.status === "loading" ? (
+            <ConferenceSkeleton className="recommendation-skeleton-grid" />
+          ) : recommendations.status === "signed-out" ? (
+            <div className="state-panel recommendation-state">
+              <h3>Sign in to see recommendations.</h3>
+              <p>Your recommendations are based on your selected research interests.</p>
+              <Link className="button-primary" href="/login">Sign in</Link>
+            </div>
+          ) : recommendations.status === "error" ? (
+            <div className="state-panel recommendation-state" role="alert">
+              <h3>{recommendations.authenticationError ? "Your session needs attention." : "Unable to load recommendations."}</h3>
+              <p>
+                {recommendations.authenticationError
+                  ? "Sign in again to view conferences matched to your research interests."
+                  : "Recommendations could not be loaded. Your other dashboard sections are still available."}
+              </p>
+              {recommendations.authenticationError ? (
+                <Link className="button-primary" href="/login">Sign in again</Link>
+              ) : (
+                <button
+                  className="button-primary"
+                  type="button"
+                  onClick={() => setRecommendationRetry((value) => value + 1)}
+                >
+                  Try again
+                </button>
+              )}
+            </div>
+          ) : !recommendations.response.personalization_configured ? (
+            <div className="state-panel recommendation-state">
+              <h3>Choose your research interests to get personalized conference recommendations.</h3>
+              <Link className="button-primary" href="/onboarding">Choose interests</Link>
+            </div>
+          ) : recommendations.response.results.length === 0 ? (
+            <div className="state-panel recommendation-state">
+              <h3>No current conferences match your selected interests.</h3>
+              <p>Explore all conferences or adjust your research interests to broaden your matches.</p>
+              <div className="recommendation-state-actions">
+                <Link className="button-primary" href="/explore">Explore conferences</Link>
+                <Link className="text-link" href="/onboarding">Edit interests</Link>
+              </div>
+            </div>
+          ) : (
+            <div className="conference-grid">
+              {recommendations.response.results.map((conference) => (
+                <ConferenceCard
+                  key={conference.id}
+                  conference={conference}
+                  recommendation={{
+                    matchPercentage: conference.match_percentage,
+                    matchedCategories: conference.matched_categories,
+                  }}
+                />
+              ))}
+            </div>
+          )}
+        </section>
+
+        {error && conferences.length === 0 ? (
           <div className="state-panel" role="alert">
-            <h2>Unable to load conferences.</h2>
-            <p>Check that the ConfCal API is running, then try again.</p>
+            <h2>We couldn’t load conference listings.</h2>
+            <p>Check your connection and try again. Your recommendations remain available above.</p>
             <button className="button-primary" type="button" onClick={() => setRetry((value) => value + 1)}>Retry</button>
           </div>
         ) : !loaded ? (
-          <div className="conference-grid" aria-busy="true"><div className="skeleton-card"><div className="skeleton-line medium" /><div className="skeleton-line large" /></div><div className="skeleton-card"><div className="skeleton-line medium" /><div className="skeleton-line large" /></div></div>
+          <section className="dashboard-loading" aria-label="Dashboard summaries loading" aria-busy="true">
+            <div className="dashboard-summary-skeletons">
+              {Array.from({ length: 3 }, (_, index) => (
+                <div className="dashboard-summary-skeleton" key={index}>
+                  <div className="skeleton-line short" />
+                  <div className="skeleton-line medium" />
+                </div>
+              ))}
+            </div>
+            <div className="dashboard-columns">
+              {Array.from({ length: 2 }, (_, index) => (
+                <div className="dashboard-list-skeleton" key={index}>
+                  <div className="skeleton-line medium" />
+                  {Array.from({ length: 3 }, (_, row) => (
+                    <div className="dashboard-list-row-skeleton" key={row}>
+                      <span />
+                      <div><span /><span /></div>
+                    </div>
+                  ))}
+                </div>
+              ))}
+            </div>
+          </section>
         ) : (
           <>
+            {error && (
+              <div className="inline-error" role="alert">
+                <strong>Conference listings couldn’t be refreshed.</strong>
+                <span>Your previously loaded dashboard information is still shown.</span>
+                <button className="text-link" type="button" onClick={() => setRetry((value) => value + 1)}>Try again</button>
+              </div>
+            )}
             <section className="dashboard-context" aria-label="Personalization status">
               <div>
                 <span className="field-label">Your research interests</span>
                 {researchInterestError ? (
                   <p>Unable to load your research interests.</p>
+                ) : researchInterests?.length === 0 ? (
+                  <p>No research interests selected yet.</p>
                 ) : (
                   <div className="dashboard-interest-tags">
                     {researchInterests?.map((category) => <span className="dashboard-interest-tag" key={category.id}>{category.display_name}</span>)}
@@ -124,7 +259,7 @@ export default function DashboardExperience({ userName, researchInterests, resea
 
         <section className="dashboard-section dashboard-discovery">
           <header className="dashboard-section-heading"><div><span className="eyebrow">Real IEEE listings</span><h2>Explore conferences</h2></div><Link className="text-link" href="/explore">All conferences</Link></header>
-          {loaded && !error && <div className="conference-grid">{conferences.slice(0, 4).map((conference) => <ConferenceCard key={conference.id} conference={conference} />)}</div>}
+          {loaded && conferences.length > 0 && <div className="conference-grid">{conferences.slice(0, 4).map((conference) => <ConferenceCard key={conference.id} conference={conference} />)}</div>}
         </section>
       </div>
     </main>

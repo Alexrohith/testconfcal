@@ -1,19 +1,31 @@
-import type { DeadlineStatus } from "@/src/types/api";
+import { getPaperDeadlineInfo, paperDeadlineLabel } from "@/src/lib/calendar";
 
 interface DeadlineBadgeProps {
-  status: DeadlineStatus;
+  paperDeadline: string | null;
   daysUntilDeadline: number | null;
 }
 
-export default function DeadlineBadge({ status, daysUntilDeadline }: DeadlineBadgeProps) {
-  const label = status === "passed"
-    ? "Deadline passed"
-    : status === "no_deadline"
-      ? "No paper deadline"
-      : daysUntilDeadline === 0
-        ? "Deadline today"
-        : `Deadline in ${daysUntilDeadline ?? "—"} ${daysUntilDeadline === 1 ? "day" : "days"}`;
-  const statusLabel = status === "urgent" ? "Urgent" : status === "upcoming" ? "Upcoming" : status === "passed" ? "Passed" : "No deadline";
+export default function DeadlineBadge({ paperDeadline, daysUntilDeadline }: DeadlineBadgeProps) {
+  const info = getPaperDeadlineInfo(paperDeadline, daysUntilDeadline);
+  const label = paperDeadlineLabel(info);
+  const statusLabel = info.classification === "passed"
+    ? "Passed"
+    : info.classification === "today"
+      ? "Today"
+      : info.classification === "1_to_7_days"
+        ? "Due soon"
+        : info.classification === "8_to_30_days"
+          ? "Upcoming"
+          : info.classification === "31_plus_days"
+            ? "Later"
+            : "No deadline";
+  const badgeClass = info.classification === "passed"
+    ? "passed"
+    : info.classification === "today" || info.classification === "1_to_7_days"
+      ? "urgent"
+      : info.classification === "no_deadline"
+        ? "no-deadline"
+        : "upcoming";
 
   return (
     <div className="deadline-panel">
@@ -21,7 +33,7 @@ export default function DeadlineBadge({ status, daysUntilDeadline }: DeadlineBad
         <span className="deadline-caption">Paper submission</span>
         <span className="deadline-text">{label}</span>
       </div>
-      <span className={`deadline-badge ${status.replace("_", "-")}`}>{statusLabel}</span>
+      <span className={`deadline-badge ${badgeClass}`}>{statusLabel}</span>
     </div>
   );
 }

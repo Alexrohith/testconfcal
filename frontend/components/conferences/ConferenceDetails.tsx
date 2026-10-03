@@ -1,30 +1,25 @@
 "use client";
 
 import Link from "next/link";
-import { differenceInCalendarDays, format, isValid, parseISO, startOfDay } from "date-fns";
+import { format } from "date-fns";
 import { useEffect, useState } from "react";
 import { getConference } from "@/src/lib/api";
-import { formatConferenceDateRange, getDeadlineUrgency } from "@/src/lib/calendar";
+import {
+  dateFromDateOnly,
+  formatConferenceDateRange,
+  getDeadlineUrgency,
+  getPaperDeadlineInfo,
+  paperDeadlineLabel,
+} from "@/src/lib/calendar";
 import SaveConferenceButton from "@/components/conferences/SaveConferenceButton";
+import DeadlineReminderControl from "@/components/conferences/DeadlineReminderControl";
+import ConferenceDetailsSkeleton from "@/components/conferences/ConferenceDetailsSkeleton";
 import type { ConferenceDetail } from "@/src/types/api";
 
 function displayDate(date: string | null): string {
   if (!date) return "Not listed";
-  const parsed = parseISO(date);
-  return isValid(parsed) ? format(parsed, "MMMM d, yyyy") : "Not listed";
-}
-
-function daysUntilDeadline(deadline: string | null): number | null {
-  if (!deadline) return null;
-  const parsed = parseISO(deadline);
-  return isValid(parsed) ? differenceInCalendarDays(parsed, startOfDay(new Date())) : null;
-}
-
-function deadlineLabel(days: number | null): string {
-  if (days === null) return "No paper deadline listed";
-  if (days < 0) return "Deadline passed";
-  if (days === 0) return "Due today";
-  return `${days} ${days === 1 ? "day" : "days"} remaining`;
+  const parsed = dateFromDateOnly(date);
+  return parsed ? format(parsed, "MMMM d, yyyy") : "Not listed";
 }
 
 function displayVenue(venue: string | null): string {
@@ -40,6 +35,7 @@ export default function ConferenceDetails({ id }: { id: string }) {
   const loading = loadedRequest !== requestKey;
   const error = failedRequest === requestKey;
   const venue = displayVenue(conference?.venue ?? null);
+  const deadlineInfo = conference ? getPaperDeadlineInfo(conference.paper_deadline) : null;
 
   useEffect(() => {
     const controller = new AbortController();
@@ -61,17 +57,34 @@ export default function ConferenceDetails({ id }: { id: string }) {
   return (
     <main className="page-main"><div className="content-width">
       <p><Link className="text-link" href="/explore">← Back to explore</Link></p>
-      {loading ? <div className="state-panel" aria-busy="true"><p>Loading conference details…</p></div> : error || !conference ? (
-        <div className="state-panel" role="alert"><h2>{error ? "Unable to load conference details." : "Conference not found."}</h2><p>{error ? "Check that the ConfCal API is running, then try again." : "This listing may no longer be available."}</p>{error && <button className="button-primary" type="button" onClick={() => setRetry((value) => value + 1)}>Try again</button>}</div>
+      {loading && !conference ? <ConferenceDetailsSkeleton /> : error && !conference ? (
+        <div className="state-panel" role="alert"><h2>We couldn’t load conference details.</h2><p>Check your connection, then try again. The conference may also have been removed.</p><button className="button-primary" type="button" onClick={() => setRetry((value) => value + 1)}>Try again</button></div>
+      ) : !conference ? (
+        <div className="state-panel"><h2>Conference not found.</h2><p>This listing may no longer be available.</p><Link className="button-secondary" href="/explore">Explore conferences</Link></div>
       ) : (
         <div className="detail-layout">
           <article>
+            {error && (
+              <div className="inline-error" role="alert">
+                <strong>Conference details couldn’t be refreshed.</strong>
+                <span>Your previously loaded information is still shown.</span>
+                <button className="text-link" type="button" onClick={() => setRetry((value) => value + 1)}>Try again</button>
+              </div>
+            )}
             <div className="eyebrow">Conference details</div><h1 className="detail-title">{conference.title}</h1>
-            <section className={`detail-deadline urgency-${getDeadlineUrgency(daysUntilDeadline(conference.paper_deadline))}`}>
+            <section
+              className={`detail-deadline urgency-${getDeadlineUrgency(deadlineInfo?.daysUntilDeadline ?? null)}`}
+              aria-label={`Paper submission deadline: ${deadlineInfo ? paperDeadlineLabel(deadlineInfo) : "Not available"}`}
+            >
               <span>Paper submission deadline</span>
               <strong>{displayDate(conference.paper_deadline)}</strong>
-              <span>{deadlineLabel(daysUntilDeadline(conference.paper_deadline))}</span>
+              <span>{deadlineInfo ? paperDeadlineLabel(deadlineInfo) : "No paper deadline listed"}</span>
             </section>
+            <DeadlineReminderControl
+              conferenceId={conference.id}
+              paperDeadline={conference.paper_deadline}
+              onRefreshConference={() => setRetry((value) => value + 1)}
+            />
             <div className="card-meta">{conference.categories.map((category) => <span className="category-chip" key={category.name}>{category.display_name}</span>)}</div>
             <div className="detail-actions"><SaveConferenceButton conferenceId={conference.id} title={conference.title} /></div>
             {conference.scope && <section className="detail-section"><h2>Scope</h2><p>{conference.scope}</p></section>}

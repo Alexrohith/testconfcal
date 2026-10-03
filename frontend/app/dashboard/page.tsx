@@ -24,8 +24,6 @@ export default async function DashboardPage() {
     return <DashboardExperience userName={profileName?.trim() ?? "Account"} researchInterests={null} researchInterestError />;
   }
 
-  if (interestRows.length === 0) redirect("/onboarding");
-
   let researchInterests: Category[] | null = null;
   let researchInterestError = false;
 
@@ -33,7 +31,7 @@ export default async function DashboardPage() {
     const { categories } = await getCategories();
     const selectedIds = new Set(interestRows.map((interest) => interest.category_id));
     researchInterests = categories.filter((category) => selectedIds.has(category.id));
-    researchInterestError = researchInterests.length === 0;
+    researchInterestError = interestRows.length > 0 && researchInterests.length === 0;
   } catch {
     researchInterestError = true;
   }
