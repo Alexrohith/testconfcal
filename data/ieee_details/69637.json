@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8aqNx440q7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69637,
+      "eventTitle": "TENCON 2026 - 2026 IEEE Region 10 Conference (TENCON)",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-13",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Region 10 - Asia and Pacific",
+      "keywords": "Artificial Intelligence,,Data Analytics,Big Data,Robotics and automation,Control and Instrumentation,Automation,Signal Processing,Image Recognition,Computational Intelligence,Network Systems,Cyber Security,Communications And Networking,Rfmillimeter Wave Circuits,Antennas,Propagation and Computational EM,Analog and Mixed Signals IC,Optical Communications,Sensors,Photonics,Power Transmission,Power Generations,Power Distribution,Internet Of Things,Gyroscopes And Microelectromechanical (mems) Sensor",
+      "scope": "TENCON 2026 is an IEEE Region 10 flagship conference. A broad array of scientific tracks will cover diverse topics of cutting-edge research and innovation in engineering, technology R&D, translational engineering research, technology transfer and entrepreneurship, humanitarian technology, and engineering education.",
+      "callForPapers": "2026-03-17",
+      "url": "tencon2026.ieee.id/",
+      "eventContact": "prasetiyono.hm@gmail.com",
+      "sponsorTypes": "2; 3",
+      "venues": "InterContinental Bali Resort by IHG, Uluwatu St No.45, Jimbaran, South Kuta, Badung Regency, Bali 80361, , , , BALI, , Indonesia, 80361, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

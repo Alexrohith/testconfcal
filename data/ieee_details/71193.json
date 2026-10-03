@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9Y6Vx440+b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71193,
+      "eventTitle": "2026 IEEE 10th All-Russian Microwave Conference (RMC)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Moscow",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "A.S. Popov Russian Scientific and Technical Society of Radio Engineering, Electronics and Communications; Russia Section; Russia Section AP Chapter; Russia Section ED/MTT/AES Joint Chapter; Scientific Council on the Propagation of Radio Waves at Russian Academy of Sciences; V.A.Kotelnikov Institute of Radio Engineering and Electronics of RAS​",
+      "keywords": "Propagation and scattering of electromagnetic waves,Antenna systems and transmission lines,Generators, amplifiers, receivers,New materials for electronics,Measuring systems,Low noise THz receivers,Microwave, MM waves and Terahertz technique,",
+      "scope": "The purpose of this conference is the exchange of experience and the latest achievements of scientists from Russia and abroad on topical microwave issues. The most relevant areas are the use of microwave, EHF, and terahertz ranges of electromagnetic waves in engineering, medicine, security systems and many other areas, as well as the development of materials with new properties for use in microwave technology. Substantial attention will be paid to the creation of an element base for advanced communication, radar and radio-vision systems based on the achievements of radio electronics, micro- and nanoelectronics.   Conference topics: - Propagation and scattering of electromagnetic waves - Antenna systems and transmission lines - Generators, amplifiers, receiving devices - Microwave and THz bands - New materials for electronics - Measuring systems, including medicine Radars and remote sensing - Radio communication - Signal Processing",
+      "callForPapers": "2026-10-01",
+      "url": "en.microwaveweek.ru/",
+      "eventContact": "valery@hitech.cplire.ru",
+      "sponsorTypes": "3; 5; 5; 9; 9; 9",
+      "venues": "Kotel'nikov Institute of Radio Engineering and Electronics RAS, Mokhovaya street 11, Building 7, , , , Moscow, , Russia, 125009, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

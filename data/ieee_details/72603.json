@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sd+Ax4406boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72603,
+      "eventTitle": "2026 International Conference on Future and Intelligent Communication and Networking (FICN)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-10",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Al Ain University ; Lone Star Section",
+      "keywords": "Intelligent Communication,Intelligent Networking,Intelligent Systems,Artificial Intelligence for Communication and Networking,",
+      "scope": "The International Conference on Future and Intelligent Communication and Networking (FICN 2026) invites researchers, academics, industry professionals, and practitioners to submit original and high-quality research papers addressing the latest advancements in communication systems and intelligent networking technologies. FICN 2026 aims to provide a global platform for sharing innovative ideas, emerging trends, and practical solutions in the fields of next-generation communication, artificial intelligence-driven networks, and smart connectivity systems. The conference will bring together experts from academia, industry, and government to foster collaboration and advance the state of the art in intelligent communication technologies. We invite the submission of original papers on all topics related to Intelligent Systems",
+      "callForPapers": "2026-08-10",
+      "url": "emergingtechnet.org/FICN2026/committee.php",
+      "eventContact": "helgala@albany.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn San Antonio, Riverwalk , , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +IaIx440iLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72891,
+      "eventTitle": "2027 International Conference on IT Innovation and Knowledge Discovery (ITIKD)",
+      "startDate": "2027-04-25",
+      "endDate": "2027-04-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Manama",
+        "region": "",
+        "country": "Bahrain"
+      },
+      "sponsors": "Ahlia University; Bahrain Section SIT Chapter",
+      "keywords": "Cyber Security, Computational and Artificial Intelligence, Cloud Computing, IT Innovation, Data Mining, Robotics, Computer Network, Knowledge Engineering, Implication of Technology,",
+      "scope": "it focuses on the recent development in IT in general and specifically AI",
+      "callForPapers": "2027-01-30",
+      "url": "ITIKD.com",
+      "eventContact": "wawad@ahlia.edu.bh",
+      "sponsorTypes": "5; 9",
+      "venues": "Gulf Hotel, Manama, Adlia, , , Manama, , Bahrain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

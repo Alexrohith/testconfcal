@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2uOZx440lbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73153,
+      "eventTitle": "2026 International Conference on Advances in Technology and Computing (ICATC)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-03",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Kelaniya",
+        "region": "",
+        "country": "Sri Lanka"
+      },
+      "sponsors": "Sri Lanka Section; Sri Lanka Section C Chapter; Sri Lanka Section CIS Chapter; Sri Lanka Section IES Chapter; Sri Lanka Section WIE Affinity Group; Sri Lanka Section YP Affinity Group; University of Kelaniya",
+      "keywords": "Automation and smart manufacturing,Robotics and autonomous system,Process development and optimisation,Sustainable systems and technologies,Environmental remediation technologies,Resources recovery and reclamation,Data science and engineering,Cyber security,Automation and smart manufacturing,Robotics and autonomous system,Process development and optimisation,Sustainable systems and technologies,Novel materials and product development,Environmental remediatAutomation and smart manufacturing,Robot",
+      "scope": "The conference intends to over broad scope of papers in the Technology and Computing disciplines",
+      "callForPapers": "2026-08-15",
+      "url": "icatc.kln.ac.lk/",
+      "eventContact": "madushac@kln.ac.lk",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5; 9",
+      "venues": "Faculty of Computing and Technology, University of Kelaniya, University Drive, Bulugaha Junction, , Kelaniya, , Sri Lanka, 11600, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

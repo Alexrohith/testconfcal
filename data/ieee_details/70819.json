@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4Iqsx440or0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70819,
+      "eventTitle": "2026 International Symposium on Intelligent Signal Processing and Communication Systems (ISPACS)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Busan",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Communications Society; KICS-The Korean Institute of Communications and Information Sciences",
+      "keywords": "Communication Systems,Signal Processing,Multimedia and Systems,Human Computer Interaction,Circuits and Systems,VLSI,",
+      "scope": "ISPACS is an international symposium focusing on the theory, design, and implementation of intelligent signal processing and communication systems. The conference provides a forum for researchers from academia and industry to present leading-edge work in core areas of signal processing and communications, as well as related fields including circuits and systems, VLSI, and human-computer interface. It emphasizes both fundamental research and practical applications in emerging intelligent technologies.",
+      "callForPapers": "2026-05-31",
+      "url": "",
+      "eventContact": "yhpark@deu.ac.kr",
+      "sponsorTypes": "1; 9",
+      "venues": "Park Hyatt, 51 Marine City 1-ro, Haeundae-gu, , , Busan, , Korea (South), 48120, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5Ziex440vr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69275,
+      "eventTitle": "2026 4th International Conference on Automation and Computation (AUTOCOM)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dehradun",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Graphic Era Hill University; Uttar Pradesh Section",
+      "keywords": "communication devices,signal processing,computer security,cyber security,communication networks,data science,big data,block chain,deep learning,intelligent systems,very large scale integration,Mimo Communication,microwave communication,RF Signal Propagation,Terahertz Communications,RFID Technologies,Smart Agriculture,Health Care,internet of things,cloud computing,Management system,Wireless Sensor Networks,sensor deployment,Audio Signal Processing,",
+      "scope": "AUTOCOM-26 envisions a dynamic platform for global researchers, industry professionals, and academicians to converge and exchange insights in the realms of Communication Devices, Signal Processing, Computer Security, Cybersecurity, Data Science, Big Data, Blockchain, Deep Learning, Intelligent Systems, VLSI, 5G, Channel Modeling, MIMO Communication Systems, Microwave Communication Devices, Terahertz Communication, RFID Technologies, Smart Agriculture, Healthcare, Internet of Things, Cloud Computing, Management Systems, WSN, Sensor Deployment, and the Metaverse. This collaborative forum aims to foster interdisciplinary discussions, propel technological advancements, and pave the way for innovative solutions addressing the multifaceted challenges of our interconnected world.",
+      "callForPapers": "",
+      "url": "autocom.org.in",
+      "eventContact": "agupta@gehu.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "GRAPHIC ERA HILL UNIVERSITY, Bell Road, Clement Town, , , Dehradun, , India, 248002, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

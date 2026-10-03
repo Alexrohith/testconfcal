@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9aaOx440wLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71863,
+      "eventTitle": "2026 International Conference on Emerging Trends in Engineering and Computing (ETECOM)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-27",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "ENSTA ParisTech; France Section",
+      "keywords": "Telecommunications,Computing & IT,Artificial Intelligence,Geographic Information Systems,Networking,Green Computing,Intelligent Transportation Systems,circuits and systems,Renewable Energy Systems,Engineering education,data analytics,,Electrical Engineering,computer science,,Computer Engineering,Computing & IT,Engineering - general,Cybersecurity,data science,EngineeriCyber Security,Civil Engineering,Mechanical Engineering,Industrial Engineering,Robotics,Digital Transformation,Engineering Educati",
+      "scope": "The 2026 International Conference on Emerging Trends in Engineering & Computing (ETECOM) is the second edition of the ETECOM conference series. IEEE ETECOM 2026 will be organized by ENSTA Paris, Polytechnic Institute of Paris, and technically co-sponsored by IEEE France Section. It will be hosted by the ENSTA Polytechnic Institute of Paris, France. This conference targets a broad and interdisciplinary audience, including researchers, practitioners, and educators interested in the latest advancements in artificial intelligence, data analytics, wireless communications, networking, cloud and edge computing, cyber-physical systems, security, green engineering & computing, GIS, intelligent transportation, smart grids, and engineering education.",
+      "callForPapers": "2026-08-26",
+      "url": "ieee-etecom.org/",
+      "eventContact": "ali.mansour@ensta.fr",
+      "sponsorTypes": "3; 9",
+      "venues": "ENSTA Paris, Polytechnic Institute of Paris, 828 Bd des Maréchaux, , , , Palaiseau, , France, 91120, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

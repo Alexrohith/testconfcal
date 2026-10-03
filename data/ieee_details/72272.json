@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tITpwY40laUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72272,
+      "eventTitle": "2026 Intelligent Technologies and Electronic Devices in Vehicle and Road Transport Complex (TIRVED)",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Engineering Profession; Fields, Waves and Electromagnetics; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Moscow",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "Institute of Radio and Information Systems Association (IRIS); Russia Section CAS Chapter; Russia Section TEM/GRS/ITSS Jt. Chapter",
+      "keywords": "Intelligent technologies,Machine learning,Robotic and big data systems,artificial intelligence,Electronic devices in vehicle and road transport complex,Technology and Engineering Management,Electrical and electronic engineering pedagogy,",
+      "scope": "For 84 years (held since 1942), MADI has been annually holding an international scientific-methodological and research conference “Intelligent technologies and electronic devices in vehicle and road transport complex”. During this period, the conference has become larger and more significant. MADI wants to allocate several sections and subsections to a higher level. These areas are: integrated automated control systems in the sectors of the transport and road complex; automation of production processes; organization and traffic safety.",
+      "callForPapers": "2026-09-18",
+      "url": "media-publisher.ru/en/about-tirved-2026/",
+      "eventContact": "ds@media-publisher.ru",
+      "sponsorTypes": "5; 5; 9",
+      "venues": "Moscow Automobile and Road Construction State Technical University (MADI), 64, Leningradsky prospect, , , , Moscow, , Russia, 125319, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

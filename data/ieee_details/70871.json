@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hM3pwY40xaIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70871,
+      "eventTitle": "2026 IEEE International Conference on Computer Applications, Control and Electronics (ICCACE)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Dalian",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chongqing University of Science and Technology; Harbin Section",
+      "keywords": "Machine Learning,Pattern Recognition,Computer Applications, System Modeling ,Simulation Optimization,Artificial Intelligence,Robotics,Software Engineering,Automation Control and Applications,Software Engineering,: Network, Communication Technology,",
+      "scope": "2026 IEEE International Conference on Computer Applications, Control and Electronics (ICCACE 2026) aims at providing a high-level platform for experts, scholars, innovators and practitioners to share novel research and ideas in the fields of computer applications, control and electronics. The conference plans to be held in Dalian, China, from December 11-13, 2026. ICCACE 2026 features Keynote Speeches from eminent professors all over the world and technical presentation from participants in different parts of world. All the program will cover a wide range of topics to cater to the needs of specific subject areas for researchers as well as faculty members.",
+      "callForPapers": "2026-08-31",
+      "url": "www.iccace.org/",
+      "eventContact": "iccace@126.com",
+      "sponsorTypes": "3; 9",
+      "venues": "InterContinental Dalian, 6, Youhao Square, Zhongshan District, , , , Dalian, , China, 116001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

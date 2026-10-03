@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zImMx440v74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71831,
+      "eventTitle": "2026 International Conference on Cyber Resilience and Endogenous Safety & Security (CRESS)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Purple Mountain Laboratories",
+      "keywords": "Fundamental Theories and Applications of Endogenous Security,Development Methods and Technologies for Network Resilience,Formal Modeling and Analysis of Cybersecurity,Memory-Safe Software Design Methods and Practices,Security of Cyber-Physical Systems,Security of Unmanned Systems,Artificial Intelligence Security,5G/6G Communication Security,Security of Intelligent and Connected Vehicles,",
+      "scope": "The 2026 IEEE International Conference on Cyber Resilience and Endogenous Saftey & Security (IEEE CRESS 2026) aims to bring together researchers, practitioners, and industry experts to discuss the latest advancements, challenges, and emerging trends in cyber resilience and endogenous saftey & security. As cyber threats become more sophisticated and pervasive,ensurin g the security, integrity, and resilience of digital systems has become a critical priority for governments, businesses, and academia. This conference provides a platform for exchanging cutting-edge research and practical solutions in areas such as cyber defense strategies, secure system design, threat intelligence, cryptographic innovations, and AI-driven security solutions. It seeks to explore novel methodologies that enhance the robustness of networks, critical infrastructures, and digital services against cyberattacks and disruptions.",
+      "callForPapers": "2026-10-31",
+      "url": "www.ieeecress.com/",
+      "eventContact": "liubo@pmlabs.com.cn",
+      "sponsorTypes": "3; 9",
+      "venues": "Purple Mountain Laboratories, No. 9, Mozhou East Road, Jiangning District, Nanjing, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

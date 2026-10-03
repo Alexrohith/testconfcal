@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jdCDx440hL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72013,
+      "eventTitle": "2026 IEEE Multi-conference on Natural and Engineering Sciences for Sahel's Sustainable Development (MNE3SD)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Koudougou",
+        "region": "",
+        "country": "Burkina Faso"
+      },
+      "sponsors": "Burkina Faso Subsection; Université Norbert ZONGO",
+      "keywords": "Adhoc Wireless Networks,Artificial Intelligence,Computing ,High Energy Physics Instrumentation ,Big Data,",
+      "scope": "Bringing together researchers and scientists to exchange experiences",
+      "callForPapers": "2026-07-31",
+      "url": "ieee-bf.org/",
+      "eventContact": "tallhamadoun@yahoo.fr",
+      "sponsorTypes": "5; 9",
+      "venues": "Université Norbert ZONGO, , , , , Koudougou, , Burkina Faso, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

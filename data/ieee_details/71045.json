@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ru2/wo407KkBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71045,
+      "eventTitle": "2026 IEEE 39th International System-on-Chip Conference (SOCC)",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-02",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Signal Processing and Analysis",
+      "location": {
+        "city": "Heidelberg",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "IEEE Circuits and Systems Society",
+      "keywords": "System on chip,Testing and verification,Memory technology,HWSW co-design,Network-on-chip,Mixed-signal Integrated Circuits,Design methodologies,HW Security,Artificial Intelligence,Machine Learning,Field Programmable Gate Array (FPGA),Digital Circuits,Cloud Computing,Mixed analog digital integrated circuits,Edge Computing,Multicore Architectures,Ai Accelerators,Low Power Design,Energy Harvesting,Neuromorphic Computing,Quantum Computing,Chiplets and Dielets,Data Encryption,Biomedical Electronics,Sy",
+      "scope": "System-on-Chip (SoC) and System-in-Package (SiP) devices, comprising digital, analog, optical, RF, and Micro-Electro-Mechanical Systems (MEMS) are foundations of ubiquitous embedded high-performance computing (HPC). Such systems will provide solutions in communication, entertainment, medical and smart mobility technologies. Recent advances in systems, packaging and process technologies are enabling the computation of hundreds of teraflops per chip and chiplet system integration unleashing the massive rise of AI-based edge devices, various accelerators, new products and applications. For more than 38 years the IEEE International System-on-Chip Conference (SOCC) has been a premier forum for sharing latest advancements in SoC architectures, systems, logic and circuit design, process technology, test, design tools, and application scenarios. We consequently continue this tradition with the 2026 conference in Heidelberg, Germany.",
+      "callForPapers": "2026-04-01",
+      "url": "www.ieee-socc.org",
+      "eventContact": "l.fong@qub.ac.uk",
+      "sponsorTypes": "1",
+      "venues": "New University Heidelberg, Universitätsplatz 6, , , , Heidelberg, , Germany, 69117 , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

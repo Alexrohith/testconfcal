@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nN2qx440osABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71582,
+      "eventTitle": "2026 IEEE CPMT Symposium Japan (ICSJ)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Kyoto",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Electronics Packaging Society; Tokyo/FK/HR/NG/SP/SN/SE/SK Jt Sec EP Chapter",
+      "keywords": "Electronics Packaging,Photonics,Advanced Packaging,Signal integrity,Power integrity,Power Electronics,Bioelectronics,Automotive Electronics,Packaging And Interconnections,",
+      "scope": "This symposium pictures the future state of the electronics packaging which impacts the infrastructures of B5G and 6G. This symposium also tries to predict where the packaging technology is heading. The symposium will emphasize the following main topics: Photonics, Advanced Packaging, Signal and power integrity, Power Electronics, Automotive Electronics, Interconnections and Bioelectronics to discuss about the technologies on Electronics Packaging for AI / Data center and its Utilization Technology.",
+      "callForPapers": "2026-05-29",
+      "url": "https://www.ieee-csj.org/",
+      "eventContact": "kazuyuki.nakagawa.pd@renesas.com",
+      "sponsorTypes": "1; 5",
+      "venues": "Ritsumeikan Suzaku Campus, 1 Nishinokyo-Suzaku-cho, Nakagyo-Ku, , , , Kyoto, , Japan, 604-8520, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

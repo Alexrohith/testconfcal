@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9+fmwY40naIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72961,
+      "eventTitle": "2026 19th International Congress on Image and Signal Processing, BioMedical Engineering and Informatics (CISP-BMEI)",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-02",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Geoscience; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Zhenjiang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Engineering Medicine and Biology Society; Jiangsu University",
+      "keywords": "Biomedical imaging,Biomedical communication,Biomedical signal,Pattern recognition,Remote sensing,image processing,signal processing,Biomedical Engineering,Biomedical informatics,Biomedical Electronics,Bioinspired Computing,Affective Computing,Computing & IT,Social Computing,Computer and machine vision,,Videos,Speech & language,AI ,machine learning,",
+      "scope": "CISP-BMEI is a premier international forum for scientists and researchers to present the state of the art of image and signal processing, biomedical engineering and informatics. Specific topics include Biomedical imaging and visualization, Biomedical signal processing and analysis, Image restoration, Pattern recognition, Remote sensing, filters, Signal modeling, etc.",
+      "callForPapers": "2026-06-20",
+      "url": "www.cisp-bmei.cn/",
+      "eventContact": "cisp-bmei@ecnu.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "School of Computer Science and Communication Engineering, Jiangsu University, 301 Xuefu Road, Jingkou District, , , Zhenjiang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

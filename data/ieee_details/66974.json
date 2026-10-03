@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4e7dwY4026EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66974,
+      "eventTitle": "2026 IEEE Information Theory Workshop (ITW)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Signal Processing and Analysis",
+      "location": {
+        "city": "Tempe",
+        "region": "Arizona",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Information Theory Society",
+      "keywords": "Information theory,machine learning,foundations of coding and computing,quantum information ,",
+      "scope": "TW 2026 will be putting a specific focus on the areas of Information theory in Machine Learning, Quantum information and coding, and Responsible, Reliable, and Trustworthy Artificial Intelligence.",
+      "callForPapers": "2026-05-04",
+      "url": "",
+      "eventContact": "cynthia.Moayedpardazi@asu.edu",
+      "sponsorTypes": "1",
+      "venues": "ASU Memorial Union, 301 E Orange St, , , , Tempe, AZ, USA, 85281, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 783owY40kqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69232,
+      "eventTitle": "2026 23rd European Radar Conference (EuRAD)",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "about": "Aerospace; Fields, Waves and Electromagnetics; Geoscience; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "London",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "European Microwave Association - EuMA; IEEE Aerospace and Electronic Systems Society; IEEE Antennas and Propagation Society; IEEE Microwave Theory and Technology Society",
+      "keywords": "Microwaves and millimeter waves,passive and active microwave systems and components,Electromagnetic field theory,Simulation and measurement,Antennas and propagation,Radar,Radar Applications,Artificial Intelligence,Machine learning,",
+      "scope": "The EuRAD is the major European event for the present status and the future trends in the field of radar research, technology, system design and applications. The conference is the ideal event to keep up to date with the latest achievements in the field of radar and to interact with international experts from industry and academia. The conference brings together researchers and radar developers from all over the world to stimulate development of new products and services. International experts will present keynote papers on topics of current importance and on the latest advances. Tailored short courses and workshops will complement the program.",
+      "callForPapers": "2026-03-27",
+      "url": "www.eumw.eu/conferences",
+      "eventContact": "stephen.harman@uk.thalesgroup.com",
+      "sponsorTypes": "1; 1; 1; 9",
+      "venues": "Excel London,  Royal Victoria Dock, 1 Western Gateway, , , London, , United Kingdom, E16 1XL, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

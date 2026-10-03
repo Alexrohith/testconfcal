@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wL2Dx4406roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72329,
+      "eventTitle": "2026 International Conference on Computer Engineering, Network and Intelligent Multimedia (CENIM)",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Banyuwangi",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section IE Chapter; Institut Teknologi Sepuluh Nopember",
+      "keywords": "Computational and artificial intelligence,Biomedical Engineering,Computer networks,Computer applications,Digital Signal Processing,Communications And Networking,",
+      "scope": "This conference highlights how artificial intelligence is shaping a global future through resilient networks, human‑centric technologies, smart health care, and sustainable multimedia. It brings together academia, industry, and policymakers to explore innovations that strengthen societies, improve well‑being, and support sustainable development.",
+      "callForPapers": "2026-04-01",
+      "url": "elib.its.ac.id/conf/cenim/",
+      "eventContact": "artakusuma@its.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "El Royale Hotel Banyuwangi, Jl. Raya Jember KM 7, Dadapan kabat, , , , Banyuwangi, , Indonesia, 68461, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

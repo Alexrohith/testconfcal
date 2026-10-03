@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /J2Tx4400rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70851,
+      "eventTitle": "2026 7th IFAC/INSTICC International Conference on Innovative Intelligent Industrial Production and Logistics (IFAC/INSTICC IN4PL)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-30",
+      "about": "General Topics for Engineers",
+      "location": {
+        "city": "Angers",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Industry Applications Society; Institute for Systems and Technologies of Information, Control  & Communication - INSTICC; International Federation of Automatic Control - IFAC",
+      "keywords": "Supply Chain and Logistics Engineering, Digital Business Ecosystems in Logistics, Supply Chain Resiliece, Generative AI in Supply Chain and Logistics, Production Planning, Scheduling and Control, Systems Modeling and Simulation, Knowledge Management in Industry, Digital Twins, Internet of Things and Services, Cloud-based Manufacturing Technologies,",
+      "scope": "This conference focuses on research and development involving innovative methods, software and hardware, whereby intelligent systems are applied to industrial production and logistics. This is currently related to the concept of industry 4.0&nbsp;- an expression reflecting the trend towards automation and data exchange in manufacturing technologies and processes which include cyber-physical systems, the industrial&nbsp;internet of things, industrial robotics, cloud computing, cognitive computing and artificial intelligence. These technologies can be applied to industrial manufacturing and management as well as to supply-chain or logistic problems, involving for example transportation management or the optimization of operations.",
+      "callForPapers": "2026-05-19",
+      "url": "in4pl.scitevents.org",
+      "eventContact": "in4pl.secretariat@insticc.org",
+      "sponsorTypes": "1; 9; 9",
+      "venues": ", , , , , Angers, , France, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

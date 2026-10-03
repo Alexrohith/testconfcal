@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yrfDwo40kqcBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72578,
+      "eventTitle": "2028 50th Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)",
+      "startDate": "2028-07-24",
+      "endDate": "2028-07-28",
+      "about": "Bioengineering",
+      "location": {
+        "city": "Florence (Tuscany)",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Engineering Medicine and Biology Society",
+      "keywords": "Biomedical engineering; healthcare technology; medical devices; biosignal processing; biomedical imaging; neural engineering; bioinformatics; wearable sensors; digital health; AI in medicine; machine learning; telemedicine; rehabilitation engineering; biomaterials; tissue engineering; robotics in healthcare; clinical engineering; physiological modeling; precision medicine; health informatics; e-health; patient monitoring; diagnostics; therapeutics,",
+      "scope": "The Conference Program will feature high-profile plenary and keynote speakers, complemented by a diverse range of workshops, mini-symposia, and scientific sessions. The technical program will include both oral and poster presentations. An exhibition hall will bring together industry leaders and academic institutions. Dedicated activities will also support students, young professionals, and Women in Engineering, fostering networking, collaboration, and professional development.",
+      "callForPapers": "",
+      "url": "embc.embs.org/2028",
+      "eventContact": "riccardo.barbieri@polimi.it",
+      "sponsorTypes": "1",
+      "venues": "Firenze Fiera - Congress & Exhibition Centre - Fortezza da Basso, Viale Filippo Strozzi, 1, 50129 Firenze FI, , , , Florence, , Italy, 50129, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

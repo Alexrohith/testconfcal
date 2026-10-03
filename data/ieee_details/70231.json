@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 16CYx440lL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70231,
+      "eventTitle": "2026 32nd International Conference on Mechatronics and Machine Vision in Practice (M2VIP)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Southeast University; Technische Universitat Darmstadt",
+      "keywords": "Mechatronics,Biomechatronics,Control,Robotics,Biosensors,Body sensor,Soft mechatronic system,Machine vision,Agriculture robot,Automation in construction,",
+      "scope": "Mechatronic design can result in products which are much simpler than their intricate and costly predecessors and can make commonplace the miracle of yesterday. Machine vision has emerged from the laboratory among other sophisticated sensors to find real applications in multimedia, and with ease of interfacing it offers a whole new field of low-cost vision-based mechatronic designing. In recent years, with new mechatronic concepts continuously introduced, such as wearable and soft mechatronics devices, there is a great demands of mechatronics education. And being the backstage hero, with the popularization of robotics and 3D printing, mechatronics research will become more and more active.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "wenhy@seu.edu.cn",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Southeast University, No. 2 Southeast University Road, Jiangning, , , , Nanjing, , China, 211189, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

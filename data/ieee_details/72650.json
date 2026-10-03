@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: npWRx4401LsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72650,
+      "eventTitle": "2026 19th International Conference on Control, Automation, Robotics and Vision (ICARCV)",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-17",
+      "about": "Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Halong Bay",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "IEEE Control Systems Society; Nanyang Technological University",
+      "keywords": "Robotics,Automation,Computer Vision,systems and control,Optimization,control applications,",
+      "scope": "The conference will feature technical sessions, plenaries and panel discussions on topics that are related to control, automation, robotics, and computer vision.",
+      "callForPapers": "2026-06-15",
+      "url": "www.carvs-icarcv.org/",
+      "eventContact": "rsu@ntu.edu.sg",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Halong Bay, , Vietnam, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

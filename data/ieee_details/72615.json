@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: r6vvwY40zKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72615,
+      "eventTitle": "2026 6th International Conference on Computer, Internet of Things and Control Engineering (CITCE)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Suzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xi'an Jiaotong-Liverpool University",
+      "keywords": "Machine Learning Algorithms and Applications,Deep Learning and Neural Network Design,Natural Language Processing and Understanding,Computer Vision and Image Recognition,IoT Architecture and System Design,Wireless Sensor Networks and Applications,IoT Data Security and Privacy Protection,Intelligent Control Theory and Algorithms,Automatic Control System Design,Industrial Control System and Automation,Complex System Control and Optimization,",
+      "scope": "CITCE 2026 will provide a professional academic platform for global researchers, engineers, and practitioners to share cutting-edge advances and discuss key technical challenges in computer science, IoT, and control engineering. The conference will cover core topics including machine learning algorithms and applications, deep learning and neural network design, natural language processing and understanding, computer vision and image recognition, IoT architecture and system design, wireless sensor networks, IoT data security and privacy protection, intelligent control theory, automatic control system design, industrial control automation, and complex system control and optimization. With keynote speeches, technical seminars, and academic exchanges, it will promote international academic cooperation, resolve practical technical issues, and advance the innovative development and industrial application of related technologies.",
+      "callForPapers": "2026-09-26",
+      "url": "www.citce.org/",
+      "eventContact": "lhu.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xi’an Jiaotong-Liverpool University, No. 111 Ren'ai Road, Dushu Lake Science and Education Innovation Zone, Industrial Park, Suzhou City, Jiangsu Province, China, , , , Suzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

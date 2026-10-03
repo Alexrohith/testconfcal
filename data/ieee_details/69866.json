@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5M6ex440wb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69866,
+      "eventTitle": "2027 IEEE Radio and Wireless Symposium (RWS)",
+      "startDate": "2027-01-17",
+      "endDate": "2027-01-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Tampa",
+        "region": "Florida",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society; IEEE Antennas and Propagation Society; IEEE Geoscience and Remote Sensing Society; IEEE Microwave Theory and Technology Society",
+      "keywords": "Radio ,wireless ,biomedical ,biomedical applications,wireless propogation modeling,wireless sensor networks,wireless sensors,digital signal processing,cognitive radio,internet of things,IoT ,MIMO ,Antennas ,Materials ,Satellite ,Satellite Commumications,Low earth orbit satellites ,Satellite systems ,Satellites ,power amplifiers ,microwave integrated circuits,RF Integrated Circuits ,Circuits ,Microwave Theory and Technology ,MTT ,RWS,RWW ,LEO Sat,",
+      "scope": "RWW2026 will be an international conference covering all aspects of radio and wireless. RWW2026's multidisciplinary events will bring together innovations that are happening across the broad wireless spectrum. RWS, this conference application, acts as the main conference for the entire RWW of events that includes the following conferences: PAWR, SiRF, WiSNet, and SHaRC (IEEE Topical Conference on RF/microwave Power Amplifiers, IEEE Topical Meeting on Silicon Monolithic Integrated Circuits in RF Systems, IEEE Topical Conference on Wireless Sensors and Sensor Networks, and IEEE Space Hardware and Radio, respectively). In addition to traditional podium presentations and poster sessions, tracks for IEEE Distinguished Lectures, Sunday half-day workshops, Monday panels, and a demo session are planned. A RWW plenary talk and parallel IoT Summit are also planned. Several student competitions are also planned.",
+      "callForPapers": "2026-07-24",
+      "url": "www.radiowirelessweek.org",
+      "eventContact": "elsie.vega@ieee.org",
+      "sponsorTypes": "1; 1; 1; 1",
+      "venues": "Grand Hyatt Tampa Bay, 2900 Bayport Dr, , , , Tampa, FL, USA, 33607, ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

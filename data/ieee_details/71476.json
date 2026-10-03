@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: q4HewY40xaQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71476,
+      "eventTitle": "2026 Intelligent Sensing and Autonomous Systems for Sustainable Future (ISASF)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "Amity University - Uttar Pradesh; New South Wales Section",
+      "keywords": "Sensing Technology,Intelligent Systems,Autonomous Systems,Machine Learning,Societal Impact,",
+      "scope": "The ISASR-2026 conference aims to bring together researchers, industry practitioners, and policy experts to explore state-of-the-art innovations in Internet of Things (IoT), Artificial Intelligence (AI), Machine Learning (ML), Advanced Sensor Networks, and Management of Intelligent Systems. The focus is on how these technologies converge to create sustainable, scalable, secure, and autonomous systems that address major societal and economic challenges. Aligned with emerging global technology priorities such as collaborative sensing, integrated sensing and communication, edge-AI ecosystems, and trustworthy AI systems, this conference highlights research with real-world societal impact.",
+      "callForPapers": "2026-07-30",
+      "url": "https://amity.edu/ISASF2026/",
+      "eventContact": "syed.abbas@mq.edu.au",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , , Australia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

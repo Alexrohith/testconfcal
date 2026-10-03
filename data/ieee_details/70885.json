@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 88iEx4408LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70885,
+      "eventTitle": "2027 International Conference on Emerging Technologies in Computer Science for Interdisciplinary Applications (ICETCS)",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "BMS College of Engineering; Bangalore Section; IEEE Student Branch B. M. Sreenivasalah College of Engineering",
+      "keywords": "4G mobile communication,Networking and Broadcast Technologies,Computing and Processing,Artificial Intelligence,Data Analytics,Quantum Computing,Internet of Things,",
+      "scope": "Computer Science",
+      "callForPapers": "2026-09-15",
+      "url": "icetcs.bmsce.in/",
+      "eventContact": "nareshkumar.e@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "B.M.S. College of Engineering, Bull Temple road, Basavanagudi, , , Bengaluru, , India, 560019, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

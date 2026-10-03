@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7/3Cwo40i6cBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72826,
+      "eventTitle": "2027 IEEE Region 10 Symposium (TENSYMP)",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-14",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Peradeniya",
+        "region": "",
+        "country": "Sri Lanka"
+      },
+      "sponsors": "Region 10 - Asia and Pacific; Sri Lanka Section",
+      "keywords": "Computing & IT,Data Engineering,software engineering,Artificial Intelligence,Machine Learning,Data Intelligence,Predictive Analytics,Intelligent Decision-Making,AI for Social Good,Resilient Systems,6G ,Future Networks,Internet of Things,Sensor Networks; Secure Communications; Cyber-Physical Systems, Intelligent Automation; Robotics; Smart Sensing; Real-Time Control; Sustainable Energy; Renewable Energy; Smart Grids; Environmental Monitoring; Climate Resilience; Cybersecurity; Privacy-Preserv",
+      "scope": "IEEE TENSYMP 2027 focuses on connected intelligence for resilient societies, bringing together research and innovation across AI, communication networks, IoT, cyber-physical systems, sustainable technologies, cybersecurity, health, society, policy, and education. The symposium provides a platform for researchers, industry professionals, policymakers, and students to present solutions that strengthen technological resilience, social impact, and regional development.",
+      "callForPapers": "2027-01-15",
+      "url": "https://tensymp27.ieee.lk/",
+      "eventContact": "upuljm@eng.pdn.ac.lk",
+      "sponsorTypes": "2; 3",
+      "venues": "University of Peradeniya, Faculty of Engineering, University of Peradeniya, Peradeniya, , Peradeniya, , Sri Lanka, 20400, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

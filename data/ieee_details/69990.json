@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uqCGx440jbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69990,
+      "eventTitle": "2026 Conference on Research in Computer Science and its Applications (CNRIA)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Theis",
+        "region": "",
+        "country": "Senegal"
+      },
+      "sponsors": "Association Sénégalaise des Chercheurs en Informatique; Burkina Faso Subsection; IEEE Africa Council; Senegal Subsection",
+      "keywords": "Databases and Information Systems,Data science & Artificial Intelligence,Knowledge discovery,Software engineering,Computer Networks and Security ,ICT Applications,",
+      "scope": "The Conference on Research in Computer Science and its Applications (CNRIA) is an international scientific conference that highlights new trends and advances in current topics in the field of computing and their applications for development. CNRIA is co-organized by the Senegalese Association of Researchers in Computer Science (ASCII) and the Ecole Polytechnique de Thiès (EPT). The main purpose of the CNRIA'26 conference is to serve as a forum for researchers from academia, ICT industry and development actors to discuss recent advances and cutting-edge topics in the field of computer science and its applications. This conference also serves as a forum for exchanging ideas, proposing solutions, discussing research challenges and sharing experiences between researchers, professionals and development actors. CNRIA'26 aims at promoting the popularization of contributions of the regional scientific community in new cutting-edge research topics such as AI, IoT, Big Data, Cloud Computing, etc",
+      "callForPapers": "2026-05-02",
+      "url": "www.cnria.org",
+      "eventContact": "igueye@ept.edu.sn",
+      "sponsorTypes": "4; 5; 5; 9",
+      "venues": "the École Polytechnique de Thiès (EPT)., , , , , , , Senegal, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

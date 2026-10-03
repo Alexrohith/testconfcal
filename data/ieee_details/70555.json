@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2YrbwY40tKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70555,
+      "eventTitle": "2027 International Conference on Emerging Materials, Measurement Technologies and Machine Intelligence (EM3I)",
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-30",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Geoscience; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guwahati",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gauhati University; Guwahati Subsection",
+      "keywords": "Emerging materials,Nanomaterials,Smart materials,Instrumentation and measurement,Sensors And Actuators,Machine intelligence,Artificial intelligence,Machine Learning,",
+      "scope": "The conference covers research and developments in emerging and advanced materials, innovative measurement and instrumentation technologies, and machine intelligence methods that enable next-generation engineering systems. The scope includes nanomaterials, functional materials, electronic and photonic devices, sensing and metrology techniques, data acquisition and signal processing, as well as AI/ML approaches for materials discovery, device optimisation and intelligent measurement. EM3I provides a platform for integrating materials science, instrumentation and computational intelligence to advance smart, efficient and adaptive technologies across scientific and industrial domains.",
+      "callForPapers": "2026-07-31",
+      "url": "em3i.in/",
+      "eventContact": "nairitb@gauhati.ac.in",
+      "sponsorTypes": "5; 9",
+      "venues": "Gauhati University, Gopinath Bardoloi Nagar, Jalukbari, , Assam, Guwahati, , India, 781014, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

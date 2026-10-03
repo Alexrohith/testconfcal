@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lMOOx440s7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71923,
+      "eventTitle": "2026 IEEE 32nd International Symposium for Design and Technology in Electronic Packaging (SIITME)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-31",
+      "about": "Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Targoviste",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Association for Promoting Electronic Technologies (APTE); Hungary/Romania Section EP/NANO Jt. Chapter",
+      "keywords": "Challenges in Digitalisation and Global Education for Electronics,Emerging Topics in Advanced Packaging,Components and Manufacturing Technologies,Printed Electronics,Smart Textiles,Sensors, Actuators and Microsystems,Nanomaterials,Nanoelectronics and Nanotechnology,Embedded Systems,Robotics and Artificial Intelligence,Power Electronics and Thermal Management,,Smart Grid and Renewable Energy,Corrosion in Electronic Systems,Component Reliability,Automatic Testing,",
+      "scope": "The Primary objective of the Conference is to provide an international forum for dissemination of information and scientific results relating to education, research and development activities. It is a tradition for all participants of the seminar to present paper(s) which are published in the proceedings. SIITME is a premier European forum for the exchange of information between senior and young scientists from academic communities and electronic industries on topics related to their experimental and theoretical work in the very wide field of electronics and microelectronics echnology and packaging. Based on a unique combination of oral and poster presentations as well as individual meetings, researchers can come together to discuss scientific problems and organize international cooperation in a convenient atmosphere during three conference days.",
+      "callForPapers": "2026-07-05",
+      "url": "siitme.ro/",
+      "eventContact": "bogdan.mihailescu@cetti.ro",
+      "sponsorTypes": "5; 9",
+      "venues": "Universitatea Valahia din Targoviste, Aleea Sinaia st., no. 13, , , , Targoviste, , Romania, 130004, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

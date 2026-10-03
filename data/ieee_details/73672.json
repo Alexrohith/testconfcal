@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8sewx4400L0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73672,
+      "eventTitle": "2027 Design, Automation & Test in Europe Conference (DATE)",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-24",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Dresden",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Design Automation  - ACM SIGDA; Electronic System Design Alliance (ESDA); European Design and Automation Association - EDAA; IEEE Computer Society; IEEE Council on Electronic Design Automation; IEEE Solid-State Circuits Society",
+      "keywords": "systems design,hardware software co-design,system testing,design for test,low-power electronics,system-level design,hardware design languages,embedded systems design,system verification,mixed analouge-digital integrated circuits,system security,Network-on-chip,digital design,system reliability,electronic design automation,computing architectures,emerging technologies,emerging memories,application of embedded systems,",
+      "scope": "The conference addresses all aspects of research into technologies for electronic and systems engineering. It covers the design process, test, and tools for design automation of electronic products, ranging from integrated circuits to distributed large-scale systems. This domain includes both hardware and embedded software design issues. The conference scope also includes the specification of design requirements and new architectures for challenging application fields such as sustainable computing, smart societies and digital wellness, secure systems, autonomous systems and smart industry, and state-of-the-art applications of artificial intelligence. Engineers, scientists, and researchers involved in innovative industrial designs are particularly encouraged to submit papers to foster feedback ranging from design to research aspects.",
+      "callForPapers": "2026-09-13",
+      "url": "www.date-conference.com/",
+      "eventContact": "date@kitdresden.de",
+      "sponsorTypes": "1; 1; 1; 9; 9; 9",
+      "venues": "ICD | International Congress Center Dresden, Ostra-Ufer 2, , , , Dresden, , Germany, 01067, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1/7bwY40uqQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73134,
+      "eventTitle": "2027 5th Cognitive Models and Artificial Intelligence Conference (AICCONF)",
+      "startDate": "2027-03-25",
+      "endDate": "2027-03-26",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dubai",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Tokat Gaziosmanpasa University",
+      "keywords": "Artificial Intelligence, Cognitive Systems, Machine Learning, Deep Learning, Brain Machine Interface, Intelligent Learning Systems,",
+      "scope": "Cognitive Models and Artificial Intelligence Conference aims to share and discuss theoretical and practical knowledge in a scientific framework by bringing together scientists, experts, educators, non-governmental organizations, and private sector representatives. The main topics of the conference; Track 1 — Artificial Intelligence and Machine Learning Track 2 — Cognitive Computing and Computational Intelligence Track 3 — Natural Language Processing and Speech Technologies Track 4 — Computer Vision and Image Processing Track 5 — Robotics, Autonomous Systems and Intelligent Control Track 6 — Data Science, Big Data and Intelligent Analytics Track 7 — Internet of Things, Embedded Systems and Smart Technologies Track 8 — Cybersecurity, Privacy and Trustworthy Systems Track 9 — AI Applications in Engineering, Healthcare and Education Track 10 — Human-Centered AI, Ethics and Future Technologies",
+      "callForPapers": "2026-12-20",
+      "url": "ai-conf.com/",
+      "eventContact": "turgutozseven@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "hotel, , , , , Dubai, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

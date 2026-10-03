@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4cntwY405KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73310,
+      "eventTitle": "2027 International Conference on Smart Energy, Mobility, and Intelligent Infrastructure (ICSEMI)",
+      "startDate": "2027-03-25",
+      "endDate": "2027-03-26",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Alappuzha",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Carmel College of Engineering and Technology, Alappuzha; Kerala Section",
+      "keywords": "Electric Vehicles, Power Electronics, and Energy Storage Systems ,Instrumentation for Energy and Mobility Systems ,Embedded Control Systems , Machine Learning,Communication, Networking,Intelligent control,Artificial intelligence,power system,data science,Electrical Engineering,Electric Motors,Drives,Electromagnetics,Flexible electronics,",
+      "scope": "The IEEE International Conference on Smart Energy, Mobility, and Intelligent Infrastructure (ICSEMI) serves as an interdisciplinary platform focused on developing sustainable and intelligent technological systems. It brings together researchers, academicians, industry professionals, and practitioners to address emerging challenges in future infrastructure and mobility. The conference emphasizes advancements in smart energy systems, including renewable integration, smart grids, energy storage, and efficient power management. It promotes research that enhances energy reliability, efficiency, and environmental sustainability.",
+      "callForPapers": "2026-12-11",
+      "url": "icsemii.carmelcet.in/",
+      "eventContact": "sreedivya@carmelcet.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Carmel College of Engineering and Technology, Punnapra, Alappuzha, Kerala, , Alappuzha, , India, 688004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sNztwY400qIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72457,
+      "eventTitle": "2027 IEEE 8th International Conference on Computing, Communication, and Automation (ICCCA)",
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Galgotias University; Uttar Pradesh Section",
+      "keywords": "Computing & IT Communication,Automation,Computer Security,Communication and Networking,Cyber Security,Artificial intelligence,Machine Learning,Cloud Computing,Internet of Things,Robotics and automation,Semiconductor devices,Power  Electronics,Electronics Communication,Digital Automation,Industry Application,Sustainable development,Emerging Technology,Blockchain Technology,",
+      "scope": "The scope includes Computer Science & Engineering, IT, Electrical, Electronics and Communication Engineering in general, AI and ML, Data Science, Big Data Analytics, Cloud Computing ,Edge Computing, HPC, Quantum Computing, (IoT),Cybersecurity, Blockchain technology ,Network Security, Distributed, Parallel Computing, Mobile Computing, HCI, Software Engineering, AR, VR, and Metaverse, Power, Smart Grids, , PE Drives , Smart Cities technology for Sustainable Development, Power ED, Sustainable Energy Systems, WSN, 6G,Network Protocols and Architectures, IP and Applications, Satellite Communication, Cognitive Radio and Software-Defined Networking, Emerging Communication Technologies, Social Networks and Multimedia Communication, Transmission, Distribution, IC,DC, Control Systems, Automation, Robotics, Embedded Systems, Signal, Image/Video Processing, Sensors, Circuits, Renewable Energy, Instrumentation and Measurement, Analog, Digital, RF ,Microwave, Antennas and Emerging Technologies.",
+      "callForPapers": "2026-11-30",
+      "url": "www.iccca.co.in/",
+      "eventContact": "aanjeymanit09@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Galgotias University, Plot No 2, Sector 17A , Yamuna Expressway, , , Greater Noida, , India, 203201, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

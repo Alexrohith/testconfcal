@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 86Otx440v8ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70531,
+      "eventTitle": "2027 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "startDate": "2027-06-06",
+      "endDate": "2027-06-09",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Bordeaux",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Circuits and Systems Society",
+      "keywords": "Circuits and Systems, Signal Processing, Beyond CMOS, Education in Circuits and Systems, Analog and Mixed-Signal Circuits and Systems, Digital Integrated Circuits and Systems, Communication Circuits and Systems, Power and Energy Circuits and Systems, Biomedical Circuits and Systems, Sensory Circuits and Systems, Neural Networks and Neuromorphic Engineering, Nonlinear Systems and Circuit Theory, Digital Signal Processing, Multimedia Systems and ApplicaCircuits and Systems,Signal Processing,Beyond",
+      "scope": "The IEEE International Symposium on Circuits and Systems (ISCAS) is the flagship conference of the IEEE Circuits and Systems (CAS) Society and the world’s leading forum for researchers in the fields of theory, design, and implementation of circuits and systems. ISCAS aims to bring together the multidisciplinary CAS community, which has a long history of cultivating innovative, proof-of-concept research in domains such as analog and digital circuits and systems, nanotechnology, sensors, nonlinear systems, biosystems, neural systems, signal processing, and communications.",
+      "callForPapers": "2026-10-15",
+      "url": "ieee-iscas.org/",
+      "eventContact": "marina.deng@ims-bordeaux.fr",
+      "sponsorTypes": "1",
+      "venues": "Palais des Congrès Bordeaux, Av. Jean Gabriel Domergue, , , , Bordeaux, , France, 33300, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

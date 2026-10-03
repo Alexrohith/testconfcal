@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8rGrx440jb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 63454,
+      "eventTitle": "2028 IEEE 44th International Conference on Electronics and Nanotechnology (ELNANO)",
+      "startDate": "2028-05-02",
+      "endDate": "2028-05-05",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Signal Processing and Analysis",
+      "location": {
+        "city": "Kyiv",
+        "region": "",
+        "country": "Ukraine"
+      },
+      "sponsors": "Igor Sikorsky Kyiv Polytechnic Institute; Ukraine Section; Ukraine Section (Kiev) ED/MTT/EP/COM/SSC Joint Chapter; Ukraine Section EMB Chapter; Ukraine Section NANO Chapter; Ukraine Section SP/AES Joint Chapter",
+      "keywords": "Nanoelectronics,Electron Devices,Signal Processing,Biomedical Engineering,",
+      "scope": "IEEE International Conference on Electronics and Nanotechnology (ELNANO) is a part of IEEE Kyiv Polytechnic Week and one of major scientific event for IEEE community of the Igor Sikorsky Kyiv Polytechnic Institute. IEEE ELNANO focused on Micro- and Nanotechnologies, Biomedical Engineering, Electron Devices and Signal Processing.",
+      "callForPapers": "2027-12-12",
+      "url": "elnano.ieee.org.ua/",
+      "eventContact": "secretary@ieee.org.ua",
+      "sponsorTypes": "3; 5; 5; 5; 5; 9",
+      "venues": "Scientific and Technical Library of the Igor Sikorsky Kyiv Polytechnic Institute, 37 Beresteysʹkyy (Peremohy) Avenue, , , , Kyiv, , Ukraine, 03056, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1JDgwY40/qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71284,
+      "eventTitle": "2026 Information and Communication Technologies for Disaster Management (ICT-DM)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Dubai",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "IEEE Communications Society; Zayed University",
+      "keywords": "ICT, Disaster Management, Mobile Communication,5G 6G,Networks and Security, IoT, Artificial Intelligence, Machine Learning, Intelligent Transportation,",
+      "scope": "ICT-DM'2026 aims to bring together academics and practitioners who are involved in emergency services, ad hoc planning, disaster recovery, etc., to learn about the latest research developments, share experiences and information about this area and develop recommendations.",
+      "callForPapers": "2026-05-07",
+      "url": "ict-dm.inria.fr/",
+      "eventContact": "fatma.outay@zu.ac.ae",
+      "sponsorTypes": "1; 9",
+      "venues": "Convention Center, Zayed University, Academic City, , , , Dubai, , United Arab Emirates, 19282, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

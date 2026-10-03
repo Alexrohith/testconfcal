@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: qP+ox440gb0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73773,
+      "eventTitle": "2027 9th International Conference on Finance, Economics, Management and IT Business (FEMIB)",
+      "startDate": "2027-04-21",
+      "endDate": "2027-04-22",
+      "about": "General Topics for Engineers",
+      "location": {
+        "city": "Rome",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Systems and Technologies of Information, Control  & Communication - INSTICC",
+      "keywords": "Money, Credit and Banking, Stock, Currency and Bonds, Financial Modeling, Financial Analysis, Financial Statistics, Risk, Corporate Finance and/or Future Markets , Accounting Practices New Trends for Accounting and Finance, Digitalization of Finance (Blockchain AI...), Macroeconomics,",
+      "scope": "We live in a fast-paced and interconnected world, in which different focuses in businesses are related and dependent on each other. Four emerging areas of business: Finance, Economics, Management and IT Business (FEMIB) are essential for each country, organization, society and individual as follows. Finance is important to the individual, corporate and national wealth, profits and long-term future. Economics can help us understand how the past and current status of the regional, national and global financial performance. Management allows organizations, governments, decision-makers to make their projects and services more structured, efficient, productive and competitive. IT business stands for new trends of development, opportunities and innovation. We believe that only doing well in these four areas, this can ensure each organization, decision-maker, investor, government and country to achieve long-term success and collaboration.",
+      "callForPapers": "2026-11-17",
+      "url": "femib.scitevents.org/",
+      "eventContact": "femib.secretariat@insticc.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Precise House Mantegna Roma, Vía Andrea Mantegna, , , , , Rome, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

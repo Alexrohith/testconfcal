@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: saunx4406LwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70301,
+      "eventTitle": "2026 7th IEICE-CS International Conference on Emerging Technologies for Communications (ICETCCOM)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Photonics and Electrooptics",
+      "location": {
+        "city": "Taipei",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "IEICE Communications Society; Taipei Section",
+      "keywords": "Communications,Communication networks,Computer networks,Power Transmission,Sensing,",
+      "scope": "As the flagship conference of the IEICE Communications Society, ICETC has continuously provided a vital platform for exchanging ideas and fostering collaboration since its inception in 2020. With a strong tradition of promoting cutting-edge research, ICETC 2026 will explore key technological advancements that will shape the future of global connectivity. The world is rapidly approaching a new era where telecommunication technologies will serve as the foundation of society, much like a lifeline that supports our daily lives and industries. As we step into the 2030s, we are witnessing a paradigm shift driven by, but not limited to, AI integration, AI Cloud and Edge Computing, Non-Terrestrial Networks (NTN), All-Photonics Networks (APN), and next-generation Radio Access Networks (RAN), etc. These transformative technologies will redefine communication infrastructure, enabling intelligent, resilient, and ultra-efficient networks.",
+      "callForPapers": "",
+      "url": "www.ieice.org/cs/icetc/2026",
+      "eventContact": "saneyasu@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "NTUH International Convention Center, No. 2, Xuzhou Rd, Zhongzheng District 100, , , Taipei, , Taiwan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

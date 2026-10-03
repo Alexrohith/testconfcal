@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: osH3xo40sr0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70765,
+      "eventTitle": "2026 IEEE International Conference on Cognitive Computing and Complex Data (ICCD)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Jiaotong University - BJTU; Beijing Section; Guangxi Association for Artificial Intelligence",
+      "keywords": "Large Model Technology,,Optimization and Application,Image Processing and Pattern Recognition, Big Data and Knowledge Graph,Cyber Security and Analysis,Robotic Technology and Embodied Intelligenc,",
+      "scope": "The 2026 IEEE International Conference on Computing and Complex Data (IEEE ICCD-2026) provides an excellent opportunity to engage in dialogues, present new ideas and share and exchange technologies and applications in multiple areas of Artificial Intelligence, Information Technology, Internet of Things, Cyber Security and Big Data. We welcome all professionals, engineers, academics, business pioneers, and industrial players worldwide to participate in this annual academic and research event. The IEEE ICCD-2026 is the premier venue for novel cognitive computing approaches including algorithms, languages system, software system, network architectures, new devices and circuits, and applications. This is an interdisciplinary conference with participation from a broad technical community, emphasizing all aspects of the computing stack.",
+      "callForPapers": "2026-08-31",
+      "url": "www.icc-cs.cn",
+      "eventContact": "linjianchu_13@126.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Beijing Jiongtong University, Beijing Jiaotong University No.3 Shangyuancun, Haidian District, Beijing, , , , Beijing, , China, 100044, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

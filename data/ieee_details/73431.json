@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3o+Dx440+LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73431,
+      "eventTitle": "2026 15th International Conference On Software Process Improvement (CIMPS)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "San Jose",
+        "region": "",
+        "country": "Costa Rica"
+      },
+      "sponsors": "CIMAT Unidad Zacatecas; Costa Rica Section; Guadalajara Section; IEMI: Colegio de Ingeniería Electricistas, Mecánicos e Industriales",
+      "keywords": "Software Engineering,Computer science,Artificial intelligence,Computer aided software engineering,software process,",
+      "scope": "The CIMPS'26 is a global conference for researchers and practitioners that present and discuss the most recent innovations, trends, results, experiences and concerns in the several perspectives of Software Engineering with clear relationship but not limited to software processes, Security in Information and Communication Technology, artificial intelligence among others. CIMPS allows to: 1) Promote the collaboration among academic, government and business community. 2) Inspire students and researchers interested in Software Engineering and related themes with important and high quality speakers, and 3) Contribute with the development of IT in the world.",
+      "callForPapers": "2026-07-23",
+      "url": "cimps.org/",
+      "eventContact": "fernanda.brenes@cfia.cr",
+      "sponsorTypes": "3; 3; 9; 9",
+      "venues": "CIEMI - Colegio de Ingenieros Electricistas, Mecánicos e Industriales, , , , , San José, , Costa Rica, 2346-1000 , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

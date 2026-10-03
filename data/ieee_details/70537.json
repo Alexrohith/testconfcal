@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kZH+xo403LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70537,
+      "eventTitle": "2026 9th International Conference on Recent Trends in Advanced Computing (ICRTAC)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-11",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; School of Computer Science and Engineering, Vellore Institute of Technology, Chennai",
+      "keywords": "Artificial intelligence,Quantum computing,Cloud computing,Edge AI,High Performance computation,Data Science,Digital Twinning,Artificial Intelligence,Deep Learning,",
+      "scope": "The 9th International Conference on Recent Trends in Advanced Computing, themed ‘Transforming Sustainability through Computing: Automated Solutions for Global SDG Challenges’, focuses on how advanced computing can support the United Nations Sustainable Development Goals. It highlights automated, intelligent and data‑driven solutions for global issues such as poverty, climate change, sustainable cities and resilient infrastructure. Key areas include AI/ML, blockchain, 5G/6G, drones, quantum computing, AR/VR, digital twins, smart cities, fog/edge computing, cybersecurity, Industry 4.0 and Robotic Process Automation. The conference offers a platform for researchers, practitioners and educators to present innovations, share best practices and design computing‑based systems that accelerate progress toward a sustainable and equitable future.",
+      "callForPapers": "2026-08-15",
+      "url": "www.icrtac.org/",
+      "eventContact": "saranyaraj.d@vit.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Vellore Institute of Technology, Chennai, Vandalur Kelambakkam Road,, , , , Chennai, , India, 600127, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

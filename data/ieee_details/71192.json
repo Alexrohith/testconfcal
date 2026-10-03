@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8uOtx440uL0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71192,
+      "eventTitle": "2026 Immersive and 3D Audio: from Architecture to Automotive (I3DA)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "about": "Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "VENICE",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "Consorzio Futuro in Ricerca (CFR); Italy Section EMC Chapter; Italy Section IM Chapter; Italy Section MAG Chapter",
+      "keywords": "Immersive Audio,Immersive Video,3D Acoustics, Heritage,Virtual reality,architectural acoustics,digital signal processing,",
+      "scope": "3DA 2026 will again focus on innovation in 3D immersive audio, including virtual acoustics, architectural and musical acoustics, subjective evaluations and listening tests, immersive soundscape design, and creative uses of immersive technologies. Furthermore, I3DA 2026 will be a special edition, that will include visual and interactive aspects of immersive media, such as related computer graphics, LIDAR scans, photogrammetry, immersive world building, digital archaeology, 3D visualization, and hardware and software applications across both fields. The aim is to open new possibilities for collaboration, networking, and deeper understanding between complementary sensory domains in immersive media.",
+      "callForPapers": "2026-04-30",
+      "url": "www.i3da2026.org",
+      "eventContact": "lamberto.tronchin@unibo.it",
+      "sponsorTypes": "5; 5; 5; 9",
+      "venues": "Fondazione Ugo e Olga Levi, San Marco 2893, , , , Venice, , Italy, 30124, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

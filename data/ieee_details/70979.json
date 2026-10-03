@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1daYx440jbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70979,
+      "eventTitle": "2027 American Control Conference (ACC)",
+      "startDate": "2027-07-06",
+      "endDate": "2027-07-09",
+      "about": "Aerospace; Bioengineering; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Philadelphia",
+        "region": "Pennsylvania",
+        "country": "USA"
+      },
+      "sponsors": "American Automatic Control Council; IEEE Control Systems Society",
+      "keywords": "Feedback Control, Automatic Control, Estimation, Robotics, Mechatronics, Learning, Networked Control Systems,",
+      "scope": "The American Control Conference (ACC) is an annual 3-day meeting that brings together an international community of researchers and practitioners in all areas related to the engineering and science of control systems.",
+      "callForPapers": "2026-09-25",
+      "url": "acc2027.a2c2.org/",
+      "eventContact": "JWang@austin.utexas.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Philadelphia Marriott Dowtown Hotel, 1201 Market Street, , , , Philadelphia, PA, USA, 19107, ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

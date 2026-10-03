@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 592rx440qcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65296,
+      "eventTitle": "2026 IEEE 21st International Conference on Computer Science and Information Technologies (CSIT)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-17",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Lviv",
+        "region": "",
+        "country": "Ukraine"
+      },
+      "sponsors": "Lviv Polytechnic National University - LPNU; Ukraine Section; Ukraine Section IM/CIS Joint Chapter; Ukraine Section SP AP C EMC COM Kharkiv Joint Chapter",
+      "keywords": "Computational Intelligence,Computer Science,Education,Technology and Engineering Management,",
+      "scope": "IEEE International Conference on Computer Science and Information Technologies (CSIT) is a part of IEEE Lviv Polytechnic Week and one of major scientific event for IEEE community of the Lviv Polytechnic National University. IEEE CSIT focused on Computational Intelligence, Computer Science, Education and Technology and Engineering Management.",
+      "callForPapers": "2026-07-12",
+      "url": "csit.ieee.org.ua/",
+      "eventContact": "secretary@ieee.org.ua",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Lviv Polytechnic National University, Stepana Bandery St, , , , Lviv, , Ukraine, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

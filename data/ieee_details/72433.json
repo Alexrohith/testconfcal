@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2JiVx44077sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72433,
+      "eventTitle": "2027 IEEE International Conference on Control, Automation, and Instrumentation (IC2AI)",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-19",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Byblos",
+        "region": "",
+        "country": "Lebanon"
+      },
+      "sponsors": "IEEE Control Systems Society; IEEE Instrumentation and Measurement Society; IEEE Robotics and Automation Society; Lebanese American University; Lebanon Section; Lebanon Section RA/IM/CS Chapter",
+      "keywords": "Robotics, Instrumentation and Measurement, Control Systems,",
+      "scope": "The conference covers a wide spectrum of topics including but not limited to control systems theory, industrial automation, robotics, mechatronics, sensors and actuators, instrumentation, artificial intelligence, machine learning in control, and the Internet of Things.",
+      "callForPapers": "2026-10-15",
+      "url": "www.ic2ai.org",
+      "eventContact": "royabdaou@hotmail.com",
+      "sponsorTypes": "1; 1; 1; 3; 5; 9",
+      "venues": "Lebanese American University, , , , , Byblos, , Lebanon, 1401, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

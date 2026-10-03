@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1ISix440wrwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73259,
+      "eventTitle": "2026 International Symposium on Fundamentals of Electrical Engineering (ISFEE)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bucharest",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Alumni ELTH Association; Romania Section CAS/CS Joint Chapter; The Association of Romanian Electrical & Electronics Engineers",
+      "keywords": "Circuit theory,Electromagnetic field theory,Circuit analysis and synthesis,Electromagnetic field analysis,Circuit design,Inverse problems,Technical magnetism,Coupled problems,Electrical machines and drives,Electromagnetic compatibility,Sensors and transducers,Power electronics,Power engineering,Bioengineering,Sensors and transducers,Data processing,Materials in electrical engineering,Education and management,Renewable energy,Informatics and applied mathematics,",
+      "scope": "ISFEE is the forum that stimulates active and effective exchange of information between researchers in various areas of theoretical and applied electrical engineering. Its aim is to bring together researchers and faculty members interested in: Circuit theory, Electromagnetic field theory, Circuit analysis and synthesis, Electromagnetic field analysis, Circuit design, Inverse problems, Technical magnetism, Coupled problems, Electrical machines and drives, Electromagnetic compatibility, Sensors and transducers, Power electronics, Power engineering, Bioengineering and other interdisciplinary areas.",
+      "callForPapers": "2026-09-14",
+      "url": "http://isfee.elth.pub.ro/isfee2026",
+      "eventContact": "mm@elth.pub.ro",
+      "sponsorTypes": "5; 9; 9",
+      "venues": "National University of Science and Technology POLITEHNICA Bucharest, Spl. Independentei 313,, Sector 6, Bucharest, ROMANIA, , , Bucharest, , Romania, RO-060042, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

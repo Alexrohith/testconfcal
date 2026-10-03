@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: h9rswY40tKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73043,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Cyber Physical Systems (AICPS)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-15",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Oran",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Algeria Section C Chapter; Algeria Section SYS Chapter; ENSO",
+      "keywords": "IoT,Sensors;,AI,Machine Learning,Next-Generation Communications,Connectivity,Digital Services,Networking,Big Data,Cybersecurity,Privacy Solutions Blockchain,Distributed Ledger Technologies,Architectures;,Cloud Integration,Sensing Technologies,IoT Applications,Innovative Circuits, Intelligent Robotics,Autonomous Systems,Cognitive Computing,Robotics;,",
+      "scope": "• IoT Ecosystem: From Devices to Edge and Cloud Integration • Advanced Sensors and Sensing Technologies • Innovative Circuits and Systems for AI and IoT Applications • Next-Generation Communications, Connectivity, and Networking • Big Data, Data Engineering, and Advanced Analytics • Artificial Intelligence, Machine Learning, and Cognitive Computing • Blockchain and Distributed Ledger Technologies • Design Automation in the Era of AI IoT: From Silicon to Systems • Cybersecurity and Privacy Solutions • Intelligent Robotics and Autonomous Systems • Emerging Applications, Processes, and Digital Services • Advanced Computer Architectures and Embedded System and • Bioinformatics • Quantum Computing • Decision Support System •E-Health • Education • Energetic and Energy Transition",
+      "callForPapers": "2026-09-20",
+      "url": "www.univ-mascara.dz/aicps2026/",
+      "eventContact": "cherifa.boudia@univ-mascara.dz",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "University of Oran1, ENSO, 2 Avenue des Martyres, Saint Hubert, Oran, , , , Oran, , Algeria, 31000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

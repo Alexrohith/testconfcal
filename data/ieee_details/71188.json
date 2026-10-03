@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hJDswY40r6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71188,
+      "eventTitle": "2026 IEEE 2nd International Conference on Smart Power Control and Renewable Energy (ICSPCRE)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Rourkela",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Industry Applications Society; IEEE Power & Energy Society; Kolkata Section; Kolkata Section IA/PE Rourkela Jt. Chapter; National Inst of Tech-Rourkela STB; National Institute of Technology Rourkela; Rourkela Subsection",
+      "keywords": "Modern power systems and Smart Grid, Advanced power electronics converters and Electric Vehicles, Renewable energy source and Microgrid, Signal processing and communication technology towards Smart Power, Artificial Intelligence and Machine Learning applications in Power Systems,",
+      "scope": "The main scopes of the Conference are:                Smart Grid Architectures & Control Energy Storage Technologies & Management Renewable Energy Integration Power Electronics and Machine Drives AI & Data-Driven Power System Solutions Electric Vehicles & Charging Infrastructure Communication & Cyber-Physical Systems",
+      "callForPapers": "2026-08-01",
+      "url": "icspcre.org/",
+      "eventContact": "ghosha@nitrkl.ac.in",
+      "sponsorTypes": "1; 1; 1; 3; 5; 5; 5; 9",
+      "venues": "Department of Electrical Engineering, National Institute of Technology Rourkela , , , , Rourkela, , India, 769008, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

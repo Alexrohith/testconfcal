@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hcmux440t70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73143,
+      "eventTitle": "2026 17th International Conference on Electrical and Electronics Engineering (ELECO)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Bursa",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "The Chamber of Turkish Electrical Engineers-Bursa Section; Turkiye Section; Turkiye Section CAS Chapter; Turkiye Section PE Chapter; Turkiye Section PEL Chapter",
+      "keywords": "Electrical Engineering,Electronics Engineering,Biomedical Engineering,Power Systems,Power Electronics,Electrical Machines,High Voltage Engineering,Renewable Energy Systems,Smart Grids,Control Systems,Automation,Robotics,Signal Processing,Image Processing,Communication Systems,Antennas and Propagation,Electromagnetics,Machine Learning,Artificial Intelligence,",
+      "scope": "ELECO 2026 focuses on electrical, electronics, and biomedical engineering, including power and energy systems, electrical machines and drives, power electronics, high-voltage technologies, electronics, communication systems, signal and image processing, control, robotics, sensors, biomedical electronics, artificial intelligence, and related emerging technologies.",
+      "callForPapers": "2026-09-11",
+      "url": "www.eleco.org.tr/",
+      "eventContact": "oguzhan.ceylan@khas.edu.tr",
+      "sponsorTypes": "3; 5; 5; 5; 9",
+      "venues": "BAOB-Campus of Union of Academic Chambers of Bursa , Odunluk Mah. Akademi Street, 8, Nilufer, 16130, , , , Bursa, , Turkiye, 16130, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

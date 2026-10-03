@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 5,Rid: 2KWJx440kLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71888,
+      "eventTitle": "2026 IEEE International Symposium on Emerging Metaverse (ISEMV)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-24",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pyla",
+        "region": "",
+        "country": "Cyprus"
+      },
+      "sponsors": "Future Directions Committee",
+      "keywords": "metaverse,intelligent reality,mixed reality,extended reality,Spatial Audio,spatial computing,artificial intelligence,Immersive Experience,computer vision,generative AI,industrial metaverse,",
+      "scope": "This conference aims at identifying challenges and opportunities in the convergence of the real and digital worlds, and seeks innovative research and advances in supporting the Metaverse ecosystem.",
+      "callForPapers": "2026-05-17",
+      "url": "https://ieee-isemv.org/",
+      "eventContact": "sinkuen.hawkins@ieee.org",
+      "sponsorTypes": "6",
+      "venues": "Univ of Central Lancashire, Cyprus, University Ave 12-14, , , , Pyla, , Cyprus, 7080, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

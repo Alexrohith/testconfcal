@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rbOkx4407r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71927,
+      "eventTitle": "2026 45th International Conference of the Chilean Computer Science Society (SCCC)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Talca",
+        "region": "",
+        "country": "Chile"
+      },
+      "sponsors": "Chile Sur Section; Chilean Computer Science Society; Universidad de Talca",
+      "keywords": "Information technologies,computer sciences,artificial inteligence,software engineering,Hardware,multimedia,simulation,",
+      "scope": "The International Conference of the Chilean Computer Science Society (SCCC) is pleased to invite the academic and professional community to participate in the Chilean Computer Science Days (JCC) 2026. This event provides a platform for the presentation of research work, exchange of ideas, and strengthening of collaboration in the field of computing in Chile and internationally. The SCCC conference serves as a forum for presenting recent, original work that has not been previously published in all areas of Computer Science.",
+      "callForPapers": "2026-05-18",
+      "url": "jcc2026.utalca.cl/",
+      "eventContact": "jose.delsolar@utalca.cl",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Universidad de Talca, campus Lircay, Avda. Lircay S/N, , , , Talca, , Chile, 346000, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

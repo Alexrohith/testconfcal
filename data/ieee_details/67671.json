@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mNWBx440+b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67671,
+      "eventTitle": "MILCOM 2027 - 2027 IEEE Military Communications Conference",
+      "startDate": "2027-10-18",
+      "endDate": "2027-10-22",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Cyber Security,Cyber Warfare,Military communication,Military satellites,Military Computing,Trusted Computing,Signal Processing,Artificial Intelligence,Learning (artificial Intelligence),Big Data,Networking,Internet of Thing,Wave Form,",
+      "scope": "Now in its 45th year MILCOM attracts decision-makers from government, military, academia, and industry. The conference gathers military and government communications subject matter experts from around the globe to conduct in-depth discussions about the latest in technology advancements. MILCOM is an ideal forum for industry to demonstrate the application of these technologies an to promote products and services that provide reliable solutions to today's mission-critical challenges.",
+      "callForPapers": "2027-05-17",
+      "url": "milcom2027.milcom.org/",
+      "eventContact": "e.gaerlan@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "Marriott Rivercenter on the River Walk , 10 Bowie , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

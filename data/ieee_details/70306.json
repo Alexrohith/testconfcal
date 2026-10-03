@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hu2ux440vr0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70306,
+      "eventTitle": "2026 IEEE Asian Solid-State Circuits Conference (A-SSCC)",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Taichung",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "IEEE Solid-State Circuits Society",
+      "keywords": "Analog Circuits & Systems,,Data Converters,Digital Circuits & Systems,SoC & Signal Processing Systems,Wireless,Wireline,Emerging Technologies and Applications,Memory,Field Programmable Gate Array (FPGA),Industry Program,Demonstration Program,Special Programs,",
+      "scope": "The 2026 IEEE Asian Solid-State Circuits Conference (A-SSCC) is an international forum for presenting the most updated and advanced chips and circuit designs in solid-state and semiconductor fields. The conference is supported by the IEEE Solid-State Circuits Society and will be held in Asia. Further details on the conference and paper submission guidelines and templates will be available at the A-SSCC official website https://www.a-sscc2026.org around the beginning of April 2026.",
+      "callForPapers": "2026-06-03",
+      "url": "www.a-sscc2026.org/",
+      "eventContact": "pobsadue@poetry-life.com",
+      "sponsorTypes": "1",
+      "venues": "The Lin Hotel, No.99, Chaofu Rd., Xitun Dist.,, , , , Taichung, , Taiwan, 407024, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

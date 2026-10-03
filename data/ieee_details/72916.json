@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: tqP6xo40tboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72916,
+      "eventTitle": "2026 6th International Symposium on Artificial Intelligence and Intelligent Manufacturing (AIIM)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Guangzhou University",
+      "keywords": "Artificial Intelligence and Intelligent Systems,Computer Vision, Robotics and Automation,Industrial IoT and Digital Twin Technology,Smart Manufacturing and Data Driven Applications,",
+      "scope": "AIIM 2026 provides an international forum for researchers, academics, and industry professionals to present and discuss recent advances in artificial intelligence and intelligent manufacturing. The conference focuses on theories, technologies, and applications related to machine learning, deep learning, computer vision, intelligent automation, industrial robotics, smart manufacturing systems, digital twin technology, and industrial Internet of Things. AIIM 2026 aims to encourage academic exchange and interdisciplinary collaboration while promoting innovative solutions for intelligent production, industrial automation, and emerging manufacturing technologies in the era of digital transformation.",
+      "callForPapers": "2026-09-12",
+      "url": "www.isaiim.com/",
+      "eventContact": "aiim-pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Guangzhou University, No. 230, Outer Ring West Road, University City, Panyu District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, 510006, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

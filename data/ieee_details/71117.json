@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nYPnwY40nqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71117,
+      "eventTitle": "2028 IEEE 24th International Conference on Automation Science and Engineering (CASE)",
+      "startDate": "2028-08-13",
+      "endDate": "2028-08-17",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Chicago",
+        "region": "Illinois",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Machine Learning in Industrial Automation,Internet Of Things, Industry 5.0,Modeling and Prediction of Human Operation ,Digital Twin,Advances in Machine Vision-Based Automation,Human-robot Collaborative Manufacturing ,Automation in Workforce Development and Training ,In-space Manufacturing,Smart Manufacturing,Cloud Manufacturing,",
+      "scope": "The IEEE International Conference on Automation Science and Engineering (CASE) is the flagship automation conference of the IEEE Robotics and Automation Society (RAS) and constitutes the primary forum for cross-industry and multidisciplinary research in automation. Its goal is to provide broad coverage and dissemination of foundational research in automation among researchers and practitioners.",
+      "callForPapers": "2028-03-01",
+      "url": "2028.ieeecase.org",
+      "eventContact": "hdarabi@uic.edu",
+      "sponsorTypes": "1",
+      "venues": "University of Illinois Chicago (UIC), 1200 W Harrison St, , , , Chicago, IL, USA, 60607, ;",
+      "region": "Region04-Central USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

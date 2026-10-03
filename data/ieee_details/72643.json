@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wtPdwY40w6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72643,
+      "eventTitle": "2027 3rd International Conference on Advanced Computing and Emerging Technologies (ACET)",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Ghaziabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Ajay Kumar Garg Engineering College; Uttar Pradesh Section",
+      "keywords": "Machine Learning and Deep Learning,Generative AI,Artificial Intelligence,ACET,High Performance Computing,Quantum Computing,",
+      "scope": "ADVANCED COMPUTING & EMERGING TECHNOLOGIES",
+      "callForPapers": "2026-10-31",
+      "url": "acet.akgec.ac.in/home",
+      "eventContact": "chaudharyanu@akgec.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Ajay Kumar Garg Engineering College, Department of Computer Science & Engineering, 27th Km Milestone, Delhi-Meerut Expressway, P.O. Adhyatmik Nagar, Ghaziabad, , India, 201015, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

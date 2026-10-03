@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s92Wx4408LsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72895,
+      "eventTitle": "2027 5th International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)",
+      "startDate": "2027-01-07",
+      "endDate": "2027-01-08",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dhaka",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "American International University - Bangladesh; Bangladesh Section",
+      "keywords": "ICREST,AIUB ICREST,IEEE Bangladesh,International Conference ,American International University-Bangladesh,",
+      "scope": "Bioengineering, Communication, Circuits, Devices & Systems, Computing & Processing (Hardware/Software), Engineering Profession, Electromagnetics , Photonics & Electro-Optics, Power, Energy, Industry Applications, Artificial Intelligence (AI), Machine Learning (ML), Robotics & Control Systems, Signal Processing & Analysis",
+      "callForPapers": "2026-09-30",
+      "url": "https://aiubicrest.com/",
+      "eventContact": "chowdhury.akram@aiub.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "American International University-Bangladesh, 408/1 Kuril, Kuratoli, , , , Dhaka, , Bangladesh, 1229, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

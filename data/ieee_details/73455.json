@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 69jIxo40sLgBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73455,
+      "eventTitle": "2027 International Conference on Advancement in Renewable Energy and Intelligent Systems (AREIS)",
+      "startDate": "2027-05-06",
+      "endDate": "2027-05-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Thrissur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Jyothi Engineering College, Cheruthuruthy; Kerala Section",
+      "keywords": "Renewable Energy Systems,Sustainable Energy Technologies,Artificial Intelligence,Machine Learning,Intelligent Systems,Internet of Things (IoT),Smart Sensors,Robotics,Intelligent Automation ,Signal Processing ,Image Processing ,Computer Vision ,Deep Learning ,Data Analytics ,Edge Computing ,Smart Grid Technologies ,Digital Twin Technologies,Intelligent Control Systems ,",
+      "scope": "The IEEE International Conference on Advances in Renewable Energy and Intelligent Systems (AREIS 2027) provides a premier forum for researchers, academicians, and industry professionals to present advances in renewable energy and intelligent systems. The conference focuses on integrating renewable energy technologies with artificial intelligence, machine learning, IoT, robotics, automation, and signal and image processing to develop efficient, reliable, and sustainable energy solutions. It highlights intelligent monitoring, predictive analytics, optimization, and smart control of solar, wind, hybrid energy systems, energy storage, electric mobility, and smart grids. AREIS 2027 fosters interdisciplinary collaboration to accelerate research, innovation, and technology transfer for resilient, sustainable, and intelligent energy infrastructures.",
+      "callForPapers": "2027-01-29",
+      "url": "areis.jeccac.in/",
+      "eventContact": "jeroever2000@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Jyothi Engineering College, Jyothi Hills, Panjal Rd, Vettikattiri, Cheruthuruthy, Thrissur, , India, 679531, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vYCOx440yL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71757,
+      "eventTitle": "2026 IEEE 11th International Conference on Integrated Circuits, Design, and Verification (ICDV)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hanoi",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Le Quy Don Technical University; Vietnam Section; Vietnam Section CAS Chapter; Vietnam Section SSC Chapter",
+      "keywords": "Integrated Circuit,VLSI Design,System Verification and Validation,Internet Of Things,Artificial Intelligence,Edge AI devices,Field Programmable Gate Array (FPGA),Hardware security,RF integrated circuits,Analog and mixed-signal circuits,Memory design,Signal processing,Multicore System-on-chip,Circuit technologies,Embedded systems,Reconfigurable architectures,Rebooting computing,",
+      "scope": "The International Conference on Integrated Circuits, Design, and Verification (ICDV) provides aforum for exchanging ideas, discussing research results, and presenting chips, circuit designs and applications in solid-state and semiconductor fields.",
+      "callForPapers": "2026-05-14",
+      "url": "icdv-conf.org",
+      "eventContact": "dinhnq@lqdtu.edu.vn",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Le Quy Don Technical University, 236 Hoang Quoc Viet Street, , , , Hanoi, , Vietnam, 100000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

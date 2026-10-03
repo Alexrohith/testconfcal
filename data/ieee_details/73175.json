@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kJX5xo40rLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73175,
+      "eventTitle": "2026 6th International Symposium on Artificial Intelligence and Big Data (AIBDF)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; University of Electronic Science and Technology of China",
+      "keywords": "Artificial Intelligence,Big Data Analytics,Pattern Recognition,Computational Intelligence,Intelligent Control Systems,Human-Machine Systems,",
+      "scope": "The 2026 6th International Conference on Artificial Intelligence and Big Data (AIBDF 2026) focuses on advancing research and applications in artificial intelligence, big data analytics, and intelligent information systems. The conference explores key areas including machine learning, pattern recognition, natural language processing, computer vision, and computational intelligence, with emphasis on their integration into modern data-driven systems. It also covers intelligent control systems, human-machine interaction, decision support systems, and scalable high-performance computing infrastructures for big data processing. AIBDF 2026 aims to provide a platform for academics, researchers, and industry practitioners to exchange innovative methodologies, algorithms, and practical solutions that address complex challenges in AI-enabled analytics, intelligent systems, and real-world big data applications.",
+      "callForPapers": "2026-10-10",
+      "url": "www.aibdf.org/",
+      "eventContact": "jafcosta.pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "No. 2006 Xiyuan Avenue, High tech Zone (West District), Chengdu, Sichuan Province, China, , , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

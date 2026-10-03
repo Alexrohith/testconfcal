@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9+Ckx44017wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71355,
+      "eventTitle": "2026 IEEE 17th International Conference on Cloud Computing Technology and Science (CloudCom)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Architecture, Storage and Virtualization,Cloud Services and Applications,Security, Privacy and Trust,Cloud and Edge Computing and Mobile Communications,IoT and Distributed Cloud,AI for Cloud Computing,Large Models and Distributed Cloud,Agentic AI for Cloud,CloudEdge Computing for E-health,CloudEdge Computing for Telecoms,CloudEdge Computing for Energy,CloudEdge Computing for Food Supply Chain,CloudEdge Computing for Transport,CloudEdge Computing for Water Supply Chain,CloudEdge Computing for E-G",
+      "scope": "The IEEE International Conference on Cloud Computing Technology and Science (CloudCom) is a premier forum for researchers, practitioners, and industry experts to exchange and share their experiences, research results, and novel ideas on all aspects of cloud computing. CloudCom brings together leading researchers and practitioners working on cloud computing technologies, architectures, applications, and services. Since its inception, CloudCom has been held annually in cities around the world, bringing together hundreds of researchers and practitioners from academia and industry to discuss the latest advances in cloud computing.",
+      "callForPapers": "2026-06-29",
+      "url": "cloudcom2026.montimage.eu/",
+      "eventContact": "wissam.mallouli@montimage.eu",
+      "sponsorTypes": "1",
+      "venues": "ibis Paris Alésia Montparnasse 14ème, 49 Rue des Plantes, , , , Paris, , France, 75014, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

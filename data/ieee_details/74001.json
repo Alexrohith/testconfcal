@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iZvZwY401qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74001,
+      "eventTitle": "2027 3rd International Conference on Advanced Machine Learning and Data Science (AMLDS)",
+      "startDate": "2027-07-16",
+      "endDate": "2027-07-19",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Aizuwakamatsu",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Chongqing University of Posts and Telecommunications; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Machine Learning,Machine Intelligence,Data Science,Brain Machine Interface,Deep Learning,Database Machines,Machine Control,Machine intelligence,Man-machine Systems,Big Data Applications,Data Analysis,Data Intelligence,",
+      "scope": "The conference calls for high-quality, original research papers in the theory and practice of machine learning and data science, including machine learning foundations, deep learning and data engineering, machine learning and data engineering and the their Applications. The conference also solicits proposals focusing on frontier research, new ideas and paradigms in these areas.",
+      "callForPapers": "2027-02-10",
+      "url": "amlds.site/index.html",
+      "eventContact": "chelsea@asfee.org",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Aizu, , , , , Aizuwakamatsu, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

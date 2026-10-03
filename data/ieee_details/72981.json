@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1MWex440t7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72981,
+      "eventTitle": "2026 8th International Academic Exchange Conference on Science and Technology Innovation (IAECST)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; South China University of Technology",
+      "keywords": "Information and computer technologies,AI and computational intelligence,Big data analysis,Software engineering,Mobile & wireless networks,Internet of Things,Optical networking and applications,Cybersecurity and privacy,Mobile robot,Automatic control systems,Digital signal processing,Microelectronics,Intelligent power systems,Renewable energy utilizations,Power electronics,Smart city,Autonomous driving,Intelligent transportation systems,",
+      "scope": "IAECST 2026 will keep follow the theme of “bringing together global wisdom to promote high-quality development”. It will bring together international experts for high-level academic exchanges and technical cooperation, focusing on interdisciplinary innovation across diverse fields. The conference will cover information and computer technologies, artificial intelligence, big data, software engineering, mobile and wireless networks, the Internet of Things, optical networking, cybersecurity, automatic control, mobile robots, digital signal processing, and microelectronics. It will also encompass power electronics, intelligent power systems, renewable energy, smart cities, intelligent transportation, and autonomous driving. As a leading global platform, the event will present cutting-edge research, advance industry-university-research collaboration, drive technological innovation and the commercialization of achievements, and fuel the high-quality development of academia and industry.",
+      "callForPapers": "2026-10-03",
+      "url": "www.iaecst.com/",
+      "eventContact": "mohan.l.k@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "South China University of Technology, No. 381 Wushan Road, Tianhe District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

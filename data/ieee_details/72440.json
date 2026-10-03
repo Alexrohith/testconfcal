@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uOPswY40y6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72440,
+      "eventTitle": "2026 4th International Conference on Smart Systems for applications in Electrical Sciences (ICSSES)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Tumakuru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section PHO Chapter; Siddaganga Inst Of Tech WIE SBA; Siddaganga Inst of Tech C SBC; Siddaganga Inst of Tech CAS SBC; Siddaganga Inst of Tech EMB SBC; Siddaganga Inst of Tech PHO/COM/SEN SBC; Siddaganga Institute of Technology",
+      "keywords": "Wireless Communication Systems,Artificial Intelligence & Machine Learning,Secure Communication & CybersecuritySignal Processing,Internet of Things & Industry 4.0,Autonomous Vehicles & Robotics,Power Systems Control & Electric Vehicles,mart Sensors & Process Automation,VLSI Design & Embedded Systems,",
+      "scope": "The conference focuses on advanced research and innovations in electrical sciences and smart systems, bringing together areas from electronics, computing, and intelligent technologies.",
+      "callForPapers": "2026-08-27",
+      "url": "icsses.sit.ac.in/",
+      "eventContact": "satisharyan@gmail.com",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5; 5; 9",
+      "venues": "Department of Electronics And Teleceommunication Engineering, Siddaganga institute of technology,, Sri Sri Shivakumara swamiji Road, (B H Road), Tumakuru, Tumakuru, , India, 572103, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

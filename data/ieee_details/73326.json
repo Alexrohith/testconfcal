@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jobqwY40yKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73326,
+      "eventTitle": "2027 7th International Conference on Advanced Research in Computing (ICARC)",
+      "startDate": "2027-02-16",
+      "endDate": "2027-02-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Belihuloya",
+        "region": "",
+        "country": "Sri Lanka"
+      },
+      "sponsors": "Sabaragamuwa University of Sri Lanka; Sri Lanka Section; Sri Lanka Section C Chapter; Sri Lanka Section COM Chapter; Sri Lanka Section GRS Chapter; Sri Lanka Section IA Chapter; Sri Lanka Section SP Chapter",
+      "keywords": "Cloud Computing,computer science,information systems,information Technology,Software Engineering,Knowledge Engineering,Artifiicial Intelligence,Machine Learning,Natural Language Processing ,Internet of things,Computer Networks ,data science,",
+      "scope": "### Scope  The conference provides an international forum for researchers, academics, industry professionals, practitioners, and students to exchange knowledge, present original research, and discuss emerging trends, challenges, and innovations in advanced computing. It promotes interdisciplinary collaboration by bringing together diverse perspectives from academia, industry, government, and research organizations to address current and future technological challenges.  The conference provides an international forum for researchers, academics, industry professionals, and practitioners to present and discuss the latest advances, innovations, and applications in computing. It welcomes original research spanning theoretical and applied aspects of computing while fostering interdisciplinary collaboration, knowledge exchange, and partnerships between academia, industry, and research institutions.",
+      "callForPapers": "2026-11-25",
+      "url": "/icarc.lk/",
+      "eventContact": "anupama@foc.sab.ac.lk",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5; 9",
+      "venues": "Faculty of Computing, Sabaragamuwa University of Sri Lanka, , , , Belihuloya, , Sri Lanka, 70140, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

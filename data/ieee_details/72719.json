@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ufaux440wL0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72719,
+      "eventTitle": "2026 9th International Conference on Measurement Instrumentation and Electronics (ICMIE)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Components, Circuits, Devices and Systems; Robotics and Control Systems",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University",
+      "keywords": "Advanced Sensing Technologies and Theories,ent and Instrumentation Engineering,Electronic Measurement, Testing, and Fault Diagnosis,Industrial Automation, Control, and Intelligent Instrumentation,Biomedical Measurement and Medical Electronics,Signal & Image Processing and Data Analytics,Emerging Measurement Technologies and Interdisciplinary Applications ,",
+      "scope": "ICMIE 2026 focuses on Measurement, Instrumentation and Electronics (MIE), a key engineering discipline covering the design, development and application of advanced measurement, sensing and control systems. The conference scope includes theoretical innovations, technical advances and industrial applications of high-precision, intelligent, integrated and miniaturized instruments in healthcare, aerospace, automotive, telecommunications and other sectors. It provides a global academic platform for presenting latest achievements, discussing emerging trends and addressing technical challenges in measurement science, instrumentation engineering and electronic technologies.",
+      "callForPapers": "2026-07-05",
+      "url": "www.icmie.org/index.html",
+      "eventContact": "xiaoyatouzz@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University, China, , , , , Huangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

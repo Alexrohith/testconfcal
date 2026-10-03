@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: o5PewY408KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72884,
+      "eventTitle": "2026 International Conference on Artificial Intelligence, Business Intelligence and E-Commerce (AIBIEC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jiaxing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University of Finance and Economics",
+      "keywords": "Artificial Intelligence,Business Intelligence,E-Commerce,Machine Learning,Predictive Analytics,",
+      "scope": "AIBIEC 2026 focuses on the latest advances and interdisciplinary applications of artificial intelligence, business intelligence, and e-commerce, with particular emphasis on machine learning, predictive analytics, intelligent decision-making, and digital commerce technologies.",
+      "callForPapers": "2026-09-18",
+      "url": "www.icaibiec.com/",
+      "eventContact": "icaibiec@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University of Finance and Economics Dongfang College, No. 2 Yangshan Road, Jiaxing City, Zhejiang, China, , , , Jiaxing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

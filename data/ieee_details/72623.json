@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nIuAx4405boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72623,
+      "eventTitle": "2026 8th International Conference on Control Systems, Mathematical Modeling, Automation and Energy Efficiency (SUMMA)",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Lipetsk",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Industry Applications Society; Lipetsk State Technical Univ STB; Lipetsk State Technical University",
+      "keywords": "Control Systems,IEEE,Mathematical Modeling,Automation,Energy Efficiency,Artificial Intelligence,",
+      "scope": "SUMMA2026 program includes topics of interest that consist of, but are not limited to: I. Industrial Applied Mathematics and Artificial Intelligence Mathematical Foundations of Control Theory; Control of Organizational and Socio-Economic Systems; Machine Learning and Artificial Intelligence II. Automation Industrial Automation and Control Theory applying to Technological Processes; Digitalization in Industrial, Economic and Social Systems; Metals and Mining Industry; Transportation Systems III. Industrial and Commercial Power and Power Conversion Systems Energy Systems and Power Systems Engineering: Electric Machines and Industrial Drives; Power Electronic Devices and Components",
+      "callForPapers": "2026-08-31",
+      "url": "summa.stu.lipetsk.ru/",
+      "eventContact": "avgalkin82@mail.ru",
+      "sponsorTypes": "1; 1; 5; 9",
+      "venues": "Lipetsk State Technical University, Moskovskaya str., 30, , , , Lipetsk, , Russia, 398055, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

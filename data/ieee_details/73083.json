@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lIDdwY401aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73083,
+      "eventTitle": "2026 7th International Conference on Information Science and Education (ICISE-IE)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Nanfang College, Guangzhou",
+      "keywords": "Artificial Intelligence in Education,Recommender Systems in E-Learning,Human-Computer Interaction for Learning Environments,Machine Learning for Personalized Learning,",
+      "scope": "ICISE-IE 2026 will address the technical and engineering foundations of intelligent education systems. Topics include artificial intelligence and machine learning algorithms for adaptive learning, big data infrastructures and analytics for educational decision-making, learning analytics models for student performance prediction and intervention, online education platforms and scalable cloud-based architectures, as well as educational technology innovations such as virtual reality, augmented reality, and IoT-enabled smart classrooms. The conference emphasizes rigorous computational methods, system design, data-driven evaluation, and reproducible experimental studies. ICISE-IE 2026 aims to push the boundaries of the state of the art by fostering innovative research and interdisciplinary collaboration at the intersection of information science and education.",
+      "callForPapers": "2026-10-10",
+      "url": "www.icise-ie.org/",
+      "eventContact": "mq.wu.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Ramada Guangzhou Triumph Hotel, No.9, Mingyue Road, Guangzhou Avenue, Yuexiu District, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2fuix4404r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72671,
+      "eventTitle": "2028 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+      "startDate": "2028-02-22",
+      "endDate": "2028-02-25",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Software Engineering, Software Refactoring,Software Analysis,Software Evolution,Software Reengineering,",
+      "scope": "Software Analysis, Evolution and Reengineering",
+      "callForPapers": "2027-10-14",
+      "url": "conf.researchr.org/home/saner-2028",
+      "eventContact": "chakkrit@monash.edu",
+      "sponsorTypes": "1",
+      "venues": "Royal Orchid Sheraton Riverside Hotel Bangkok, 2 Charoen Krung 30, Bang Rak, , , , Bangkok, , Thailand, 10500, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

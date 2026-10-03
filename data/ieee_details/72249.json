@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2baax440i7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72249,
+      "eventTitle": "2027 International Conference on Reasoning AI in Future Communication Systems (ICRFCS)",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Dr. Ambedkar Institute of Technology, Bengaluru; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Cybersecurity and Intelligence,Robotics and Autonomous Systems,Next-Generation Communication  Networks,Healthcare  Systems and Analysis,Human-AI Interaction,Reasoning AI (RAI),Edge Computing,Internet of Things (IoT),",
+      "scope": "The International Conference on Reasoning AI in Future Communication Systems (ICRFCS 2027) aims to explore and present the integration of reasoning-driven Artificial Intelligence (AI) technologies with next-generation communication systems. ICRFCS 2027 focuses on presenting the role of AI reasoning (deductive, inductive, abductive, analogical and fuzzy) in enabling intelligent decision-making, adaptive problem solving and autonomous operations. By addressing the emerging challenges in 5G/6G Networks, Internet of Things (IoT), edge computing, cybersecurity, healthcare, robotics and conversational AI, this conference aims to foster innovation and collaboration in shaping the future of intelligent communication systems.",
+      "callForPapers": "2026-11-12",
+      "url": "icrfcs.com/",
+      "eventContact": "anandhd.ec@drait.edu.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Dr. Ambedkar Institute of Technology, Outer Ring Rd, Near Gnana Bharathi,  , 2 Stage, Naagarabhaavi, , , Bengaluru , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

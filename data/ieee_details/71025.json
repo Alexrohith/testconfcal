@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m86ix4404L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71025,
+      "eventTitle": "2027 IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+      "startDate": "2027-10-24",
+      "endDate": "2027-10-28",
+      "about": "Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "El Paso",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "ACM SIGAI; Association for Computing Machinery Special Interest Group on Software Engineering  - ACM SIGSOFT; IEEE Computer Society",
+      "keywords": "Automated Software Engineering,",
+      "scope": "Automated Software Engineering",
+      "callForPapers": "2027-04-30",
+      "url": "conf.researchr.org/track/ase-2027/ase-2027-papers",
+      "eventContact": "mfrias4@utep.edu",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "El Paso Convention Center, 1 Civic Ctr Plz, , , , El Paso, TX, USA, 79901, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

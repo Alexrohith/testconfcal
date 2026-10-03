@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mbTrwY40vKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71399,
+      "eventTitle": "2026 23rd International Conference on Informatics in Control, Automation and Robotics (ICINCO)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Angers",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Systems and Technologies of Information, Control  & Communication - INSTICC",
+      "keywords": "Genetic Algorithms, Decision Support Systems, Machine Learning in Control Applications, Knowledge-Based Systems Applications, Distributed Control Systems, Optimization Algorithms, Software Agents for Intelligent Control Systems, Neural Networks Based Control Systems, Planning and Scheduling, Hybrid Systems,",
+      "scope": "The purpose of the International Conference on Informatics in Control, Automation and Robotics (ICINCO) is to bring together researchers, engineers and practitioners interested in the application of informatics to Control, Automation and Robotics, covering topics related to Intelligent Control Systems, Optimization, Robotics, Automation, Signal Processing, Sensors, Systems Modelling and Control, and Industrial Informatics.",
+      "callForPapers": "2026-05-19",
+      "url": "icinco.scitevents.org",
+      "eventContact": "icinco.secretariat@insticc.org",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Angers, , France, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

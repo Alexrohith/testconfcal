@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: y+flwY40k6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72181,
+      "eventTitle": "2027 2nd International Conference of Data Analytics for Sustainability and Engineering Technology (DASET)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Dundee, Scotland",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "Al-Maktoum College of Higher Education; UK and Ireland Section IA Chapter; UK and Ireland Section SYS Chapter",
+      "keywords": "Data Analytics, Sustainability, Engineering Technology,Machine Learning,Big Data,Environmental Engineering,Smart Cities,IoT (Internet of Things), ,Green Computing,,",
+      "scope": "The Second International Conference of Data Analytics for Sustainability and Engineering Technology (DASET) aims to bring together researchers, practitioners, and experts from academia and   industry to discuss and exchange cutting-edge research and innovations in the fields of data analytics, sustainability, and engineering technology. The conference seeks to explore the applications of data analytics in promoting sustainability across various domains and leveraging engineering technology to address global challenges",
+      "callForPapers": "2026-09-10",
+      "url": "www.almcollege.ac.uk/international-conference-on-data-analytics-for-sustainability-and- engineering-technology-daset-2026/",
+      "eventContact": "m.khalifa@almcollege.ac.uk",
+      "sponsorTypes": "5; 5; 9",
+      "venues": "Al-Maktoum College of Higher Education, 124 Blackness Road,, , , , Dundee, Scotland, , United Kingdom, DD1 5PE, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: mMmox440iMABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71442,
+      "eventTitle": "2026 8th Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Florence",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "De Nouvelles Architectures Pour Les Communications - DNAC; IEEE Communications Society",
+      "keywords": "Blockchain ,Sensor Networks,Communications ,Web3,Communication and Networking,",
+      "scope": "Decentralized technologies (Web3, Blockchain, Distributed Ledger Technologies, IPFS) have started to disrupt multiple domains, including finance and payments but also networks, computing, supply chain, identity management or Artificial Intelligence with decentralized learning. BRAINS conference is dedicated to these advances that could make the world of networks and services more secure while enabling new distributed business models.",
+      "callForPapers": "2026-05-17",
+      "url": "brains.dnac.org/2026/",
+      "eventContact": "aziza.lounis@dnac.org",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Florence, Aula Magna in Via Laura, 48, , , , Florence, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

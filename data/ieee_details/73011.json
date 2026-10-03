@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3pqtx440o70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73011,
+      "eventTitle": "2027 IEEE Communication Theory Workshop (CTW)",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-12",
+      "about": "Communication, Networking and Broadcast Technologies; Signal Processing and Analysis",
+      "location": {
+        "city": "Jeju Island",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Communication, Technology, LTE, Wireless Communication, Communication Theory, Signal Processing,",
+      "scope": "The conference is concerned with current and emerging research in communication theory. Topics of interest include: analysis and optimization of communication skills, wireless communication technologies, signal processing for communications, estimation and detection, industrial applications of communication theory, and applications of communication theory to non-traditional fields (biology or finance)",
+      "callForPapers": "",
+      "url": "ctw2027.ieee-ctw.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , , Korea (South), , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

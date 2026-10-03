@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uMuhx440v7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71497,
+      "eventTitle": "2026 International Symposium on Digital Energy and Conversion Technologies (DECT)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Sanya",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Power & Energy Society; Xihua University",
+      "keywords": "Digital Energy Systems, Smart Grids, Energy Conversion Technologies, Power Electronics, Data-Driven Energy Management,",
+      "scope": "DECT 2026 focuses on the integration of digital technologies and energy conversion technologies, covering smart grids, cyber-physical energy systems, power electronics, and renewable energy applications.",
+      "callForPapers": "2026-07-03",
+      "url": "isdect.com/",
+      "eventContact": "dect_pc@163.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Hainan Institute of Zhejiang University, Zhenzhou Road, Science and Technology City, Yazhou District, Sanya, Hainan, China, , , , Sanya, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

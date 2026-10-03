@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +e7+xo4037oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72373,
+      "eventTitle": "2026 IEEE 6th International Conference on Power, Control & Embedded Systems (ICPCES)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Aerospace; Bioengineering; Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Prayagraj",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Motilal Nehru National Institute of Technology; Uttar Pradesh Section; Uttar Pradesh Section IE Chapter; Uttar Pradesh Section PEL Chapter",
+      "keywords": "Power ,control system,renewable energy,Artificial intelligence,",
+      "scope": "The scope of the conference is multidisciplinary and will involve researchers of different areas having research orientation. The conference will focus on the emerging areas in the field of Power Electronics & Drives, Power Conditioning & Renewable Energy, Control Systems & Applications, Signal Processing & VLSI, Industrial Instrumentation, Communication and Embedded Systems, Computational Intelligence etc.",
+      "callForPapers": "",
+      "url": "www.mnnit.ac.in/icpces2026/",
+      "eventContact": "jagat@mnnit.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "MNNIT Allahabad, Prayagraj, , , , Prayagraj, , India, 211004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

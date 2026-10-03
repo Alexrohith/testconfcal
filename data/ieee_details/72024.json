@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sJegx440w7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72024,
+      "eventTitle": "2026 IEEE 7th International Conference on Computing and Big Data (ICCBD)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Guiyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Guizhou Normal University",
+      "keywords": "Data-Centric and AI-Driven Computing for Real-World Intelligence,Distributed and Stream Processing Frameworks, Big Data Analytics Models and Algorithms, Visualization Image Processing and Multimedia Analytics ,Blockchain Technologies and Distributed Intelligent Systems ,Networking IoT and Cybersecurity for Big Data Systems,",
+      "scope": "2026 IEEE 7th International Conference on Computing and Big Data (ICCBD 2026) will be held on September 28–30, 2026, in Guiyang, China. The conference is sponsored by Guizhou Normal University, and hosted by the School of Big Data and Computer Science, Guizhou Normal University. ICCBD 2026 , themed “Data-Centric and AI-Driven Computing for Real-World Intelligence” , aims to provide a high-level international forum for researchers and practitioners to present and discuss recent advances in computing and big data. The conference addresses emerging topics related to big data analytics, artificial intelligence, cloud and edge computing, and intelligent data-driven systems, with an emphasis on both theoretical foundations and practical applications.",
+      "callForPapers": "2026-04-20",
+      "url": "www.iccbd.org/",
+      "eventContact": "huangyy@uconf.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Guizhou Normal University, Universities Town, Huaxi District, Guiyang, Guizhou, China 550025, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

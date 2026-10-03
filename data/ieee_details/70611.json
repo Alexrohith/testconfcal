@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: h7qlx4406rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70611,
+      "eventTitle": "2026 International Conference on Advances in Computing, Communication and Materials (ICACCM)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dehradun",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Tulas Institute; Uttar Pradesh Section",
+      "keywords": "Wireless Communication,Cloud Computing,engineering material,sustailnable development,energy management,",
+      "scope": "The scope of the 2024 IEEE International Conference on Advances in Computing, Communication and Materials (ICACCM 2024) broadly covers computing, communication, and materials science, encouraging interdisciplinary dialogue and research in these areas",
+      "callForPapers": "2026-06-30",
+      "url": "www.icaccm.in",
+      "eventContact": "sunil.111213@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Tula's Institute, Chakrata Road, PO Selaqui, village Dhoolkot , , Dehradun, , India, 248011, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

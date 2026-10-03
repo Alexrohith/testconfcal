@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xeehx440z7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70823,
+      "eventTitle": "2026 International Conference on Information and Communication Technology for Development for Africa (ICT4DA)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Bahir Dar",
+        "region": "",
+        "country": "Ethiopia"
+      },
+      "sponsors": "Bahir Dar Institute of Technology- Bahir Dar University; Ethiopia Subsection; IEEE Africa Council; University of Turku",
+      "keywords": "ICT for development,Intelligent system,computing system,embedded computing,wireless communication,data science,security and privacy,",
+      "scope": "The 8th International Conference on ICT for Development for Africa (ICT4DA 20265) is the  main venue for engineers, developers, and practitioners from academia and industry to present and discuss research work in the area of ICT for Development in AFRICA. The conference facilitates a thematic discussion, and the transfer of knowledge, experience, adaptation of new methods, and where possible strive to foster collaboration among multidisciplinary groups. The topics of interest cover all aspects of ICT leading towards socioeconomic development in emerging economies.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "ethnig@utu.fi",
+      "sponsorTypes": "4; 5; 9; 9",
+      "venues": "Bahir Dar Institute of Technology, , , , , Bahir Dar, , Ethiopia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6OiAx4409L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72898,
+      "eventTitle": "2026 International Conference on Drones, Robotics and Autonomous Systems (DRAS)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-10",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Al Ain University ; Lone Star Section",
+      "keywords": "Drones and Unmanned Systems,Robotics and Intelligent Systems,Artificial Intelligence for Autonomous Systems,",
+      "scope": "The International Conference on Drones, Robotics and Autonomous Systems (DRAS 2026) invites researchers, academicians, industry professionals, practitioners, and students from around the world to submit original research papers, case studies, and innovative applications in the rapidly evolving fields of drones, robotics, autonomous systems, and intelligent Autonomous technologies. DRAS 2026 aims to provide a premier interdisciplinary platform for presenting recent advances, emerging trends, practical challenges, and future directions in Autonomous systems and robotics technologies. The conference will foster collaboration between academia, industry, government agencies, and technology innovators working on next-generation autonomous and intelligent systems. The conference welcomes high-quality contributions addressing theoretical foundations, system architectures, algorithms, experimental studies, prototypes, industrial deployments, and real-world applications.",
+      "callForPapers": "2026-08-20",
+      "url": "emergingtechnet.org/DRAS2026/index.php",
+      "eventContact": "jararwehy@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn San Antonio, Riverwalk , , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

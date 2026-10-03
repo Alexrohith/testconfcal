@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1MSgx440z78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71407,
+      "eventTitle": "2026 International Conference on Educational Technology Management (ICETM)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Southern University of Science and Technology",
+      "keywords": "Instructional Design and Technology,Learning Analytics and Data Science,Mobile and  Ubiquitous Learning,Technology-Enabled Learning Environments,Inclusive Education and  Accessibility,Future of Education and Emerging Technologies,",
+      "scope": "ICETM 2026 promises to be an exciting event with a range of informative and thought-provoking presentations, interactive forums, and engaging keynote speakers. This year's conference will include six tracks, covering topics such as instructional design, learning analytics, educational software development, and educational technology implementation. Through this conference, we hope to provide an opportunity for international collaboration, cross-disciplinary dialogue, and sharing of best practices that can help shape the future of educational technology management.",
+      "callForPapers": "2026-05-10",
+      "url": "www.icetm.org/",
+      "eventContact": "chenxl@stmails.com",
+      "sponsorTypes": "3; 9",
+      "venues": "South University of Science and Technology, 1088 Xueyuan Avenue, , , , Shenzhen, , China, 518055, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

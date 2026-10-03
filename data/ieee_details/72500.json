@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7o6mx4404LwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72500,
+      "eventTitle": "2026 7th International Conference on Information Science, Parallel and Distributed Systems (ISPDS)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Donghua University; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Information Science and Intelligent Computing,Parallel and Distributed Computing,Networks, Communications and Security,Cloud Computing,Cyber Security,",
+      "scope": "ISPDS 2026 is an international conference dedicated to advancing fundamental theories and cutting-edge innovations in information science, parallel computing, and distributed systems. It aims to provide a high-level platform for global knowledge exchange and interdisciplinary collaboration. The conference will bring together researchers and industry practitioners worldwide to explore emerging trends, challenges, and opportunities in areas such as high-performance computing, distributed architectures, intelligent systems, cloud and edge computing, big data analytics, and network security. By fostering cross-disciplinary dialogue, ISPDS 2026 seeks to promote scientific progress, strengthen the integration of theory and practice, and encourage innovative solutions to complex computational challenges, while supporting international collaboration and talent development.",
+      "callForPapers": "2026-08-09",
+      "url": "www.ispds.org/",
+      "eventContact": "ispds.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Donghua University, China, No. 2999 North Renmin Road, Songjiang District, Shanghai 201620, P.R.China, , , , Shanghai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

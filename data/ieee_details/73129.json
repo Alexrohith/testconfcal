@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7NGSx440574BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73129,
+      "eventTitle": "2027 2nd International Conference on Smart Innovations in Systems, Infrastructure, Mechanical, Power, AI and Computing Technologies (SISIMPACT)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-16",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Bhopal",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; Madhya Pradesh Section; Sagar Institute of Science Technology and Engineering (SISTec-E)",
+      "keywords": "Intelligent Transportation Systems,Smart Mobility Solutions,Green Transportation,Power Electronic Converters,Hydrogen Energy Systems,Grid Modernization,Solar Photovoltaic Technologies,Industry 4.0 and Industry 5.0,Robotics and Autonomous Systems,Collaborative Robots (Cobots),Sensor Networks for Industry,Natural Language Processing,Generative AI,Blockchain Technologies,Big Data Analytics,Cybersecurity,Human-Centered Computing,Cyber-Physical Communication Systems,System-on-Chip (SoC),Neuromorphic",
+      "scope": "The 2nd IEEE International Conference on Smart Innovations in Systems, Infrastructure, Mechanical, Power, AI and Computing Technologies (SISIMPACT 2027) provides an international platform for researchers, academicians, industry experts, and students to share advancements in intelligent and sustainable technologies. The conference covers smart systems, artificial intelligence, machine learning, computing, communication networks, industrial automation, robotics, signal processing, power electronics, renewable energy, smart grids, electric vehicles, IoT, cyber-physical systems, and smart infrastructure. It promotes interdisciplinary research, industry-academia collaboration, innovation, and practical solutions for addressing emerging technological, industrial, and societal challenges.",
+      "callForPapers": "2026-09-30",
+      "url": "sistece.ac.in/SISIMPACT-2027",
+      "eventContact": "ashishee@gmail.com",
+      "sponsorTypes": "1; 3; 9",
+      "venues": "Sagar Institute Of Science Technology and Engineering, SISTEC-R Campus, Sikandrabad , Ratibad, Near Neelbad, Bhopal, , India, 462044, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

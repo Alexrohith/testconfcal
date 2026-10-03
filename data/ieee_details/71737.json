@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 54Gsx440rcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71737,
+      "eventTitle": "2026 8th International Conference on Video, Signal and Image Processing (VSIP)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Zhenjiang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Jiangsu University of Science and Technology; Nanjing Section",
+      "keywords": "Video Processing & Analysis,Signal Processing & Applications,Image segmentation and object detection,Multimedia content analysis and indexing,Transformer models for visual processing,",
+      "scope": "2026 The 8th International Conference on Video, Signal and Image Processing (VSIP) will be held in Zhenjiang, Jiangsu, China during November 6-8, 2026. VSIP 2026 is sponsored by Jiangsu University of Science and Technology, China; hosted by Ocean College, Jiangsu University of Science and Technology, China. VSIP 2026 solicits contributions worldwide that illustrate research results, projects, surveys and industrial experiences in related fields of Video, Signal and Image Processing.",
+      "callForPapers": "2026-05-30",
+      "url": "www.vsip.net/",
+      "eventContact": "chenlei@isub.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Jiangsu University of Science and Technology, , , , , Zhenjiang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

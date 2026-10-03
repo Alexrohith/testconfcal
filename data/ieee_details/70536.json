@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hfeZx440oL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70536,
+      "eventTitle": "2026 Conference on Information Communications Technology and Society (ICTAS)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Durban",
+        "region": "",
+        "country": "South Africa"
+      },
+      "sponsors": "Durban University of Technology, Faculty of Accounting and Informatics; South Africa Section; South Africa Section C/SMC Joint Chapter",
+      "keywords": "big data,internet of things,data science,Control, Robotics And Mechatronics,large language modelling,financial technology,renewable energy systems,power systems,energy storage,smart grid and micro grid,Blockchain,",
+      "scope": "ICT and Society, Power and Energy Systems, Digital Finance, Internet of Things and Sensor Networks",
+      "callForPapers": "2026-07-10",
+      "url": "www.ictas.org/",
+      "eventContact": "AmahleK@dut.ac.za",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Umhlanga Rocks, Lagoon Drive, Umhlanga , , , Durban, , South Africa, 4319, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0virx440ob0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71315,
+      "eventTitle": "2026 2nd International Conference on Communication, Computing and Signal Processing (IICCCS)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Asansol",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Asansol Engineering College; Kolkata Section; Kolkata Section AP/MTT Joint Chapter",
+      "keywords": "Signal Processing,Communication,Computing & IT,",
+      "scope": "The 2nd International Conference on Communication, Computing and Signal Processing (ICCCS - 2026) encompasses a broad multidisciplinary spectrum focused on the integration of next-generation digital technologies and intelligent systems. Its scope primarily covers Advanced Communication Systems, including 6G networks, IoT infrastructure, and network security; Intelligent Computing, spanning artificial intelligence, big data analytics, and quantum algorithms; and Signal and Image Processing, which addresses computer vision, biometrics, and audio analysis. By bridging these fields, the conference facilitates the exploration of cross-disciplinary applications such as smart city development, autonomous robotics, and sustainable healthcare technology, providing a global forum for researchers to present innovations that drive the evolution of modern electronic and computational ecosystems.",
+      "callForPapers": "2026-08-12",
+      "url": "iicccs-aec-ece-home-page.vercel.app/",
+      "eventContact": "ashmi.chakraborty@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Asansol Engineering College, Vivekananda Sarani, Opposite Indian Oil Jubilee Petrol Pump, Kanyapur, , Asansol, , India, 713305, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

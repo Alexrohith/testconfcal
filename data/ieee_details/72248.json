@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /MvmwY40maIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72248,
+      "eventTitle": "2026 7th International Conference on Electronic Communication and Artificial Intelligence (ICECAI)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Changsha",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Central South University of Forestry and Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Wireless communication system design,Communication signal processing,Satellite and UAVs communication technologies,Space-air-ground-water integrated communication systems,Deep learning algorithms,Machine learning applications,Vehicular mission-critical communication protocols,Vehicular network security,AI for vehicular communication latency optimization,AI-enabled V2X communication optimization,Machine learning for vehicular channel prediction,",
+      "scope": "With the development and widespread adoption of 5G, AI, autonomous vehicles, and UAVs, relevant technological breakthroughs will profoundly transform daily life. Therefore, ICECAI 2026 aims to serve as a high-level international academic exchange platform focusing on the integration of electronic communication and AI, with emphasis on innovations in vehicular mobile communication and UAV communication, especially for the application of AI in these fields. Its core tracks will cover wireless communication system design, communication signal processing, space-air-ground-water integrated systems, deep learning algorithms, machine learning applications, vehicular protocols, network security, AI-driven latency and V2X optimization, and machine learning for channel prediction. We sincerely invite global researchers to share cutting-edge achievements, discuss key challenges, and jointly promote progress in these dynamic fields for the benefit of humanity.",
+      "callForPapers": "2026-08-08",
+      "url": "www.icecai.org/",
+      "eventContact": "icecai.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Central South University of Forestry and Technology, No. 498, Shaoshan South Road, Tianxin District, Changsha City, Hunan Province, China, , , , Changsha, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

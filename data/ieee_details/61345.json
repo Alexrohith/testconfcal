@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jPmqx440ib0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 61345,
+      "eventTitle": "2027 IEEE 9th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC)",
+      "startDate": "2027-10-19",
+      "endDate": "2027-10-22",
+      "about": "Aerospace; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kyiv",
+        "region": "",
+        "country": "Ukraine"
+      },
+      "sponsors": "National Aviation University; Ukraine Section; Ukraine Section SP/AES Joint Chapter",
+      "keywords": "Aerospace and electronic systems,Control Systems,Navigation,Computational Intelligence,",
+      "scope": "2027 IEEE 9th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC) will be held in frames of IEEE National Aviation University Week on October 19 - 22, 2027. The Conference is planned to be a forum of ideas exchange and results discussion in the field of Navigation and Flight Systems Methods and Simulation, Aerospace and Electronic Control Systems, Computation Intelligence Methods and Systems of Navigation, Control and Data Processing.",
+      "callForPapers": "",
+      "url": "msnmc.ieee.org.ua/",
+      "eventContact": "secretary@ieee.org.ua",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "National Aviation University, 1, Liubomyra Huzara ave, , , , Kyiv, , Ukraine, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

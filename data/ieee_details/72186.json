@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4p/owY40p6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72186,
+      "eventTitle": "2028 5th International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)",
+      "startDate": "2028-04-06",
+      "endDate": "2028-04-08",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Malmö",
+        "region": "",
+        "country": "Sweden"
+      },
+      "sponsors": "Antalya Bilim University; Kristianstad University; Sweden Section",
+      "keywords": "Artificial Intelligence,Deep Learning,Machine Learning,Big Data,Data Science,Cyber Security,Internet Of Things,Cryptography,Robotics,Communications,Antennas,Energy,Energy Harvesting,Electric machines,Computer Architecture,Computer Networks,Computer Science,Autonomous Vehicles,Electric Vehicles,Automation,Adaptive Control,",
+      "scope": "The ACDSA is a peer-reviewed international conference that aims to bring together scientists, academics, researchers, and industrial representatives to exchange the ideas, to disseminate the high quality research results and to present the new developments on the topics related to Artificial Intelligence, Control, Data Sciences and applications. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications.",
+      "callForPapers": "2027-10-18",
+      "url": "https://acdsa.org/2028/",
+      "eventContact": "yunusuzun38@hotmail.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Sweden, Malmö, , , , Malmö, , Sweden, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

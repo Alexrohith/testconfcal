@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0e34xo40uLoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70116,
+      "eventTitle": "2026 Third International Conference on Artificial Intelligence for Medicine, Health and Care (AIxMHC)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Laguna Hills",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Semantic Computing Foundation",
+      "keywords": "Artificial Intelligence,Medicine,Health,Care,",
+      "scope": "Artificial Intelligence for Medicine, Health, and Care (AIxMHC), is an international forum for academia and industries to exchange visions and ideas in the state of the art and practice, as well as to identify the emerging topics and define the future of how AI can assist medicine, health and care.  TOPICS OF INTEREST​​ - Multi-modal human-computer interactions - Computational medicine - Computational neuroscience - Computational behavior science - Bioinformatics and computational biology - Intelligent healthcare  - Humanized companion - Precision medicine - AI for well-being - Computational food science - Computational chemistry and drug design - ChatGPT and its applications  - Agent technology - Semantic computing - Robotic intelligence - Medical big data",
+      "callForPapers": "2026-07-01",
+      "url": "www.AIxMHC.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

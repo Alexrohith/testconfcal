@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vrjawY403KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72463,
+      "eventTitle": "2026 5th International Conference on Image Processing, Computer Vision and Machine Learning (ICICML)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Changsha",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hunan University; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Image Processing,Computer Vision,Machine Learning,Pattern Recognition,Artificial Intelligence,Deep Learning,",
+      "scope": "The 2026 5th International Conference on Image Processing, Computer Vision and Machine Learning (ICICML 2026) focuses on recent advances in image processing, computer vision, and machine learning, with an emphasis on intelligent systems and data-driven methodologies. The conference covers key topics such as pattern recognition, feature extraction, image segmentation, and visual understanding, as well as deep learning techniques for image and video analysis. It also includes applications in medical imaging, biometrics, remote sensing, and 3D vision. The event aims to provide a platform for researchers and practitioners to exchange ideas and promote the integration of artificial intelligence technologies into real-world intelligent systems.",
+      "callForPapers": "2026-09-05",
+      "url": "www.icicml.org/",
+      "eventContact": "smhe_pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Hunan University, Lushan Gate, Lushan South Road, Yuelu District, Changsha City, Hunan Province, China, , , , Changsha, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

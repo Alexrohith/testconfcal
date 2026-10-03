@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2u2Ix440jrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70252,
+      "eventTitle": "2026 IEEE 17th Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON)",
+      "startDate": "2026-09-30",
+      "endDate": "2026-10-02",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Berkeley",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE USA Washington, DC; Institute of Engineering & Management (IEM) - Kolkata; Region 01- Northeastern USA; Region 02 - Eastern USA; Society for Makers, Artists, Researchers and Technologists; University of Engineering & Management, Kolkata  ",
+      "keywords": "Artificial Intelligence,Biomedical Electronics,Mobile Communication,Large Scale Integration - VLSI,Wireless Communication,Robotics and Mechatronics,Cognitive Robotics,5g Mobile Communication,Signal Processing,",
+      "scope": "The conference mainly has scope on the issues, trends, and developments in Electronics and Communication. It aims to bring together scholars from different disciplinary backgrounds to emphasize dissemination of ongoing research in the fields of Internet of Things, Machine Learning, Artificial Intelligence, communication, Cloud Computing, Sensors, Signal detection and processing",
+      "callForPapers": "2026-08-01",
+      "url": "ieee-iemcon.org/",
+      "eventContact": "rajashree.paul@uem.edu.in",
+      "sponsorTypes": "2; 2; 6; 9; 9; 9",
+      "venues": "Anchor House, University of California, Berkeley, , , , Berkeley, CA, USA, 94720, ;UC Berkeley - Anchor House, 1950 Oxford St, , , , Berkeley, CA, USA, 94704, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

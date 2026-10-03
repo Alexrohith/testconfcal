@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nM6Tx44007sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72075,
+      "eventTitle": "2026 TRON Symposium (TRONSHOW)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Consumer Technology Society; Institute of Infrastructure Application of Ubiquitous Computing (IAUC) Interfaculty Initiative in Information Studies, The University of Tokyo; TOYO University,Faculty of Information Networking for Innovation and Design (INIAD),collaboration Hub for University and Business (cHUB); TRON Forum",
+      "keywords": "electronic appliances,smart house,smart city,embedded systems,Internet of Things,cyber-physical systems,computer-augmented environment,power-aware computing and energy harvesting ,real-time OS,assistive technology,cloud computing and IoT,intelligent mobility,open data,hardware-software co-design,open API,ubiquitous computing,sensor networks,IoT application framework,IoT architecture,generative AI and IoT,aggregate computing,IoT applications,",
+      "scope": "This symposium reports on activities which aim at realizing the vision of \"Computing Everywhere,\" i.e. the IoT (Internet of Things), or ubiquitous computing environment based on \"open\" approach including \"open architecture\", \"open API\" and \"open data.\" The symposium will introduce IoT-Aggregator and IoT-Engine, fundamental technologies that realize the Open IoT, as well as cutting-edge IoT applications including ones which utilize open data to solve real-world problems such as disaster relief, tourism, transportation, and environmental problems. The latest research, products and services on ubiquitous computing, the IoT and embedded systems are presented. In the field of embedded computing, open platform for the IoT, including real-time OS \"micro T-Kernel\", based on IEEE standard, as well as development environments, middleware, applications such as mobile devices and IoT-enabled consumer electronics, all of which forms the TRON ecosystem, are presented.",
+      "callForPapers": "2026-10-02",
+      "url": "https://symposium.tronshow.org/",
+      "eventContact": "chiaki.ishikawa@ubin.jp",
+      "sponsorTypes": "1; 9; 9; 9",
+      "venues": "\"Dragon Gate\" conference hall, Shibuya PARCO DG Bldg., 18F, 15-1 Udagawa-cho, Shibuya-ku, , , Tokyo, , Japan, 150-0042, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

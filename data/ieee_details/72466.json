@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: q+zswY40zKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72466,
+      "eventTitle": "2026 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Shanghai University of Finance and Economics",
+      "keywords": "Artificial intelligence,Machine Learning,Data Mining,Knowledge Engineering,Computer Vision,Natural Language Processing,Large Language Model,LLM-based Agent System,Human computer interaction,Software Engineering,Edge Computing,Data Science, Miscellaneous Informatics,Information Security,Robotics, AI-driven automation,Embodied Intelligence,",
+      "scope": "As the 10th edition of the PIC conference series, PIC 2026 centers on promoting frontier research at the crossroads of informatics, artificial intelligence, and next-generation computing, addressing key areas including machine learning, knowledge engineering, computer vision, natural language processing, multimodal data science, large language models, multimodal large language models, LLM-based agent systems, human-computer interaction, software engineering, edge computing, information security, embodied intelligence, robotics, and AI-driven automation. The conference seeks to showcase cutting-edge achievements in intelligent systems, data science, and diverse informatics disciplines, while fostering discussions on innovative theories, practical applications, and emerging technologies that drive progress in real-world AI and computing scenarios.",
+      "callForPapers": "2026-08-31",
+      "url": "www.picconf.com",
+      "eventContact": "wang.yinglin@shufe.edu.cn",
+      "sponsorTypes": "3; 9",
+      "venues": "Arula Plaza Shanghai, No. 188 Wudong Road, Yangpu District, Shanghai, China, , , , Shanghai, , China, 200434, ;Shanghai University of Finance and Economics, 777 Guoding Raod, Yangpu District, , , , Shanghai, , China, 200433, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

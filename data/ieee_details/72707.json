@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1LXgwY401qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72707,
+      "eventTitle": "2026 7th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Sun Yat-sen University",
+      "keywords": "Artificial Intelligence,Machine Learning,Computer Vision,Natural Language Processing,Edge Computing,Communication Networks,",
+      "scope": "The 2026 7th International Conference on Artificial Intelligence and Computer Engineering (ICAICE 2026) will explore the rapidly evolving fields of artificial intelligence and computer engineering. The conference highlights advancements in core AI technologies, including machine learning, natural language processing, and computer vision, as well as their integration with engineering domains such as edge computing, communication networks, and embedded systems. It will also address intelligent algorithms, system design, and optimization for real-world applications in robotics, automation, and large-scale computing environments. ICAICE 2026 aims to provide a platform for researchers and practitioners to exchange ideas, present recent developments, and promote the advancement of AI-enabled engineering systems.",
+      "callForPapers": "2026-08-21",
+      "url": "https://www.event-icaice.org/",
+      "eventContact": "pliu_pb@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Sun Yat-sen University, No. 66 Gongchang Road, Guangming District, Shenzhen, Guangdong Province, China, , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

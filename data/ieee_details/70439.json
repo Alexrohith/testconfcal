@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2tGNx440xr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70439,
+      "eventTitle": "2026 IEEE International Conference on Robotics and Biomimetics (ROBIO)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-20",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Tengchong",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; Shandong University; Southern University of Science and Technology",
+      "keywords": "· Aerial robots and underwater robots,Artificial intelligence in robotics,· Autonomous navigation and manipulation,Bio-inspired and Biomimetic Robots,· Cyborg robots,· Embodied intelligence,· Intelligent human-robot interaction,· Robotic vision,· Medical and rehabilitation robots,Micro/nano robotic systems,· Multi-modal information fusion,· Robotics in intelligent manufacturing,· Service and social robots,· Smart sensors and sensor networks,· Soft robots and liquid-metal robots,Swarm and collabo",
+      "scope": "IEEE ROBIO 2026 will serve as an international forum for researchers, engineers, and practitioners to present and discuss the latest advancements in robotics, biomimetics, and their convergence with AI, biological sciences, and human-centered technologies. The theme of the conference will be Bioinspired Intelligence for a Sustainable Robotic Future. The conference will cover foundational theories, enabling technologies, systems development, and emerging applications that draw inspiration from biological principles or that contribute back to understanding living systems.",
+      "callForPapers": "2026-08-01",
+      "url": "2026.robio.org",
+      "eventContact": "jason.gu@ieee.org",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Tengchong Empark Grand Hotel , 18 Fujian Road, Century City of Tengyue Town, , , Tengchong, , China, 679100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

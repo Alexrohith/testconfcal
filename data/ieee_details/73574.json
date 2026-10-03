@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: j5mnx4405bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73574,
+      "eventTitle": "2026 Workshop on Communication Networks and Power Systems (WCNPS)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "IEEE Vehicular Technology Society; University of Brasilia, Postgraduate Program in Electrical Engineering",
+      "keywords": "Power Systems,Communication Networks,Industry Application,Computer Science,",
+      "scope": "Engineering",
+      "callForPapers": "2026-09-20",
+      "url": "ieee-wcnps.org/",
+      "eventContact": "bjpraciano@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

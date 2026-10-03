@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9Jn9xo40x7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65127,
+      "eventTitle": "2028 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "startDate": "2028-06-11",
+      "endDate": "2028-06-15",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "Computer Vision,Artificial Intelligence,CVPR,",
+      "scope": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Henry B. Gonzalez Convention Center, , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

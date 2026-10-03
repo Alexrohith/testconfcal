@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2/ukx4408b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69790,
+      "eventTitle": "2026 IEEE International Conference on Cloud Engineering (IC2E)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-16",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Santa Clara",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Cloud Computing,Edge Computing,",
+      "scope": "The IEEE International Conference on Cloud Engineering (IC2E) conference series provides a high-quality and comprehensive forum where researchers and practitioners can exchange information on engineering principles, enabling technologies, and practical experiences as related to Cloud Computing. By bringing together experts that work on different levels of the cloud stack – systems, storage, networking, platforms, databases, analytics, and applications, IC2E offers an end-to-end view on the challenges and technologies in Cloud Computing, fosters research that addresses the interaction between different layers of the stack, and ultimately drives cloud-based innovation in business and society.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "rich@cs.ucsb.edu",
+      "sponsorTypes": "1",
+      "venues": "Santa Clara University, 500 El Camino Real , , , , Santa Clara, CA, USA, 95053, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

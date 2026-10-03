@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rd3/xo4047oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69506,
+      "eventTitle": "2026 International Conference On Cyber Management And Engineering (CyMaEn)",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Tlemcen",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; IEEE Africa Council; Manufacturing engineering laboratory of Tlemcen (MELT); Tunisian Decision Aid Society (TDAS) ; École supérieure en sciences appliquées de Tlemcen ",
+      "keywords": "Artificial Intelligence,cyber technologies,Supply chain management,Optimization,",
+      "scope": "Information Systems, Decision systems, Artificial Intelligence, robotics, big data, connected systems are transforming management and engineering, and thus reshaping business and industry.  These technologies are the game changers for better productivity, efficient decision-making and data analytics.  It seems that both communities, engineering and management, need to exchange their views and solutions about the new technological challenges. The focus of the conference is how to integrate Cyber Technologies in human organizations.",
+      "callForPapers": "2026-06-30",
+      "url": "cymaen.org/",
+      "eventContact": "fouad.ben.abdelaziz@neoma-bs.fr",
+      "sponsorTypes": "3; 4; 9; 9; 9",
+      "venues": "ECOLE SUPERIEURE EN SCIENCES APPLIQUEES DE TLEMCEN, BP 165 RP Bel Horizon ,13000, , , , Tlemcen, , Algeria, 13000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

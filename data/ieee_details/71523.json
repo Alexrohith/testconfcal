@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: p9agx440xrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71523,
+      "eventTitle": "2026 8th International Workshop on Big Data and Information Security (IWBIS)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Depok",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Faculty of Computer Science Universitas Indonesia; Indonesia Section; Indonesia Section SMC Chapter",
+      "keywords": "Data capture and storage,Big data technologies  tools  (programmingdevelopment) tools,Cryptocurrency and Blockchain,Hardware and physical security,Security management and policies,Network and mobile security,Multimedia security,Human factors in security,Digital forensics,Cryptographic protection,Anonymity and privacy,Authentication and access control,Big Data applications and implementations,Big Data management,Large-scale knowledge graphs,Scalable storage systems,Distributed file systems and da",
+      "scope": "This conference focuses on recent advances in Big Data and Information Security, covering both theoretical developments and practical applications. The Big Data track includes data capture and storage, scalable and distributed systems, cloud platforms, data visualization, knowledge graphs, big data management, and machine learning techniques for large-scale data processing. It also addresses tools and technologies that enable efficient development and deployment of big data solutions.  The Information Security track explores authentication, access control, cryptography, privacy and anonymity, digital forensics, network and mobile security, multimedia security, security policies and governance, hardware security, and emerging areas such as cryptocurrency and blockchain. The conference aims to provide a platform for researchers and practitioners to share innovations and address current challenges in data and security technologies.",
+      "callForPapers": "2026-06-15",
+      "url": "iwbis.cs.ui.ac.id",
+      "eventContact": "anggitha12@cs.ui.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Faculty of Computer Science, Universitas Indonesia, Kampus UI Depok, Indonesia 16424, Jl. Prof. DR. Sudjono D. Pusponegoro, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424, , , , Depok, , Indonesia, 16424, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

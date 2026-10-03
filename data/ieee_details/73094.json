@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: w/39xo4027oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73094,
+      "eventTitle": "2026 IEEE 1st International Conference on Advanced Sensing for Embodied Perception and Physical AI (EPIC)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-07",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "City University of Hong Kong - CityU; IEEE Nanotechnology Council",
+      "keywords": "Embodied intelligence,Wearable sensors,Intelligent robots,Healthcare,Artificial intelligence,",
+      "scope": "Novel sensing modalities and transducers (micro/nano, flexible, photonic, biochemical)  Sensor materials, fabrication, and packaging (MEMS/NEMS, nanofab, integration)  Wearable, implantable, and epidermal sensors  Tactile, force/torque, and proprioceptive sensing for robots LiDAR, radar, ultrasonic, and acoustic sensing  Multimodal sensing and sensor fusion  Edge sensing systems and embedded/low-power  AI (TinyML, neuromorphic) Sensor interfaces, readout circuits, and mixed-signal systems  Energy harvesting, power management, and self-powered sensing  Perception for embodied intelligence (state estimation, SLAM, tracking)  Perception–action learning and closed-loop control  Robot learning from demonstration and human-in-the-loop sensing  Human–robot interaction and intent recognition (multisensory HRI)  Privacy, security, and trustworthy sensing (on-device processing, federated learning)  Healthcare and assistive applications (rehab, elder care, monitoring, hospital robotics)",
+      "callForPapers": "2026-08-15",
+      "url": "www.ieee-epic.org",
+      "eventContact": "xingeyu@cityu.edu.hk",
+      "sponsorTypes": "1; 9",
+      "venues": "Jen Shenzhen Qianhai By Shangri-La, No. 399 Qianwan 1st Road, , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

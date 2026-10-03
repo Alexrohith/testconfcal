@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: w8ylx44067wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72925,
+      "eventTitle": "2026 5th International Conference on Intelligent Computing and Next Generation Networks (ICNGN)",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-14",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Hong Kong",
+        "region": "",
+        "country": "Hong Kong"
+      },
+      "sponsors": "College of Control Science and Engineering, Zhejiang University; IEEE Communications Society",
+      "keywords": "Intelligent Computing, Next Generation Communication, Cloud Computing, Wireless Sensor Network, Open Communication, Parallel Processing Architectures,",
+      "scope": "Next Generation Networks, 6G networks, Intelligent Computing, Wireless Sensor networks",
+      "callForPapers": "2026-09-26",
+      "url": "icngn.org/",
+      "eventContact": "suruidan@sjtu.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "The Luxe Manor, 39 Kimberley Road, , Tsim Sha Tsui, Kowloon, Hong Kong, , , Hong Kong, , Hong Kong, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

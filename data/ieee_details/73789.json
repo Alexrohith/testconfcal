@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 95WBx4407boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73789,
+      "eventTitle": "2027 2nd International Conference on Aerospace, Intelligent Perception and Control (AIPC)",
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-28",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beihang University; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Intelligent Systems,Intelligent Perception,Control Systems,Autonomous Systems,Artificial Intelligence,",
+      "scope": "The 2027 2nd International Conference on Aerospace, Intelligent Perception and Control (AIPC 2027) will explore the rapidly advancing fields of intelligent systems, perception technologies, and control methodologies for aerospace and autonomous applications. The conference highlights developments in intelligent perception, artificial intelligence, machine learning, autonomous systems, control theory, robotics, and cyber-physical systems, with a focus on enabling reliable sensing, decision-making, and intelligent control in complex environments. By bringing together researchers, engineers, and industry professionals, AIPC 2027 aims to promote the exchange of innovative ideas, foster interdisciplinary collaboration, and advance emerging technologies that contribute to the development of intelligent aerospace systems and autonomous applications.",
+      "callForPapers": "2027-01-11",
+      "url": "www.icaipc.org/",
+      "eventContact": "zqyu.pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Beihang University, No. 9, South Third Street, Higher Education Park, Changping District, Beijing, China, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

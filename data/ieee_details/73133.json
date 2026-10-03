@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zuLrwY401qIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73133,
+      "eventTitle": "2026 10th SLAAI International Conference on Artificial Intelligence (SLAAI-ICAI)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nugegoda",
+        "region": "",
+        "country": "Sri Lanka"
+      },
+      "sponsors": "Sri Lanka Association for Artificial Intelligence; Sri Lanka Section; University of Sri Jayewardenepura",
+      "keywords": "artificial neural networks,computer vision,machine learning,internet of things,embedded systems,artificial congnitive systems,ontological enginnering,Bioinformatics,generative AI,applications of artifical intelligence,data mining and big data,robotics and automation,quantum computing in AI,Ethical AI,responsible AI,AI in healthcare,Large language Models,",
+      "scope": "The scope of this conference is to provide a platform for local and international academia, industry and researchers to discuss, present, and publish their research works and innovations.",
+      "callForPapers": "2026-08-10",
+      "url": "slaai.lk/icai/2026/",
+      "eventContact": "mihirini@is.ruh.ac.lk",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "University of Sri Jayewardenepura, Gangodawila, , , ,  Nugegoda, , Sri Lanka, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

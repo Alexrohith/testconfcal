@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 4,Rid: 8c6bx440orwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73139,
+      "eventTitle": "2027 International Conference on Multi-Agent Systems & Autonomous Computing (MASAC)",
+      "startDate": "2027-07-09",
+      "endDate": "2027-07-11",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; International Centre for Advanced Research and Education Foundation (ICARE Foundation)",
+      "keywords": "Multi-Agent Systems,Distributed Intelligence,Agent architectures and frameworks,Game theory in multi-agent environments,Agent communication protocols,Autonomous Computing,Reinforcement learning,Edge AI and autonomous IoT,Cognitive computing,Ethical AI & explainability,Digital twins & simulations,Blockchain-enabled systems,Smart cities & transportation,Autonomous cybersecurity systems,Healthcare and agriculture applications,Robotics and autonomous vehicles,",
+      "scope": "The International Conference on Multi-Agent Systems & Autonomous Computing (MASAC) provides a premier forum for researchers, academicians, industry professionals, and practitioners to present and discuss advances in intelligent autonomous systems and collaborative computing paradigms. The conference focuses on the design, development, analysis, and deployment of multi-agent systems, autonomous decision-making, distributed intelligence, and next-generation computational frameworks. Topics include artificial intelligence, machine learning, autonomous agents, swarm intelligence, robotics, human-agent interaction, cyber-physical systems, Internet of Things (IoT), edge and cloud computing, intelligent networks, optimization, security, and real-world applications in smart cities, healthcare, transportation, industry, and sustainable development. The conference aims to foster innovation, interdisciplinary collaboration, and knowledge exchange in emerging autonomous technologies.",
+      "callForPapers": "2027-02-25",
+      "url": "masac.org/",
+      "eventContact": "shayla@ucsiuniversity.edu.my",
+      "sponsorTypes": "1; 9",
+      "venues": "UCSI University, UCSI Heights, 1, Jln UCSI, Taman Connaught,, Wilayah Persekutuan, , , Kuala Lumpur, , Malaysia, 56000 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

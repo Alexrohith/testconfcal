@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vJ/fwY405aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73900,
+      "eventTitle": "2026 16th International Conference on Computer and Knowledge Engineering (ICCKE)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Mashhad",
+        "region": "",
+        "country": "Iran"
+      },
+      "sponsors": "Center Of Excellence on Soft Computing and Intelligent Information Processing; FUM CERT Laboratory; Ferdowsi University of Mashhad; IP-PBX Type Approval Laboratory; Iran Section",
+      "keywords": "Machine Learning,Deep Learning,Computer Vision,Natural Language Processing,Network Security,Internet of Things,Computer Architecture,Knowledge Engineering,Cloud Computing,",
+      "scope": "The International Conference on Computer and Knowledge Engineering (ICCKE) advances computer science and engineering research, focusing on machine learning, deep learning, computer vision, natural language processing, network security, IoT, computer architecture, knowledge engineering, and cloud computing. It explores innovative algorithms, systems, architectures, and applications, emphasizing theoretical and practical contributions.",
+      "callForPapers": "2026-08-22",
+      "url": "iccke.um.ac.ir/2026/en",
+      "eventContact": "sm.farzam@um.ac.ir",
+      "sponsorTypes": "3; 9; 9; 9; 9",
+      "venues": "Faculty of Engineering, Ferdowsi University of Mashhad, Azadi Square, , , , Mashhad, , Iran, 9177948974, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

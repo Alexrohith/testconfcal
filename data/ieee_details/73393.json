@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: icaRx4404L4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73393,
+      "eventTitle": "2026 IEEE 9th International Conference on Electronics and Communication Engineering (ICECE)",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-28",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Xi'an Polytechnic University",
+      "keywords": "Digital Image and Video Processing,Computer Vision and Image Analysis,Data Mining and Cloud Computing,Computer and Intelligent Communication,Channel coding, modulation, multiplexing,",
+      "scope": "ICECE 2026 aims to serve as a platform for researchers, academics, and industry professionals to exchange ideas and present their latest research findings in this dynamic and rapidly evolving field. The conference will cover a wide range of topics, including wireless communication systems, signal processing, and network security and privacy, among others. By fostering collaboration and knowledge-sharing, ICECE 2026 will play a critical role in shaping the future of electronics and communication engineering.",
+      "callForPapers": "2026-07-20",
+      "url": "www.icece.net/",
+      "eventContact": "yangjq@yaang.cn",
+      "sponsorTypes": "4; 9",
+      "venues": "Hilton Garden Inn Xi'an High-Tech Zone, No. 60, Boshi Road, Hi-Tech Zone, , , , Xi'an, , China, 710000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 67n7xo40vroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71685,
+      "eventTitle": "2027 IEEE International Conference on Audio, Speech, and Language Intelligence (ASLI)",
+      "startDate": "2027-11-30",
+      "endDate": "2027-12-04",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Speech processing, Speech And Audio Processing, Artificial intelligence",
+      "scope": "ASLI is a newly established, top-tier conference formed by merging the core activities of IEEE ASRU and IEEE SLT. It is envisioned as the premier global venue for advances in speech, language, and audio, convening leading researchers and practitioners from academia and industry worldwide.  ASLI balances fundamental science, innovative engineering, and impactful technologies. It promotes rigorous research while advancing modern conversational AI, including multimodal foundation models, advanced learning paradigms, generative approaches, system-level design, and real-world deployment. The conference particularly encourages multilingual, inclusive, and application-driven innovations that expand global communication and enable transformative domains such as healthcare.  By unifying these communities, ASLI fosters scientific discovery, engineering excellence, and technological leadership toward next-generation, globally inclusive speech, audio, and language intelligence.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "shinjiw@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Marina Bay Sand Expo and Convention Centre, 10 Bayfront Ave, , , , , , Singapore, 018956, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

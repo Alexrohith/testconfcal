@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: r8bbwY404qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72441,
+      "eventTitle": "2026 International Conference on Artificial Intelligence for Learning and Optimization (ICoAILO)",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Jakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section C Chapter; Telkom University",
+      "keywords": "Machine Learning Systems,Optimization,Cyber Security,AI Applications,Smart & Secure Aviation,",
+      "scope": "ICoAILO 2026 provides a focused forum for researchers, academicians, industry practitioners, and students to present state-of-the-art research and applied solutions across Machine Learning Systems, Optimization, Cyber Security, and AI Applications, with an emphasis on both theoretical advancement and real-world impact.",
+      "callForPapers": "2026-06-15",
+      "url": "icoailo.org",
+      "eventContact": "ismankrn@telkomuniversity.ac.id",
+      "sponsorTypes": "5; 9",
+      "venues": "Swissôtel Jakarta PIK Avenue, Pantai Indah Kapuk St, Kamal Muara, Penjaringan, Jakarta, 14470, , , , Jakarta, , Indonesia, 14470, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

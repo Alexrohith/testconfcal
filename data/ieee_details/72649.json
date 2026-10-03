@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /pDcwY400KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72649,
+      "eventTitle": "2026 IEEE 7th International Conference on Computers and Artificial Intelligence Technology (CAIT)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Guiyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Guizhou University",
+      "keywords": "Artificial Intelligence and Machine Learning,Applications of Artificial Intelligence,Human-Machine Interaction,Data Mining and Machine Learning,Artificial Intelligence and Robotics,",
+      "scope": "2026 IEEE 7th International Conference on Computers and Artificial Intelligence Technology (CAIT) will be held from November 13-15, 2026 in Guiyang, Guizhou, China. As the field of Computers and Artificial Intelligence Technologies continues to evolve, the aim of the CAIT 2026 is to bring together leading researchers, practitioners, and industry experts to share knowledge, exchange ideas, and explore the latest trends and developments in this exciting and dynamic field. The conference provides a platform for attendees to learn about new advancements in the field, engage in discussions with peers, and establish new collaborations to further advance the field.",
+      "callForPapers": "2026-06-20",
+      "url": "www.cait.net/",
+      "eventContact": "shanezeng@sciei.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Guizhou University, No. 2708, South Section of Huaxi Avenue, Huaxi District, Guiyang City, Guizhou Province, China, , , , Guiyang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

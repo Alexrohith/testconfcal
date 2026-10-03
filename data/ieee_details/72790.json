@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 04Wmx4407rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72790,
+      "eventTitle": "2026 8th International Conference on Next Generation Data-driven Networks (NGDN)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society; Shenyang University of Chemical Technolog",
+      "keywords": "Data-Driven Computer Networks,Air-Ground Networks,Cloud Computing and Applications,Next-Generation Networked Trust and Security,",
+      "scope": "NGDN 2026 is positioned to serve as a central forum for discussing emerging technologies and pioneering research in next-generation data-driven networks. The conference will explore key topics including data-driven computer networks, software-defined networking, machine learning and deep learning technologies for networking, as well as mobile and scalable computing. By bringing together scholars, experts, and engineers from around the world, NGDN 2026 aims to facilitate the exchange of cutting-edge research findings and practical experiences, thereby driving innovation and advancement across these critical domains. We believe that NGDN 2026 will offer a global audience of academics, students, and industry practitioners valuable insights and resources, effectively promoting collaboration and innovation in data-driven networks and scalable computing.",
+      "callForPapers": "2026-09-05",
+      "url": "www.ngdn.net/",
+      "eventContact": "ngdn.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Shenyang University of Chemical Technology, China, No. 11, 11th Street, Shenyang Economic and Technological Development Zone, Shenyang, Liaoning Province 110142, China, , , , Shenyang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

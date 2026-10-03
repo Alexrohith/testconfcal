@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zKytx440s70BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70353,
+      "eventTitle": "2026 29th International Workshop on Smart Antennas (WSA)",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-07",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Centre Tecnològic de Telecomunicacions de Catalunya - CTTC; IEEE Communications Society",
+      "keywords": "MIMO, AI for Communications, Electromagnetic Signal processing and Propagation, ISAC, Non-terrestrial Networks, Photonics, Resilient Communications, THz processing, technology and applications,",
+      "scope": "The WSA provides a forum for presenting the most recent research on communication and information theory, related signal processing algorithms, artificial intelligence, machine learning, and experimental results for wireless communication systems. The objective is to continue, accelerate, and broaden the momentum already gained through a series of workshops which started in 1996.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "marius.caus@cttc.cat",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

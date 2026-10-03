@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kJrcwY400aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71457,
+      "eventTitle": "2026 6th International Conference on AI-ML-Systems (AIMLSystems)",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-09",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lecco",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "ACM SIGAI; ACM SIGKDD - Special Interest Group on Knowledge Discovery and Data Mining; COMSNETS Association; IEEE Computational Intelligence Society",
+      "keywords": "AI Systems,Machine Learning,Machine Learning Applications,Real World Systems,Deep Learning,Generative AI,Reinforcement Learning,Federated Learning,Graph Neural Networks,",
+      "scope": "AIMLSystems is a conference, now at its sixth edition, targeting research in the intersection of Systems Engineering and Artificial Intelligence and Machine Learning techniques. Through this conference, we plan to examine how immense strides in AI/ML techniques are enabled by advances in computational systems, and how the use of AI/ML can support data-driven exploration of the design space of computational systems. We also investigate how new breeds of AI/ML systems enable new forms of socio-techno-economic systems, which, in turn, generate new research requirements in AI/ML techniques. The conference welcomes submissions of original research papers that address the following topics: Scalable and Efficient AI-ML Techniques; System Architectures for AI-ML Applications; Design of Socio-Economic Systems based on AI-ML; Domain-Specific AI-ML solutions; Safe/Responsible AI Systems. Moreover, an Industrial Track addresses Industrial AI-ML Systems Design, Real-World Challenges.",
+      "callForPapers": "2026-06-08",
+      "url": "aimlsystems.org",
+      "eventContact": "giacomo.boracchi@polimi.it",
+      "sponsorTypes": "1; 9; 9; 9",
+      "venues": "Politecnico di Milano, Lecco Campus, via Gaetano Previati, 1/c, , , Lecco, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

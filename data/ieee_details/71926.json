@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qObhwY40+qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71926,
+      "eventTitle": "2027 7th International Conference on Image Processing and Capsule Networks (ICIPCN)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Dindigul",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "G.T.N. College of Technology; IEEE Computational Intelligence Society",
+      "keywords": "Image Processing,Capsule Networks,Image Texture Analysis,Medical Imaging Systems,Cognitive Vision,Machine Learning,",
+      "scope": "To advance the frontiers of image processing, 7th International Conference on Image Processing and Capsule Networks [ICIPCN 2027] is dedicated to providing a comprehensive platform for the exploration of the latest breakthroughs in computational intelligence, with advanced models such as Capsule Networks [CapsNets]. Scheduled as a three-day conference program on 21–23, January 2027, this extended conference aims to explore and discuss about the cutting-edge research and applications, unveiling a new era of image processing.  This conference will extensively cover the architecture, functioning, and applications of image processing technologies. Attendees will explore how the advanced image processing concepts enhance the representation and understanding of complex visual data. We invite discussions on innovative image and video recognition facilitated by Capsule and Neural Networks, showcasing superior capabilities and paving the way for advancements in various fields.",
+      "callForPapers": "2026-10-29",
+      "url": "icipcn.com/2027/",
+      "eventContact": "drcgravichandran268@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "G.T.N. College of Technology (GTNCT), Old Karur Road,, , , , Dindigul, , India, 624 005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

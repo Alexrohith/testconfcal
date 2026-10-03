@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: p5XnwY40iKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68489,
+      "eventTitle": "2026 6th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-17",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section C Chapter; Istanbul Topkapi University",
+      "keywords": "Energy,Communications,Adaptive Control,Control Engineering,Microelectromechanical Systems,Microelectronic Circuits,Electric machines,Machine Learning,Deep Learning,Artificial Intelligence,Computer Architecture,Computer architecture,Artificial neural networks,Convolutional Neural Networks,Renewable Energy Systems,",
+      "scope": "The 6th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) is the premier event that brings together industry professionals, academics, and engineers from the related institutions to exchange information and ideas on electrical, computer, communications and mechatronic engineering. The conference will feature a comprehensive technical program offering numerous technical sessions with papers  showcasing the latest technologies, and applications.",
+      "callForPapers": "2026-04-13",
+      "url": "www.iceccme.com/2026/",
+      "eventContact": "emrearslan@aksaray.edu.tr",
+      "sponsorTypes": "5; 9",
+      "venues": "Grand Hyatt Bali, , , , , Bali, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nIbrwY40zqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72676,
+      "eventTitle": "2026 1st Odisha AI Conference (OAIC)",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "BHUBANESWAR",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Bhubaneswar Section COM/C Jt. Chapter; Institute of Technical Education and Research Siksha ‘O’ Anusandhan (Deemed to be) University",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning ,Data Science,Big Data Analytics,Computer Vision,Image Processing,Natural Language Processing (NLP),Speech Processing,Robotics,Intelligent Systems,Internet of Things (IoT),Edge Computing,Explainable AI (XAI),Reinforcement Learning,Cybersecurity,Blockchain,Smart Grid,Renewable Energy Forecasting,Healthcare Informatics,Bioinformatics,Smart Cities,Autonomous Systems,Human-Computer Interaction,AI Ethics,Sustainable Development,",
+      "scope": "The conference will serve as a premier platform for exchanging ideas, presenting research findings, and fostering collaborations that address real-world challenges through AI-driven solutions. OAIC  will focus on both theoretical developments and practical applications of AI across diverse domains such as healthcare, energy systems, smart cities, agriculture, communication networks, and industrial automation. The conference also emphasizes ethical AI, sustainable development, and the integration of AI with emerging technologies to drive societal and economic transformation.",
+      "callForPapers": "2026-07-10",
+      "url": "",
+      "eventContact": "bharatjyotisahu@soa.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "ITER, SIKSHA 'O' ANUSANDHAN (DEEMED TO BE UNIVERSITY, JAGAMARA,  KHANDAGIRI, , , BHUBANESWAR, , India, 751030, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

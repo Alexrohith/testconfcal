@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7dafx440wLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73084,
+      "eventTitle": "2027 IEEE Madhya Pradesh Section Conference (MPCON)",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-19",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Photonics and Electrooptics; Robotics and Control Systems",
+      "location": {
+        "city": "Indore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Acropolis Institute of Technology and Research; IETE Gwalior Section; Madhya Pradesh Section",
+      "keywords": "AI • Communication • IoT • Cybersecurity • Big Data • Signal Processing • VLSI • Smart Systems • Sustainable Technologies • Industry 5.0,",
+      "scope": "IEEE Madhya Pradesh Section Conference (MPCON 2027) is envisioned as a premier forum for researchers, academicians, industry experts, and practitioners to share cutting-edge research and exchange innovative ideas across diverse engineering and technology domains. Organized at Acropolis, Indore, India, as the flagship event of the IEEE Madhya Pradesh Section, the conference aims to promote interdisciplinary collaboration and address emerging scientific and societal challenges. MPCON 2027 will encompass advances in computational intelligence, artificial intelligence, machine learning, communication systems, signal processing, cybersecurity, IoT, cloud and edge computing, robotics, VLSI, software engineering, data analytics, sustainable technologies, healthcare, smart agriculture, and responsible AI. All accepted and presented papers will be submitted for inclusion in the IEEE Xplore Digital Library, ensuring global visibility and academic impact.",
+      "callForPapers": "2026-10-15",
+      "url": "aitr.ac.in/MPCON2027/",
+      "eventContact": "luckysaxena@ieee.org",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Acropolis Institute of Technology and Research , Bypass Road, Square, , Manglaya Sadak, , , , Indore, , India, 453771, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

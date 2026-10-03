@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yOSIx440qL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72702,
+      "eventTitle": "2026 3rd International Conference on Software System and Information Processing (ICSSIP)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Lanzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Northwest Normal University",
+      "keywords": "Software Engineering & Systems,Artificial Intelligence & Computational Intelligence,Intelligent Communications & Signal Processing,Data Science & Big Data Technologies,Network & Information Security,Control Systems & Automation,Computer Architecture & Systems,Western Informatization and Cross-Disciplinary Applications,",
+      "scope": "The scope of ICSSIP 2025 integrates a wide array of topics within electronics, communications, and signal processing fields, aiming to foster discussions on the latest advancements and challenges. It provides a platform for experts from academia and industry to share insights and innovations, contributing to multidisciplinary studies and technological progress.",
+      "callForPapers": "2026-06-25",
+      "url": "www.icssip.net/",
+      "eventContact": "jhfynmu@yeah.net",
+      "sponsorTypes": "1; 9",
+      "venues": "NORTHWEST NORMAL UNIVERSITY, No. 967, Anning East Road, Lanzhou City, , , , Lanzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

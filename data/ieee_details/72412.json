@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5KGDx4406boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72412,
+      "eventTitle": "2026 IEEE International Biomedical Instrumentation and Technology Conference (IBITeC)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-19",
+      "about": "Computing and Processing; General Topics for Engineers",
+      "location": {
+        "city": "Surabaya",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section COM Chapter; Telkom University",
+      "keywords": "Biomedical Engineering,Artificial Intelligence,Health Informatics,Internet of Things,Telemedicine,Signal Processing,Medical Devices,Bioinformatics,Motion,",
+      "scope": "IBITeC 2026 focuses on advancements in biomedical instrumentation and technology, integrating artificial intelligence, bioengineering, and digital healthcare systems. The conference covers areas such as biomedical engineering, health informatics, bioinformatics, communication technologies for healthcare, and rehabilitation engineering. It aims to promote interdisciplinary research and innovation to support intelligent healthcare ecosystems and future global health solutions.",
+      "callForPapers": "2026-05-01",
+      "url": "ibitec.telkomuniversity.ac.id",
+      "eventContact": "nrachmaningrum@telkomuniversity.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Four Points by Sheraton Surabaya, Tunjungan Plaza, Jl. Embong Malang No.25-31, , , , Surabaya, , Indonesia, 60261, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

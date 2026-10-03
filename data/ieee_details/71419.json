@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: saKVx4404rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71419,
+      "eventTitle": "2026 26th International Conference on Control, Automation and Systems (ICCAS)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "about": "Aerospace; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sapporo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Asian Control Association; Chinese Automatic Control Society - CACS; ECTI Association; IEEE Control Systems Society; IEEE Industrial Electronics Society; IEEE Robotics and Automation Society; Institute of Control, Robotics and Systems - ICROS; The Society of Instrument and Control Engineers - SICE",
+      "keywords": "Control, Robotics, Control, Robotics And Mechatronics,",
+      "scope": "Control Theory and Applications, Robotics and Mechatronics, Machining Learning and Big,Data, Information and Network Theories, Autonomous Vehicle Systems, Human-Robot Interactions, Process Control Systems, Machine Vision and Perception, Bio & Ecological Systems, Control Devices and Instruments, Artificial Intelligent Systems, Cyber Physical Systems, Guidance, Navigation, and Control, Sensors and Actuators, Human Augmented Robots, Industrial Applications of Control, Smart Manufacturing System, Civil and Urban Control Systems",
+      "callForPapers": "2026-05-31",
+      "url": "2026iccas.org",
+      "eventContact": "conference@icros.org",
+      "sponsorTypes": "1; 1; 1; 9; 9; 9; 9; 9",
+      "venues": "Emisia Hotel, , , , , Sapporo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

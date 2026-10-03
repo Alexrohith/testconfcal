@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5/OTx4407r4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72393,
+      "eventTitle": "2027 IEEE 10th International Conference on Soft Robotics (RoboSoft)",
+      "startDate": "2027-04-05",
+      "endDate": "2027-04-09",
+      "about": "Bioengineering; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Brisbane",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Soft Robotics, Smart Materials, Sensors and Actuators, Bio-Inspired Robotics,",
+      "scope": "The 2027 IEEE 10th International Conference on Soft Robotics (RoboSoft) will serve as a premier forum for researchers, engineers, and practitioners to exchange the latest advances in soft robotic science, technology, and applications. The conference covers soft robotic-related areas including materials, actuation, sensing, design, fabrication, autonomy, control, manipulation, locomotion, wearable, HRI, medical applications, reproducibility and art in soft robotics. By fostering dialogue across disciplines, RoboSoft 2027 aims to both honor the milestones achieved and catalyze the innovations that will shape the future of soft robotics",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "l.lelong@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Brisbane Convention & Exhibition Centre, Grey St, South Brisbane QLD 4101, , , , Brisbane, , Australia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

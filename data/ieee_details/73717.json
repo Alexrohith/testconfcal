@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pIOLx440rbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73717,
+      "eventTitle": "2027 IEEE International Conference on Engineering, Computing and Cybernetics (ICECC)",
+      "startDate": "2027-10-14",
+      "endDate": "2027-10-15",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Enugu",
+        "region": "",
+        "country": "Nigeria"
+      },
+      "sponsors": "Enugu State University of Science and Technology Computer Society SBC; Enugu State University of Science and Technology SPS SBC; Enugu State University of Science and Technology SSC SBC; IEEE Nigeria Section RAS Chapter; Nigeria Section EPS Chapter; Nigeria Section SMC Chapter",
+      "keywords": "Artificial intelligence,Cybernetics,Robotics,Data Science,Signal processing,Control systems,Renewable Energy Systems,Entrepreneurship,Microelectromechanical Systems,Electronics Packaging,Solid state circuits,Computer Science,Embedded Systems,Irrigation Systems,Cybersecurity,",
+      "scope": "ICECC brings together researchers, engineers, academics, and industry practitioners to share original research and foster collaboration across engineering, computing, and cybernetics. Topics include AI & machine learning, cybersecurity, cloud/distributed computing, power systems & renewable energy, VLSI & signal processing, robotics & control systems, mechatronics & automation, biomedical engineering, and emerging areas such as IoT, blockchain, and smart cities.  The conference emphasizes interdisciplinary, convergent research addressing real-world challenges that span multiple engineering domains. ICECC welcomes theoretical, applied, and experimental contributions, and aims to strengthen collaboration between academia, industry, and professional bodies — supporting research capacity and innovation, particularly within emerging research ecosystems.",
+      "callForPapers": "2027-04-01",
+      "url": "",
+      "eventContact": "astronicpoint@gmail.com",
+      "sponsorTypes": "5; 5; 5; 5; 5; 5",
+      "venues": "Enugu State University of Science and Technology, Agbani, , , , Enugu, , Nigeria, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

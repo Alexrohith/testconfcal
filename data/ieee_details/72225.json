@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hqPtwY40uaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72225,
+      "eventTitle": "2027 IEEE Conference on Medical Engineering and Science (CMES)",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-13",
+      "about": "Bioengineering; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guwahati",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Guwahati Subsection; Indian Institute of Technology Guwahati",
+      "keywords": "Biomedical Signal Processing,Medical Image Processing,Biomechanics,Radiology,Medical Devices,Preventive Medicine,Network Medicine,Healthcare Informatics,AI and Machine Learning in Medicine,Deep Brain Stimulation,Brain Computer Interface,Bio Instrumentation,",
+      "scope": "The scope of the IEEE CMES 2027 includes works related to research in the broad areas of AI and Machine learning in Healthcare, Biomedical Signal Processing, Medical Imaging and Image Processing, Radiology, Bioinstrumentation, Network Medicine, Deep Brain Stimulation, Brain Computer Interface and Biomechanics.",
+      "callForPapers": "2026-08-03",
+      "url": "https://cmes2027.in",
+      "eventContact": "lns@iitg.ac.in",
+      "sponsorTypes": "5; 9",
+      "venues": "Indian Institute of Technology Guwahati, Department of Electronics and Electrical Engineering, IIT Guwahati, Guwahati, , Guwahati, , India, 781039, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

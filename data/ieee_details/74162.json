@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uc6kx440778BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74162,
+      "eventTitle": "2027 14th International Conference on Computing for Sustainable Global Development (INDIACom)",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-09",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "New Delhi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bharati Vidyapeeth, New Delhi; Delhi Section",
+      "keywords": "INDIACom,Bharati Vidyapeeth,BVICAM,INDIACom,Sustainable Applications,Computing for Disaster Management,e-Governance,Geospatial Technologies,Global Sustainable Development,Smart Cities,Wireless Sensor Networks,Nano-Technology,AI and Expert System,High Speed Networking,Software Engineering,High Performance Computing,ERP and BPR,Agile Technologies,Information Security,Cyber Security,Nature Inspired Computing,Soft Computing,Emerging Technologies,IWIEM,",
+      "scope": "INDIACom-2027 is aimed to invite original research papers in the field of, primarily, Computer Science and Information Technology and, generally, all interdisciplinary streams of Engineering Sciences, having central focus on sustainable computing applications, which may be of use in enhancing the quality of human life and contribute effectively to realize the nations' vision of sustainable inclusive development using Computing. INDIACom-2025 will be an amalgamation of four different Tracks organized parallel to each other, as enumerated hereunder Track #1: Sustainable Computing; Track #2: High Performance Computing; Track #3: High Speed Networking & Information Security; Track #4: Software Engineering & Emerging Technologies; Track #5: Information Engineering and Management Track #6: AI Advancements for Human-Centric Computing",
+      "callForPapers": "2026-12-07",
+      "url": "indiacom.org/",
+      "eventContact": "mca@bvicam.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Prof. M. N. Hoda, Bharati Vidyapeeth's Educational Campus, A-4, Paschim Vihar, Rohtak Road, New Delhi, New Delhi, , India, 110063, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2fPpwY40naUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70893,
+      "eventTitle": "2026 International Conference on AI-Driven Cybersecurity (AICYBER)",
+      "startDate": "2026-12-28",
+      "endDate": "2026-12-29",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Madras Section C Chapter; Madras Section CAS Chapter; Madras Section PC Chapter; S.A. Engineering College, Chennai, Tamilnadu, India",
+      "keywords": "Artificial Intelligence and Machine Learning,Cyber Security and Cyber-Physical Systems,Intelligent Data Analytics,Internet of Things (IoT),Smart and Secure Systems,Signal Processing and Computational Intelligence,Secure Communication Networks,Industry 4.0,",
+      "scope": "AICYBER 2026 aims to provide an international platform for researchers, academicians, industry professionals, and students to present and discuss recent advancements in Artificial Intelligence, Machine Learning, Cyber Security, Intelligent Systems, and Smart Technologies.  The conference focuses on addressing emerging challenges in secure intelligent systems through AI-driven models, cyber resilience, data intelligence, and sustainable digital transformation, aligned with global technological and societal needs.",
+      "callForPapers": "2026-06-10",
+      "url": "www.saec.ac.in/ieeeaicyber2026/",
+      "eventContact": "drnalini@saec.ac.in",
+      "sponsorTypes": "3; 5; 5; 5; 9",
+      "venues": "S.A. Engineering College (Autonomous), Poonamallee - Avadi Main Road, Chennai - 600077, Tamil Nadu, India, Chennai, , India, 600077, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

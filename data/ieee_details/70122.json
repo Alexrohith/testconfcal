@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: obTvwY404qIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70122,
+      "eventTitle": "2026 7th International Conference on Communication, Computing & Industry 6.0 (C2I6)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; CMR Institute of Technology",
+      "keywords": "Industry Standard 6.0,5G Mobile Communication,Machine Learning,Deep Learning,Signal Processing,Sensor Networks,Big Data,Natural Language Processing,Artificial Intelligence,Cryptography,Edge Computing,Computer Vision,Cloud Computing,Analog Circuits,Digital Circuits,Power Electronics,Energy Efficient Computing,Bio-inspired Computing,Smart Manufacturing,Robotics and Automation,Autonomous Vehicles,Design Automation,Artificial intelligence,",
+      "scope": "The 7th International Conference on Communication, Computing, and Industry 6.0 is a global platform for the researchers to exchange research results and ideas on the Communication, Computing, and Industry 6.0. This conference aims to bring together experts from many sectors to create a linked ecosystem inspired by the sixth industrial revolution. C2I6-2025 aims to enhance industry-academic engagement and bridge the gap between the two by encouraging peer-reviewed paper submissions, keynotes, invited lectures, and panel discussions. The conference is also a great opportunity for students and researchers to improve their research skills.",
+      "callForPapers": "2026-08-15",
+      "url": "sites.google.com/cmrit.ac.in/c2i6-2026",
+      "eventContact": "senthil.v@cmrit.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "CMR Institute of Technology, 132 AECS Layout, ITPL Main Road, Kundalahalli, , Bengaluru, , India, 560037, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: tN2Ux4409L4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71731,
+      "eventTitle": "2026 IEEE Tunisian RAS Students and Young Professional Congress (TRSYP)",
+      "startDate": "2026-10-03",
+      "endDate": "2026-10-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Sousse",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "Nat'l Inst of Applied Sci/Tech (INSAT) STB; National Institute of Applied Sciences & Tech RA SBC; Tunisia Section; Tunisia Section RA Chapter; Tunisia Section YP Affinity Group",
+      "keywords": "Engineering students,Young professionals,Congress,Workshops,TRSYP,Networking,IEEE,",
+      "scope": "Tunisian RAS Student and Young Professionals (TRSYP) is an annual congress that brings together IEEE members and non-members alike, fostering an inclusive environment for collaboration and innovation. Through specialized workshops, technical sessions, research presentations, and student competitions and challenges, TRSYP promotes hands-on learning, knowledge sharing, and the development of cutting-edge solutions in robotics and automation. The congress unites students, young professionals, researchers, and industry experts to explore emerging technologies, strengthen professional networks, and contribute to technological impact at both national and international levels.",
+      "callForPapers": "",
+      "url": "rtc.ieee.tn/",
+      "eventContact": "ahmedaouididi@ieee.org",
+      "sponsorTypes": "3; 5; 5; 5; 5",
+      "venues": "Concorde Green Park Palace, , , , , Port El Kantaoui, Sousse, , Tunisia, 4089, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

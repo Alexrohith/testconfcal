@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ytajx4400rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70488,
+      "eventTitle": "2027 IEEE 24th International Conference on Software Architecture (ICSA)",
+      "startDate": "2027-03-08",
+      "endDate": "2027-03-12",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Software Architecture,Software quality,software enginnering,",
+      "scope": "The International Conference on Software Architecture (ICSA) is the leading forum for researchers and practitioners interested in software architecture, component-based engineering, and quality attributes in modern systems. Continuing its tradition as a working conference, ICSA brings together academics and industry professionals to exchange insights, discuss real-world architectural challenges, and shape the future of the field.  ICSA welcomes contributions on all aspects of software architecture, including foundations and theory, architecture design and evaluation, evolution and maintenance, quality attributes and trade-offs, architecture knowledge and patterns, architecture for AI- and data-intensive systems, and industrial case studies. The conference encourages strong engagement between research and practice to advance both the science and the craft of software architecture.",
+      "callForPapers": "2026-08-14",
+      "url": "conf.researchr.org/home/icsa-2027",
+      "eventContact": "xiwei.xu@data61.csiro.au",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Sydney, , Australia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

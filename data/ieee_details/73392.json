@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3/Kkx4402bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73392,
+      "eventTitle": "2027 IEEE 27th International Symposium on Cluster, Cloud, and Internet Computing (CCGrid)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-27",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Denton",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Cloud Computing, Edge Computing, Computer Systems, Distributed Computing, Compute Continuum, AI Systems, High-Performance Computing (HPC), Internet Computing, Scalable Systems,",
+      "scope": "IEEE CCGrid is a premier international conference dedicated to the design, implementation, evaluation, and operation of scalable distributed systems. Its scope encompasses the full computing continuum, including clusters, cloud computing, edge and fog computing, high-performance computing (HPC), and emerging AI infrastructures. The conference brings together researchers and practitioners working on system architectures, middleware, resource management, cloud-native technologies, distributed AI, performance optimization, sustainability, and next-generation computing platforms. CCGrid emphasizes innovative systems research that advances the foundations and applications of distributed computing while addressing the challenges of modern, large-scale, heterogeneous, and intelligent systems.  The conference features keynotes, technical presentations, posters, workshops, the SCALE challenge featuring live demonstrations and collocates ICFEC and QSys conferences.",
+      "callForPapers": "2026-11-24",
+      "url": "hpcclab.org/ccgrid27/",
+      "eventContact": "mohsen.amini@gmail.com",
+      "sponsorTypes": "1",
+      "venues": "Embassy Suites by Hilton, 3100 Town Center Trail, , , , Denton, TX, USA, 76201, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

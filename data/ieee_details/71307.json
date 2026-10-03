@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: i6bhwY40iqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71307,
+      "eventTitle": "2026 9th International Conference on Image and Signal Processing and their Applications (ISPA)",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Ouargla",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Algeria Section ED Chapter; Algeria Section SSC Chapter; Electrical Engineering Laboratory- Université Kasdi Merbah Ouargla; Université Kasdi Merbah Ouargla",
+      "keywords": "Image processing,Signal processing,Machine and Deep learning,Biomedical engineering,Telecommunications,Speech processing,Robotics,Acoustic Applications,",
+      "scope": "The 9th International Conference on Image and Signal Processing and Their Applications (ISPA 2026) will focus on image and signal processing, particularly in artificial intelligence. This conference is an interdisciplinary platform for showcasing new advances and research findings in computer vision, deep learning, machine learning, image processing technologies, signal processing, telecommunications, automatics, and robotics. ISPA 2026 aims to unite leading academic scientists, researchers, and scholars worldwide in these fields of interest.",
+      "callForPapers": "2026-06-15",
+      "url": "www.univ-ouargla.dz/ISPA2026",
+      "eventContact": "korichi.maarouf@univ-ouargla.dz",
+      "sponsorTypes": "3; 5; 5; 9; 9",
+      "venues": "Faculty of New Technologies of Information and Communication, B. O. 511 Route de Ghardaia, , , , Ouargla, , Algeria, 30000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

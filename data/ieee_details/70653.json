@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: maaCx440/b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70653,
+      "eventTitle": "2026 International Conference on Intelligent Computing, Information and Control Systems (ICOIICS)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Lalitpur",
+        "region": "",
+        "country": "Nepal"
+      },
+      "sponsors": "IEEE Electron Devices Society; Nepal College of Information Technology",
+      "keywords": "Intelligent Computing,Information Systems,Artificial Intelligence,Smart Electronics,Cognitive Computing,Power Electronics,",
+      "scope": "The International Conference on Intelligent Computing, Information and Control Systems (ICOIICS) aims to bring together researchers and practitioners from both academia and industries to share their latest innovations, trends, and challenges in the fields of intelligent computing, information systems, and control systems. This year, the conference theme is centered on advancing the electronic devices and systems, exploring how advancements in intelligent computing and control systems can enhance the design, functionality, and efficiency of electronic devices and systems. ICOIICS 2026 invites research submission on innovative solutions, case studies, theoretical frameworks and experimental results that contribute to the advancement of intelligent computing, information systems, control systems, and their integration with electronic devices and systems.",
+      "callForPapers": "2026-07-20",
+      "url": "iciics.com/2026/",
+      "eventContact": "infoiciics@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Nepal College of Information Technology, Balkumari, , , , Lalitpur, , Nepal, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

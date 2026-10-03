@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 34HiwY405qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73301,
+      "eventTitle": "2027 2nd International Conference on Robot Perception and Intelligent Control (RPIC)",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Zhejiang University",
+      "keywords": "Robot Perception and Sensing,Intelligent Control and Decision,Embodied Intelligence and Interaction,Autonomous Systems and Applications,Machine Learning for Robotics,",
+      "scope": "The 2nd International Conference on Robot Perception and Intelligent Control (RPIC 2027) provides a dedicated forum for advancing research at the intersection of robot perception and intelligent control. The conference solicits original contributions spanning robot sensing and perception, intelligent control architectures, machine vision, deep learning for robotics, human-robot interaction, and autonomous systems. Particular attention is directed toward emerging developments in embodied intelligence, multi-modal perception, and adaptive control strategies for complex and dynamic environments. By convening researchers and practitioners from academic and industrial communities, RPIC 2027 endeavors to bridge theoretical progress with real-world implementation, fostering innovation that shapes the next generation of robotic and intelligent systems.",
+      "callForPapers": "2026-11-08",
+      "url": "www.icrpic.org/",
+      "eventContact": "rpic.conf@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Tobu Hotel Levant Tokyo, 1-2-2 Kinshi, Sumida-ku, Tokyo 130-0013, Japan, , , , Tokyo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

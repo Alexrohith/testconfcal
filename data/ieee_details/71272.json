@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: rLSdx440rrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71272,
+      "eventTitle": "2026 IEEE International Conference on Blockchain Technology and Information Security (ICBCTIS)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Zhengzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Zhongyuan University of Technology",
+      "keywords": "Image Data and Blockchain Technology,Blockchain in the Internet of things (IoT),Blockchain, Big Data and AI,Blockchain in Edge and Cloud Computing,Authentication and Authorization,Security for Mobile Computing,Network Intrusion,information security,Information protection,",
+      "scope": "The scope of the conference includes research, development, and applications of blockchain technology, computer networks, systems, and infrastructure against unauthorized access, attacks, and vulnerabilities.",
+      "callForPapers": "2026-09-28",
+      "url": "www.bctis.net/",
+      "eventContact": "hpzyutedu@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Huawise Hotel, No.97 Kexue Avenue,Jinshui District,Zhengzhou,Henan, China, , , , Zhengzhou, , China, 450000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

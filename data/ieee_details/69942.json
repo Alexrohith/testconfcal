@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: s4znwY40s6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69942,
+      "eventTitle": "2026 3rd International Conference on Computing and Data Science (ICCDS)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-10",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Rajalakshmi Engineering College",
+      "keywords": "Artifical Intelligence,Machine Learning,Deep Learning,Natural language Processing,Big Data Analytics,Medical Image Processing,Cloud Computing,Distributed Computing,Internet of Things,Human Computer Interaction,Virtual Reality & Augmented Reality,Information and Data Security,Green Computing,Smart Networking,Adhoc Networks,Network & Data Security,",
+      "scope": "This conference mainly focuses towards the evolving requirement for intelligent computing and communication. This conference aims to present an integrated platform for advanced and multidisciplinary research towards novelties that may be realistic to offer genuine solution to wideranging glitches in society, environment and industries. The Scope is also stretched out in the direction of deployment of emerging computational and knowledge transfer approaches, optimizing solutions in varied disciplines of science and technology. International Conference on Computing and Data Science (ICCDS-2026) is the platform where academicians and industry research present their contemporary findings so that new inclinations and thoughts on computing and communication can be explored. The key objective is to offer the participants all over the nation to share their ideas and experience with peers.",
+      "callForPapers": "",
+      "url": "ieeecsrec.org/iccds2026",
+      "eventContact": "duraimurugan.n@rajalakshmi.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "RAJALAKSHMI ENGINEERING COLLEGE, Rajalakshmi Nagar, Thandalam, , , Chennai, , India, 602105, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

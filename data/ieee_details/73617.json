@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4cT8xo40w7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73617,
+      "eventTitle": "2027 International Conference on Computer Applications and Artificial Intelligence (ICCAAI)",
+      "startDate": "2027-07-16",
+      "endDate": "2027-07-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section IT Chapter; RNS Institute of Technology Bangalore ",
+      "keywords": "IEEE CONFERENCE,RSN CONFERENCE,SCOPUS INDEXED CONFERENCE,",
+      "scope": "The scope of the International Conference on Computer Applications and Artificial Intelligence (ICCAAI) is to provide an international forum where researchers, academicians, industry professionals, and students present and discuss advances in computer applications, artificial intelligence, and related technologies. The conference encourages both theoretical research and practical applications that address real-world challenges",
+      "callForPapers": "2027-02-02",
+      "url": "icetes.com/",
+      "eventContact": "nageshbs@rnsit.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "RNS Institute of Technology, r. Vishnuvardhan Road, Post, Channasandra, Rajarajeshwari Nagar,, Bengaluru, Karnataka 560098, , , Bengaluru, , India, 560098, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

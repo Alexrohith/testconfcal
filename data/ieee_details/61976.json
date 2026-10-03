@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: puHqwY40t6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 61976,
+      "eventTitle": "GLOBECOM 2027 - 2027 IEEE Global Communications Conference",
+      "startDate": "2027-12-06",
+      "endDate": "2027-12-10",
+      "about": "Communication, Networking and Broadcast Technologies; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Abu Dhabi",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Adhoc Wireless Networks,5g Mobile Communication,6g Mobile Communication,Optical communication,Cognitive radio,Signal Processing,IoT and Industrial Systems,Vehicular and wireless technologies,Ai and Machine Learning for Wireless Communication,",
+      "scope": "IEEE GLOBECOM is a flagship conference of the IEEE Communications Society. It will feature a comprehensive high-quality technical program including 13 symposia and a variety of tutorials and workshops. IEEE GLOBECOM 2027 will also include an attractive Industry program, with keynotes and panels from prominent research, industry and government leaders, business and industry panels, and vendor exhibits.",
+      "callForPapers": "",
+      "url": "globecom2027.ieee-globecom.org",
+      "eventContact": "mahmoud.alqutayri@ku.ac.ae",
+      "sponsorTypes": "1",
+      "venues": "Abu Dhabi National Exhibition Centre, Khaleej Al Arabi Street, P.O. Box 5546, , , Abu Dhabi, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

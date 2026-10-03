@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r9+gx440ubwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71186,
+      "eventTitle": "2026 13th International Conference on Data Science and Advanced Analytics (DSAA)",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-09",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "New Delhi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Computer Society; International Institute of Information Technology Hyderabad",
+      "keywords": "Data Science,Data Analytics,",
+      "scope": "Data Science, Data Analytics",
+      "callForPapers": "2026-05-01",
+      "url": "dsaa2026.dsaa.co/",
+      "eventContact": "pkreddy@iiit.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Pride Plaza Hotel, Asset 5-A, Hospitality District, Indira Gandhi International Airport, Aerocity, , New Delhi, , India, 110037, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

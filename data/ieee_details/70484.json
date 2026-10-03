@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4omax440l7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70484,
+      "eventTitle": "2026 3rd International Conference on Broadband Communications, Wireless Sensors and Powering (BCWSP)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Universitas Mercu Buana - Meruya Campus",
+      "keywords": "Signal Processing & Analysis,Robotics & Control Systems,Power, Energy, & Industry Applications,Photonics & Electro-Optics,Fields, Waves & Electromagnetics,Computing & Processing (HardwareSoftware),Components, Circuits, Devices & Systems,Communication, Networking & Broadcasting,",
+      "scope": "Signal Processing & Analysis Robotics & Control Systems Power, Energy, & Industry Applications Photonics & Electro-Optics Fields, Waves & Electromagnetics Computing & Processing (Hardware/Software) Components, Circuits, Devices & Systems Communication, Networking & Broadcasting",
+      "callForPapers": "2026-05-31",
+      "url": "bcwsp.mercubuana.ac.id/",
+      "eventContact": "ahmad.firdausi@mercubuana.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Gedung Tower Lantai 7 Universitas Mercu Buana, Jl. Meruya Selatan, No.1, Kembangan, Jakarta Barat, , , , Jakarta, , Indonesia, 11650, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

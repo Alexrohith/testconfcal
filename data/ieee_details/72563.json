@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ov2Dx440hr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72563,
+      "eventTitle": "2026 14th International Japan-Africa Conference on Electronics, Communications, and Computations (JAC-ECC)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-16",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "ALEXANDRIA",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Egypt University of Informatics; Egypt-Japan University of Science and Technology; Kyushu University",
+      "keywords": "Electronics, Communications,Compuation,microwaves,Antennas,big data ,artificial intelligence,image and video processing,BIOMEDIAL ENGINEERING,INTERNET OF THINGS,,",
+      "scope": "JAC-ECC is a venue for extending collaboration between prominent Japanese, African and International researchers from academia and industry in the fields of electronics, communications, and computer engineering.",
+      "callForPapers": "2026-10-01",
+      "url": "jac-ecc.ejust.edu.eg",
+      "eventContact": "aallam@ualberta.ca",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Egypt-Japan University of Science and Technology, , , , , , , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

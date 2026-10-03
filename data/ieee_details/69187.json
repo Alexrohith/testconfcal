@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rMrdwY402qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69187,
+      "eventTitle": "2027 1st International Conference on Advances in Intelligence Systems, Security, and Cybernetics (AIS2C)",
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Bhubaneswar Section COM/C Jt. Chapter; Siksha O Anusandhan University",
+      "keywords": "Machine Learning,Deep Learning,Internet of Things,System Security,Control, Robotics And Mechatronics,Cloud Computing,",
+      "scope": "The conference aims to provide a premier interdisciplinary platform for researchers, scholars, and industry experts to present and discuss the most recent innovations, trends, challenges, and solutions in the fields of Imaging Technologies, Intelligent Systems, and security applications. In today’s data-centric era, imaging has evolved beyond traditional frameworks into an expansive field encompassing medical diagnostics, remote sensing, hyperspectral vision, and pattern-driven recognition powered by deep learning and AI. Meanwhile, intelligent systems are transforming machines into autonomous, adaptive entities capable of perception, reasoning, and action. As these intelligent and imaging systems become increasingly interconnected and decentralized, the demand for resilient security and privacy-preserving technologies becomes critical to safeguard infrastructure, data, and trust in AI-powered ecosystems.",
+      "callForPapers": "2026-03-31",
+      "url": "ais2c.in",
+      "eventContact": "ajitnayak@soa.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "ITER, Siksha 'O' Anusandhan (Deemed to be University), Jagamara, Khandagiri, , , Bhubaneswar, , India, 751030, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

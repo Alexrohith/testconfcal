@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 15jrwY40z6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72036,
+      "eventTitle": "2026 IEEE Electronic Design Process Symposium (EDPS)",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-01",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Photonics and Electrooptics; Robotics and Control Systems",
+      "location": {
+        "city": "Milpitas",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Council on Electronic Design Automation",
+      "keywords": "Design Automation,Agentic AI,Artificial Intelligence,Machine Learning,Smart Manufacturing,Design for Security,Design for Trust,Silicon Photonics,Electronic Design Automation,Design Co-optimization,5G 6G Infrastructure,Advanced Packaging Technologies,3DIC,TSV,ADAS,",
+      "scope": "IEEE EDPS serves as a leading forum for thought leaders of the design community. Industry leaders discuss state-of-the-art improvements to the electronic design processes and CAD methodologies, emphasizing trends and new paradigms. IEEE EDPS focus will include Smart Design and Manufacturing (CAD/Test/Manufacturing tools), looking at new developments in systems approach to design and manufacturing, AI support and applications, advanced technologies, and the tools that support these. EDPS has always emphasized topical trends in electronics design and manufacturing, with special emphasis on methodology.",
+      "callForPapers": "",
+      "url": "https://ieee-edps.com",
+      "eventContact": "devangkumar.a.jariwala@intel.com",
+      "sponsorTypes": "1",
+      "venues": "SEMI HQ, 673 South Milpitas Blvd., , , , Milpitas, CA, USA, 95035, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

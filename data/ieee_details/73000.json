@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 696Bx44037oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73000,
+      "eventTitle": "TENCON 2027 - 2027 IEEE Region 10 Conference (TENCON)",
+      "startDate": "2027-11-07",
+      "endDate": "2027-11-10",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Busan",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "Region 10 - Asia and Pacific; Seoul Section",
+      "keywords": "Antennas,Artificial Intelligence,Biomedical Engineering,Circuits and systems,Communications And Networking,Computational Intelligence,Electronic Materials,Quantum Technologies,Robotics,Signal Processing,",
+      "scope": "• Antennas and Propagation • Artificial Intelligence and Machine Learning • Biomedical Engineering and Healthcare Technologies • Circuits and Systems • Communications and Networking • Computing and Computational Intelligence • Education in Engineering and Technology • Electronic Materials and Devices • Emerging Technologies • Power and Energy • Quantum Technologies • Robotics, Control, and Automation • Security • Signal Processing",
+      "callForPapers": "2027-04-30",
+      "url": "tencon2027.org",
+      "eventContact": "cagmeetings@gmail.com",
+      "sponsorTypes": "2; 3",
+      "venues": "Busan Port International Exhibition & Convention Center (BPEX), Chungjang-daero, 206 , Dong-gu, , ,  Busan, , Korea (South), 48751, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

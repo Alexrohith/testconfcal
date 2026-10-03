@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 95fCwo40l6cBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69344,
+      "eventTitle": "2026 15th International Conference on Control, Automation and Information Sciences (ICCAIS)",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-25",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "KitaKyushu",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Nippon Institute of Technology (NIT); Tokyo/FK/KN/NG/SP/SN/SK/SE Jt Sec SMC Chap",
+      "keywords": "Intelligent Control,Mobile Robots,Information Fusion,Grasping and Manipulation,Precision Guidance,Soft Robots; actuator sensor and control,Machine Learning,Positioning,AI Control Algorithms,SLAM,Data Mining,Autonomous Mobility,Linear / Nonlinear Filtering,Power Electronics,Finite Set Statistics,Energy Conversion,Target Tracking,Smart Home/Buildings/Cities,Signal Processing & Applications,Forecasting & Simulation,Sensors and Instrumentations,Networked Systems,Real-time Embedded System,Electric Ve",
+      "scope": "General areas of Control, Robotics, Automation, and Information Sciences. Topics of interest include, but are not limited to the keywords above.",
+      "callForPapers": "2026-07-20",
+      "url": "ds2eldia.jp/iccais2026/",
+      "eventContact": "ikoma@nit.ac.jp",
+      "sponsorTypes": "1; 5; 9",
+      "venues": "Kitakyushu International Conference Center, 3-8-1 Asano, Kokurakita-ku, Kitakyushu-shi, Fukuoka, KitaKyushu, , Japan, 802-0001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

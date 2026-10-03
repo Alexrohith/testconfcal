@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3vuHx440or4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73976,
+      "eventTitle": "2027 International Conference on Engineering Education and Information Technology (EEIT)",
+      "startDate": "2027-03-27",
+      "endDate": "2027-03-29",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Education Society; Kogakuin University",
+      "keywords": "Innovative Engineering Education,Curriculum Development and Design,New Technologies in Engineering Education,Artificial Intelligence,Big Data Analytics,Industry and Education Collaboration,Cyber Security,",
+      "scope": "With the theme of \"AI-Driven Innovation in Engineering Education\", EEIT explores how artificial intelligence and emerging technologies are reshaping educational paradigms. The conference will feature keynote speeches, invited talks, paper presentations, and interactive sessions covering curriculum design, intelligent learning systems, modern teaching methodologies, and the integration of AI in educational practices.",
+      "callForPapers": "2026-11-05",
+      "url": "www.eeit.net/",
+      "eventContact": "fangyu@iiai.net",
+      "sponsorTypes": "1; 9",
+      "venues": "TKP Tokyo Station Conference Center, , , , , , , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

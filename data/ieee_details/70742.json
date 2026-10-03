@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sbrnwY40tqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70742,
+      "eventTitle": "2026 3rd International Symposium on AI and Cybersecurity (ISAICS)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Rizhao",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Qufu Normal University",
+      "keywords": "Deep learning,Machine Learning,Natural Language Processing,Human-computer interaction,Robotics ,Computer vision,Internet privacy,Computer security,Mobile security,Network security,Information dissemination safety,Cloud computing security,Wireless security,",
+      "scope": "ISAICS 2026 centers on the convergence of artificial intelligence technologies and cybersecurity practices. The conference will explore diverse topics such as: AI-powered threat detection and response systems; security challenges arising from machine learning and deep learning; privacy issues associated with AI technologies; and cybersecurity measures for protecting critical infrastructure, among others. It will feature presentations of original research and novel applications in these areas, tackling significant challenges and highlighting the latest progress in this fast-developing field.",
+      "callForPapers": "2026-09-18",
+      "url": "www.isaics.net/",
+      "eventContact": "jingxiong_qf@126.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Qufu Normal University, No. 80, Yantai North Road, Donggang District, Rizhao City, Shandong Province, , , , Rizhao, , China, 276827, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

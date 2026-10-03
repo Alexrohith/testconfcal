@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8ZGFx4409LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73437,
+      "eventTitle": "2027 International Conference on Intelligent Power, Energy and Sustainable Systems (IIPESS)",
+      "startDate": "2027-03-26",
+      "endDate": "2027-03-28",
+      "about": "Components, Circuits, Devices and Systems; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jalandhar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Dr B R Ambedkar National Inst of Tech Jalandhar; IEEE Industrial Electronics Society",
+      "keywords": "Power system,Power electronics,Technology Innovation And Sustainability,Renewable energy sources,Control systems,Artificial intelligence,",
+      "scope": "The conference aims to provide a vibrant platform for academicians, researchers, industry professionals, and students to exchange ideas and showcase cutting-edge advancements in the domains of power systems, power electronics and drives, signal processing, and AI/ML. IIPESS-2027 is designed to foster collaboration, innovation, and knowledge exchange, addressing contemporary challenges in energy systems. It will serve as a catalyst for discussing developments in next-generation intelligent and sustainable energy solutions, supporting the global vision of a reliable, secure, and low-carbon energy future.",
+      "callForPapers": "",
+      "url": "www.iipess.org",
+      "eventContact": "gagandeep.dua13@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Dr B R Ambedkar National Institute of Technology Jalandhar, Jalandhar, , , , Jalandhar, , India, 144008, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wvHewY409qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72197,
+      "eventTitle": "2026 5th International Conference on Artificial Intelligence, Human-Computer Interaction and Robotics (AIHCIR)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Urumqi",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Xinjiang University",
+      "keywords": "advanced-robotics-and-automation,intelligent-robot,intelligent-computing,knowledge-discovery-and-machine-learning,intelligent-man-machine-interaction,artificial-intelligence-and-robotics,",
+      "scope": "AIHCIR 2026 focuses on advancing interdisciplinary research at the intersection of Artificial Intelligence (AI), Human-Computer Interaction (HCI), and Robotics, covering critical areas such as intelligent systems design, knowledge acquisition and fusion, ergonomic user experiences, robot learning, machine learning applications, and AI-driven automation. The conference aims to explore innovative solutions for seamless human-AI collaboration, adaptive robotics, and data-driven decision-making in real-world scenarios.",
+      "callForPapers": "2026-09-20",
+      "url": "www.aihcir.org/",
+      "eventContact": "kurban_edu@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Mingyuan New Times Hotel, Urumqi Mingyuan New Era Hotel (Meimei MM2 Shopping Center Autonomous Region Museum), No.739 Youhao North Road, Shayibak District, Urumqi, Xinjiang, China., , , , Urumqi, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

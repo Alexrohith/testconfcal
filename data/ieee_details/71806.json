@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 14f9xo401boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71806,
+      "eventTitle": "2026 2nd International Conference on Computational Intelligence for Smart Power System and Sustainable Energy (CISPSSE)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bhawanipatna",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section CT Chapter; Government College of Engineering, Kalahandi",
+      "keywords": "Sustainable Energy & Grid Integration,E-Mobility & Intelligent Transportation,VLSI Circuits & Hardware Security,Computer IoT and Artificial Intelligence,Advanced Computing & Connectivity,Intelligence in Power & Energy Systems,",
+      "scope": "The 2nd International Conference on Computational Intelligence for Smart Power System and Sustainable Energy (CISPSSE-2026) is a premier interdisciplinary forum dedicated to the evolution of resilient, global energy systems. By uniting pioneers across fields like Smart Grid technologies, Renewable Energy Integration, and Cybersecurity, the conference fosters innovation in Intelligent Energy Management and advanced Circuits/VLSI Technology. With specialized tracks covering Electric Vehicles, Energy Storage, and Sustainable Computing, CISPSSE-2026 provides a comprehensive platform to explore state-of-the-art research and cutting-edge solutions for a sustainable future.",
+      "callForPapers": "2026-06-30",
+      "url": "www.cispsse.com/",
+      "eventContact": "niranjan.rayfcs@kiit.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Government College of Engineering, Kalahandi , At P.O: Bandopala, Bhawanipatna , Dist: Kalahandi, , , Bhawanipatna, , India, 766003, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

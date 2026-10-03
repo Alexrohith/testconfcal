@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +OyFx440irsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73127,
+      "eventTitle": "2027 IEEE 24th International Multi-Conference on Systems, Signals & Devices (SSD)",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-25",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Tunis",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "Algeria Section; Algeria Section ITS Chapter; Association Tunisienne des Sciences Appliquees et de la Technologie; IEEE Africa Council; Tunisia Section; Tunisia Section CS Chapter; Tunisia Section SSC Chapter",
+      "keywords": "Systems Automation and control, Power Systems and Smart Energies, Communication Signal and Image Processing, Information Technology, Sensors Circuits, IoT, Instrumentation Systems, Artificial intelligence, Deep learning, LLM, Industrial applications, Engineering and IT education,information technology,artificial intelligence,engineering education,deep learning,computer science,,",
+      "scope": "Electrical and Computer Engineering, Information Technology",
+      "callForPapers": "2026-11-02",
+      "url": "www.ssd-multiconf.org",
+      "eventContact": "mohamed.djemel@enis.tn",
+      "sponsorTypes": "3; 3; 4; 5; 5; 5; 9",
+      "venues": "South Mediterranean University (SMU), Les berges du Lac II, , , , Tunis, , Tunisia, 1053, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

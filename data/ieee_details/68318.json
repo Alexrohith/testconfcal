@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: n4uGx440lr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68318,
+      "eventTitle": "2026 IEEE International Conference on Space, AI and Aerial Robotics (SAIROB)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Geoscience; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "PENANG",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section CS Chapter",
+      "keywords": "Control, Robotics And Mechatronics,Robotics and automation,Unmanned Autonomous Vehicles,SYSTEM MODELLING,Global Satellite Navigations Systems (GNSS),SWARM ROBOTICS,Artificial intelligence,Aerospace Engineering,SPACE ROBOTICS,Computational intelligence,Interplanetary Exploration,",
+      "scope": "This conference covers the area of  • Planetary and Space Robotics • Satellite Technologies and Space Formations • Human-Robot Interaction and Virtual Environment  • Control, Navigation and Guidance Systems for UAS • UAS Design, Modeling and Simulation • Safety, Security and Regulations • UAS Applications in Various Sectors  • Swarm Robotics and Multi-agent Systems  • AI and Machine Learning in UAS and Space Robotics  • Other Related Areas",
+      "callForPapers": "2026-02-27",
+      "url": "sairob.acscrg.com/2026/",
+      "eventContact": "szaimy79@gmail.com",
+      "sponsorTypes": "5",
+      "venues": "Park Royal Penang Resort, Feringghi Beach, , , , , Penang, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

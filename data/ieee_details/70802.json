@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gPf4xo40w70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70802,
+      "eventTitle": "2026 IEEE 12th International Conference on Computing, Engineering and Design (ICCED)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Buraimi",
+        "region": "",
+        "country": "Oman"
+      },
+      "sponsors": "Indonesia Section CIS Chapter; Nusa Putra University; Oman Section",
+      "keywords": "Affective Computing,Computer Networks,Artificial Intelligence,Deep Learning,Electrical Engineering,Control, Robotics And Mechatronics,Signal Processing,Big Data,Data Mining,Data Science,Data Security,Design Engineering,Algorithm Design And Theory,Green Design,Computers and information processing,Information Science,Information Security,Cyber Security,Information Engineering,Electrical engineering computing,Power engineering computing,Software Engineering,Data Engineering,Architecture Enterprise,",
+      "scope": "the scope of ICCED is in the area of Computing, Engineering, and Design, including the Generative AI, Deep Learning, Artificial Intellogence, Data Mining, Cybersecurity, Information Security, Information System, Electrical Engineering, and Design Engineering",
+      "callForPapers": "2026-04-09",
+      "url": "icced.nusaputra.ac.id/",
+      "eventContact": "tmantoro@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "University of Buraimi, , , , , Buraimi, , Oman, 512, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6unCwo40nacBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72880,
+      "eventTitle": "2027 15th International Electrical Engineering Congress (iEECON)",
+      "startDate": "2027-03-03",
+      "endDate": "2027-03-05",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Rayong",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Electrical Engineering Academic Association - Thailand (EEAAT); PES Thailand Section Chapter, PE31; Thailand Section",
+      "keywords": "energy,renewable energy,smart grid,digital signal processing,power system,image and video processing,biomedical engineering,machine learning,Artificial intelligence,energy storage,computer network,computer security,electronics,power electronics,high voltage engineering,energy conversion,communication,antennas and propagation,optical communication,microwave,wireless communication,control,industrial and technology,semicoductor,robotics,circuit desigpower quality,cloud computing,IoT,",
+      "scope": "All submitted papers undergo double-blind peer review by at least three independent reviewers. Accepted and presented papers will be submitted for inclusion in IEEE Xplore Digital Library.",
+      "callForPapers": "2026-10-01",
+      "url": "https://www.ieecon.org/ieecon2027/",
+      "eventContact": "ieecon2027@pit.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Classic Kameo Rayong Hotel, , , , , Rayong, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

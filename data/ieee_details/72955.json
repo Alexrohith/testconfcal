@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lqudx440t78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72955,
+      "eventTitle": "2026 IEEE International Workshop on Wireless Sensing Technologies and Applications (IWSA)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "San Sebastián",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Council on RFID; Macau Section AP/MTT Joint Chapter; Spain Section",
+      "keywords": "Wireless Sensing,RFID tags,RF Technologies,Microwave Sensing,Internet of Things,Sensor Systems,Smart Sensing,Biomedical Sensing, Industrial Sensing,AI-enabled Sensing,",
+      "scope": "The event fosters interdisciplinary dialogue between academia and industry, promotes research-industry collaboration, and offers paper presentations, invited talks, special sessions, and technical activities. In partnership with the IEEE Council on RFID, IWSA 2026 will explore CRFID-focused initiatives, such as dedicated sessions or talks, to highlight RFID's role in advancing wireless sensing innovation and real-world deployment.",
+      "callForPapers": "2026-07-20",
+      "url": "www.apmtt.org/iwsa2026",
+      "eventContact": "yb57422@um.edu.mo",
+      "sponsorTypes": "1; 3; 5",
+      "venues": "Tecnun, University of Navarra,  Paseo Manuel Lardizabal, 13, , , Gipuzkoa,  San Sebastián, , Spain, 20018, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6a+Ax4408b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72134,
+      "eventTitle": "2026 23rd International Conference on Automation Technology (Automation)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hsinchu",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "Chinese Institute of Automation Engineers - CIAE; IEEE Systems, Man, and Cybernetics Society; National Council for Science and Technology; National Yang Ming Chiao Tung University; Robotics Society of Taiwan",
+      "keywords": "Robotics,Artificial intelligence,Sensor,Healthcare,Smart Manufacturing,Automation,",
+      "scope": "The International Conference on Automation Technology has been held annually since 2004. The conference focuses on the field of automation research, spanning diverse areas including intelligent manufacturing, smart healthcare, robotics, sensors, and artificial intelligence. Its scope covers the full spectrum of automation technologies, from cutting-edge sensing devices to downstream applications. Over the years, it has become a flagship academic conference for automation professionals, attracting at least 300–400 attendances annually, including professors, researchers and graduate students from academia. In 2026, Automation 2026 conference will be hosted by National Yang Ming Chiao Tung University (NYCU), with co-organization by Chinese Institute of Automation Engineers (CIAE) and the National Science and Technology Council (NSTC). The conference will focus on next-generation automation technologies driven by generative AI.",
+      "callForPapers": "2026-09-07",
+      "url": "www.automation2026.org/",
+      "eventContact": "yhliu182@nycu.edu.tw",
+      "sponsorTypes": "1; 9; 9; 9; 9",
+      "venues": "National Yang Ming Chiao Tung University, Engineering Building 5, 1001 Daxue Road, , , , Hsinchu, , Taiwan, 300093, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

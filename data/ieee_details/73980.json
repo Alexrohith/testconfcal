@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m6PcwY405aEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73980,
+      "eventTitle": "2026 International Conference on Digital Image Computing: Techniques and Applications (DICTA)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "Australian Pattern Recognition Society; New South Wales Section",
+      "keywords": "Computer Vision,Machine learning,Pattern Recognition,Deep Learning,Artificial Intelligence,",
+      "scope": "Computer vision, image processing, pattern recognition, and machine learning, covering fundamental methods and practical applications in image and video analysis, 3D vision, medical imaging, remote sensing, robotics, and related areas of artificial intelligence.",
+      "callForPapers": "2026-07-15",
+      "url": "dicta2026.dictaconference.org/",
+      "eventContact": "daochang.liu@uwa.edu.au",
+      "sponsorTypes": "3; 9",
+      "venues": "Rydges Sydney Central, 28 Albion St, , , , Surry Hills, NSW, , Australia, 2010, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

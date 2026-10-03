@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: npKHx440hLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73416,
+      "eventTitle": "2026 33rd National & 11th International Iranian Conference on Biomedical Engineering (ICBME)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "about": "Bioengineering; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Isfahan",
+        "region": "",
+        "country": "Iran"
+      },
+      "sponsors": "Iran Section; Isfahan University of Technology",
+      "keywords": "Biomedical Engineering; Artificial Intelligence in Medicine; Digital Health; Medical Imaging; Bioinformatics; Biomedical Signal Processing; Biomechanics; Healthcare Technologies; Medical Devices; Digital Twins,",
+      "scope": "The International Conference on Biomedical Engineering (ICBME 2026) provides a multidisciplinary forum for researchers, clinicians, engineers, scientists, and industry professionals to present and discuss recent advances in biomedical engineering. The conference focuses on emerging technologies and innovative research in areas including artificial intelligence in medicine, digital health, medical imaging, biomedical signal processing, bioinformatics, biomechanics, biomaterials, medical devices, healthcare technologies, digital twins, rehabilitation engineering, and related fields. The conference aims to foster collaboration between academia, healthcare institutions, and industry, and to promote the translation of research outcomes into clinical and healthcare applications.",
+      "callForPapers": "2026-08-22",
+      "url": "icbme.iut.ac.ir/en",
+      "eventContact": "ma.kharaziha@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Isfahan University of technology, Department of Materials Engineering, First Floor, Isfahan University of Technology (IUT) , , , , Isfahan, , Iran,  8415683111, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

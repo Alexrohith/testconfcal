@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yL2nx4406bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67578,
+      "eventTitle": "2027 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+      "startDate": "2027-06-01",
+      "endDate": "2027-06-05",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Bellevue",
+        "region": "Washington",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "high performance,Heterogeneous Networks,Multicore processing,Algorithms,scability,Synchronization,Protocols,network scheduling,load balancing,Application,peer crowd,social analysis,Scientific computing,Runtime,green power,Analytic Hierarchy Process,signal graphic,Exascale Computing,",
+      "scope": "IPDPS is an international forum for engineers and scientists from around the world to present their latest research findings in all aspects of parallel computation. In addition to technical sessions of submitted paper presentations, the meeting offers workshops, tutorials, and commercial presentations & exhibits. IPDPS represents a unique international gathering of computer scientists from around the world. Now, more than ever, we prize this annual meeting as a testament to the strength of international cooperation in seeking to apply computer science technology to the betterment of our global village",
+      "callForPapers": "2026-10-03",
+      "url": "www.ipdps.org",
+      "eventContact": "prasanna@usc.edu",
+      "sponsorTypes": "1",
+      "venues": "Hyatt Regency Bellevue, , , , , Bellevue, WA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

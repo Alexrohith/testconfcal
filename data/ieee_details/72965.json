@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7+Clx4407LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72965,
+      "eventTitle": "2026 8th International Communication Engineering and Cloud Computing Conference (CECCC)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; University of Cantabria",
+      "keywords": "Cognitive Radio and Cognitive Networks,Future Internet and Next-Generation Networking Architectures,High Performance Networks and Protocols,Big Data Data Management andAnalytics,QoS and Resource Management,Distributed OS and Middleware,",
+      "scope": "The 2026 8th International on Communication Engineering and Cloud Computing Conference (CECCC) will be held in Barcelona, Spain, from November 18-20, 2026. Sponsored by University of Cantabria, Spain, the conference aims to bring together experts to share scientific insights, foster collaboration, and advance the fields through fundamental and applied research.  Communication Engineering and Cloud Computing are rapidly evolving fields driving innovation and new research opportunities. Communication Engineering focuses on designing systems for seamless data transmission, while Cloud Computing provides on-demand computing resources over the internet. Their integration has led to technologies like SDN, NFV, and Fog Computing, enhancing communication system performance and scalability.",
+      "callForPapers": "2026-07-20",
+      "url": "www.ceccc.org",
+      "eventContact": "qiyang@umails.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Fira de Barcelona - Montjuic Venue , Av. Reina Maria Cristina, s/n 08004, Barcelona, Spain, , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

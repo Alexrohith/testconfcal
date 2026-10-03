@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ksv/xo407L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71358,
+      "eventTitle": "2026 International Conference on Computer and Drone Applications (IConDA)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuching",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section C Chapter; Universiti Teknologi MARA (UiTM), Sarawak Branch",
+      "keywords": "Computer Application,Artificial Intelligence,Robotic,Unmanned Vehicle,Drones,",
+      "scope": "The International Conference on Computer and Drone Applications (IConDA) focuses on advancing research and innovation in computer science and drone technologies, emphasizing their integration to drive digital innovation for sustainable development.",
+      "callForPapers": "2026-07-31",
+      "url": "rafflesia.uitm.edu.my/iconda/",
+      "eventContact": "bengyong@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": ", , , , , Kuching, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

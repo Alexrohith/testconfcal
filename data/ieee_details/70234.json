@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7v2dx440srwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70234,
+      "eventTitle": "2027 IEEE 23rd Conference on Factory Communication Systems (WFCS)",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Bilbao",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Industrial Communications, Industrial Wireless,Cyber Physical Systems,Factory Automation,Sensor Networks,Industrial Internet of Things,Time Sensitive Networking,5g6g in factories,AI in Industrial Networks,Industrial Automation,Digital Twins,Security in Factory Communications,",
+      "scope": "The 2027 IEEE Workshop on Factory Communication Systems (WFCS) is the largest IEEE conference exclusively dedicated to industrial communication systems and technologies. Its primary aim is to provide a forum for researchers, developers, and practitioners to review and discuss the latest trends, share innovative research directions, and explore future perspectives in the field. The conference focuses on communication solutions that support automation within factories and other industrial contexts, with special attention to recent developments, emerging trends, and new research insights shaping the future of industrial connectivity.",
+      "callForPapers": "2027-01-15",
+      "url": "WFCS2027.EHU.EUS",
+      "eventContact": "teresa.echevarria@ehu.eus",
+      "sponsorTypes": "1",
+      "venues": "University of the Basque Country (EHU), Bizkaia Aretoa, Abandoibarra Avenue, 3, , , Bilbao, , Spain, 48009, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

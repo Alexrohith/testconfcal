@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: z5Osx440lb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72216,
+      "eventTitle": "2026 6th International Conference on Signal Processing and Communication Technology (SPCT)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; The Chinese University of Hong Kong, Shenzhen",
+      "keywords": "Communication and Information Engineering,Signal analysis and processing,Sensor network,Information security,Pattern recognition,",
+      "scope": "SPCT 2026 is an international conference dedicated to the frontier fields of Signal Processing and Communication Technology. With a focus on scientific innovation and high-quality development, it provides a global platform for researchers, scholars, and industry practitioners to exchange insights and foster collaboration. The conference highlights advances in signal analysis, intelligent communication systems, and emerging technologies that are shaping next-generation information infrastructures. By integrating global academic resources, SPCT 2026 aims to strengthen international cooperation, support the development of the Greater Bay Area, and promote the translation of research outcomes into practical applications. Through interdisciplinary dialogue and worldwide participation, the conference seeks to accelerate scientific progress, cultivate innovation-driven ecosystems, and contribute to sustainable technological development.",
+      "callForPapers": "2026-10-01",
+      "url": "www.icspct.com/",
+      "eventContact": "spct.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "The Chinese University of Hong Kong, Shenzhen, China, 2001 Longxiang Boulevard, Longgang District, Shenzhen, Guangdong Province, China, , , , Shenzhen, , China, 518172, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

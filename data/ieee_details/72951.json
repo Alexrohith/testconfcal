@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gMSrx440p8ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72951,
+      "eventTitle": "2026 3rd International Conference on Image, Signal Processing and Communication Technology (ISPCT)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Dongguan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "City University of Hong Kong- Dongguan; Guangzhou Section",
+      "keywords": "Image Denoising and Enhancement,Image Feature Extraction and Pattern Recognition,Medical Image Processing,Real-time Signal Processing,Radar Signal Processing,Digital Signal Processing,Signal Classification and Anomaly Detection,Optical Communications,Satellite Communication,Terahertz and Millimeter Wave Communication,Wireless Sensor Networks,",
+      "scope": "ISPCT 2026 will serve as a key international academic platform for advancing image processing, signal processing, and communication technologies, bringing together global experts, researchers, and practitioners to share innovations, tackle interdisciplinary challenges, and promote academic collaborations. Its research scope will cover image denoising, enhancement, and segmentation, medical image processing, 3D reconstruction and image generation, radar remote sensing signal processing, digital signal filtering, target detection, biomedical signal processing, microwave and optical communication, 5G/6G intelligent resource management, satellite communication, wireless sensor networks, terahertz communication, AI enabled communication network optimization, and deep learning based signal detection. Attendees will access cutting edge research, participate in in depth academic exchanges, and expand academic networks, jointly boosting innovation and development in these fast growing fields.",
+      "callForPapers": "2026-09-19",
+      "url": "www.ispct.org/",
+      "eventContact": "mazlina.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "City University of Hongkong (Dongguan), No. 8 Gaoxiong Road, Songshan Lake High-tech Industrial Development Zone, Dongguan City, Guangdong Province, China, , , , Dongguan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

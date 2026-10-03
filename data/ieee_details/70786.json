@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8qjowY40u6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70786,
+      "eventTitle": "2026 3rd International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR)",
+      "startDate": "2026-12-21",
+      "endDate": "2026-12-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Hyderabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Hyderabad Section; Vardhaman College of Engineering",
+      "keywords": "Artificial Intelligence,Pattern Recognition,Data Analytics and Visualizations,Network & Information Security and Privacy,Machine Learning ,Data Science,Computer Networks,Learning (artificial Intelligence),Deep Learning,Neural Networks,Computer Vision,Natural Language Processing (NLP),Big Data Analytics,Federated Learning,Reinforcement LearniCloud Computing in AI,AI in Cybersecurity,Smart Applications,AI for Healthcare,Emerging AI Trends,AI in",
+      "scope": "The International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR) provides a global platform for researchers, academicians, and industry professionals to exchange knowledge and explore innovations in AI and its applications. The scope of the conference spans Future Trends in AI, including conversational and generative AI, robotics, big data, language processing, deep learning, computer vision, biometrics, and AI for healthcare and gender equality. It covers Data Analytics and Visualizations, focusing on predictive analytics, LLM models, ethical considerations, finance, supply chain, smart cities, and AI for precision agriculture. The track on Network & Information Security and Privacy emphasizes IoT security, quantum cryptography, blockchain, cloud security, and AI for food, water, and healthcare safety. Sustainable Advances in High Performance Computing address parallel, distributed, hybrid, and quantum computing for smart cities and Industry 5.0.",
+      "callForPapers": "2026-03-16",
+      "url": "icaitpr.com/",
+      "eventContact": "info@vardhaman.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Vardhaman College of Engineering, Kacharam, Shamshabad, Hyderabad, Telangana, Hyderabad, , India, 501218, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7LTswY4026IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70790,
+      "eventTitle": "2026 IEEE International Conference on Advanced Materials, Devices and Energy Systems (ICAMDES)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Gandhinagar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gujarat Section; Pandit Deendayal Energy University",
+      "keywords": "Power and Energy Systems,Advanced Functional Materials,Nanoelectronics and Photonics,Embedded Systems and IoT,Smart Grids and Electric Mobility,Renewable Energy and Sustainability,Digital twin frameworks and data-driven simulations,Computational Modelling, Artificial Intelligence and Machine Learning,",
+      "scope": "The International Conference on Advanced Materials, Devices and Energy Systems (ICAMDES-2026) is proposed to be jointly organized by the Departments of Electrical Engineering and Physics at Pandit Deendayal Energy University (PDEU). The conference aims to bring together researchers, academicians, industry professionals, and students from around the world to share and discuss advances across materials science, devices, and energy systems.  With the global transition toward sustainable and digital energy ecosystems, the integration of advanced materials, intelligent devices, and smart energy systems is crucial. This conference provides a unique platform that bridges fundamental physics-based innovations and engineering applications in energy, automation, and materials technology. Participants will gain insights into the latest research trends, industry challenges, and technological advancements that are shaping the future of energy and materials.",
+      "callForPapers": "2025-09-15",
+      "url": "",
+      "eventContact": "amitvsant@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Pandit Deendayal Energy University, PDPU Road, Raisan, Gandhinagar, Gujarat, , Gandhinagar, , India, 382426, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

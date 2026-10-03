@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4I3vwY403qIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72444,
+      "eventTitle": "2026 International Conference on Green Energy and Artificial Intelligence (GEAI)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Systems, Man, and Cybernetics Society; Nanyang Technological University",
+      "keywords": "Machine Learning and Deep Learning Algorithms,AI-based renewable energy modeling and control,Green Energy and Renewable Energy Systems,Photovoltaic Power Generation and Solar Energy Forecasting,Wind Farm Layout Optimization and Power Forecasting,Intelligent Power and Energy Systems,Industrial Power Systems and Smart Applications,Industrial Microgrid Renewable Energy Integration and Intelligent Control,Intelligent Forecasting and Time Series Analysis for Industrial Power Systems,",
+      "scope": "GEAI 2026 is poised to emerge as a cornerstone international hub dedicated to advancing green energy initiatives and AI-powered energy technologies. It will gather leading experts, researchers, and industry practitioners from across the globe to showcase groundbreaking innovations in core domains, including machine learning and deep learning algorithms, AI-based renewable energy modeling and control, green energy and renewable energy systems, photovoltaic power generation and solar energy forecasting, wind farm layout optimization and power forecasting, intelligent power and energy systems, intelligent forecasting and time series analysis for industrial power systems, and industrial microgrid renewable energy integration and intelligent control. Beyond serving as a forum for idea exchange, GEAI 2026 is designed to catalyze synergistic cooperation among global stakeholders and pave the way for actionable, sustainable solutions to address the pressing energy challenges.",
+      "callForPapers": "2026-09-05",
+      "url": "www.icgeai.net/",
+      "eventContact": "nla.wahab@outlook.com",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "Nanyang Technological University, 2 Handy Road, The Cathay,Singapore 229233, , , , Singapore, , Singapore, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

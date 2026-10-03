@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xeDCwo40iacBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71605,
+      "eventTitle": "2027 IEEE/SICE International Symposium on System Integration (SII)",
+      "startDate": "2027-01-11",
+      "endDate": "2027-01-14",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kobe",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Robotics and Automation Society; The Society of Instrument and Control Engineers - SICE",
+      "keywords": "System integration,Control technologies,Robotics,Machine Learning,Integration platforms,Software design,Mechatronics,Network system,Virtual Reality,Entertainment systems,Micro and Nano systems,Decision making systems,Hardware design,Human factors,Environment systems,Ecological systems,Rescue systems,Intelligent transportation systems,Large-scale infrastructure systems,Telecommunication systems,Medical devices,Rehabilitation systems,Human-robot interactioncollaboration,",
+      "scope": "IEEE/SICE SII is the premier symposium series presenting the state-of-the-art and future perspectives of system integration, where academic researchers and industry experts share ideas and experiences surrounding frontier technologies, research breakthroughs, and innovative solutions and applications. The 2027 IEEE/SICE International Symposium on System Integration (SII2027) will be as the 19th symposium on system integration. System integration is one of the key technologies and the integration of hardware and software is especially important to solve the industrial or socialsystem problems in new century.  This symposium focuses to the new research and industrial application of system integration, and discusses the approach method to improve effectiveness of system integration.",
+      "callForPapers": "2026-08-07",
+      "url": "sii2027.sice-si.org/",
+      "eventContact": "yase@mech.kindai.ac.jp",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "Kobe International Conference Center, 6-9-1, Minatojima-nakamachi, Chuo-ku, , , Kobe, , Japan, 650-0046, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2ImKx440p7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72047,
+      "eventTitle": "2026 IEEE International Conference on Automation/XXVII Congress of the Chilean Association of Automatic Control (ICA-ACCA)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Concepción",
+        "region": "",
+        "country": "Chile"
+      },
+      "sponsors": " Chilean Association of Automatic Control (ACCA); Chile Section CS Chapter; Chile Sur Section; Facultad de Ingenieria Universidad del Bio Bio",
+      "keywords": "Artificial intelligence,Biomedical Engineering,Communication,Computers and information,Computer networks,Engineering Education,Power Electronics,Power engineering and energy,Robotics and automation,Industry applications,Control Systems,Renewable Energy Systems,Automobile Electronics,",
+      "scope": "1. To bring together engineers from all disciplines of Electrical, Electronics, Computers, Automation, Biomedical Engineering, Industrial Engineering, 2. To promote friendship and cooperation between professionals, academics and students. 3. To promote the advancement and sharing of knowledge and experiences, discuss problems and establish cooperation among academics, professionals and students. 4. Disseminate and present recent research results and developments in all engineering areas 5. Give a chance continue education and be update through Plenary, Tutorials Courses6. Participate in Roundtable discussion (Forum Discussion) on important topics in our countries (energy, communications, automation, computing), and presentations from industry professionals.",
+      "callForPapers": "2026-06-30",
+      "url": "ieee-ica-acca-2026.ubiobio.cl",
+      "eventContact": "jsilva@ubiobio.cl",
+      "sponsorTypes": "3; 5; 9; 9",
+      "venues": "Universidad del Bío-Bío, Av. Collao 1202, Edificio Gantes, , , Concepción, , Chile, 4052292, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

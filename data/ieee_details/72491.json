@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nZ+lx4409L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72491,
+      "eventTitle": "2027 International Conference on Computing, Networking and Communications (ICNC)",
+      "startDate": "2027-02-15",
+      "endDate": "2027-02-18",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Honolulu",
+        "region": "Hawaii",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society; IEEE Computer Society; TIA - Technology Innovation Association",
+      "keywords": "Multimedia,Communications,Networking,Cloud Computing,",
+      "scope": "Cloud Computing and Big Data Communications and Information Security Communication QoS and System Modeling Internet Services and Applications Green Computing, Communications and Networking Machine Learning for Networking Mobile Computing and Vehicle Communications Multimedia Computing and Communications Network Algorithms and Performance Evaluation Optical and Grid Networking Signal Processing for Communications Social Computing and Semantic Data Mining Wireless Ad Hoc and Sensor Networks Wireless Communications Wireless Networks",
+      "callForPapers": "2026-08-15",
+      "url": "www.conf-icnc.org/2027/",
+      "eventContact": "renjian@msu.edu",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "Prince Waikiki, 100 Holomoana Street, , , , Honolulu, HI, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7f6vx4402b0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71164,
+      "eventTitle": "2026 IEEE Nordic Circuits and Systems Conference (NorCAS)",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-21",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Tampere",
+        "region": "",
+        "country": "Finland"
+      },
+      "sponsors": "IEEE Circuits and Systems Society; Tampere University",
+      "keywords": "System-on-chip,Field Programmable Gate Array (FPGA),Application-specific Integrated Circuit (asic),Multicore System-on-chip,Analog/Mixed-Signal,Analog Circuits,Digital Circuits,Analog-to-digital Conversion (adc),Radio Frequency Integrated Circuit (rfic),Reconfigurable Hardware,Application-specific Instruction-set Processors,Approximate Computing,Embedded Computing,Memory Architectures,Sensor Systems,Low-power electronics,Microelectronics,",
+      "scope": "The IEEE NorCAS conference is the main circuits and systems event of the Nordic countries representing both academia as well as electronics industry. The IEEE NorCAS conference is a merge of the well-established conferences NORCHIP and SoC. The annual IEEE CAS Society co-sponsored conference covers all fields of electronics design, spanning from complex digital systems to advanced analog and mixed-mode circuits. The wide scope of the conference  promotes cross-field collaboration not only between academics but also with industry. Papers of high scientific and technical quality are presented together with selected invited speakers and pre-conference tutorial sessions.",
+      "callForPapers": "2026-08-31",
+      "url": "events.tuni.fi/norcas/",
+      "eventContact": "jari.nurmi@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Tampere Hall, Yliopistonkatu 55, , , , Tampere, , Finland, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

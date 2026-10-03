@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: joviwY40kaIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73047,
+      "eventTitle": "2027 IEEE International Conference on Big Data and Smart Computing (BigComp)",
+      "startDate": "2027-01-25",
+      "endDate": "2027-01-28",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Fukuoka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Computer Society; Korean Institute of Information Scientists and Engineers - KIISE",
+      "keywords": "big data,data mining,computer network,machine learning and AI for big data,security and privacy for big data,",
+      "scope": "The goal is to provide an annual forum for exchanging ideas, challenges, and research results on big data and smart computing which have recently drawn much attention from computer science and information technology as well as from social sciences and other disciplines. The topics of interest for this conference include the following: techniques, models and algorithms for big data; tools and systems for big data; machine learning and artificial intelligence for big data; data mining and data science; web search and information retrieval; infrastructure and platform for smart computing; big data analytics and social media; cloud and grid computing for big data; hardware/software infrastructure for big data; security and privacy for big data; mobile communications and networks; smart devices and hardware; smart location-based services; big data applications: bioinformatics, multimedia, smartphones, etc.",
+      "callForPapers": "2026-09-30",
+      "url": "bigcomp2027-website.pages.dev/",
+      "eventContact": "chwoo@kiise.or.kr",
+      "sponsorTypes": "1; 9",
+      "venues": "Fukuoka International Congress Center, 2-1 Sekijo-machi, Hakata-ku, , , Fukuoka, , Japan, 812-0032, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

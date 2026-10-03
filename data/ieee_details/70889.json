@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yK7ewY408aEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70889,
+      "eventTitle": "2026 International Conference on Emerging Trends in Electronics, Computing, and Intelligent Systems (ETECIS)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kurnool",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "G. Pullaiah College of Engineering and Technology; IEEE Hyderabad Section",
+      "keywords": "Artificial Intelligence, Machine learning, Intelligent Systems, Cloud Computing,",
+      "scope": "The International Conference on Emerging Trends in Electronics, Computing, and Intelligent Systems (ICETECIS) provides a global forum for researchers, academicians, and industry professionals to exchange knowledge and explore innovations shaping the future of technology. The conference emphasizes advances in electronics, computing architectures, intelligent systems, and their interdisciplinary applications in areas such as communication, automation, healthcare, and sustainable development. With keynote talks, technical sessions, and collaborative opportunities, ICETECIS fosters discussions on state-of-the-art research, practical challenges, and emerging trends driving intelligent and connected systems for next-generation solutions.",
+      "callForPapers": "2026-05-10",
+      "url": "www.gpcet.ac.in/conf/index.html",
+      "eventContact": "kctswamy@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "G. Pullaiah College of Engineering and Technology, Pasupula Village , , , , KURNOOL, , India, 518452, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 99f5xo40yL0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71376,
+      "eventTitle": "2026 6th International Multi Conference On Artificial Intelligence Technology (MCAIT)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Madinah",
+        "region": "",
+        "country": "Saudi Arabia"
+      },
+      "sponsors": "Taibah University-KSA; Universiti Kebangsaan Malaysia - UKM; Western Saudi Arabia Section; Western Saudi Arabia Section YP Affinity Group",
+      "keywords": "Intelligent Systems,Smart Cities,Cyber Security,Artificial Intelligence,Big Data Applications,",
+      "scope": "MCAIT 2026 focuses on the theme \"The Convergence of Intelligence: From Algorithms to Applications\". It encompasses four main technical tracks designed to cover the breadth of AI research and its real-world impact: Track 1: Foundations and Frontiers of AI Track 2: Applied and Domain-Specific AI Track 3: Intelligent Systems, Embedded AI, and Cyber Technologies Track 4: Emerging ICT, Data, and Immersive Technologies Track 5: Smart Cities The conference aims to foster interdisciplinary collaboration, aligning the needs of practitioners with the objectives of researchers to develop efficient, ethical, and practical AI solutions that address traditionally intractable problems in evolving environments. Accepted and presented papers will be published in the MCAIT 2026 proceedings",
+      "callForPapers": "2026-07-30",
+      "url": "mcait2026.org/",
+      "eventContact": "mcait@taibahu.edu.sa",
+      "sponsorTypes": "3; 5; 9; 9",
+      "venues": "Taibah University, , , , , Madinah, , Saudi Arabia, 42353, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

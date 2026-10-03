@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9uqRx4402LsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72486,
+      "eventTitle": "2026 14th European Conference on Visual Information Processing (EUVIP)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-01",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Luxembourg",
+        "region": "",
+        "country": "Luxembourg"
+      },
+      "sponsors": "Benelux Section; IEEE Signal Processing Society; University of Luxembourg",
+      "keywords": "Visual Information Processing,Image and Video Processing,Visual Signal Analysis,Computer Vision,Deep Learning for Visual Data,Multimodal Visual Processing,3D Vision and Reconstruction,Image Restoration and Enhancement,Multimedia Applications and Systems,Performance Evaluation and Benchmarking,Multimedia Forensics and Security,",
+      "scope": "The European Conference on Visual Information Processing (EUVIP) focuses on advances in visual signal processing, covering image and video processing, computer vision, and machine learning for visual data analysis. The conference addresses both theoretical and applied aspects, including image restoration and enhancement, 3D vision, multimodal processing, and multimedia systems. It also explores emerging topics such as deep learning, visual understanding, and multimedia forensics, with applications across industry, healthcare, security, and autonomous systems.",
+      "callForPapers": "2026-05-21",
+      "url": "euvip2026.github.io",
+      "eventContact": "djamila.aouada@me.com",
+      "sponsorTypes": "1; 3; 9",
+      "venues": "Parc Alvisse Hotel Conference & Spa, 120 Rte d'Echternach, , , , Dommeldange - Luxembourg, , Luxembourg, 1453 , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ucKKx440m7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71381,
+      "eventTitle": "2027 International Conference on Innovations and Advances in Cognitive Systems (ICIACS)",
+      "startDate": "2027-03-01",
+      "endDate": "2027-03-03",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Kangeyam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Kangeyam Institute of Technology",
+      "keywords": "Deep learning,Artificial Intelligence (AI) ,Brain computer interface technologies,Explainable AI ,Human–computer interaction,Human-Centered Cognitive Systems,Intelligent Information Processing,",
+      "scope": "Cognitive engineering is a relatively new discipline that gains a significant research attraction in this age of big data and Artificial Intelligence (AI). Cognitive systems are human-centred systems that supports and mimic human cognitive abilities such as decision-making, reasoning and problem-solving. Cognitive systems are now considered as a primary source for enabling cognitive interaction between humans and IT-based systems. ICIACS 2027 is an international conference initiated with a research theme “Computational Intelligence and Next-Generation Cognitive Systems”. This conference intends to enable a research discussion on the implementation of various computational intelligence methods, such as multi-task learning, transfer learning, deep learning, etc. to address the variety of challenges confronting the cognitive systems.",
+      "callForPapers": "2026-11-29",
+      "url": "iciacs.com/2027/",
+      "eventContact": "vimalraj.eee@kitech.edu.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Kangeyam Institute of Technology, Mullipuram Post, , Nathakadaiyur,, , , Kangeyam, , India, 638108, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

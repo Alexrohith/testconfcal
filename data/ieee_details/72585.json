@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ovfgwY4026QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72585,
+      "eventTitle": "2026 International Conference on Intelligent Sensing, Communications, and Marine Applications (ISCMA)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Haikou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hainan University, China; IEEE Communications Society",
+      "keywords": "Wireless Communications,Underwater Communications,Communication Networks,Internet of Things,Sensor Networks,Machine Learning for Communications,",
+      "scope": "The International Conference on Intelligent Sensing, Communications and Marine Applications (ISCMA 2026) brings together researchers and practitioners to explore advances in communication systems, intelligent sensing, and marine applications. ISCMA 2026 covers key topics including wireless and underwater communications, communication networks, Internet of Things (IoT), and signal processing for communications, such as modulation, channel modeling, and network protocols. It also addresses intelligent sensing technologies, including smart sensors, distributed sensing systems, data fusion, and integrated sensing and communication (ISAC). Data-driven approaches, such as machine learning for communications and AI-based network optimization, are emphasized. In addition, the conference explores marine applications, including underwater networks, maritime communications, and ocean monitoring systems, promoting research and practical innovations across communication and sensing domains.",
+      "callForPapers": "2026-09-12",
+      "url": "www.ic-iscma.org/",
+      "eventContact": "wliupb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Hainan University, No. 58 Renmin Avenue, Haikou City, Hainan Province, China, , , , Haikou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

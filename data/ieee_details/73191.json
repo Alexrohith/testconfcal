@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yozmwY40/qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73191,
+      "eventTitle": "2027 International Russian Smart Industry Conference (SmartIndustryCon)",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-26",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sochi",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "Moscow Polytechnic University; Russia (Siberia) Section; Russia (Siberia) Section PE/IE/IA/CS Joint Chapter; Russia Section",
+      "keywords": "Artificial Intelligence,Machine Learning,Industry 4.0,Digital Twins,Big Data,Industrial Internet of Things,Cybersecurity,Wireless Sensor,Industrial Robotics,",
+      "scope": "International Russian Smart Industry Conference is devoted to discussion of the latest achievements in the field of automation and control systems. The conference is organized in order to exchange experiences, to promote the discussion and presentation of research papers, summarizing research in universities, industrial enterprises, scientific and industrial associations of the Russian Federation, as well as foreign authors, and research results obtained on the personal initiative of the authors.",
+      "callForPapers": "2026-12-31",
+      "url": "smartindustrycon.ru/index-eng.html",
+      "eventContact": "alexandr.maklakov.ru@ieee.org",
+      "sponsorTypes": "3; 3; 5; 9",
+      "venues": "Hotel city «Barkhatnye sezony», Krasnodar region, Federal territory \"Sirius\", an urban village \"Sirius\", Boulevard of hopes, 18, , , , Sochi, , Russia, 354349, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

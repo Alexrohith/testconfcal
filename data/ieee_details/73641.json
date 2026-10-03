@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /ZmFx440hbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73641,
+      "eventTitle": "2027 3rd International Conference on Secure and Trustworthy CyberInfrastructure for IoT and Microelectronics (SATC)",
+      "startDate": "2027-04-02",
+      "endDate": "2027-04-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Ada",
+        "region": "Ohio",
+        "country": "USA"
+      },
+      "sponsors": "Central Michigan University; Istinye University, Turkey; Lima Section; Ohio Northern University ",
+      "keywords": "Industrial Internet of Things,Blockchains,Artificial intelligence,Cloud computing,Assured and Trusted IoT,",
+      "scope": "This event will serve as an interdisciplinary forum where leading researchers, engineers, and practitioners can discuss innovative solutions for securing hardware, software, and network layers, as well as ensuring information security and system-wide trust. The SATC conference will provide an opportunity for in-depth discussions on securing Computing infrastructures that underpin IoT/Edge Computing systems, ensuring the confidentiality, integrity, and availability of information across cloud and distributed environments, and addressing emerging threats in cyber and physical system space. With the convergence of IoT and edge computing, it's critical to tackle issues such as secure embedded hardware, authentication and communication protocols, data security and privacy, and the assurance of trustworthy digital computing systems that are resilient to cyber threats.",
+      "callForPapers": "2027-01-20",
+      "url": "www.satcconf.com",
+      "eventContact": "akh.jamil@yahoo.com",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "James Lehr Kennedy (JLK) Engineering Building, Ohio Northern University, 107 Lehr Kennedy, 525 South Main Street, Ada, OH 45810, , , , Ada, OH, USA, 45810, ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s7+Sx440zrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73342,
+      "eventTitle": "2027 IEEE International Conference on Sustainable AI, Networks, Knowledge and Learning Paradigms (SANKALP)",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-11",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gwalior",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "ABV-Indian Institute of Information Technology and Management, Gwalior, India; Madhya Pradesh Section; Uttar Pradesh Section",
+      "keywords": "AI and data science,Sustainable Computing,Natural Language Processing (NLP),Intelligent Networks,Internet of Things (IoT),",
+      "scope": "The IEEE International Conference on Sustainable AI, Networks, Knowledge and Learning Paradigms (SANKALP 2027) provides a premier forum for researchers, academicians, industry professionals, and practitioners to present and discuss advances in Artificial Intelligence (AI), Machine Learning, Intelligent Networks, Knowledge Engineering, Data Science, Edge Computing, Internet of Things (IoT), Cybersecurity, Sustainable Computing, and AI-driven applications. The conference focuses on the development of intelligent, secure, scalable, and sustainable technologies that address emerging challenges in next-generation computing, communication systems, smart cities, healthcare, transportation, and industrial automation.",
+      "callForPapers": "2026-11-30",
+      "url": "sankalp.iiitm.ac.in",
+      "eventContact": "ritu@iiitm.ac.in",
+      "sponsorTypes": "3; 3; 9",
+      "venues": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management (ABV-IIITM) Gwalior, Morena Link Road, ABV-IIITM Campus, Gwalior, Madhya Pradesh, Gwalior, , India, 474015, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

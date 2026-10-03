@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 67HAwo4096YBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71249,
+      "eventTitle": "2026 17th International Conference on Information and Communication Technology Convergence (ICTC)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Jeju",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Communications Society; KICS-The Korean Institute of Communications and Information Sciences",
+      "keywords": "Artificial Intelligence and Machine Learning,Autonomous Driving and Vehicular Communication Technologies,Big Data Analytics and Its Applications,Blockchain,Communication Networks and Future Internet Technologies,Security for ICT Convergence,Energy Internet and Smart Grid Infrastructure and Their Applications,Green Communication Technologies,Information and Communication Theory,The Internet of Things (IoT) and the Web of Objects (WoO), 5G Open RAN,Cloud RAN, AI-RAN,6G and 5G-Advanced",
+      "scope": "There have been a lot of trials to apply information and communication technology (ICT) to other industrial sectors such as green convergence, smart screen & appliances, next generation broadcasting & media, mobile convergence networks, and other ICT convergence applications and services, all under the name of \"ICT convergence.\" ICTC is a unique global premier event for researchers, industry professionals, and academics, which aims at interacting with and disseminating information on the latest developments in the emerging industrial convergence centered around the information and communication technologies. More specifically, it will address challenges with realizing ICT convergence over the various industrial sectors, including the infrastructures and applications in wireless & mobile communication, smart devices & consumer appliances, mobile cloud computing, green communication, healthcare and bioinformatics, Internet of Things (IoT), M2M, security, and intelligent transportation.",
+      "callForPapers": "",
+      "url": "ictc.org/",
+      "eventContact": "ictc@kics.or.kr",
+      "sponsorTypes": "1; 9",
+      "venues": "SHERATON Jeju, 66 Tapdong-ro, Samdo 2-dong, , , Jeju, , Korea (South), 63165, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

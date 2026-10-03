@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l5+Lx440rrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71071,
+      "eventTitle": "2026 19th Conference on Fundamental and Applied IT Research (FAIR)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-09",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Ho Chi Minh city",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Ho Chi Minh City University of Industry and Trade; VNU Information Technology Institute; Vietnam Section; Vietnam Section CAS Chapter",
+      "keywords": "Information Technology,Artificial Intelligence,Information System,Cyber Security,Knowledge discovery and data mining techniques,Design and development of databases and data warehouses,Data mining methods and applications,Software engineering,Networking technologies,Internet Of Things,Edge AI devices,Image recognition and processing,",
+      "scope": "The main theme of FAIR 2026 is “Digital Transformation and Future Trends,” with a strong emphasis on strategic technology domains. At the same time, the Conference continues to maintain and foster its established research directions in the fields of computer science and engineering.",
+      "callForPapers": "2026-06-01",
+      "url": "fair.conf.vn/en/",
+      "eventContact": "tutx@vnu.edu.vn",
+      "sponsorTypes": "3; 5; 9; 9",
+      "venues": "Ho Chi Minh City University of Industry and Trade, 140 Le Trong Tan Street, Tay Thanh Ward, , , , Ho Chi Minh City, , Vietnam, 100000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

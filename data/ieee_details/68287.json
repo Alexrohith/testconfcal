@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /8HkwY40oaIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68287,
+      "eventTitle": "2026 IEEE Workshop on Signal Processing Systems (SiPS)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Bordeaux",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; France Section CAS Chapter; France Section SP Chapter; IEEE Circuits and Systems Society; IEEE Signal Processing Society",
+      "keywords": "signal processing,Hardware,Embedded Software,Hardware Software Co-design,Digital Signal Processing,Machine Learning,Bio-inspired Computing,Communication systems,",
+      "scope": "SiPS is a long-established workshop addressing real-time signal processing systems. It has typically published research into algorithms, design, synthesis, software and hardware for signal processing where practical implementation is required.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "camille.leroux@bordeaux-inp.fr",
+      "sponsorTypes": "1; 1; 3; 5; 5",
+      "venues": "Bordeaux INP, Avenue des facultés, , , , Talence, , France, 33400, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

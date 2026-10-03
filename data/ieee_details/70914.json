@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: //3rwY40xKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70914,
+      "eventTitle": "2026 IEEE 4th International Conference on Communication, Security, and Artificial Intelligence (ICCSAI)",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-30",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Galgotias University; Uttar Pradesh Section",
+      "keywords": "Artificial Intelligence,Data Science,Machine Learning,Security & Privacy,Technology Innovation And Sustainability,Data Science & Big Data,cyber security,Communication,Power ,Electrical & Electronics,Computer Science,Image Processing,Emerging Technologies,Power electronics,",
+      "scope": "High-Performance & Quantum Computing, Security & Privacy, Communication, Bioengineering, Medical devices, Cloud, Edge, Fog & Distributed Computing, AI, ML, Big Data, Green ICT, Cybersecurity, Software Engineering, Algorithms, Embedded Systems, Intelligent Automation, 5G/6G, IoT, Satellite, Optical & Quantum Communication, WSN, Smart Grids, Emerging Technologies, SDN, IEEE 802 Standards, Signal & Network Security, AR/VR, AI-Driven & Edge Networks, Digital Twins, Smart Cities, Blockchain, Autonomous Systems, Telemedicine, Sustainable Networks, Immersive Tech, Robotics Comms, Power Semiconductors, AC/DC Converters, Electric Drives, EV Systems, Renewable Power Conversion, Energy Storage, Wireless Power Transfer, Power Control Algorithms, Thermal & Reliability Systems & sustainability and all topics related to computer science, electricals and electronics",
+      "callForPapers": "2026-07-14",
+      "url": "www.iccsai.in/",
+      "eventContact": "kumar.avadh@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Galgotias University, Plot No 2, Sector 17A , Yamuna Expressway, , , Greater Noida, , India, 203201, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

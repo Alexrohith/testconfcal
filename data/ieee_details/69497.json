@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 25nswY402qIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69497,
+      "eventTitle": "2026 IEEE Globecom Workshops (GC Wkshps)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Macau",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Ad Hoc Networks,Sensor Networks,Cellular networks,Machine Learning,Signal Processing,Wireless Communications,Internet Of Things,Big Data,Multimedia communication,Mobile Communications,Cognitive Radio,Terahertz Communications,Satellite Communications,Unmanned Air Vehicle (uav),Network Security,e-health,",
+      "scope": "IEEE GLOBECOM Workshops is a two-day event. The program of the workshops includes keynotes talks, oral or poster presentations of about 500 scientific papers.",
+      "callForPapers": "",
+      "url": "globecom2026.ieee-globecom.org",
+      "eventContact": "lindai@cityu.edu.hk",
+      "sponsorTypes": "1",
+      "venues": "The Venetian Macao Conference , Estrada da Baia de N. Senhora da Esperanca, Cotai, , , , , , Macao, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

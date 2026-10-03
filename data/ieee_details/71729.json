@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hKqGx440l74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71729,
+      "eventTitle": "2026 International Near East Conference on Electrical & Energy Systems (NEECON)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Dubai",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "United Arab Emirates Section; University of Dubai",
+      "keywords": "Electrical Engineering,energy systems,Power and Energy,Smart Industry,Artificial Intelligence,Digital Transformation,Cyber Security,Smart Grid,Energy Storage,",
+      "scope": "Design methodologies, techniques, and experimental results in emerging fields of Electrical Engineering and Energy Systems, including modern smart grid technologies",
+      "callForPapers": "2026-06-15",
+      "url": "neecon.org/",
+      "eventContact": "ghussain@ud.ac.ae",
+      "sponsorTypes": "3; 9",
+      "venues": "Raffles Hotel , , , , , Dubai, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

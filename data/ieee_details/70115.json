@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vqT4xo40u70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70115,
+      "eventTitle": "2026 Artificial Intelligence for Business (AIxB)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Laguna Hills",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Semantic Computing Foundation",
+      "keywords": "Artificial Intelligence,Business,",
+      "scope": "Artificial Intelligence x Business (AIxB) is an international forum for academia and industries to exchange visions and ideas in the state of the art and practice, as well as to identify the emerging topics and define the synergy between AI and business in general.  TOPICS OF INTEREST​​ include all aspects of business that may be assisted by AI, such as:​ - Accounting - Marketing - Sales - Finance - Management - Strategy - Corporation - Service - Supply Chain Management  AI Technologies that may be advanced by business applications, such as: - Generative AI - Transformer based technology - Agent technology - Semantic computing - Decision making - Machine learning - Security - Knowledge and data engineering - Platform and scalability",
+      "callForPapers": "2026-07-01",
+      "url": "www.AIxB.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

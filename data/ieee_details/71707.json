@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 06mjx440zrwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71707,
+      "eventTitle": "2026 IEEE Symposium on Visual Languages and Human-Centric Computing (VL/HCC)",
+      "startDate": "2026-09-29",
+      "endDate": "2026-10-02",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Paderborn",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Human-Centric Computing,Human-Computer Interaction,Visual Languages & Programming,End-User Development & Programming,Software Visualization & Comprehension,Human-AI Interaction,User Experience (UX) & Design,Computer Science Education,Interaction Paradigms,Software Engineering,Cognitive Modeling,",
+      "scope": "From the beginning of the computer age, people have sought easier ways to learn, express, and understand computational ideas. Whether this meant moving from punch cards to textual languages, or command lines to graphical UIs, the quest to make computation easier to express, manipulate, and understand by a broader group of people is an ongoing challenge.  The IEEE Symposium on Visual Languages and Human-Centric Computing is the premier international forum for research on this topic. Established in 1984, the mission of the conference is to support the design, theory, application, and evaluation of computing technologies and languages for programming, modeling, and communicating, which are easier to learn, use, and understand by people.",
+      "callForPapers": "2026-04-24",
+      "url": "conf.researchr.org/home/vlhcc-2026",
+      "eventContact": "sauer@upb.de",
+      "sponsorTypes": "1",
+      "venues": "Paderborn University, SICP - Software Innovation Campus Paderborn, Zukunftsmeile 2, , , Paderborn, , Germany, 33102, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lO7gwY408qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72009,
+      "eventTitle": "2026 International Conference on Intelligent Computing and Emerging Communication Technologies (ICEC)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Guntur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Guntur Subsection; IEEE Hyderabad Section; SRM University, AP India",
+      "keywords": "Emerging Technology,Cloud Computing,Edge Computing,Machine Learning,Internet Of Things,Artificial Intelligence,Quantum Computing,",
+      "scope": "ICEC aims to empower society for sustainable development by applying various emerging computing technologies. The purpose of this conference is to aggregate professionals, researchers, educationalists, social activists, industry experts, and policymakers in broad domains of emerging computing like business, economics, entrepreneurship, education, tourism, hospitality, agriculture, health care, and other related areas including core sciences and engineering. The objective is to share opinions, identify challenges, offer best practices, and provide result driven computational based feasible solutions to facilitate the growth and prosperity of society as a whole.",
+      "callForPapers": "2026-05-31",
+      "url": "icecconf.org/",
+      "eventContact": "skmishra.nitrkl@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "SRM University-AP, Mangalagiri Neerukonda Tadikonda Rd, Mangalagiri, Mandal, Andhra Pradesh, , , Guntur, , India, 522240, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

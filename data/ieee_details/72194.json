@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r9qax440jLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72194,
+      "eventTitle": "2027 3rd International Conference on Human-AI Interaction and Experience Design (HAXD)",
+      "startDate": "2027-06-13",
+      "endDate": "2027-06-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Naples",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "[\"Halmstad University\",\"Italy Section\",\"Italy Section C Chapter\",\"Italy Section SMC Chapter\",\"University of Naples \"FEDERICO II\"\"]",
+      "keywords": "Computing and Processing,,Robotics and Control Systems,computer science,,Agentic Ai,User Experience,Human-AI Interaction,,Collaborative AI,,Responsible AI,Chatbots,User interfaces,Human Centered,",
+      "scope": "HAXD 2027 focuses on the design and experience of human-AI interaction? examining not just what AI can do, but how people actually interact with these systems and what experiences result from these interactions. We are interested in understanding and improving the full spectrum of user outcomes: usefulness, usability, trust, cognitive workload, user satisfaction, safety, fairness, accessibility, and long-term societal impact.",
+      "callForPapers": "2027-02-20",
+      "url": "haxd-conference.org/",
+      "eventContact": "addi.ait-mlouk@his.se",
+      "sponsorTypes": "3; 5; 5; 9; 9",
+      "venues": "Hotel Royal Continental, Via Partenope 38/44, , , , Naples, , Italy, 80121, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

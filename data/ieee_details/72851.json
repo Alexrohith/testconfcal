@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lILuwY406aIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72851,
+      "eventTitle": "2027 International Conference on Future Intelligence and Sustainable Technologies (ICFIST)",
+      "startDate": "2027-08-27",
+      "endDate": "2027-08-28",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Delhi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhagwan Parshuram Institute of Technology (BPIT); Delhi Section",
+      "keywords": "Artificial Intelligence and Machine Learning,Data Science, Big Data, and Intelligent Analytics,Internet of Things and Smart Systems,Sustainable Computing and Green Technologies, Intelligent Communication and Networking Systems,Cyber Security, Privacy, and Trustworthy Systems,Intelligent Systems for Healthcare and Society,Emerging Technologies and Interdisciplinary Innovations,",
+      "scope": "The conference focuses on the integration of future intelligence with sustainability-driven solutions that address real-world societal, environmental, and technological challenges.",
+      "callForPapers": "2027-01-15",
+      "url": "fistconference.com/",
+      "eventContact": "dr.achalkaushik@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Bhagwan Parshuram Institute of Technology, Rohini, New Delhi, India, , , , New Delhi, , India, 110089, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

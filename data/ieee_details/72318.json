@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7PDiwY40g6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72318,
+      "eventTitle": "2027 4th International Conference on Business Analytics for Technology and Security (ICBATS)",
+      "startDate": "2027-05-02",
+      "endDate": "2027-05-03",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Sohar",
+        "region": "",
+        "country": "Oman"
+      },
+      "sponsors": "Oman Section; Sohar University, Oman",
+      "keywords": " Internet of Things, Applied Sciences ,Business Analytics for Technology, Machine Learning & Deep Learning,Web Technologies, Networking & Communication, Intelligent IS & Business Analytics, Big Data & Data Analytics, Cybersecurity & Privacy, Blockchain Technology,Drones, e-Learning & m-Learning Systems, Computer Vision & Image Processing ,Metavers Convergence,",
+      "scope": "The main goal of ICBATS 2027 is to share, exchange knowledge and innovative ideas about the current trends in Computer Sciences",
+      "callForPapers": "2027-02-02",
+      "url": "icbats.ac/",
+      "eventContact": "taher.ghazal@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Sohar University, Sohar, , , , Sohar, , Oman, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

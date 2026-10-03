@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pfSDx440/LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72338,
+      "eventTitle": "2026 1st Conference on Engineering, Technology and Innovation (ETIC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Los Angeles",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; World Research Union",
+      "keywords": "Data Engineering,Computer aided engineering,Communications Technology,Artificial intelligence,Engineering - general,",
+      "scope": "The Engineering, Technology, and Innovation Conference (ETIC 2026) focuses on advancing interdisciplinary research at the intersection of engineering, emerging technologies, and applied innovation. The conference provides a platform for academia, industry, and practitioners to present original contributions in areas such as intelligent systems, cyber-physical systems, artificial intelligence, smart engineering, digital transformation, sustainable technologies, and innovation-driven engineering solutions. ETIC 2026 emphasizes both theoretical advancements and real-world applications that address contemporary technological challenges. The conference aims to foster collaboration, knowledge exchange, and the development of scalable, impactful solutions aligned with global technological progress and IEEE domains of interest.",
+      "callForPapers": "2026-06-30",
+      "url": "https://eticonference.com",
+      "eventContact": "conference.chair@wrunion.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Pacific States University, 3530 Wilshire Blvd Floor 11, , Los Angeles, California, , Los Angeles, CA, USA, 90010, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

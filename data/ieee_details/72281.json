@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6Kqex440v78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72281,
+      "eventTitle": "2026 IEEE International Conference on Semiconductor Electronics (ICSE)",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-24",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section; Malaysia Section ED Chapter",
+      "keywords": "Internet of Things,Industrial Revolution 4.0,Big Data & Data security,MEMS/NEMS,Device Modeling & Simulation,Nanoelectronics,Device Physics & Characterization,Semiconductor Sensor,Optoelectronics & Photonics Technology,Microwave Device and MMIC,IC Packaging and Testing,Reliability and Failure Analysis,Semiconductor Manufacturing and Process,VLSI Design,Process Technology (CMOS Bipolar BiCMOS GaAs etc),Microelectronics Application in Product Development,",
+      "scope": "Over the last 17 years, ICSE has become the prominent international forum on semiconductor electronics embracing all aspects of the semiconductor technology. The major areas of activity in the development of Semiconductor Electronics solicited and expected at this conference include but are not limited to 5 clusters which are MEMS & Nanoelectronics, Nanophotonics, IC Design And manufacturing, Material, Process & Product and Special Cluster (includes Internet of Things, Industrial Revolution 4.0, Big data, Data Security, and Artificial Intelligence).",
+      "callForPapers": "2026-05-15",
+      "url": "eeemalaysia-eds.org/icse2026/",
+      "eventContact": "ezaila@fke.utm.my",
+      "sponsorTypes": "3; 5",
+      "venues": "Tamu Hotel Kuala Lumpur, 120, Jalan Raja Abdullah, , Kampung Baru,, 50300 Kuala Lumpur, , Kuala Lumour, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

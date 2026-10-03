@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wu2Nx440x74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70860,
+      "eventTitle": "2026 16th International Conference on Dependable Systems, Services and Technologies (DESSERT)",
+      "startDate": "2026-10-02",
+      "endDate": "2026-10-04",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Corfu",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "[\"Greece Section\",\"Hellenic Army Academy - Teaching Research Staff Association \",\"Ionian University\",\"Leeds Beckett University\",\"Lutsk National Technical University\",\"National Aerospace University KhAI\", Ukraine\",\"University of Thessaly, Lamia, Greece\",\"University of Thessaly-Lamia STB\"]",
+      "keywords": "Dependable and Resilient AI,Internet of Everything,Robotics Systems,Cybersecurity,Cryptography,Big Data,Deep Learning,Drones,Control systems,Artificial Intelligence,Cloud Computing Security,Computing & IT,Cloud and Edge Computing,Robotics Systems,Blockchain Technology,Biomedical Engineering,Bioinformatics,Critical Infrastructures Security,Image Processing,Human–AI synergy,Resilient Cyber‑Physical Systems,5G6G communications,Privacy‑Pres",
+      "scope": "The annual DESSERT conference began since 2006 and its primary focus has been on methodologies, techniques and tools for dependability, security and safety assessment and assurance of software, hardware, computer systems and IT-infrastructures. A lot of related DESSERT WSs covered different issues of dependable critical computing. DESSERT'2026 is responding to current major challenges relating to state-of-the-art information and communication technologies and paradigms such as IoT, cloud computing, AI & Big Data, etc. Relevant areas of interest encompass regulations, analysis, modeling, development, verification, operation and maintenance of computer systems, networks and infrastructures for safety-, secure-, mission- and business-critical applications. DESSERT'2026 is addressing the main theoretical, methodological & technological challenges related to Dependable, Human‑Aligned and Cyber‑Physical AI Systems for a Safe, Secure and Sustainable World.",
+      "callForPapers": "2026-05-11",
+      "url": "www.dessert-conf.org/dessert-2026/",
+      "eventContact": "o.sivakovskaya@lutsk-ntu.com.ua",
+      "sponsorTypes": "3; 5; 9; 9; 9; 9; 9; 9",
+      "venues": "Ionian Academy (historic building), Ionian University, Academias & Kapodistriou str, , , Corfu, , Greece, 49100, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vLCOx440y74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68888,
+      "eventTitle": "2026 International Conference on Electrical Sciences and Technologies in Maghreb (CISTEM)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-29",
+      "about": "Communication, Networking and Broadcast Technologies; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Constantine",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Constantine 1 University",
+      "keywords": "Power Systems and Smart Grids,Renewable Energy and Energy Conversion,Electrical Machines and Drives,Power Electronics and Control Systems,Signal Processing and Instrumentation,Artificial Intelligence Applications in Electrical Engineering,Communication Systems and Networks,Industrial Automation and Robotics,Embedded Systems and the Internet of Things (IoT),Cyber-Physical Systems,Electromagnetic Compatibility (EMC),Electrical Materials and Components,",
+      "scope": "The 2026 edition aims to reinforce inter-Maghreb collaboration while expanding research networks toward Europe and beyond. A particular emphasis will be placed on addressing the major socio-economic challenges of the energy and technological transitions—critical issues for the future of the region. Inspired by the dynamics of top-tier international conferences, CISTEM 2026 will spotlight transformative technologies shaping the future, from sustainable energy systems to advanced applications in electronics, automation, and industrial computing. The goal is to create a stimulating environment that fosters constructive dialogue, collaborative research, and the sharing of expertise among scholars, engineers, and professionals.",
+      "callForPapers": "2026-04-01",
+      "url": "lec-umc.org/cistem2026/",
+      "eventContact": "akhezzar@yahoo.fr",
+      "sponsorTypes": "3; 9",
+      "venues": "Constantine 1 University - frères Mentouri, Route de Aïn-El-Bey, , , , Constantine, , Algeria, 25000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

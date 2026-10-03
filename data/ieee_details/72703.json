@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v8yOx440zL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72703,
+      "eventTitle": "2026 7th International Conference on Data Analytics for Business and Industry (ICDABI)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Bahrain Section; University of Bahrain",
+      "keywords": "Data Analytics,Security Analysis,Cloud Computing,Big Data,Statistics in IT,Artificial Intelligence,Project Management,Supply Chain,Quality control & Reliability,Bioinformatics & Health policy decision making,Energy systems & Efficiency,Insurance Statistics,Optimization,ta Science,Statistical & Financial Modelling,Risk Analysis,Business Analytics,Image Analysis & Tomography,Pattern Recognition,E-commerce,",
+      "scope": "The conference aims to provide an excellent international platform for researchers, data scientists, business managers, and industry practitioners to meet and exchange their ideas and novel approaches to the technical challenges of a data driven world. It provides a premier interdisciplinary forum for sharing knowledge and discussing the most recent innovations, trends, and practical challenges encountered and solutions in the wide fields of big data and data analytics emerging in all business and industrial sectors. Integrating sophisticated business analytics in the internal operational processes for marketing, sales, management, designing strategies, etc. can play a powerful role in developing any business sector through increasing its efficiency, supporting its decision-making under uncertainty, and improving its business operations, in today’s competitive market. The main goal is to encourage sustained economic growth through data technology.",
+      "callForPapers": "2026-09-01",
+      "url": "icdabi.uob.edu.bh/",
+      "eventContact": "shilal@uob.edu.bh",
+      "sponsorTypes": "3; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: k6HqwY40yaIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73447,
+      "eventTitle": "2027 IEEE International Conference on Cybernetics and Innovations (ICCI)",
+      "startDate": "2027-03-30",
+      "endDate": "2027-04-02",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chonburi",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Thailand Section; Thailand Section SMC Chapter",
+      "keywords": "ICCI,Cybernetics and Innovations,natural language processing,data analytic,machine learning,   robotics,Internet of things,embedded systems,Digital Signal Processing,image   processing,speech processing,smart industrial technology.,,,",
+      "scope": "ICCI 2027 which is a conference from April, 2026. The Conference will cover a board range of  research topics in natural language processing, data analytic, machine learning, robotics,  Internet of things, embedded systems, signal, image, speech processing and smart industrial  technology.",
+      "callForPapers": "",
+      "url": "icci2027.smc-thailand.org/",
+      "eventContact": "worawut_yimyam@hotmail.com",
+      "sponsorTypes": "3; 5",
+      "venues": ", , , , ,  Chonburi, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

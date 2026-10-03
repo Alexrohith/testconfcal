@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ivqgx440urwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70959,
+      "eventTitle": "2027 International Conference on Computational, Communication and Information Technology (ICCCIT)",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Indore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IPS Academy, Institute of Engineering and Science MP; Madhya Pradesh Section",
+      "keywords": "AI, Big Data, Soft Computing, Web Mining, QoS, Recommender Systems, Mobile Communication ,Wireless Communication, Optical Network, Future Internet, Ubiquitous & SensorNetwork,Information&NetworkSecurity,Authentication,BiometricSecurity,Cloudand Distributed Application Security, Protect Private Information, Computer & Network Forensics, Tactile Internet, Software Platform, Smart Service, ARVR , UI ,Web Service, Social Network ,WWW, OpenFlow, Future Web, M2M, IoT, IoE, Game, Multimedia,",
+      "scope": "The International Conference on Computational, Communication, and Information Technology ICCCIT is a prestigious and multidisciplinary event that brings together researchers, professionals, academicians, and industry experts from around the world. The conference serves as a platform for sharing innovative research, exchanging ideas, and discussing the latest developments in the fields of computational science, communication technology, and information technology. With a focus on bridging the gap between theory and practice, ICCCIT aims to foster collaboration and promote advancements in these critical domains. Computational science encompasses a wide range of topics, and ICCCIT provides a comprehensive platform for researcher stop resent their work and discuss emerging trends in this field.",
+      "callForPapers": "2026-08-10",
+      "url": "ies.ipsacademy.org/icccit2k27/",
+      "eventContact": "neeraj0209@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "IPS ACADEMY, INSTITUTE OF ENGINEERING AND SCIENCE, KNOWLEDGE VILLAGE, RAJENDRA NAGAR, A B ROAD, https://ies.ipsacademy.org/, Indore, , India, 452012, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

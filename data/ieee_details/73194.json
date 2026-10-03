@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1JXmwY40laIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73194,
+      "eventTitle": "2027 Seventh International Conference on Artificial Intelligence and Smart Energy (ICAIS)",
+      "startDate": "2027-05-03",
+      "endDate": "2027-05-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Cagliari",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; JCT College of Engineering and Technology; University of Cagliari - Italy",
+      "keywords": "Cyber-Physical Systems,Intelligent Transportation Systems,Machine Learning,Intelligent Sensing,Smart Energy Systems,Artificial Intelligence,Cognitive Robotics,Internet of Things,",
+      "scope": "Recent years have witnessed the evolution of Artificial Intelligence [AI] techniques like deep learning, machine learning, pattern recognition, Natural language processing [NLP], and computer vision and their revolutionary applications in the emerging smart city and industrial automation applications. In this scenario, AI provides smart and efficient tools for smart energy systems to perform smart electricity generation, emergency response, and delivery. The integration of renewable energy sources into the smart grid is made easier by using Artificial intelligence technologies. Meanwhile, Machine Learning the subset of Artificial intelligence provides some security and privacy assessment tools to the evolving smart energy grids. As Artificial Intelligence [AI] techniques are still remaining in the initial stage to revolutionize the way we generate, transmit and consume the energy in the smart city and industrial infrastructure.",
+      "callForPapers": "2027-02-07",
+      "url": "https://icoaise.com/2027/",
+      "eventContact": "bbalrajjjct@gmail.com",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Università degli Studi di Cagliari (University of Cagliari), Via Università, 40,, 09124 Cagliari CA,, , , , , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

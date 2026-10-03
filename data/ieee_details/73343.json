@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8tPhwY404qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73343,
+      "eventTitle": "2027 International Conference on Electrical Engineering, Intelligent Control and Artificial Intelligence (EEICAI)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-10",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Kirk University",
+      "keywords": "Artificial Intelligence,Intelligent Control,Intelligent Systems,Cyber-Physical Systems,Machine Learning,Automation and Robotics,",
+      "scope": "The 2027 2nd International Conference on Electrical Engineering, Intelligent Control and Artificial Intelligence (EEICAI 2027) focuses on the research and applications of intelligent control, artificial intelligence, and intelligent systems in emerging technologies and engineering domains. The conference covers topics including artificial intelligence, machine learning, computational intelligence, intelligent control, automation, cyber-physical systems, digital twins, and intelligent applications in electrical engineering and related fields. It aims to provide an international platform for researchers, engineers, and industry professionals to exchange recent advances, share innovative solutions, and discuss emerging technologies that promote the development of intelligent systems, autonomous technologies, and smart applications.",
+      "callForPapers": "2026-10-23",
+      "url": "www.eeicai.org/",
+      "eventContact": "mashraf.pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Krirk University, 3 Ram-Indra Road, Bang Khen, Bangkok 10220, Thailand, , , , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

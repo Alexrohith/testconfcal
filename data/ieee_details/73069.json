@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2NiCx4409roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73069,
+      "eventTitle": "2026 10th International Conference on Information Technology, Information Systems and Electrical Engineering (ICITISEE)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Universitas Amikom Yogyakarta, Indonesia",
+      "keywords": "Electronic Engeering,Computer Science,Information Technology,Information Systems,Data Science,Artificial Intelligence,Big Data,",
+      "scope": "Information Technology, Electrical Engineering, Computer Science, Information Systems",
+      "callForPapers": "2026-08-12",
+      "url": "icitisee.org/",
+      "eventContact": "alland@amikom.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Sahid Raya Yogyakarta Hotel and Convention, , , , , Yogyakarta, , Indonesia, 55281, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

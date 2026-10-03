@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tYOVx4407rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71151,
+      "eventTitle": "2027 IEEE 23rd International Conference on Automation Science and Engineering (CASE)",
+      "startDate": "2027-08-23",
+      "endDate": "2027-08-27",
+      "about": "Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Linz",
+        "region": "",
+        "country": "Austria"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Automation, Control Theory, Autonomous System, Discrete Event System, Smart Cities, Robotics, Building Automation, Smart Mobility, Information and Communication Technologies, Industry 4.0,",
+      "scope": "The 2027 IEEE International Conference on Automation Science and Engineering (CASE) is one of the three flagship conferences of the IEEE Robotics & Automation Society and provides a primary forum for cross-industry multidisciplinary research in automation.",
+      "callForPapers": "2027-03-01",
+      "url": "2027.ieeecase.org/",
+      "eventContact": "manuel.wimmer@jku.at",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Linz, , Austria, 4040, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

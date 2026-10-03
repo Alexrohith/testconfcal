@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zumix4404b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70620,
+      "eventTitle": "2026 IEEE 37th International Symposium on Software Reliability Engineering (ISSRE)",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-23",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Limassol",
+        "region": "",
+        "country": "Cyprus"
+      },
+      "sponsors": "IEEE Computer Society; IEEE Reliability Society",
+      "keywords": "Software Reliability Engineering,",
+      "scope": "Topics of interest include development, analysis methods and models throughout the software development lifecycle.",
+      "callForPapers": "2026-04-10",
+      "url": "cyprusconferences.org/issre2026/",
+      "eventContact": "papadopoulos.george@ucy.ac.cy",
+      "sponsorTypes": "1; 1",
+      "venues": "5* St. Raphael Reort, Amathountos Avenue 502, Pyrgos, , , Limassol, , Cyprus, 4520, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

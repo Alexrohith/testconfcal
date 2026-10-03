@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: iPyMx440w74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73583,
+      "eventTitle": "2027 IEEE/ACIS 25th International Conference on Software Engineering, Management and Applications (SERA)",
+      "startDate": "2027-05-26",
+      "endDate": "2027-05-28",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Las Vegas",
+        "region": "Nevada",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society; International Association for Computer & Information Science - ACIS",
+      "keywords": "Software Agent Technology,Component-Based Software Engineering,Communication Systems and Networks,Data Mining and Knowledge Recovery,Artificial Intelligence,Design Patterns and Frameworks,Software Architecture,Economic and Financial Systems,Systems Requirements Engineering,Software Testing Techniques,,Computer & Software Engineering,Engineering Education,Software Process Models,,,",
+      "scope": "The 25th International Conference on Software Engineering Research, Management and Applications (SERA2027) brings together researchers, practitioners, and advanced graduate students to exchange and share their experiences, new ideas, and research results and and the solutions adopted.",
+      "callForPapers": "2027-03-14",
+      "url": "acisinternational.org/conferences/sera-2027/",
+      "eventContact": "ericjarman@acisinternational.org",
+      "sponsorTypes": "1; 9",
+      "venues": "UNLV Campus, 4505 S Maryland Pkwy,, , , , Las Vegas, NV, USA, 89154, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

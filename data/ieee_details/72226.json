@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0Ombx440rb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72226,
+      "eventTitle": "2026 9th Conference on Cloud and Internet of Things (CIoT)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Athens",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "De Nouvelles Architectures Pour Les Communications - DNAC; IEEE Communications Society",
+      "keywords": "Internet of Things, Internet, Clouds, Communication Network,",
+      "scope": "CIoT provides a high-quality international academic and industrial exchange forum for experts and scholars in the field of intelligent systems, cloud computing and Internet of Things.  The main objective of CIoT’26 is to address challenges of clouds and IoT systems from the sensors/machines to the end-users attached to the Cloud while considering the 6G network connecting both IoT and Cloud domains.  We are honored to organize CIoT 2026 in Athens, Greece and we are looking forward to your contributions to the continued success of the conference!",
+      "callForPapers": "2026-06-01",
+      "url": "ciot.dnac.org/2026/",
+      "eventContact": "aziza.lounis@dnac.org",
+      "sponsorTypes": "1; 9",
+      "venues": "National Technical University of Athens, , , , , Athens, , Greece, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

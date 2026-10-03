@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xcvkwY40jaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70366,
+      "eventTitle": "2026 International Conference on Power, Energy, Control and Transmission Systems (ICPECTS)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-18",
+      "about": "Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Sri Sairam Engineering College",
+      "keywords": "smart grids and renewable integration,,power electronics,Power grids,Control Engineering,embedded ,Artificial intelligence,MACHINE LEARNING,Electrical Machines,HVDC transmission,",
+      "scope": "Scope & themes include: smart grids and renewable integration, power electronics and converters, control systems for stability and resilience, condition monitoring & diagnostics, IoT and embedded solutions for energy systems, AI/ML applications for grid operation, and high‑voltage transmission technologies.",
+      "callForPapers": "2026-08-14",
+      "url": "icpects-conference-2026.netlify.app/",
+      "eventContact": "sivaprasad.eee@sairam.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Sri Sairam Engineering College, Sai Leo Nagar, West Tambaram, Chennai, Tamilnadu, , Chennai, , India, 600044, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

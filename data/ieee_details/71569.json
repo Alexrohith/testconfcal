@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: q+L9xo40yboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71569,
+      "eventTitle": "2026 International Conference on Interconnected AI and NETworks (AIxNET)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "De Nouvelles Architectures Pour Les Communications - DNAC; IEEE Communications Society",
+      "keywords": "Artificial intelligence,Communication networks,Networking,",
+      "scope": "Networks are entering an era where both classical ML and emerging generative and agentic AI are transforming end-to-end networking—from intent capture to closed-loop control across RAN, Core, transport, and edge/cloud. AIxNET welcomes contributions that advance algorithms, architectures, protocols, evaluations, and safeguards for trustworthy, explainable, and safe-to-operate AI-driven networking. We particularly encourage rigorous comparative studies across control layers (SMO/intent vs near-RT vs lower-layer control), and the release of open datasets and artifacts to help the community build together.  AIxNET is intending to build a stimulating, open, dynamic, and friendly forum to co-create the future and spark collaborations across teams. The conference will be a unique opportunity to gather academic and industry research on this crucial topic for 2030 networks. Expect interactive sessions, demos, and time for discussion.",
+      "callForPapers": "2026-06-20",
+      "url": "aixnet.dnac.org/",
+      "eventContact": "aziza.lounis@dnac.org",
+      "sponsorTypes": "1; 9",
+      "venues": "INRIA Paris,  48 Rue Barrault, , , , Paris, , France, 75013, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5MaDx440+roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67723,
+      "eventTitle": "2026 International Conference on Smart Computing for Sustainable Development (ICSCSD)",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pune Section; Vishwakarma Institute of Technology",
+      "keywords": "Smart computing,Technology Innovation And Sustainability,artificial intelligence,IoT and smart systems,renewable energy,cybersecurity and Blockchain,Sustainable Development,",
+      "scope": "Smart Computing & Artificial Intelligence for Sustainability, IoT, Edge, and Cloud Technologies for Sustainable Development, Blockchain & Cybersecurity for Smart Systems, Smart Cities, Infrastructure, and Sustainable Urban Development, Data Science & Big Data Analytics for Green Technologies, Renewable Energy, Smart Grids & Energy-Efficient Systems, Robotics & Automation for Sustainable Industries, Next-Generation Communication Networks for Sustainability, Ethical AI, Education, and Policy for Sustainable Computing",
+      "callForPapers": "2026-05-09",
+      "url": "vit.edu/ICSCSD2026/",
+      "eventContact": "dean.admin@vit.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Vishwakarma Institute of Technology, 666 Upper Indira Nagar, Bibvewadi, , , Pune, , India, 411037, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

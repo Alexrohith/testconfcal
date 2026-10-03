@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: n4vuwY401KIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71073,
+      "eventTitle": "2028 IEEE International Symposium on Information Theory (ISIT)",
+      "startDate": "2028-06-25",
+      "endDate": "2028-06-30",
+      "about": "Communication, Networking and Broadcast Technologies; Signal Processing and Analysis",
+      "location": {
+        "city": "Seoul",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Information Theory Society",
+      "keywords": "Algebraic Coding Theory,Coding Theory and Applications,Communication Theory,Compressed Sensing and Sparsity,Cryptography,Emerging Applications of Information Theory,Information Theory,Network Information Theory,Quantum Information Theory,Signal Processing,Wireless Communication and Networks,Machine Learning Using Information Theory,",
+      "scope": "We encourage interested authors to submit previously unpublished contributions from a broad range of topics related to information theory and its connections with other areas.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "kkj8000@hongik.ac.kr",
+      "sponsorTypes": "1",
+      "venues": "Coex, , , , , , , Korea (South), , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

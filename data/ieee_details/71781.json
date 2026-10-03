@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m+H8xo401LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71781,
+      "eventTitle": "2026 3rd International Conference on Artificial Intelligence, Big Data, and Security Governance (AIBDSG)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University of Science and Technology",
+      "keywords": "Applied Computational Intelligence,Intelligent Optimization Algorithms,Deep Learning and Neural Network Applications,Intelligent Information Systems,Information Processing Technologies,Multi-source Information Fusion,Big Data Mining and Analysis,Big Data Processing and Storage Technologies,Big Data Privacy Protection,",
+      "scope": "AIBDSG 2026 will serve as an international academic forum dedicated to advances in computational intelligence, informatics, and big data. The conference will focus on three main areas: Applied Computational Intelligence (including machine learning, deep learning, evolutionary computing, neural networks, and intelligent optimization); Informatics (including information processing, data analysis, information security, bioinformatics, and multi-source information fusion); and Big Data (including big data processing, mining, storage, cloud-based technologies, and privacy protection). AIBDSG 2026 will organize keynote speeches, technical sessions, and workshops to share frontier insights and build global cooperation platforms. We sincerely welcome researchers and experts from around the world to participate in the conference, share cutting-edge achievements, address key challenges, strengthen industry-academia collaboration, and promote technological innovation in related fields.",
+      "callForPapers": "2026-08-22",
+      "url": "www.aibdsg.com",
+      "eventContact": "yj.chenzz@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University of Science and Technology, No. 318 Liuhe Road, Xihu District, Hangzhou City, Zhejiang Province, China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

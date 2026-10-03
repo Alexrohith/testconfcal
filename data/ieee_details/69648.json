@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: mr+Ix440pb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69648,
+      "eventTitle": "2028 IEEE International Test Conference (ITC)",
+      "startDate": "2028-10-28",
+      "endDate": "2028-11-04",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Dallas",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Philadelphia Section",
+      "keywords": "Testing,Built-in self-test,Fault diagnosis,Design for Testability,Test Equipment,Semiconductor Device Testing,Analog System Testing,System Testing,Artificial Intelligence,",
+      "scope": "International Test Conference, the cornerstone of TestWeek events, is the premier comference dedicated to the electronic test of devices, boards, and systems - covering the complete cycle from design verification, test, diagnosis, failure analysis, and back to process improvement. AtITC, test and verification professionals can confront the challenges the industry faces, and learn how these challenges are being addressed by the combined efforts of academia, design tools and equipment designers, and test engineers.",
+      "callForPapers": "2028-02-02",
+      "url": "www.itctestweek.org",
+      "eventContact": "bzintrnatl@aol.com",
+      "sponsorTypes": "3",
+      "venues": "Hilton Anatole Hotle, , , , , Dallas, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

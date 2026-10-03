@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +dfqwY40oaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73397,
+      "eventTitle": "2027 International Conference on Intelligent Engineering, Quantum Computing & Innovation Management (IQIM)",
+      "startDate": "2027-10-04",
+      "endDate": "2027-10-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Taichung",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "Asia University, Taiwan; IEEE Systems Council",
+      "keywords": "Intelligent Engineering,Quantum Computing,Innovation Management,Artificial Intelligence,Machine Learning,Industry 5.0,Digital Transformation,Quantum Technologies,Smart Systems,Sustainable Engineering,Technology Management,Computational Intelligence,",
+      "scope": "The International Conference on Intelligent Engineering, Quantum Computing & Innovation Management (IQIM 2027) provides a multidisciplinary forum for researchers, academics, and industry professionals to present advances in intelligent engineering, quantum computing, artificial intelligence, smart systems, and innovation management. The conference aims to foster collaboration between academia and industry, promoting innovative technologies and management strategies that drive digital transformation, sustainability, and future technological development.",
+      "callForPapers": "2026-08-01",
+      "url": "cyber-conf.com/iqim2027",
+      "eventContact": "vmeena1@ee.iitr.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Asia University, 500, Lioufeng Road, Wufeng District, Taichung City 41354, , Taichung, , Taiwan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

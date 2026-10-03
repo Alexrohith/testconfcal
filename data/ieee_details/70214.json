@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: marCwo40mKcBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70214,
+      "eventTitle": "2026 5th International Conference on Technological Advancements in Computational Sciences (ICTACS)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-04",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Tashkent",
+        "region": "",
+        "country": "Uzbekistan"
+      },
+      "sponsors": "Amity University- Tashkent; Kazakhstan Section",
+      "keywords": "Artificial intelligence,machine learning,Cybersecurity,Blockchain,signal and image processing,pattern recognition,Algorithms,computer vision,wireless sensor networks,Ad Hoc Networks,cloud computing,data analytics,big data,Mathematics Computing,6g Mobile Communication,Prediction algorithms,Risk Prediction,Plant disease prediction,Crop yield predictions,",
+      "scope": "Engineering & Technology",
+      "callForPapers": "2026-01-30",
+      "url": "amity.edu/ICTACS2026",
+      "eventContact": "nchaudhary1@amity.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Amity University in Tashkent, Labzak 70, , , , Tashkent, , Uzbekistan, 100028, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7MXqwY40oKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73400,
+      "eventTitle": "2027 1st International Conference on Electrical, Computer, Intelligent & Sustainable Systems (ECISS)",
+      "startDate": "2027-09-08",
+      "endDate": "2027-09-09",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Tehran",
+        "region": "",
+        "country": "Iran"
+      },
+      "sponsors": "Iran Section; School of Electrical Engineering, Amirkabir University of Technology",
+      "keywords": "power systems,Energy,Renewable Energy Systems,sustainable energy,Smart   Grid,Microelectronics,Telecommunications,signal processing,control systems,Robotics,artificial   intelligence,machine learning,biomedical engineering,Sustainable Systems,Sustainable Urban,",
+      "scope": "Power Systems, Smart Grids, and Microgrids Power Electronics, Electrical Machines, and Energy Conversion Renewable Energy, Energy Management, and Sustainable Systems Control Systems, Automation, and Industrial Systems Robotics, Mechatronics, and Autonomous Systems Communication Systems, Networking, and Signal Processing Image Processing, Computer Vision, and Multimedia Computer Engineering, System Architectures, and Embedded Systems Artificial Intelligence, Machine Learning, and Deep Learning Data Science, Big Data, and Intelligent Data Analytics Internet of Things (IoT), Wireless Sensor Networks, and Cyber-Physical Systems Cybersecurity, Information Security, and Smart Network Security Cloud Computing, Fog Computing, and Edge Computing Biomedical Engineering, Bioelectronics, and Smart Health Technologies Smart Cities, Intelligent Transportation, and Sustainable Urban Infrastructure Sustainable Systems, Resilience & Green Engineering",
+      "callForPapers": "2027-07-06",
+      "url": "eciss.aut.ac.ir/en/",
+      "eventContact": "nafisi@aut.ac.ir",
+      "sponsorTypes": "3; 9",
+      "venues": "Department of Electrical Engineering, Amirkabir University of Technology, No. 424,, Hafez Ave, Tehran, , Tehran , , Iran, 1591634311, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

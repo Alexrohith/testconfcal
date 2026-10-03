@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2ciax440mrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73629,
+      "eventTitle": "2027 International Conference on Advances in Electrical and Communication Technologies (ICAECOT)",
+      "startDate": "2027-04-28",
+      "endDate": "2027-04-30",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Setif",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Ferhat Abbas Setif-1 University",
+      "keywords": "Electrical Engineering,Microwave circuits,Power Components and Power electronics,Robotics, Automation and Control of Systems,High Voltage Engineering,Renewable Energies,Telecommunication systems,Computer Science,Pattern recognition,,",
+      "scope": "The conference main theme highlights the world changing technologies, from computing and sustainable energy systems to aerospace, communications, robotics and creates an environment where researchers and professionals can collaborate and exchange theoritical ideas and experience.",
+      "callForPapers": "2026-12-15",
+      "url": "www.aagee.dz/icaecot 2027/",
+      "eventContact": "zebiri@ymail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Sétif1, Faculty of technology, , , , Sétif, , Algeria, 19000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

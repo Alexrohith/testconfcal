@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: msL/xo4007oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72193,
+      "eventTitle": "2027 3rd International Conference on Federated Learning and Intelligent Computing Systems (FLICS)",
+      "startDate": "2027-06-13",
+      "endDate": "2027-06-15",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Naples",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "Halmstad University; Italy Section; Italy Section C Chapter; Italy Section SMC Chapter",
+      "keywords": "Federated Learning,Artificial intelligence,distributed learning,edge intelligence,Smart transportation,Smart Health,",
+      "scope": "FLICS conference focuses on the intersection of federated learning systems with emerging intelligent computing paradigms, including agentic AI workflows, edge intelligence, digital twin technologies, mobile computing, and distributed machine learning. We aim to address the  fundamental challenges of engineering and deploying scalable, secure, and efficient federated learning systems across diverse computational environments in various application domains, including health, energy management, industrial automation, and smart cities.",
+      "callForPapers": "2027-02-20",
+      "url": "www.flics-conference.org/flics2027/index.php",
+      "eventContact": "francesco.piccialli@unina.it",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Hotel Royal Continental, Via Partenope 38/44 , , , , Naples, , Italy, 80121, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

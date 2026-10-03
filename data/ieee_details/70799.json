@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tqKbx440kLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70799,
+      "eventTitle": "2026 11th International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-24",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Okinawa",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Fukuoka Section; Okinawa Institute of Science and Technology Graduate University",
+      "keywords": "Information Engineering,Bio-inspired Robotics,Biomedical Applications,Biomedical imaging,Biomedical informatics,Biomedical image processing,Biomedical monitoring,Biomedical computing,Biomedical optical imaging,Biomedical Engineering,Medical Robot Control,Information Technology,Computer Science,Artificial Intelligent,Neural Networks,Computer Life Science,Artificial Intelligent,Medical Technology,Patient Assessment,Anatomy and Physiology,Mental                      Health Technology ​,Evolution (b",
+      "scope": "The ICIIBM is an Internternational Conference that creates opportunities for top technology leaders, industry members, scholars at all levels will gather together to exchange ideas, expend alternative, generate alternative approaches, generate critical dimensions, set the limits of acceptability, reject alternative research approaches, be up-to date of discoveries, make everlasting friends, get new ideas for research projects, and find the answer to unsolved problems. Reflecting on the work of informaticians, biologists, neurologists, and engineers, which is part of the cultural world we live in, which affects many aspects of that world. The conference excites scientists to address open issues in all aspects of informatics, bioinformatics, and neuroscience, and all emerging topics in intelligent informatics and biomedical that will pave the way to reach a new milestone in technology in the years to come, as the effect of new technology on society can draw attention to an old issue.",
+      "callForPapers": "2026-08-20",
+      "url": "www.iciibms.org",
+      "eventContact": "mbz145@yahoo.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Okinawa Institute of Science and Technology Graduate University  , 1919-1 Tancha,Onna-son, Kunigami-gun, , , Okinawa,, , Japan,  904-0495, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: o9v4xo40wb0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72259,
+      "eventTitle": "2026 6th International Conference on Artificial Intelligence, Automation and Algorithms (AI2A)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Computing and Processing; General Topics for Engineers",
+      "location": {
+        "city": "Wuxi",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Computing and Engineering Association; Jiangnan University; Nanjing Section",
+      "keywords": "Artificial Intelligence,Automation,Algorithms,",
+      "scope": "AI2A 2026 will serve as an international academic platform for advancing artificial intelligence, automation, and algorithms. Its core focus encompasses three key domains: artificial intelligence (machine learning, deep learning, knowledge representation, computer vision, natural language processing), automation (intelligent control systems, autonomous systems, industrial automation, sensing and signal processing, robotics), and algorithms (optimization algorithms, evolutionary computation, swarm intelligence, reinforcement learning, algorithmic foundations of AI). The conference aims to unite global researchers, engineers, and practitioners to share innovative discoveries, address technical challenges, and foster interdisciplinary collaboration. We warmly invite experts and professionals in these fields to participate in AI2A 2026, contributing valuable insights to drive technological innovation and practical applications in these rapidly evolving domains.",
+      "callForPapers": "2026-07-20",
+      "url": "www.icai2a.net/",
+      "eventContact": "rachel@i-cea.net",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Jiangnan University, No. 1800, Lihu Avenue, Wuxi City, Jiangsu Province, China, , , , Wuxi, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

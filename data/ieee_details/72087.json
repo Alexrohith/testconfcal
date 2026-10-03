@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: o8+Rx440yLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72087,
+      "eventTitle": "2027 9th International Conference on Intelligent Sustainable Systems (ICISS)",
+      "startDate": "2027-04-01",
+      "endDate": "2027-04-03",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Tirunelveli",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; SCAD College of Engineering and Technology",
+      "keywords": "Sustainable Software Systems,Sustainable Circuit Design,Trust and Privacy,Machine Intelligence,Computer Vision,Brain-Computer Interface,Intelligent Communication Systems,Security,Intelligent Systems,",
+      "scope": "In today's world, Sustainable development is becoming a crucial part to meet the increasing demand of future generations. The 9th International Conference on Intelligent Sustainable Systems [ICISS 2027] is one of the initiatives toward attaining sustainable development and facilitating collaborative forums on an international level. It provides a unique opportunity to bring together academicians, researchers, scientists and research scholars to share and exchange ideas and practical solutions towards the achievement of intelligent sustainable systems for a more sustainable future. This conference also aims to create an interdisciplinary platform to share their research ideas on developing new models and algorithms for sustainable development and provide intelligent paradigm shifts to deal with uncertainties and imprecise problems in real- world. ICISS 2027 is an annual international conference that aims to enhance the intersection of intelligent systems and sustainability.",
+      "callForPapers": "2027-01-09",
+      "url": "icoiss.com/2027",
+      "eventContact": "iciss2k20@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "SCAD College of Engineering and Technology, Cheranmahadevi, , , , Tirunelveli, , India, 627414, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

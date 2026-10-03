@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5+HjwY40iKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70355,
+      "eventTitle": "2027 7th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)",
+      "startDate": "2027-10-14",
+      "endDate": "2027-10-17",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Phuket",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Istanbul Topkapi University; Thailand Section",
+      "keywords": "Energy,Communications,Computer Science,Mechatronics,Adaptive Control,Control Engineering,Microelectromechanical Systems,Electric machines,Machine Learning,Deep Learning,Artificial Intelligence,Computer Architecture,Neural Networks,Energy Harvesting,Renewable Energy Systems,",
+      "scope": "The 7th International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME) is the premier event that brings together industry professionals, academics, and engineers from the related institutions to exchange information and ideas on electrical, computer, communications and mechatronic engineering. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications.",
+      "callForPapers": "2027-04-28",
+      "url": "www.iceccme.com/2027/",
+      "eventContact": "emrearslan@aksaray.edu.tr",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , , Phuket, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 45uax440irwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73267,
+      "eventTitle": "2026 RIVF International Conference on Computing and Communication Technologies (RIVF)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hanoi",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Vietnam Section; Vin University",
+      "keywords": "AI Foundations and Big Data,AI Applications,Communications, Networking, IoT, Cloud Computing,Cyber-Security, Cryptography, Blockchain,Software Engineering, Information Systems, Modeling,Physical AI, Robotics,Applied Operations Research and Optimization,",
+      "scope": "The conference solicits submission of research papers in major areas of communication and computing, organized into seven tracks",
+      "callForPapers": "2026-07-31",
+      "url": "https://rivf2026.org/",
+      "eventContact": "bao.vnq@vlu.edu.vn",
+      "sponsorTypes": "3; 9",
+      "venues": "VinUniversity (VinUni), Vinhomes Ocean Park, Gia Lam District, Hanoi, Vietnam, , , , Hanoi, , Vietnam, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

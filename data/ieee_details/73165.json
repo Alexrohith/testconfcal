@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8rvCwo40gaoBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73165,
+      "eventTitle": "2026 6th International Conference on Computer Technology, Information Engineering and Electronic Technology (CTIEET)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Harbin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Institute of Information Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Computer Technologies,AI and Machine Learning,Soft Computing and Quantum Computing,Big Data Mining and Intelligent Processing,Multi-source Information Fusion Technologies,Data Visualization and Intelligent Analysis,Wireless Communication and Network Topology,Embedded System Design and Development,Embedded AI Applications,Sensor Information Perception Technologies,Intelligent Control of Electronic Systems,Wearable Intelligent Electronic Technologies,",
+      "scope": "CTIEET 2026 will unite global researchers, engineers, and scholars to share advances in computer technology, information engineering, and electronic technology. It will cover major areas such as big data algorithms, quantum computing, high-performance parallel computing, cloud-edge synergy, intelligent computing, network privacy, and blockchain security. Information engineering topics will include big data mining, multi-source fusion, multimedia processing, data visualization, wireless network topology, and cloud data center optimization. Electronic research areas will involve embedded design and AI, sensor sensing, intelligent control, wearable electronics, and signal detection. The conference will feature keynote talks and technical sessions to promote academic exchange and cross-disciplinary collaboration, driving breakthroughs, technical progress, and industrial applications in computing, information, and electronics.",
+      "callForPapers": "2026-10-10",
+      "url": "www.ctieem.org/",
+      "eventContact": "pushpendu.k@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Harbin Institute of Information Technology, No. 9, University City, Binxi Technology Development Zone, Harbin City, Heilongjiang Province, China, , , , Harbin, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

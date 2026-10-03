@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yqLswY40sKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73679,
+      "eventTitle": "2026 Conference on Building a Secure & Empowered Cyberspace (BuildSEC)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Kandy",
+        "region": "",
+        "country": "Sri Lanka"
+      },
+      "sponsors": "IEEE Society on Social Implications of Technology; Sri Lanka Section; Sri Lanka Section C Chapter; University of Peradeniya",
+      "keywords": "Critical Infrastructure Security,IoT Security,Cloud Security,Cryptography,Post-Quantum Security,Secure Software Development,Digital Forensics,Incident Response,Identity and Access Management,Blockchain Security,Machine Learning Security,AILLM Security,Privacy-Preserving Technologies,Ransomware,Firmware Security,Hardware Security,",
+      "scope": "BuildSEC'26 focuses on cybersecurity, privacy, and digital trust, bringing together researchers, industry professionals, and policymakers to address challenges in protecting people, systems, and data across increasingly connected digital environments. The conference covers a broad range of topics including critical infrastructure security, IoT and cloud security, cryptography and post-quantum security, secure software development, digital forensics, identity and access management, blockchain security, AI/ML security (including generative AI and LLMs), privacy-preserving technologies, hardware and firmware security, ransomware countermeasures, and policy/legal frameworks for cybersecurity. It emphasizes practical, real-world solutions alongside academic research to build a safer and more trusted digital future.",
+      "callForPapers": "2026-09-22",
+      "url": "buildsec.org/",
+      "eventContact": "priyan@appsc.sab.ac.lk",
+      "sponsorTypes": "1; 3; 5; 9",
+      "venues": "Faculty of Engineering, University of Peradeniya, Faculty of Engineering, University of Peradeniya, Peradeniya, , Kandy, , Sri Lanka, 20400, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

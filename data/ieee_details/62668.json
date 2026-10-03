@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m+Cex440qbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 62668,
+      "eventTitle": "2027 24th International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)",
+      "startDate": "2027-06-20",
+      "endDate": "2027-06-24",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Stockholm",
+        "region": "",
+        "country": "Sweden"
+      },
+      "sponsors": "IEEE Micro Electro Mechanical Systems TC",
+      "keywords": "solid-state sensors,solid-state actuators,Packaging,solid-state materials,nanoscale materials,nanoscale fabrication,composite materials,Polymers,acoustofluidics,Microfluidics,chemical sensors,bio-sensors,in-vitro medical,wearables,in-vivo medical,physical sensors,energy conversion,thermal management,RF MEMS,acoustic resonators,Oscillators,optical transducers,atomic transducers,DC Switches,internet-of-things,tunable power dividers,nanoparticle filled polymers,safety sensors,3D MEMS integration,",
+      "scope": "The conference mission of our international conference is to enhance the collective knowledge of the global transducers technical community and to stimulate it is through providing an inclusive forum for communication, education, and collaboration.",
+      "callForPapers": "2026-12-08",
+      "url": "www.transducers-eurosensors2027.org",
+      "eventContact": "sstearns@pmmiconferences.com",
+      "sponsorTypes": "6",
+      "venues": "Stockholm Waterfront, Nils Ericsons Plan 4, , , , Stockholm, , Sweden, 111 64, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

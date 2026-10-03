@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +f73xo40tb0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72591,
+      "eventTitle": "2026 IEEE Latin American School on Computational Intelligence and Robotics (SAIBOT)",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-28",
+      "about": "Bioengineering; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Cuernavaca",
+        "region": "",
+        "country": "Mexico"
+      },
+      "sponsors": "Morelos Section RA/CIS Joint Chapter",
+      "keywords": "Bio-inspired Robotics,Artificial Intelligence,Control, Robotics And Mechatronics,Evolutionary Robotics,Control Systems,",
+      "scope": "Robot junto al mar 2026 IEEE Latin American School on Computational Intelligence and Robotics 25-28 November, 2026 Cuernavaca, Morelos. 2 The Computational Intelligence is a power tool of the Robots that increase productivity and competitiveness. Used effectively, they enable companies to become or remain competitive. This is particularly important for small-to-medium sized (SME) businesses that are the backbone of both developed and developing country economies. It also enables large companies to increase their competitiveness through faster product development and delivery. Increased use of robots is also enabling companies in high-cost countries to ‘re-shore’ or bring back to their domestic base parts of the supply chain that they have previously outsourced to sources of cheaper labour.",
+      "callForPapers": "2026-09-07",
+      "url": "www.schoolrobotics.org",
+      "eventContact": "jorge.fp@cenidet.tecnm.mx",
+      "sponsorTypes": "5",
+      "venues": "Universidad Politécnica del Estado de Morelos, P.º Cuauhnáhuac 566, Lomas del Texcal, 62574 Jiutepec, Mor., , , , jiutepec, , Mexico, 62574, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

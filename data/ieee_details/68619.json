@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jPnZwY40yKEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68619,
+      "eventTitle": "2026 IEEE 36th International Workshop on Machine Learning for Signal Processing (MLSP)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-01",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Atlanta",
+        "region": "Georgia",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Machine Learning,Signal Processing,Pattern Recognition,Data Analysis,Deep Learning,Statistical Learning,Adaptive Filtering,Time Series Analysis,Biomedical Signal Processing,Neural Networks,Foundational Models,Adaptive Computation,Neuroimaging,",
+      "scope": "The IEEE MLSP is the main and oldest technical event sponsored by the MLSP Technical Committee of the IEEE Signal Processing Society. Its primary objective is to bring together leading experts, researchers, and industry professionals to explore the latest advancements, challenges, and opportunities in machine learning for signal processing (MLSP).",
+      "callForPapers": "2026-06-12",
+      "url": "https://mlsp26.ieeesps.org/",
+      "eventContact": "mmisiura1@gsu.edu",
+      "sponsorTypes": "1",
+      "venues": "College of Law at Georgia State University, 85 Park Pl NE, , , , Atlanta, GA, USA, 30303, ;GSU Student Center, 55 Gilmer St SE, , , , Atlanta, GA, USA, 30303, ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

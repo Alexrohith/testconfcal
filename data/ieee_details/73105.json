@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wJ2Ox440yb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73105,
+      "eventTitle": "2026 Austrochip Workshop on Microelectronics (Austrochip)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-23",
+      "about": "Components, Circuits, Devices and Systems",
+      "location": {
+        "city": "Vienna",
+        "region": "",
+        "country": "Austria"
+      },
+      "sponsors": "Austria Section; FH Technikum Wien - University of Applied Sciences",
+      "keywords": "Analog Integrated Circuits,Mixed-signal Integrated Circuits,VLSI Design,Field Programmable Gate Array (FPGA),Design Methodology,System-level Design,Hi-Level Synthesis,Verification & Test,Low-power Design,Asynchronous Design,Reconfigurable Hardware,Network-on-chip,Gigascale Circuits,Sub-threshold Circuits,RF Systems,Signal Integrity,Reliability Simulation,Device Modelling,Embedded Systems,Digital Signal Processor (dsp),Sensors,Capacitive Sensors,Embedded Artificial Intelligence,",
+      "scope": "Since 1991, Austrochip is an annual meeting/platform to present the latest activities in the field of microelectronics and integrated circuits in Austria and neighbouring countries. The conference is a forum for discussion and contact between academia and industry. Austrochip deals with the design of analogue, digital, and mixed-signal integrated circuits and systems. Submissions of original research papers cover, but are not limited to, the following topics: Analog, mixed-signal, and RF integrated circuits, digital circuits, filters, DSPs, asynchronous designs, FPGA design and reconfigurable hardware, design methodology, system-level design, hi-level synthesis, gigascale circuits, network-on-chip, embedded systems, low-power designs, RF systems, safety and security aspects, verification and testing, signal integrity, device modelling, timing analysis, reliability simulation, emerging technologies, nano CMOS process, sub-threshold circuits, sensors, case studies and prototyping.",
+      "callForPapers": "2026-08-03",
+      "url": "embsys.technikum-wien.at/austrochip2026/index.php",
+      "eventContact": "martin.horauer@technikum-wien.at",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Applied Sciences Technikum Wien, Höchstädtplatz 6, , , , Wien, , Austria, 1200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

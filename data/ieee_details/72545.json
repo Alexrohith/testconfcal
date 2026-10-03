@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nP6Rx440yrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72545,
+      "eventTitle": "2027 15th International Conference on Intelligent Control and Information Processing (ICICIP)",
+      "startDate": "2027-02-08",
+      "endDate": "2027-02-14",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Vientiane and Luang Prabang",
+        "region": "",
+        "country": "Laos"
+      },
+      "sponsors": "City University of Hong Kong - CityU; Guilin University of Electronic Technology; IEEE Systems, Man, and Cybernetics Society; National University of Laos - NUOL",
+      "keywords": "Intelligent Control and Automation,Adaptive Filtering & Signal Processing,Intelligent Information Processing,lmage Processing,Computer Vision & Pattern Recognition,Multimedia Communications,Autonomous Systems,Learning and Adaptive Control Systems,",
+      "scope": "ICICIP 2027 aims to provide a high-level international forum for scientists, engineers, and educators to present the state of the art of intelligent control and information processing research and applications in related fields. The conference will feature plenary speeches given by world renowned scholars, regular sessions with broad coverage, and special sessions focusing on popular topics.",
+      "callForPapers": "2026-10-01",
+      "url": "conference.cs.cityu.edu.hk/icicip/",
+      "eventContact": "nzhang@udc.edu",
+      "sponsorTypes": "1; 9; 9; 9",
+      "venues": "To be determined., , , , , Vientiane and Luang Prabang, , Laos, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

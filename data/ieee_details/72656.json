@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uc+dx440orwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72656,
+      "eventTitle": "2027 IEEE World Congress on Services (SERVICES)",
+      "startDate": "2027-07-05",
+      "endDate": "2027-07-09",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Abu Dhabi",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "web service,cloud computing,metaverse service,digital health,quantum service,software and service education,big data,agentic ai,ai service,intelligent system,privacy and security,internet of things,",
+      "scope": "The Congress will cover all aspects of services computing and applications, current or emerging. It covers various systems and networking research pertaining to cloud, edge and Internet-of-Things (IoT), as well as technologies for intelligent computing, learning, big data, 5G and blockchain applications, in addition to emerging digital health services issues ranging from nano/micro-services to next-generation wearables, while addressing critical requirements such as high performance, security, privacy, dependability, trustworthiness, re-usability interoperability, cost-effectiveness and quality of life.",
+      "callForPapers": "",
+      "url": "services.conferences.computer.org/2027/",
+      "eventContact": "ernesto.damiani@unimi.it",
+      "sponsorTypes": "1",
+      "venues": "ANDEC, , , , , Abu Dhabi, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

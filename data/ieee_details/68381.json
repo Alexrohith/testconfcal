@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4ujewY40zKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68381,
+      "eventTitle": "2030 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "startDate": "2030-06-05",
+      "endDate": "2030-06-09",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "Computer Vision,CVPR,Artificial Intelligence,Facial Recognition ,Computer Vision for Robotics ,Deep Machine Learning,Computer Vision Theroy,Event Based Cameras,Deep Learning Architectures and Techniques,Computer Vision for Social Good,Biometrics,Autonomous Driving,3D Vision,",
+      "scope": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Colorado Convention Center, , , , , Denver, CO, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

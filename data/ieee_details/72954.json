@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: z5uqx440/7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72954,
+      "eventTitle": "2027 IEEE International Workshop on Information Forensics and Security (WIFS)",
+      "startDate": "2027-12-06",
+      "endDate": "2027-12-10",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Lille",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Steganography,IEEE Transactions on Information Forensics and Security,Digital Forensics,Image Forensics,Information Forensics,Watermarking,Biometrics,Data Privacy,Information Security,Physical Layer Security,Security And Privacy,Deepfake,",
+      "scope": "WIFS is the primary annual event organized by the IEEE Information Forensics and Security (IFS) Technical Committee of the IEEE Signal Processing Society (SPS). It brings together academic researchers, government agencies and industrial from all disciplines associated with Information Forensics and Security to discuss emerging challenges and project proposals, exchange fresh ideas, share the state-of-the-art results and technical expertise as well as describe novel methods and innovative applications.",
+      "callForPapers": "2027-07-16",
+      "url": "",
+      "eventContact": "jan.butora@univ-lille.fr",
+      "sponsorTypes": "1",
+      "venues": "Lilliad Learning center innovation, 2 Av. Jean Perrin, https://lilliad.univ-lille.fr/, , , Villeneuve d'Ascq, , France, 59650, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

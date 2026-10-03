@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xcWkx4401rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72278,
+      "eventTitle": "2026 12th International Conference on Computer and Communications (ICCC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-14",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; Sichuan Institute of Electronics",
+      "keywords": "Integrated AI and Communications,AI for Sciences Engineering and Technologies,Computer  Architecture Systems and Networking, Data and Software,Integrated Sensing and  Communications,Applications and Emerging Technologies,",
+      "scope": "2026 IEEE 12th International Conference on Computer and Communications (ICCC) will be held in Chengdu, China once again on December 11-14, 2026. On behalf of the Organizing Committee, we warmly invite you, Computer and Communications scientist, engineer or technician, graduate student, or simply interested by the technique, to take part in this unique and innovative conference with your enthusiasm to develop, your desire to apply and your willingness to mature the Computer and Communications technique and their applications.",
+      "callForPapers": "2026-06-20",
+      "url": "www.iccc.org/",
+      "eventContact": "wanxia_wx@sina.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Crowne Plaza, No. 2, Chaoyin Road, Wuhou District, , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

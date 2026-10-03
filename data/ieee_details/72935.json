@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yO2ox4408bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72935,
+      "eventTitle": "2026 International Conference on Information Engineering, Edge Computing and Intelligent System (IEECIS)",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Zhongkai University of Agriculture and Engineering",
+      "keywords": ",Edge Intelligence,Lightweight Model & On-Device Deployment,Blockchain & Trusted Edge Computing,mart Applications in Vertical Industries,",
+      "scope": "IEECIS 2026 aims to respond to the global trend of digitization and intelligence extending into the \"edge\" of the network. Grounded in Information Engineering, with Edge Computing as the core technological paradigm, and building Intelligent Systems as the ultimate goal, it deeply integrates advanced technology clusters such as Artificial Intelligence (AI), the Internet of Things (IoT), Blockchain, and Low-altitude Technologies. The conference focuses on their innovative applications in key fields like smart agriculture, intelligent manufacturing, and smart cities, aiming to explore a new paradigm for a closed-loop system from data generation and processing to intelligent decision-making.",
+      "callForPapers": "2026-10-13",
+      "url": "ic-ieecis.com/",
+      "eventContact": "ieecis_pc@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhongkai University of Agriculture and Engineering, No. 501, Zhongkai Road, Haizhu District, Guangzhou City, Guangdong Province, , , , Guangzhou, , China, 510000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

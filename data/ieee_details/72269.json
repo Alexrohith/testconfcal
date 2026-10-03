@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5I6cx440lrwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72269,
+      "eventTitle": "2026 6th International Conference on Wireless Communication, Networking and Internet of Things (WCNIoT)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chongqing University of Posts and Telecommunications; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Next-Generation Wireless Communication Systems,Satellite Wireless Communication Systems and Integration,Wireless Sensor Network Systems and Control,AI Application in Wireless Communication Systems,Network Architecture Design and System Integration,Network Security and Cyber System Resilience,IoT System Architecture Design and Optimization,IoT and Big Data Intelligent Processing Systems,V2X Communication and Vehicular Network,Green Communication Technology for Vehicular Mobile Networks,",
+      "scope": "With the rapid development of intelligent electric vehicles and the sharp surge in demand for vehicular mobile communications, coupled with the integration of AI, IoT, and V2X technologies, the need for efficient and secure integrated communication-network-IoT systems is growing. WCNIoT 2026 will serve as a high-level international forum focusing on four core fields: Intelligent Wireless Communication Systems, Computer Networks and System Collaboration, IoT and Intelligent System Integration, and Vehicular Mobile Communications. Relevant tracks cover next-generation wireless communication, cloud-edge collaboration, industrial IoT, V2X communication, and green vehicular networks. With keynote speeches and technical sessions arranged to foster academic exchange and industrial application, global researchers and experts will gather to share cutting-edge achievements and discuss key challenges, thereby advancing technological innovation and broad application across related fields.",
+      "callForPapers": "2026-08-08",
+      "url": "www.iccniot.com/",
+      "eventContact": "a.m.zain@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Chongqing University of Posts and Telecommunications, No. 2 Chongwen Road, Nan'an District, Chongqing City, China, , , , Chongqing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

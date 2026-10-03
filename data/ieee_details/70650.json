@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lJ/lwY40+aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70650,
+      "eventTitle": "2026 10th International Symposium on Innovative Approaches in Smart Technologies (ISAS)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-05",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Gaziantep Islam Science and Technology University; IEEE Systems, Man, and Cybernetics Society; Tokat Gaziosmanpasa University",
+      "keywords": "Smart Technologies,Evolutionary and Swarm Algorithms,Neural Networks and Machine Learning,Fuzzy Sets and Systems,Communication and Networking,Electronic and Embedded Systems,",
+      "scope": "International Symposium on Innovative Approaches in Smart Technologies aims tocontribute to new results in the fields of Neural Networks and Machine Learning, Communication and Networking, Security, Information System, Signal Processing, Evolutionary and Swarm Algorithms, Fuzzy Sets and Systems.",
+      "callForPapers": "2026-09-30",
+      "url": "www.isassymposium.org/2026/",
+      "eventContact": "turgutozseven@gmail.com",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

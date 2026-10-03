@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 76ypx4409rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 53189,
+      "eventTitle": "ICASSP 2027 - 2027 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "startDate": "2027-05-16",
+      "endDate": "2027-05-21",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Speech and Audio Processing, Acoustics, Signal processing,image processing,,",
+      "scope": "World's largest and most comprehensive technical conference on signal processing and its applications. Topics include but are not limited to: Audio and Acoustic Signal Processing Quantum Signal Processing Biomedical Signal and Image Processing Remote Sensing and Signal Processing Compressive Sensing Sampling, and Dictionary Learning Sensor Array & Multichannel Signal Processing Design and Implementation of Signal Processing Signal Processing for Big Data Financial Signal Processing Speech Processing Graph Theory and Signal Processing Signal Processing for Communication and Networking Image, Video and Multidimensional Signal Processing for Cyber Security Industrial Signal Processing Signal Processing for Education Information Forensics and Security, Signal Processing for Smart Systems Internet of Things & RFID Signal Processing Implementation Machine Learning for Signal Processing Signal Processing Theory and Methods Multimedia Signal Processing Spoken language processing",
+      "callForPapers": "",
+      "url": "2027.ieeeicassp.org",
+      "eventContact": "n.allen@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Metro Toronto Convention Centre, , , , , , ON, Canada, , ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

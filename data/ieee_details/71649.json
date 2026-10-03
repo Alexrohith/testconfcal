@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lOiBx4408LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71649,
+      "eventTitle": "2026 Next Generation Communications (NextGCom)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Argostoli",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "IEEE Communications Society; Tech4Society",
+      "keywords": "Internet of Things, Wireless Communications, Computer Networks, Artificial Intelligence, Communications And Networking, Communication System Security,",
+      "scope": "NextGCom 2026 will be divided into 6 Tracks designed to cover cutting-edge advancements and innovations in communication technologies. These Tracks span topics from physical layer techniques and MAC protocols to AI-driven communication solutions and cybersecurity strategies. Additionally, the conference will explore IoT applications, real-world testbeds, and business perspectives, fostering a comprehensive dialogue on next-generation networks.",
+      "callForPapers": "2026-08-20",
+      "url": "nextgcom.net",
+      "eventContact": "eirini.kanaki@tech4society.eu",
+      "sponsorTypes": "1; 9",
+      "venues": "Department of Digital Media and Communication, Antonis Tritsis Ave, Kefalonia island, , , Argostoli, , Greece, 28100, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

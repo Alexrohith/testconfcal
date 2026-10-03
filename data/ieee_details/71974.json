@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r7Snx4409rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71974,
+      "eventTitle": "2026 IEEE International Conference on Cyber, Physical & Social Computing (CPSCom)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Montbéliard",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Cyber-PhysicalCyber-Social Systems,Resilience and Deterrence in CPSS,CyberBiosecurity and Security of CPSS,Cyber-Physical-Social Systems (CPSS), Systems, Data and Networks for CPSS,Technologies & Applications for CPSS,",
+      "scope": "Cyber-Physical Systems (CPS) and Cyber-Social Systems (CSS) are emerging cross-disciplinary research areas that feature the combination of computational and physical elements. CSS is rapidly evolving due to the popularity of online social networking. With the advent of ubiquitous sensing and networking, future social networks involve cyber-physical interactions among associated social attributes. Cyber-Physical-Social Systems (CPSS) are known as the integration between CPS and CSS.",
+      "callForPapers": "2026-06-15",
+      "url": "www.ieee-cybermatics2026.org/call-for-papers/iThings",
+      "eventContact": "benoit.piranda@femto-st.fr",
+      "sponsorTypes": "1",
+      "venues": "Université Marie et Louis Pasteur / UFR STGI, 4 place Tharradin, , , , Montbéliard, , France, 25200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

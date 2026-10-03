@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7/3fwY4006QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72041,
+      "eventTitle": "2026 International Conference on Artificial Intelligence, Big Data and Cloud Computing (AIBDCC)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-31",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; Chengdu University; International Society for Applied Computing ",
+      "keywords": "Artificial Intelligence,Big Data,Data Mining,Cloud Computing,Computer Science,Information Technology,Machine Learning,",
+      "scope": "Contributed papers are solicited describing original works in Artificial Intelligence, Big Data and Cloud Computing.",
+      "callForPapers": "2026-08-30",
+      "url": "www.aibdcc.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Chengdu University, No. 2025, Chengluo Avenue, Longquanyi District, Chengdu, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

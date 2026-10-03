@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: x86Lx440o7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67456,
+      "eventTitle": "2026 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Power & Energy Society; Wuhan University",
+      "keywords": "Power System,Smart Grid,Renewable Energy Resources,Artificial Intelligence,Cloud Computing,Energy Router,System Modelling,Cyber-Physical System,Power and Energy Market,Advanced Measurement and Control,Renewable Energy,Smart Substation,Power Electronics,Big Data,Energy Block Chain,",
+      "scope": "The IEEE PES ISGT Asia 2026 conference is dedicated to creating an international high-end exchange platform for the smart grid field, promoting comprehensive innovation and sustainable development in the power and energy industry.The scopes of the conference embrace research and development on smart grid, power system generation, transmission, distribution, planning, protection, optimization, economic and marketing, advanced measurement and control, renewable energy, energy storage, smart substation, power electronic,, big data, energy block chain, installation and operation of equipment. The objectives of the conference are setting a global platform for research, education, innovation on both academic and industry, meanwhile expanding global reach via collaboration and marketing.",
+      "callForPapers": "",
+      "url": "ieee-isgt-asia.org/",
+      "eventContact": "meng.huang@whu.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "East Lake International Conference Center (ELICC), No.146 Donghu Road, Wuchang District, Hubei Province, , Wuhan, , China, 430074, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

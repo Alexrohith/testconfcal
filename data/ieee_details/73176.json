@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: g4Wfx440u7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73176,
+      "eventTitle": "2027 IEEE 12th European Symposium on Security and Privacy (EuroS&P)",
+      "startDate": "2027-07-05",
+      "endDate": "2027-07-09",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Madrid",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Computer security,Privacy,Cybersecurity,",
+      "scope": "Computer security, Privacy, Network Security",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "juan.caballero@imdea.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Madrid, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jfXrwY40raUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72901,
+      "eventTitle": "2026 7th International Symposium on Computer Engineering and Intelligent Communications (ISCEIC)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chongqing University of Posts and Telecommunications; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Computer Engineering and Technology,Cloud Computing and Soft Computing,AI and Machine Learning,Big Data Analysis,Software Engineering,Computer Vision and Virtual Reality,Intelligent Communication Systems,WirelessMobile Communication,Communicational Signal Processing,Wireless Sensor Networks,Optoelectronics and Optical Communication,",
+      "scope": "ISCEIC 2026 will serve as a global platform for presenting, discussing, and advancing computer engineering and intelligent communications. It will cover core fields, including cloud computing, software engineering, big data analysis, artificial intelligence, neural networks, computer vision, and blockchain technologies, as well as 5G/6G, optical/wireless/mobile/satellite communications, and intelligent communication system technologies. The conference will dedicate itself to facilitating global academic and industrial cooperation among professional researchers and industry practitioners. It will feature authoritative keynote speeches and interactive academic sessions to inspire innovative ideas and drive collaborative research breakthroughs. Participants will gain access to frontier research outcomes and engage in in-depth academic exchanges, boosting continuous technological innovation and practical engineering applications in these dynamic fields.",
+      "callForPapers": "2026-09-12",
+      "url": "www.isceic.org/",
+      "eventContact": "cwu.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Chongqing University of Posts and Telecommunications, No. 2 Chongwen Road, Nan'an District, Chongqing City, China, , , , Chongqing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

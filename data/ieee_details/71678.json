@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xLPbwY40zqEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71678,
+      "eventTitle": "2026 International Conference on Machine Intelligence and Cyber Physical Systems (ICMICPS)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-14",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Indore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": " Sushila Devi Bansal College of Technology; Madhya Pradesh Section",
+      "keywords": "Machine Learning,Cloud Computing,Robotics and Automation,Data Science, Smart Grids ,Embedded Systems, Sustainable Construction ,Business Analytics,",
+      "scope": "The conference aims to provide a multidisciplinary platform for researchers, academicians, industry experts, and policymakers to share innovations in emerging technologies and sustainable systems. It covers Artificial Intelligence, Machine Learning, Data Science, Cloud and Edge Computing, Internet of Things, Cybersecurity, Blockchain, and Quantum Technologies. The scope includes Electronics, Communication, Embedded Systems, Robotics, Automation, Smart Manufacturing, and Next-Generation Networks. It also embraces Renewable Energy, Smart Grids, Sustainable Infrastructure, Environmental Engineering, and Advanced Materials. Contributions in Software Engineering, Human Computer Interaction, Digital Transformation, Business Analytics, Innovation Management, and the ethical and societal dimensions of intelligent and cyber-physical systems are encouraged. Interdisciplinary research addressing real-world challenges and sustainable development is strongly promoted.",
+      "callForPapers": "2026-04-10",
+      "url": "sdbc.ac.in/icmicps-2026/",
+      "eventContact": "rahul.maheshwari024@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Sushila Devi Bansal College of Technology, Indore, AB Road, Umaria, , Near Rau, Indore, Madhya Pradesh, , Indore, , India, 453331, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

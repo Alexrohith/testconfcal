@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 5,Rid: tcSAx4406LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70719,
+      "eventTitle": "2026 IEEE International Conference on Smart Connected Systems and Emerging Technologies (SCSETech)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-03",
+      "about": "Communication, Networking and Broadcast Technologies; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pomona",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Cal Poly Pomona College of Engineering; Foothill Section; Foothill Section COM Chapter",
+      "keywords": "Wireless Communication,Artificial Intelligence,Cybersecurity,Internet of Things,Smart Power Systems,",
+      "scope": "The IEEE International Conference on Smart Connected Systems and Emerging Technologies (IEEE SCSET 2026) is an international-level, hybrid IEEE conference. It provides a platform for researchers, professionals, and students to explore cutting-edge developments in Wireless Communication, Artificial Intelligence, Cybersecurity, Internet of Things (IoT), and Smart Power and Sustainable Systems. Hosted by the IEEE Foothill Section, IEEE Foothill ComSoc Chapter, and Cal Poly Pomona, the conference promotes interdisciplinary dialogue and innovation.",
+      "callForPapers": "2026-07-30",
+      "url": "www.ieeescsetech.com",
+      "eventContact": "tromar@cpp.edu",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Kellogg West Conference Center & Hotel, 3801 W Temple Ave, Building 76, , , Pomona, CA, USA, 91768, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

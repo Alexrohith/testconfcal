@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gcWfx440v7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70805,
+      "eventTitle": "2026 7th International Conference on IoT Based Control Networks and Intelligent Systems (ICICNIS)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; T John Institute Of Technology",
+      "keywords": "Cognitive Computing,Cybersecurity in IoT,Secure Communication Protocols,Evolutionary Algorithm,Cyber-Physical Systems,Quantum Cybernetics,Swarm Intelligence,",
+      "scope": "In recent years, Internet of Things [IoT] technology envisions to develop a hyper- connected world, where the intelligent systems can communicate and control each other to deliver highly diversified services and applications to the users. The primary motivation of ICICNIS 2026 is to deliver state-of-the-art research insights on Internet of things [IoT] paradigm to access, manage and control the objects/things/people working under various information systems and deployed under wide range of applications like smart cities, health care, industries, smart homes, etc. 7th International Conference on IoT Based Control Networks and Intelligent Systems [ICICNIS 2026] aims to showcase the ongoing research works and efforts in the domain of computation management, control networks in IoT Systems. This issue will provide the opportunity for the researchers/academicians/industrialists to gain intensive knowledge on the new emerging IoT technologies and applications.",
+      "callForPapers": "2026-08-21",
+      "url": "icicnis.com/2026/",
+      "eventContact": "icicnis.conf@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "T.John College, No. 88/1, Gottigere Bannerghatta Road, Bannerghatta Rd, Gottigere, , Doddakammanahalli,, Karnataka, Bengaluru, , , India, 560083 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pMLawY40yqEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71498,
+      "eventTitle": "2026 8th International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University of Finance and Economics",
+      "keywords": "Optimization of Machine Learning Methods,Deep Learning and Reinforcement Learning,Distributed Machine Learning Algorithms,Big Data Visual Analytics,Big Data Storage Systems,Big Data Privacy and Security,Business Intelligence Systems,Business Data Analysis,Intelligent Recommendation Systems,",
+      "scope": "MLBDBI 2026 will serve as a global academic platform presenting the latest advancements in machine learning, big data, and business intelligence technologies. The conference will cover a wide array of topics, including the optimization of machine learning techniques, deep learning and reinforcement learning, distributed machine learning algorithms, big data visual analytics, storage architectures, privacy and security concerns, business intelligence frameworks, data analytics, and intelligent recommendation systems. Leading researchers and industry experts will gather to share cutting-edge ideas and tackle complex technical challenges, promoting meaningful academic exchanges and fostering stronger partnerships between research institutions and industry. Attendees will have the opportunity to explore pioneering research, participate in detailed technical discussions, and contribute to accelerating innovation and academic excellence within these rapidly evolving fields.",
+      "callForPapers": "2026-08-08",
+      "url": "www.mlbdbi.org/",
+      "eventContact": "mlbdbi.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University of Finance & Economics, No. 18 Xueyuan Street, Xiasha Higher Education Park, Qiantang District, Hangzhou City, Zhejiang Province, China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

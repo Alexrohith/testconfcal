@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v4/rwY40pKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72423,
+      "eventTitle": "2026 International Conference on AI Innovations, Cyber Resilience and Transformative Applications (AIICRTA)",
+      "startDate": "2026-12-22",
+      "endDate": "2026-12-23",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Mahdia",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "Northern Technical University; Scientific & Cultural Association of the University of Monastir; Tunisia Section; University of Monastir; Village de Langues",
+      "keywords": "Artificial Intelligence,Cybersecurity,Privacy-Preserving Computing,Blockchain Technology,Smart Cities,Intelligent Systems,AI in Healthcare,Financial Technology,Edge Computing,Reinforcement Learning,Machine Learning,Deep Learning,Cybersecurity,Digital Trust,Explainable AI,Medical Imaging,Predictive Analytics,Smart Agriculture,Big Data Analytics,Pattern Recognition,Anomaly Detection,Data Mining,Computational Intelligence,",
+      "scope": "The First International Conference on AI Innovations, Cyber Resilience and Transformative Applications (AIICRTA-2026) provides an international forum for researchers, academics, and industry professionals to present advances in Artificial Intelligence (AI) and its applications, with a strong focus on cybersecurity and cyber resilience. The conference addresses both theoretical and applied aspects of AI, including machine learning, deep learning, explainable AI, and computational intelligence. It highlights applications in security, healthcare, smart cities, industry, finance, and education. Special emphasis is placed on privacy-preserving AI, secure and trustworthy systems, and AI-driven solutions for emerging cyber threats. The conference promotes interdisciplinary collaboration to advance resilient, intelligent, and secure digital systems.",
+      "callForPapers": "2026-07-20",
+      "url": "aiicrta.ntu.edu.iq/",
+      "eventContact": "ramzi.mahmoudi@esiee.fr",
+      "sponsorTypes": "3; 9; 9; 9; 9",
+      "venues": "The Language Village, University Complex, Route de Mahdia, Rajiche, , Mahdia, , Tunisia, 5121, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

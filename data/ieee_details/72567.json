@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hPWdx440sbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72567,
+      "eventTitle": "2027 19th International Conference on COMmunication Systems and NETworkS (COMSNETS)",
+      "startDate": "2027-01-05",
+      "endDate": "2027-01-09",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "COMSNETS Association; IEEE Communications Society",
+      "keywords": "Communication,Networking,mobile communication,sensor networks,Internet of things,cloud computing,cloud communication,social networks,network security,5G advance and 6G,vehicular networks,Intelligent transportation,ML and AI for communication and networking,green communication,semiconductor for communication,Quantum network,",
+      "scope": "COMSNETS is a premier International Conference dedicated to advance in networking and Communication Systems and associated applications and services.",
+      "callForPapers": "2026-08-31",
+      "url": "www.comsnets.org",
+      "eventContact": "giridhar.mandyam@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Chancery Pavilion Hotel, 135 Residency Road, , , , Bengaluru, , India, 560025, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

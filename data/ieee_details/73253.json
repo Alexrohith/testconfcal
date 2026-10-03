@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4tDrwY40qqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73253,
+      "eventTitle": "2026 IEEE MetroCon",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Fort Worth",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Fort Worth Section",
+      "keywords": "DFW Metroplex,Region 5,Defense,Mission Systems,Power,Energy,CHIPS,Circuits,Hardware,Semiconductor,Biotechnology,Healthcare,Wireless,WAVES,Audio,Vision,Sensors,Intelligent Systems,Security,Professional Development,Leadership,Technology,Innovation,Machine Learning,Systems Integration,Aerospace,Electrification,Electromagnetics,",
+      "scope": "Technical sessions and networking for all IEEE Technical Fields of Interest within the Dallas Fort Worth MetroPlex and R5.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "cpbailey@ieee.org",
+      "sponsorTypes": "3",
+      "venues": "Fort Worth Convention Center, , , , , Fort Worth, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

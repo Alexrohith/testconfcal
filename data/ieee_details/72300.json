@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: i/n/xo407r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72300,
+      "eventTitle": "2026 1st International Joint Conference on Agentic, Generative, and Cognitive AI Systems (AGCS)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; France Section C Chapter; Umea University",
+      "keywords": "Artificial Intelligence,Agentic Systems,Generative AI,Cognitive AI,",
+      "scope": "Advance agentic intelligence, generative models, and cognitive AI systems.",
+      "callForPapers": "2026-06-15",
+      "url": "agcs-conference.tech/index.php",
+      "eventContact": "siba.haidar@esiea.fr",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "ESIEA, Graduate School of Engineering, 4 All. Katherine Johnson,, Ivry-sur-Seine, , , Paris, , France, 94200 , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

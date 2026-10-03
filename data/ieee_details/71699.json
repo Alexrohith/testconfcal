@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zfPBwo40gqcBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71699,
+      "eventTitle": "2026 2nd IEEE Uttar Pradesh Section Women in Engineering International Conference on Electrical Electronics and Computer Engineering (UPWIECON)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "National Institute of Electronics & Information Technology (NIELIT); Uttar Pradesh Section",
+      "keywords": "Intelligent Systems,Secured Systems,Cybersecurity,computational technologies,Internet of Things,ubiquitous computing,wearable technology,smart sensors,data analytics,edge computing,machine learning,cloud computing,artificial intelligence,human-computerinteraction,mobile computing,wireless networks,computer science,digital image processing,green computing,Cyber physical systems,Network Security,Cloud Computing Security,Edge Computing,Secure Communication Protocols,Digital Forensics,",
+      "scope": "The conference will cover key areas of electrical and electronics engineering, including power systems, renewable energy technologies, smart grids, power electronics, control systems, instrumentation, VLSI design, embedded systems, and communication engineering. It will also include cutting-edge domains such as artificial intelligence, data science, IoT, cybersecurity, and smart computing. The conference emphasizes inclusive innovation, women’s leadership, interdisciplinary collaboration, and technology-driven solutions for societal and industrial challenges.",
+      "callForPapers": "2026-04-02",
+      "url": "nielit.ac.in/upwiecon2026/",
+      "eventContact": "svikram@live.com",
+      "sponsorTypes": "3; 9",
+      "venues": "India Expo Center & Mart, Knowledge Park II, , , , Greater Noida, , India, 201310, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

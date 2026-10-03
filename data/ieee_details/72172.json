@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zoqOx440v7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72172,
+      "eventTitle": "2026 2nd International Conference on Intelligent Control and Electrical Engineering (IC-ICEE)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Tianjin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Tianjin Chengjian University (TCU)",
+      "keywords": "Adaptive and Robust Control for Intelligent Systems,Artificial Intelligence-Driven Automation Systems,IoT-Enabled Intelligent Control Systems,Distributed Control System for Industrial Networks,Industrial Robotics and Intelligent Motion Control,Intelligent Power and Energy Systems,Power System Automation and Smart Grid Integration,Power System Stability Analysis and Control,Intelligent Control for Energy-Efficient Electrical Systems,High Voltage Insulation Technology and Engineering,",
+      "scope": "IC-ICEE 2026 will stand as a premier international academic forum, focusing on intelligent control technologies, intelligent power systems, and their cross-disciplinary applications. It will gather global scholars, experts, and engineers to share cutting-edge achievements and tackle core technical challenges. Key topics will cover adaptive and robust control for intelligent systems, AI-driven automation systems, IoT-enabled intelligent control systems, distributed control for industrial networks, industrial robotics and intelligent motion control, intelligent power and energy systems, power systems and automation, power system stability analysis and control, intelligent control for energy-efficient electrical systems, and high voltage insulation technology and engineering. Featuring keynotes and technical sessions, the conference will offer a professional academic exchange platform to advance innovation and development in related engineering fields.",
+      "callForPapers": "2026-07-24",
+      "url": "www.ic-icee.org/",
+      "eventContact": "g-daniel-a@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Tianjin Chengjian University, No. 26, Jinjing Road, Xiqing District, Tianjin City, China, , , , Tianjin, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

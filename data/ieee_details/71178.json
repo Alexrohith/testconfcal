@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: i5r6xo40zr0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71178,
+      "eventTitle": "2026 IEEE International Conference on Medical Artificial Intelligence (MedAI)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Bioengineering; Computing and Processing",
+      "location": {
+        "city": "Zhengzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Intersection of artificial intelligence (AI) and medicine;,Applications of AI techniques in solving  biomedical problems,Interactions and collaborations between medical researchers and  practitioners and AI researchers.,",
+      "scope": "The conference is dedicated to original contributions on innovative AI theories and methodologies for medicine, AI-inspired biomedical technologies, and complex biomedical issues that can benefit from AI techniques or may pose new challenges to AI",
+      "callForPapers": "2026-08-15",
+      "url": "medai2026.zzuli.edu.cn",
+      "eventContact": "nanjiaofen@zzuli.edu.cn",
+      "sponsorTypes": "1",
+      "venues": "Huawise Hotel, No. 97 Science Avenue, High-tech Industrial Development Zone, Zhongyuan District, , , , Zhengzhou,Henan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

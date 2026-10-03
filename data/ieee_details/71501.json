@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: u9TawY40y6EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71501,
+      "eventTitle": "2026 International Symposium on the Tsetlin Machine (ISTM)",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-14",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Computer Society; University of Agder - Norway ",
+      "keywords": "Machine Learning,Tsetlin Machine,Explainable AI,Logic based AI,Low-Power Machine Learning,Low-Energy Machine Learning,Accelerated Machine Learning,,",
+      "scope": "A premier international symposium for coordinating high-quality research and development of a novel machine learning ecosystem based around the principles of learning automata and Tsetlin Machine.",
+      "callForPapers": "2026-06-21",
+      "url": "istm.no/",
+      "eventContact": "elisabeth.rasmussen@uia.no",
+      "sponsorTypes": "1; 9",
+      "venues": "Indian Institute of Science, CV Raman Rd, Karnataka, , , , Bengaluru, , India, 560012, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

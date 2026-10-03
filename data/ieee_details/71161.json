@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pdqcx440mrwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71161,
+      "eventTitle": "2026 4th International Conference on Logistics Engineering, Supply Chain, and Digital Transformation (LESCDT)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Zhengzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Fachhochschule Nordwestschweiz - FHNW; IEEE Computer Society; Zhengzhou University",
+      "keywords": "Smart Logistics,Smart Supply Chain,Digital Transformation,Internet of Things,Future Network and Technology,",
+      "scope": "Smart technologies in transportation and distribution Data integration and IoT in logistics tracking Web-based interactions and transactions in supply chains Smart logistics and smart supply chain Automation, control and robotics in supply chain Application of digital intelligence technology in enhancing supply chain resilience Digital tools for suppliers to participate in product development Supply chain inter-firm networks and collaboration Digital supply chain Digital transformation in organizations Digital transformation in operations & supply chain management Project management in digital applications Cybersecurity strategies and privacy encryption technologies in digital supply chains Smart factory scheduling Novel automation, information and data architectures on the design of logistics systems and supply chains Intelligent automation in last-mile delivery Future networks and technology (e.g. enterprise architecture, software agents, mobile computing)",
+      "callForPapers": "2026-07-31",
+      "url": "www.lescdt.com/",
+      "eventContact": "lescdt@acamail.org",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Zhengzhou Huawise Hotel, No.97 Kexue Avenue, Zhongyuan District, , , , Zhengzhou, , China, 450000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5uH5xo40vroBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72148,
+      "eventTitle": "2026 International Conference on Electrical and Electronics Engineering and Artificial Intelligence (3EAI)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Tumxuk",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xinjiang University of Political Science and Law",
+      "keywords": "Electrical Engineering,Artificial Intelligence,Electronic Engineering,AI Applications in Electrical and Electronic Systems,",
+      "scope": "The 2026 International Conference on Electrical and Electronics Engineering and Artificial Intelligence (3EAl 2026) is a global academic forum dedicated to advancing foundational theories and emerging innovations in electrical engineering, electronic systems, and artificial intelligence. With a strong emphasis on academic rigor and technological progress, the conference aims to build a high-evel platform for international knowledge exchange and cross-disciplinary collaboration. Gathering leading scholars, researchers, and industry experts worldwide, the conference will explore cutting-edge developments, opportunities, and challenges across intelligent electrical systems, advanced electronic technologies, and Al-driven engineering applications. By fostering dialogue among diverse research communities, 3EAl 2026 seeks to accelerate scientific breakthroughs, promote impactful applications, and support the evolution of intelligent and sustainable engineering technologies.",
+      "callForPapers": "2026-08-01",
+      "url": "www.3eai.org/",
+      "eventContact": "ic-3eai.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xinjiang University of Political Science and Law, No.1, Tianshan Road, Tumxuk City, Third Division, Xinjiang Production and Construction Corps, Xinjiang, China, , , , Tumxuk, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

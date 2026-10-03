@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 75bvwY409aIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73848,
+      "eventTitle": "2026 28th International Multitopic Conference (INMIC)",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-26",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Lahore",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Al-Khawarizimi Institute of Computer Science, UET, Lahore ; Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter; Lahore Section E Chapter",
+      "keywords": "Artificial Intelligence; Machine Learning; Deep Learning; Data Science; Big Data Analytics; Computer Vision; Natural Language Processing; Software Engineering; Systems Engineering; Cybersecurity; Network Security; Data Privacy; Internet of Things; Parallel Computing; Distributed Systems; Cloud Computing; Edge Computing; Biomedical Engineering; Biomedical Signal Processing; Electrical Engineering; Electronic Engineering; Embedded Systems; Communication Systems; Signal Processing; Smart Systems.,",
+      "scope": "The 28th International Multi-Topic Conference (INMIC 2026), hosted by the University of Engineering and Technology (UET), Lahore, is being organized in collaboration with the IEEE Lahore Section, IEEE Communications Society Lahore Chapter, IEEE Computer Society Lahore Chapter, and IEEE Education Society Lahore Chapter. It will provide an international forum for researchers, engineers, industry professionals, educators, and students to present original research and practical innovations in computing, communications, electrical engineering, electronics, and emerging technologies. Its scope includes artificial intelligence, machine learning, data science, software and systems engineering, cybersecurity, network security, parallel and distributed computing, edge and cloud computing, and biomedical, electrical, and electronic engineering. INMIC 2026 will promote interdisciplinary research, practical solutions, knowledge exchange, technology transfer, and academia–industry collaboration.",
+      "callForPapers": "2026-09-30",
+      "url": "inmic.uet.edu.pk",
+      "eventContact": "dir@kics.edu.pk",
+      "sponsorTypes": "3; 5; 5; 5; 9",
+      "venues": "University of Engineering and Technology, UET GT Road , , , , Lahore, , Pakistan, 54782, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

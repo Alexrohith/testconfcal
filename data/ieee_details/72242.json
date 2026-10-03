@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ua+Jx440obsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72242,
+      "eventTitle": "2026 International Conference on Emerging eLearning Technologies and Applications (ICETA)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Stary Smokovec",
+        "region": "",
+        "country": "Slovakia"
+      },
+      "sponsors": "Czechoslovakia Section; Technical University of Kosice",
+      "keywords": "ICT,information technologies,communication technologies,Education,human learning,e learning,distance learning,continuing education,Education Courses,Training And Continuing  Education,Training,Collaborative software,Artificial Intelligence,computer networks,,",
+      "scope": "Exchange of experiences in utilization of advanced ICT for education Development of a multidisciplinary platform for information exchange in research and development of multimedia and hypermedia applications, in a complex computer support of learning and in new telecommunication services Creating of a broad database of future customers and users of the presented services Supporting a collaboration among the users and suppliers of learning solutions",
+      "callForPapers": "2026-08-15",
+      "url": "www.iceta.sk",
+      "eventContact": "fejedelem@elfa.sk",
+      "sponsorTypes": "3; 9",
+      "venues": "Grand Hotel Stary Smokovec, Stary Smokovec 38, , , , Vysoke Tatry, , Slovakia, 062 01, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

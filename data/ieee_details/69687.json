@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: meSux440vb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69687,
+      "eventTitle": "2026 Brazilian Congress of Biomedical Engineering (CBEB)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-10-02",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Fortaleza, Ceará",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "Federal University of Ceara; Northeast Brazil Section",
+      "keywords": "Biomedical electronics,Biomedical signal processing,Neural engineering,Biomedical equipment,Biomedical imaging,.Bionanotechnology,Computational biology,Electronic healthcare,Health information management,Computer and computing technology,Medical diagnosis,Medical tests,Medical treatment,Nuclear medicine,",
+      "scope": "Biomedical Engineering is, by nature, an essentially interdisciplinary field, connecting engineering, health sciences, computing, and innovation, with a focus on developing solutions applied to diagnosis, treatment, and healthcare management. Over the decades, CBEB has been a hub for researchers, students, industry professionals, and public policymakers , driving innovation and technological transformation in the healthcare sector.",
+      "callForPapers": "",
+      "url": "cbeb.org.br/",
+      "eventContact": "victor.albuquerque@ufc.br",
+      "sponsorTypes": "3; 9",
+      "venues": "Fábrica de Negócios – Hotel Praia Centro, Av. Monsenhor Tabosa, 740 – Centro, Fortaleza – CE, , , , , , Brazil, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sPLuwY40xqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72462,
+      "eventTitle": "2026 6th International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology (CEI)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanning",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangxi University; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Artificial Intelligence and Neural Network,Machine Learning and Deep Learning,Natural Language Processing,Computer Vision and Pattern Recognition,Computer Network and Information Security,Wireless Communication Technology and Systems,Communication Signal Processing and Optimization,Single-Chip Microcomputer and Embedded Systems,Intelligent Control Theory and Algorithms,Industrial Control System and Automation,Robotic Control and Automation,Complex System Control and Optimization,",
+      "scope": "CEI 2026 will serve as a global platform for presenting, discussing, and advancing computer science, electronic information engineering, and intelligent control technologies. The conference will promote worldwide cooperation among experts, researchers, and academics, and will address the interdisciplinary integration needs of the three core fields. It will cover key areas including AI, machine learning, natural language processing, single-chip microcomputer and embedded systems, wireless communication systems, intelligent control algorithms, and robotic automation, and will feature keynote speeches from leading figures in the field, interactive sessions, and technical workshops to stimulate forward-thinking and collaborative breakthroughs. Participants will gain access to groundbreaking research, engage in in-depth discussions, and network with peers, all of which will drive innovation and scholarly excellence in these dynamic and rapidly evolving sectors.",
+      "callForPapers": "2026-09-05",
+      "url": "www.ic-cei.org/",
+      "eventContact": "y.wang.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Guangxi University, No. 100, Daxue East Road, Xixiangtang District, Nanning City, Guangxi Zhuang Autonomous Region, China, , , , Nanning, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

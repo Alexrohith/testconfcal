@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: q/T5xo40wroBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71395,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Health Informatics (AIHI)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Changchun",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Changchun University of Science and Technology - CUST; IEEE Smart Cities Community",
+      "keywords": "Artificial Intelligence in Healthcare,Health Informatics,Medical Data Analytics,Clinical Decision Support Systems,Data-Driven Healthcare,",
+      "scope": "AIHI 2026 will focus on artificial intelligence and health informatics technologies for data-driven and intelligent healthcare systems. The conference covers methods and applications in medical data analysis, clinical decision support, health information systems, and AI-enabled healthcare services.",
+      "callForPapers": "2026-09-11",
+      "url": "www.ic-aihi.com/",
+      "eventContact": "aihi_pc@163.com",
+      "sponsorTypes": "6; 9",
+      "venues": "Changchun University of Science and Technology, No. 7089, Weixing Road, Chaoyang District, Changchun City, Jilin Province, China, , , , Changchun, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1cHhwY40i6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73174,
+      "eventTitle": "2026 2nd International Conference on Power Systems, Smart Grid, and Artificial Intelligence (PSGAI)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Power & Energy Society; North China University of Technology (NCUT)",
+      "keywords": "Power Systems,Smart Grid,Artificial Intelligence,Machine Learning,Internet of Things (IoT),Renewable Energy Integration,",
+      "scope": "PSGAI 2026 focuses on the integration of power systems, smart grids, and artificial intelligence to improve energy efficiency, reliability, and sustainability. It covers power system control, renewable energy integration, intelligent grid optimization, and AI-driven forecasting, aiming to enhance grid resilience and support the transition to low-carbon, digital energy systems.",
+      "callForPapers": "2026-09-18",
+      "url": "www.icpsgai.com/",
+      "eventContact": "qfchen25@163.com",
+      "sponsorTypes": "1; 9",
+      "venues": "North China University of Technology, China, No.5 Jinyuonzhuang Rood, Shijingshan District, Beijing, China, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vefiwY40mKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71903,
+      "eventTitle": "2026 2nd International Conference on Data Science and Intelligent Systems (DSIS)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang Sci-Tech University",
+      "keywords": "Data Science,Intelligent Systems,Machine learning,Artificial Intelligence,Big data,Databases,Data Analytics,Data Security,Data Science and Artificial Intelligence,Image Processing,Pattern Recognition,Data Science Applications,Machine Learning and Intelligent Systems,",
+      "scope": "The aim of this conference is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results in various topics of Data Science and Intelligent Systems. It provides participants an opportunity to discuss the recent developments in the fields of Data Science and Intelligent Systems areas.",
+      "callForPapers": "2026-09-20",
+      "url": "www.dsis2026.net/",
+      "eventContact": "dsisconf@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang Sci-Tech University, No. 928, 2nd Street, Qiantang District, Hangzhou City, Zhejiang Province, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

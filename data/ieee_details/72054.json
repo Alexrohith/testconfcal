@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: paqkx4401bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72054,
+      "eventTitle": "2026 IEEE Conference on Dependable and Secure Computing (DSC)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "NYC",
+        "region": "New York",
+        "country": "USA"
+      },
+      "sponsors": "Fordham University; IEEE Reliability Society",
+      "keywords": "hardware design,software engineering,network security,cloud computing,IoT security,AI-driven security,",
+      "scope": "The conference will bring together researchers, practitioners, and industry leaders to advance methods of design, analysis, development and deployment, as well as workflow for implementation and infrastructure, of dependable and secure systems.",
+      "callForPapers": "2026-05-20",
+      "url": "",
+      "eventContact": "hsu@fordham.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Fordham University, Lincoln Center Campus, 140 W 62nd St, , , , New York, NY, USA, 10023, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

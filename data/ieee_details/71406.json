@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: squFx4409boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71406,
+      "eventTitle": "2027 IEEE International Conference on Consumer, Computing, and Communications Technology Systems (I3CTS)",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Manila City",
+        "region": "",
+        "country": "Philippines"
+      },
+      "sponsors": "Korean Institute of Communications and Information Sciences – Philippines Section (KICS-PH ; Philippine Section C Chapter; Philippine Section CT Chapter; Philippine Section E Chapter; Republic Of Philippines Section CS Chapter",
+      "keywords": "quantum information,Edge Computing,Blockchain,artificial intelligence,Education In Engineering And Industrial Technologies,education engineering,",
+      "scope": "2027 International Conference on Consumer, Computing, and Communications Technology Systems (I3CTS)  is a multidisciplinary forum dedicated to the convergence of advanced computing foundations, consumer-centric applications, and modern pedagogical frameworks. The conference focuses on the synergy between Artificial Intelligence, Blockchain, and Quantum Computing to drive innovation across three strategic pillars:  Computing Foundations: Advanced algorithms, Quantum Machine Learning (QML), quantum-resistant cryptography, and scalable AI architectures (e.g., Transformer-based models and sensor fusion).  Consumer Technology: The integration of \"Deep Tech\" into Intelligent Transport Systems (ITS), secure IoT ecosystems, and the enhancement of user-centric electronics.  Educational Informatics: The digital transformation of learning through AI-driven adaptive platforms, Blockchain-verified credentialing, and emerging technology curricula for the global STEM workforce.",
+      "callForPapers": "2026-12-01",
+      "url": "",
+      "eventContact": "jfvillaverde@mapua.edu.ph",
+      "sponsorTypes": "5; 5; 5; 5; 9",
+      "venues": "Diamond Hotel, Roxas Boulevard,,  Corner Dr. J. Quintos Stree,  Manila, 1000 Metro Manila, , Manila City, , Philippines, 5300, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

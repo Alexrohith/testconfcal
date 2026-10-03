@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0+2sx440ucABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72777,
+      "eventTitle": "2027 Second International Conference on Smart Electronic Devices and Intelligent Systems (ICSEDIS)",
+      "startDate": "2027-04-22",
+      "endDate": "2027-04-24",
+      "about": "Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chiramanangad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Electron Devices Society; Royal College of Engineering and Technology (RCET)",
+      "keywords": "Smart Electronic Devices,Intelligent Signal,System Design,Signal and Image Processing,Machine Intelligence,Power-Efficient Embedded Systems,,",
+      "scope": "ICSEDIS 2027 seeks to foster innovation by bringing together emerging technologies in electronics such as nanoelectronics, embedded systems, and smart sensors with the transformative capabilities of artificial intelligence, machine learning, and intelligent system design. The conference will emphasize cutting-edge research, real-world applications, and collaborative solutions that address the complex challenges of today's interconnected world. The International Conference on Smart Electronic Devices and Intelligent Systems (ICSEDIS 2027) aims to bring together leading academic researchers, industry professionals, engineers, and scientists to discuss cutting-edge innovations, trends, and challenges in the domains of smart electronics, embedded systems, and intelligent computing.",
+      "callForPapers": "2027-01-16",
+      "url": "icosedis.com/2027/",
+      "eventContact": "contactinfoicsedis@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Royal College of Engineering and Technology, Chiramanangad P.O., Akkikavu, Kerala, , Chiramanangad, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

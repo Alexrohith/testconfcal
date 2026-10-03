@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2rftwY4046IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74051,
+      "eventTitle": "2027 13th International Conference on Information Systems Security and Privacy (ICISSP)",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-24",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Valletta",
+        "region": "",
+        "country": "Malta"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Systems and Technologies of Information, Control  & Communication - INSTICC",
+      "keywords": "Web Applications and Services, Security and Privacy in Cloud and Pervasive Computing, Security in IoT and Edge Computing, AI and Machine Learning for Security, Mobile Security, Intrusion Detection and Response, Identity and Trust Management, Vulnerability Analysis and Countermeasures, Risk and Reputation Management, Malware Detection,",
+      "scope": "The International Conference on Information Systems Security and Privacy is an event where researchers and practitioners can meet and discuss state-of-the-art research about the technological, social, and regulatory challenges that regard the security, privacy, and trust of modern information systems.&nbsp;The conference welcomes papers of either practical or theoretical nature, and is interested in research or applications addressing all aspects of trust, security and privacy, and encompassing issues of concern for organizations, individuals and society at large.",
+      "callForPapers": "2026-09-15",
+      "url": "icissp.scitevents.org/",
+      "eventContact": "icissp.secretariat@insticc.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Grand Hotel Excelsior Malta, Grand Hotel Excelsior Great Siege Road, FRN, , , , Valletta, , Malta, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

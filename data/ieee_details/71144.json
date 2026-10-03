@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 57Kix440xbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71144,
+      "eventTitle": "2026 12th International Symposium on Smart Electronic Systems (iSES)",
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Goa",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Computer Society; National Institute of Technology-Goa",
+      "keywords": "Nanoelectronics, ,Circuits and Systems,VLSI Devices and Sensors ,Ultra low energy systems,,Resilient systems,,Smart systems for Energy,,Agriculture,Accelerator architectures,Health ,Biomedical ,Industry ,Housing ,Sustainability ,social cohesion and mobility, ,systems software and algorithms for smart systems, ,Internet ,Data Analytic,Security ,cognitive science as enabling technologies,,Hardware software design for IoT, Hardware software design for Cyber Physical Systems (CPS),,Hardware software",
+      "scope": "The primary objective of iSES is to provide a platform for both hardware and software researchers to interact under one umbrella for further development of smart electronic systems. Symposium addresses key technologies and enabling technologies for Smart Systems as well    as solutions for Energy, agriculture, health, biomedical, industry, housing, sustainability, social cohesion and mobility. Smart systems entail architectures, systems software and algorithms as key technologies. Nonetheless, other technologies such as the internet, data analytics, security, cognitive science join as enabling technologies. Smart systems adapt to changing conditions such as context, application and may possess own awareness and cater to the needs of efficient sensing, storage, software and computing. At the same time, big data Internet of Things (IoT) and cyber-physical systems have been evolving with simultaneous development of hardware and software and span across everyday consumer electronics.",
+      "callForPapers": "2026-06-06",
+      "url": "isesconf.github.io/iSES_2026_Website/index.html",
+      "eventContact": "vasanthmh@nitgoa.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Gyan Mandir  Tutorial Complex, NIT Goa, National Institute of Technology Goa, Kottamoll Plateau, Cuncolim Municipal Area,, Salcete Taluka, South Goa District, , Goa - 403703, Cuncolim, South Goa, State Goa , , India, 403703, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

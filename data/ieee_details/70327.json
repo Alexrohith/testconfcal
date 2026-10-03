@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pJalx440878BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70327,
+      "eventTitle": "2026 IEEE 14th International Conference on Cloud Networking (CloudNet)",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Athens",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Cloud network and resource management,Cloud network and virtualization,Cloud network and supported services,Cloud network architectures,Cloud network security and privacy,Next generation networking for cloud,Edge computing for cloud,",
+      "scope": "Cloud Networking has emerged as a promising direction for cost-efficient and reliable service delivery. The dynamic location of service facilities, the virtualization of hardware and software elements, and access to granular resources facilitate low latency, high throughput, and failure resiliency. However, the large amounts of data and different application requirements continue to stress the underlying communication network and protocols. Emerging technologies like Network Function Virtualization (NFV), Software Defined Network (SDN), and Information Centric Networking (ICN) can play significant roles in aligning the network with the requirements of clouds. These technologies can also improve the programmability of cloud networks and the agility of deployment and management. The 14th IEEE International Conference on Cloud Networking (IEEE CloudNet 2026), part of the IEEE Cloud Computing Initiative, can significantly promote research in cloud networks and emerging research areas.",
+      "callForPapers": "2026-07-10",
+      "url": "",
+      "eventContact": "s.polo@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , , Greece, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

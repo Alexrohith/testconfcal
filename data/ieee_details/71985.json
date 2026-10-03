@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: noDhwY40haIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71985,
+      "eventTitle": "2026 IEEE International Congress on Cybermatics (Cybermatics)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Montbéliard",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Block-Chain,Internet of things,Smart Data,Machine Learning,Cyber-Phisical Systems,Cyber-Social Systems,Network,",
+      "scope": "Advances in computers, information and networks is bringing a digital cyber world to our daily lives.  Numerous digital things or cyber entities are generated and will reside in the cyber world. Meanwhile, countless real things in the conventional physical, social and mental worlds will possess cyber mappings or cyber components, to have a cyber existence in cyber world. Cyberization is an emerging trend forming the new cyber world and reforming conventional worlds towards cyber-enabled hyper worlds. Cybermatics is to build systematic knowledge about new phenomena, behaviors, properties and practices in the cyberspace, cyberization and cyber-enabled hyper worlds. Cybermatics is characterized by not only catching up with the human intelligence (e.g. intelligent sensing, making decision and control, etc), but also learn from the nature-inspired attributes (e.g., dynamics, self-adaptability, energy saving).",
+      "callForPapers": "2026-06-15",
+      "url": "www.ieee-cybermatics2026.org/",
+      "eventContact": "benoit.piranda@femto-st.fr",
+      "sponsorTypes": "1",
+      "venues": "Université Marie et Louis Pasteur / UFR STGI, 4 place Tharradin, , , , Montbéliard, , France, 25200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

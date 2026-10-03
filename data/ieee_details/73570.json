@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: x9SHx440lrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73570,
+      "eventTitle": "2026 16th Smart Grid Conference (SGC)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-17",
+      "about": "Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Isfahan",
+        "region": "",
+        "country": "Iran"
+      },
+      "sponsors": "ACECR Institute of Higher Education (Isfahan Branch); Iran Section; Iranian Society of Smart Grid",
+      "keywords": "Smart Grid, Power Systems, Energy Management, Renewable Energy Systems, Sustainable Energy, Energy Storage, Artificial Intelligence, Microgrids, Power Electronics, Electric Vehicles,",
+      "scope": "Advanced Sensing, Measurement, and Communication Infrastructures Cybersecurity, Privacy, and Cyber-Physical Energy Systems Planning, Operation, and Management of Smart Grids Renewable Energy Integration, Distributed Generation, and Energy Storage Energy Management, Demand-Side Management, and Demand Response Digital Energy Markets, Energy Economics, and Novel Exchange Models Data-Driven Modeling, Artificial Intelligence, Machine Learning, and Generative AI in Energy Multi-Carrier Energy Systems and Energy Hubs Electric Transportation and Smart Charging Infrastructures Sustainability, Reliability, Resilience, and Disaster Management Monitoring, Protection, Control, and Fault Management Power Electronics and Converter Technologies Intelligent Architecture, Net-Zero Buildings, Smart Cities, and Intelligent Urban Infrastructure Management Standards, Regulations, Policy, and Public Engagement Smart Healthcare, Intelligent Medical Systems, and Energy-Sustainable Digital Health",
+      "callForPapers": "2026-10-22",
+      "url": "www.ieee-sgc.com/2026/en",
+      "eventContact": "shahinzadeh.h@gmail.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "ACECR Institute of Higher Education (Isfahan Branch), Manzarieh District, End of Isfahan University of Technology Boulevard, Isfahan, , Isfahan , , Iran, 5575984181, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

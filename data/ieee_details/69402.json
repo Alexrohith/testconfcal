@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0qqcx440mLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69402,
+      "eventTitle": "2026 International Conference on Machine Intelligence and Network Data Security (MINDS)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Durgapur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Kolkata Section; Kolkata Section CIS Chapter; NSHM Knowledge Campus, Durgapur-GOI",
+      "keywords": "Intellegent Sensors, Data Analytics,Cyber Security,Embedded System,Internet of Things,",
+      "scope": "Encourage innovation and the development of new technologies by showcasing original research and industrial applications that describe new, unpublished research that isn’t being reviewed by another conference or publication right now. Here we provide a forum for the presentation and exchange of technical advancements in all areas of the conference’s specific subjects include, but are not restricted to Methods of Soft Computing Artificial Intelligence Utilizing Internet of Things Hybrid and Renewable Energy Sources in Optical Communication Systems Mobile and Cloud Computing Deep Learning in Machine Learning Networks of Data and Securities.",
+      "callForPapers": "2025-12-15",
+      "url": "www.nshm.com/international-conference-minds-2026",
+      "eventContact": "bijoy.mandal@nshm.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "NSHM Knowledge Campus, Durgapur, Shibtala Road, Arrah , Durgapur, West Bengal, , Durgapur, , India, 713212, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

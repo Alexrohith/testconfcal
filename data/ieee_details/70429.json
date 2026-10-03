@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9r6tx440wsABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70429,
+      "eventTitle": "2026 3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Petaling Jaya",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Power & Energy Society; Lincoln University College (LUC)",
+      "keywords": "Power Applications, Power Electronic, Smart Electronics, Energy Harvesting Circuits, Signal Processing Techniques, Microgrid Optimization,",
+      "scope": "The 2026 3rd International Conference on Electronic Circuits and Signaling Technologies (ICECST) has been planned to highlight the rapidly emerging technologies related to advanced electronic circuits and signal processing technologies. The conference will provide an interdisciplinary platform for researchers to present and discuss about the state-of-the-art research innovations, trends, and challenges encountered and solutions adopted in the fields of intelligent electronic circuits and signal processing technologies. The signals, communications and embedded domain covers the analog and digital signals and systems and embedded system by using the analytical and digital tools for the analysis of deterministic signals and applications to digital signal processing and digital/analog communications.",
+      "callForPapers": "2026-06-23",
+      "url": "icecst.com/2026/",
+      "eventContact": "icecst.conf@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Lincoln University College Main Campus, Wisma Lincoln,, 12-18, Jalan SS 6/12, Selangor, , , Petaling Jaya, , Malaysia, 47301, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

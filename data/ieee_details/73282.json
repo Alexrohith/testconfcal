@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8/X3xo40tL0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73282,
+      "eventTitle": "2027 IEEE International Conference on Quantum Artificial Intelligence (QAI)",
+      "startDate": "2027-09-07",
+      "endDate": "2027-09-09",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Oslo",
+        "region": "",
+        "country": "Norway"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; IEEE Computer Society",
+      "keywords": "Quantum Computing,Quantum AI,Quantum Optimization,Quantum ML,Quantum Algorithm,Quantum Evolutionary Algorithms,Quantum Generative AI,AI for Quantum Calibration,AI for Circuit Optimization,Quantum AI Ethics,Quantum Logic,Quantum Fyzzy Reasoning,Quantum Security,Quantum Inspired Evolutionary Algogirthms,Quantum Neural Netwroks,Quantum Inspired Swarm Algorithms,",
+      "scope": "IEEE QAI is a premier international forum dedicated to advancing the rapidly evolving convergence of quantum computing and artificial intelligence. The IEEE QAI 2027 event will bring together leading researchers, industry experts, practitioners, and emerging talent to showcase cutting-edge theoretical advances, innovative technologies, and real-world applications shaping the future of Quantum AI.",
+      "callForPapers": "2027-03-30",
+      "url": "",
+      "eventContact": "ripon_cseku@yahoo.com",
+      "sponsorTypes": "1; 1",
+      "venues": "Soria Moria Hotel and Conference Center, Voksenkollveien 60, , , , Oslo, , Norway, 0790, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

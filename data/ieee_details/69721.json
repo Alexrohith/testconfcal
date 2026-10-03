@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rYndwY40v6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69721,
+      "eventTitle": "2026 Smart Algorithms & Models: Your Reach to Advanced Dialogues (SAMYRAD)",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Seville",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Education Society; Spain Section; Udekom Balkans",
+      "keywords": "Artificial Intelligence,Higher Education,Machine Learning,Deep Learning,Technological Advancements,Educational Innovation,Educational Practices,",
+      "scope": "SAMYRAD 2026 builds a triangle of academia, industry, and government to advance the transformative power of AI in higher education. It unites scholars, educators, researchers, the EdTech sector, policymakers, and innovators on a platform to exchange knowledge, build skills, and foster collaborations. Unlike traditional conferences, SAMYRAD emphasizes hands-on learning and practical results. Across two days, participants join cutting-edge workshops and immersive research presentations. The summit bridges academia with industry and policy, creating spaces where academics learn from leaders about urgent societal needs. SAMYRAD rests on the belief that only through this triangular alliance can research reach its full potential. A special track addresses AI and the UN Sustainable Development Goals, sparking dialogue on equity, quality education, lifelong learning, and resilience.",
+      "callForPapers": "2026-03-08",
+      "url": "samyrad.com/",
+      "eventContact": "horizoneamir@gmail.com",
+      "sponsorTypes": "1; 3; 9",
+      "venues": "Universidad CEU Fernando III, Glorieta Cardenal Herrera Oria, 4, 1930 Bormujos,,  Sevilla, Spain, , , , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

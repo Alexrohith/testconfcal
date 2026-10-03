@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yaSax440or8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72559,
+      "eventTitle": "2027 International Conference on Intelligent Computing and AI Applications in Electrical, Electronics, and Computer Engineering (ICICAIEECE)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "KOLLAM",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "All India Council for Technical Education - AICTE; Dept. of Computer Science, Hong Kong Baptist Univ; Kerala Section; UKF College of Engineering",
+      "keywords": "• AI in Power Systems & Energy,• AI in Electronics & Embedded Systems,• Computer Engineering & Intelligent Computing,Digital Twin-driven smart manufacturing, autonomous vehicles, cyber security in AI systems, and robotics. ,",
+      "scope": "The International Conference on Intelligent Computing and AI Applications in Electrical, Electronics, and Computer Engineering (ICICAI-2K26) is a premier global event that gathers leading experts, researchers, policymakers and practitioners to explore and discuss the latest advancements in the areas of Renewable Energy, Electric Transportation, Power Electronics, Electric Drives, Control Techniques, Smart Grids, Communication Protocols, Intelligent Charging Infrastructure and Standards. This conference is a critical platform for fostering collaboration and knowledge sharing among those committed to addressing some of the most pressing challenges facing our world today.",
+      "callForPapers": "2026-08-01",
+      "url": "www.ukfcet.ac.in/conference.php",
+      "eventContact": "drearun@yahoo.com",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "UKF College of Engineering & Technology, Near ESIC Medical College, Parippally (via), Kollam, Kerala, India, , , KOLLAM, , India, 691302, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2bOex440trwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71574,
+      "eventTitle": "2026 IEEE East-West Design & Test Symposium (EWDTS)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-07",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Batumi",
+        "region": "",
+        "country": "Georgia"
+      },
+      "sponsors": "IEEE Computer Society; Kharkiv National University of Radio Electronics",
+      "keywords": "Design Verification and Validation,EDA Tools for Design and Test,Embedded Software,Failure Analysis & Fault Modeling,High-level Synthesis,High-Performance Networks and Systems on a Chip,Internet of Things Design & Test,Memory and Processor Test,Network-on-Chip Design & Test,Flexible and Printed Electronics,Applied Electronics Automotive Mechatronics,Control and Hardware Security,Signal and Information Processing in Radio Communication,Design for Security,Medical Electronics,",
+      "scope": "The main target of the 2026 IEEE East-West Design & Test Symposium (EWDTS) is to exchange experiences between scientists and technologies from Eastern and Western Europe, as well as North America and other parts of the world, in the field of testing, diagnosis, repair of microelectronic systems, and also cyber security, automotive, IoT, artificial intelligence. The symposium is typically held in countries around East Europe, the Black Sea, the Balkans and Central Asia region.",
+      "callForPapers": "2026-06-01",
+      "url": "Conf.ewdtest.com",
+      "eventContact": "litvinova_eugenia@icloud.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Batumi Shota Rustaveli State University, 35/32 Ninoshvili/Rustaveli str, , , , Batumi, , Georgia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

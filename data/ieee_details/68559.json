@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qOGTx4407b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68559,
+      "eventTitle": "2029 IEEE International Conference on Robotics and Automation (ICRA)",
+      "startDate": "2029-05-07",
+      "endDate": "2029-05-12",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Milan",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Robotics and Automation,",
+      "scope": "ICRA is the IEEE Robotics and Automation Society's flagship conference, and is a premier international forum for robotics researchers to present their work",
+      "callForPapers": "2028-09-15",
+      "url": "2029.ieee-icra.org",
+      "eventContact": "m.motta@aimgroup.eu",
+      "sponsorTypes": "1",
+      "venues": "Allianz MiCo - Milano Convention Centre, Piazzale Carlo Magno, 1, , , , Milano, , Italy, 20149, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

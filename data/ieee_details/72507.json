@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m6XewY40x6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72507,
+      "eventTitle": "2026 2nd International Conference on Intelligent Communication Networks and Computational Techniques (ICICNCT)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bidar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section CIS Chapter; Guru Nanak Dev Engineering College, Bidar",
+      "keywords": "Applied computing,Artificial Intelligence and Machine Learning,Cloud Computing & Cluster Computing,",
+      "scope": "The 2nd International Conference on Intelligent Communication Networks and Computational Techniques (ICICNCT-2026) serves as a premier platform for researchers, academicians, industry professionals, and students to exchange and discuss the latest advancements, innovations, and challenges in the fields of Communication, networks and computational techniques. This conference will provide a forum for presenting cutting-edge research findings, methodologies, and technologies and will address the emerging trends, challenges, and opportunities in intelligent communication and computational networks.",
+      "callForPapers": "2026-07-15",
+      "url": "icicnct.co.in/",
+      "eventContact": "drkishansinghchandra@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": ", , , , Guru Nanak Dev Engineering College,, Bidar, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

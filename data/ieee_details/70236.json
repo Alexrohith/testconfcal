@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: oa6qx440g70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70236,
+      "eventTitle": "2026 IEEE International Conference on Content-Based Multimedia Indexing (CBMI)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Toulouse",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; IEEE Signal Processing Society",
+      "keywords": "Content-Based Multimedia,Indexing,AI and ML approaches,Explainability,Extended reality,",
+      "scope": "IEEE CBMI aims at bringing together the various communities involved in all aspects of content-based multimedia indexing for retrieval, browsing, management, visualisation and analytics",
+      "callForPapers": "2026-07-21",
+      "url": "cbmi2026.sciencesconf.org",
+      "eventContact": "Imen.Megdiche@irit.fr",
+      "sponsorTypes": "1; 3",
+      "venues": "Toulouse Capitole University, 31000 Toulouse, France, , , , Toulouse, , France, 31000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

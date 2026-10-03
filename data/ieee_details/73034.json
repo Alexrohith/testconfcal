@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2KbuwY40waUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73034,
+      "eventTitle": "2026 IEEE Brain Discovery and Neurotechnology Workshop",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Washington",
+        "region": "District of Columbia",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Brain Community",
+      "keywords": "Brain,Brain computer interfaces,Brain Initiative,brain imaging,Brain Machine Interfaces,Brain mapping,Brain stimulation,Brain modeling,IEEE Brain,Computational Neuroscience,Clinical Neuroscience,Neurotechnology,machine learning,Artificial Intelligence,signal processing,neural engineering,Neuroimaging,neurorehabilitation,neural circuits,circuits and systems,Biosensors,IEEE standards,Ethics,neuroethics,Wearable Sensors,Biomedical Engineering,Biomedical Signal Processing,Biomagnetics,",
+      "scope": "The IEEE Brain Workshop brings together internationally well-respected experts across academia, industry, and clinical practice to highlight the latest in brain research and innovation in emerging neurotechnologies, machine learning for brain discovery, clinical applications and impact, ethical considerations, and standards.",
+      "callForPapers": "2026-08-21",
+      "url": "brain.ieee.org/2026-ieee-brain-discovery-neurotechnology-workshop/",
+      "eventContact": "clweberb@mtu.edu",
+      "sponsorTypes": "6",
+      "venues": "National Housing Center, 1201 15th Street, NW, , , , Washington, DC, USA, 20005, ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

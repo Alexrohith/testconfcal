@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kpiNx440xL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72608,
+      "eventTitle": "2026 IEEE International Conference on Communication, Networks and Satellite (COMNETSAT)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Manado",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section COM Chapter",
+      "keywords": "Communications Technology,Communications And Networking,Information Technology,Satellite,Broadband,Photonics,Data Science,Artificial Intelligence,Big Data Analytic,Data Mining,Fuzzy Logic,Pattern Recognition,computer vision,,Big Data Analytics; Big Data Technologies; Decision Tree Learning; Association Rule Learning; Artificial Neural Networks; Support Vector Machines; Reinforcement Learning; Clustering; Bayesian models and methods; Genetic algorithms; Data Representation and Visualization; Data",
+      "scope": "Signal Processing & Analysis Photonics & Electro-Optics General Topics for Engineers (Math, Science & Engineering) Fields, Waves & Electromagnetics Computing & Processing (Hardware/Software) Communication, Networking & Broadcasting Aerospace, Data Science and Artificial Intelligence Big Data Analytics; Big Data Technologies; Decision Tree Learning; Association Rule Learning; Artificial Neural Networks; Support Vector Machines; Reinforcement Learning; Clustering; Bayesian models and methods; Genetic algorithms; Data Representation and Visualization; Data Mining; Fuzzy Logic; Optimization Algorithms; Graph/Network/Social Mining; Image Classification; Pattern Recognition; Computational Intelligence; Creative Computing; Object Detection",
+      "callForPapers": "2026-08-31",
+      "url": "comnetsat.org/",
+      "eventContact": "zbbbintang18@gmail.com",
+      "sponsorTypes": "3; 5",
+      "venues": ", , , , , Manado, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

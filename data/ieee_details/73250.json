@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: u4mqx440i70BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73250,
+      "eventTitle": "2027 International Conference on Sampling Theory and Applications (SampTA)",
+      "startDate": "2027-07-26",
+      "endDate": "2027-07-30",
+      "about": "Computing and Processing; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Utrecht",
+        "region": "",
+        "country": "Netherlands"
+      },
+      "sponsors": "IEEE Signal Processing Society; Utrecht University",
+      "keywords": "sampling theory,compressed sensing,coding theory,information theory,harmonics analysis,signal processing,image processing,function spaces,graphs and manifolds,quantum computing,geometric deep learning,approximation theory,frame theory,nonuniform sampling,",
+      "scope": "SampTA is a biennial interdisciplinary international conference for mathematicians, engineers, and applied scientists. The main purpose of SampTA is to exchange recent advances in sampling theory and to explore new trends and directions in the related areas of application. The conference focuses on such fields as signal and image processing, compressed sensing, coding theory, control theory, computational neuroscience, information theory, real and complex analysis, and applied, computational, and classical harmonic analysis. The SampTA meetings attract an essentially even mix of mathematicians and engineers as the interest in sampling theory and its many applications has blossomed. This even mix makes the SampTA meetings unique in the scientific community. The conference organization is headed by an international steering committee consisting of prominent mathematicians and engineers, a local organizing committee, and a technical committee responsible for the conference program.",
+      "callForPapers": "2027-01-31",
+      "url": "https://www.uu.nl/en/research/sampta27",
+      "eventContact": "g.j.t.leus@tudelft.nl",
+      "sponsorTypes": "1; 9",
+      "venues": "Utrecht University, Marinus Ruppert building, , , , , Utrecht, , Netherlands, 3584CE, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

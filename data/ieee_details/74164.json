@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sZ3iwY4056QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74164,
+      "eventTitle": "2027 12th International Conference on Computer and Communication Systems (ICCCS)",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-19",
+      "about": "Communication, Networking and Broadcast Technologies; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Shenzhen University",
+      "keywords": "Parallel and Distributing Computing,Big Data,Modulation Coding and Channel  Analysis,Communications Transmission,Artificial Intelligence and Machine Learning,",
+      "scope": "At present, all sectors of the society attach great importance to the research on the integration of communication technology and computing technology, and reached a lot of achievement. Based on resource sharing, the integration technology has shown great development potential. Computers are critical for communication and are the centerpiece of information technology. To further improve the development of computer and communication systems, ICCCS is set up to create the communication platform to achieve this goal. ICCCS conference is now a well-known event worldwide and the number of paper submissions and attendees are increasing every year. Plus the successful experience in the previous editions, we are confident that ICCCS 2027 will still be a success led by Shenzhen University, China. The organizing committee invites prospective authors to submit original contributions to ICCCS 2027.",
+      "callForPapers": "2026-10-20",
+      "url": "www.icccs.org/",
+      "eventContact": "tangyc@sust.edu.cn",
+      "sponsorTypes": "3; 9",
+      "venues": "Shenzhen University Conference Center, , , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

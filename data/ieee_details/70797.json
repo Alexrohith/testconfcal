@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: n8Khx440zLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70797,
+      "eventTitle": "2026 International Conference on Computational Science and Power Engineering (CSPE)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Hefei",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hefei University of Technology; Nanjing Section",
+      "keywords": "Computational models and algorithms,Simulation and modeling,Data Analysis in Power Systems,Renewable Energy Technologies,Automation and Control of Power Systems,Grid security and protection technology,",
+      "scope": "2026 the International Conference on Computational Science and Power Engineering (CSPE) will be take place in Hefei, Anhui, China during November 13th-15th, 2026. It is sponsored by Hefei University of Technology, China; hosted by School of Electrical Engineering and Automation of Hefei University of Technology, China. The conference focuses on the application and innovation of computational science and technology in power engineering. CSPE2026 aims to foster collaboration among researchers and practitioners focused on the intersection of computational science and power engineering. Attendees will have the opportunity to share and discuss innovative ideas, emerging trends, and significant challenges within this field. The topics suggested by this conference can be discussed in term of concepts, surveys, state of the art, research, standards, implementations, running experiments, applications and industrial case studies.",
+      "callForPapers": "2026-06-30",
+      "url": "www.cspe.org/",
+      "eventContact": "wangt@isub.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Empark Grand Hotel Anhui  , No.5558 Huizhou Avenue,Baohe District,Hefei,Anhui, , , , Hefei, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

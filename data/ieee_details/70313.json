@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1v+Jx440pbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70313,
+      "eventTitle": "2026 Sustainable Energy and Industry Conference (SUSTAIN)",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-02",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Dhahran",
+        "region": "",
+        "country": "Saudi Arabia"
+      },
+      "sponsors": "IEEE Industry Applications Society; King Fahd University of Petroleum & Minerals - KFUPM; Western Saudi Arabia Section",
+      "keywords": "Renewable Energy Technologies,Smart Grids and Integration,Energy Efficiency and Optimization,Energy Policy and Sustainability,Industrial Control & Automation,Artificial Intelligence in Energy,Energy Storage Technologies,Electric Vehicles,Hydrogen Energy,Sustainable Energy,",
+      "scope": "2026 Saudi Arabian Renewable Energy Conference & Exhibition (SARECE) provides a dynamic platform to explore “Innovations and Technologies Driving the Future of Clean Energy Systems.” It unites researchers, engineers, and industry leaders to address critical areas like solar, wind, hydrogen, smart grids, energy storage, fuel cells, microgrids, and e-mobility. SAREC also emphasizes industrial electrification, automation, power electronics, digitalization, and sustainable manufacturing. In alignment with Saudi Vision 2030, the program focuses on energy efficiency, cybersecurity, carbon reduction, and policy frameworks that support a resilient and decarbonized future. By connecting cutting-edge research with real-world implementation, SAREC accelerates the region’s shift toward a smarter, cleaner energy ecosystem.",
+      "callForPapers": "2026-04-01",
+      "url": "sarece.com/en",
+      "eventContact": "azaheer@kfupm.edu.sa",
+      "sponsorTypes": "1; 3; 9",
+      "venues": "KFUPM, Building 60, , , , Dhahran, , Saudi Arabia, 31261, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

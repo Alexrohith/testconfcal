@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5eqjx4404LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71730,
+      "eventTitle": "2026 ACM/IEEE 29th International Conference on Model Driven Engineering Languages and Systems (MODELS)",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-09",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Málaga",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Association for Computing Machinery - ACM; IEEE Computer Society; University of Malaga",
+      "keywords": "Model-Driven Engineering,Software Engineering,Model-Based Systems Engineering,",
+      "scope": "MODELS is the premier conference series for model-driven software and systems engineering, and is organized with support of ACM SIGSOFT and IEEE TCSE. Since 1998, MODELS has covered all aspects of modeling, from languages and methods to tools and applications. Attendees of MODELS come from diverse backgrounds, including researchers, academics, engineers, and industrial professionals. MODELS 2026 is a forum for participants to exchange cutting-edge research results and innovative practical experiences around modeling and model-driven software and systems. This year’s edition will provide an opportunity for the modeling community to further advance the foundations of modeling, and come up with innovative applications of modeling in emerging areas of cyber-physical systems, embedded systems, socio-technical systems, cloud computing, big data, machine learning, security, open source, and sustainability.",
+      "callForPapers": "2026-03-20",
+      "url": "conf.researchr.org/home/models-2026",
+      "eventContact": "lolaburgueno@uma.es",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Melia Costa del Sol, , , , , Málaga, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

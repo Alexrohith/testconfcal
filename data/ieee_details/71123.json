@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: odGtx440p70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71123,
+      "eventTitle": "2026 18th International Conference on Information Technology and Electrical Engineering (ICITEE)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Lombok",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Department of Electrical and Information Engineering, Universitas Gadjah Mada; Indonesia Section",
+      "keywords": "information technology,signal processing and machine intelligence,communication technology,power systems,electronic,circuit and systems,control systems,",
+      "scope": "Signal Processing & Analysis, Robotics & Control Systems, Power, Energy, & Industry Applications, Computing & Processing (Hardware/Software), Components, Circuits, Devices & Systems Communication, Networking & Broadcasting",
+      "callForPapers": "2026-05-22",
+      "url": "icitee.ugm.ac.id",
+      "eventContact": "surate.ayu@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Merumatta Senggigi Lombok, Jalan Pantai Senggigi, Senggigi, Kec. Batu Layar, , , Kabupaten Lombok Barat, , Indonesia, 83355, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

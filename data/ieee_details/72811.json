@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qNGIx440jbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72811,
+      "eventTitle": "2027 IEEE 2nd International Conference on Intelligent Technologies for a Sustainable and Inclusive Future (ICITSIF)",
+      "startDate": "2027-05-28",
+      "endDate": "2027-05-30",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Indore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Indian Institute of Technology-Indore SEN SBC; Madhya Pradesh Section; Madhya Pradesh Section ED Chapter; Madhya Pradesh Section NANO Chapter",
+      "keywords": "Artificial Neural Network,Artificial Intelligence,Sustainability,Sustainable development,Technology Innovation and sustainability,Bioinformatics,Bio-inspired Computing,Biomedical Applications,Biomedical Electronics,Biomedical Solutions,Cyber Security,Quantum and Nano Technology,Quantum Computing,Blockchain,Economics,",
+      "scope": "The conference aims to explore how intelligent technologies?such as Artificial Intelligence, Internet-of-Things, Quantum and Nano-Technology, and Cybersecurity frameworks?can be harnessed to build a future that is not only technologically advanced but also environmentally sustainable, economically inclusive, and socially equitable.",
+      "callForPapers": "2027-01-15",
+      "url": "ieee.eds.iiti.ac.in/conferences/icitsif-2027",
+      "eventContact": "saurabh.yadav1201@gmai.com",
+      "sponsorTypes": "3; 5; 5; 5",
+      "venues": "The Sky Imperial Sethji Ni Wadi, The Sky Imperial Sethji Ni Wadi, Khandwa Road, Simrol, Indore, Madhya Pradesh, , Indore, , India, 453552, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

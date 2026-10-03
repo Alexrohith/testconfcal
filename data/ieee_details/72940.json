@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: luaqx440iL0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72940,
+      "eventTitle": "2026 IEEE International Conference on Advanced Information Scientific Development (ICAISD)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-04",
+      "about": "Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jawa Barat",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section SP Chapter; Universitas Bina Sarana Informatika",
+      "keywords": "ICAISD,ICAISD2026,icaisd,International Conference on Advanced Information Scientific Development,",
+      "scope": "Computer Science, Computer Engineering & Computer System, Software Enginering, Mobile Multimedia, Signal Processing & Analysis",
+      "callForPapers": "2026-09-04",
+      "url": "conference.bsi.ac.id/",
+      "eventContact": "rachmat.rap@bsi.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "BSI Convention Center, Jl. Kali Abang Tengah No.8, Perwira, Kec. Bekasi Utara, Kota Bekasi , , , , Jawa Barat, , Indonesia, 17122, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

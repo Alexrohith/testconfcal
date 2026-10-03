@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3OjawY40sqQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72655,
+      "eventTitle": "2026 IEEE International Conference on Optics, Machine Learning and Emerging Technology (OMLET)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Bangladesh Section PHO Chapter; IEEE Photonics Society; Kenya Section PHO Chapter",
+      "keywords": "Optics and Photonics,Optical Sensors and Biosensors,Fiber Optic Communication,Plasmonics and SPR Sensors, Laser and Photonic Devices,Deep Learning and Neural Networks,Predictive Modeling and Data Analytics,AI Applications in Engineering,Electronics, Communication and Emerging Technologies,",
+      "scope": "The conference brings together researchers, academics, and industry professionals to share innovative ideas, present research, and foster collaboration across multidisciplinary fields. It focuses on advancing technology and solving real-world challenges through impactful discussions.  The scope is structured into three tracks. Optics and Photonics covers photonic crystal fibers, optical sensors, plasmonics, and laser devices, emphasizing sensing and communication applications. Machine Learning and Artificial Intelligence highlights deep learning, computer vision, natural language processing, and predictive analytics for engineering solutions. Electronics, Communication and Emerging Technologies includes RF systems, renewable energy, embedded systems, IoT, robotics, and 5G/6G technologies.  The conference encourages cross-disciplinary research integrating optics, AI, and advanced electronics to drive future innovation.",
+      "callForPapers": "2026-07-15",
+      "url": "ieeeomlet.org/",
+      "eventContact": "moynuli232@gmail.com",
+      "sponsorTypes": "1; 5; 5",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

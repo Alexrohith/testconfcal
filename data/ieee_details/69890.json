@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4YrZwY40qaQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69890,
+      "eventTitle": "2026 25th International Conference on Machine Learning and Applications (ICMLA)",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-08",
+      "about": "Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Rochester",
+        "region": "Michigan",
+        "country": "USA"
+      },
+      "sponsors": "Association for Machine Learning and Applications - AMLA; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Machine Learning,Deep Learning,,artificial intelligence,machine learning,deep learning,",
+      "scope": "statistical learning, neural network learning, learning through fuzzy logic, earning through evolution (evolutionary algorithms), reinforcement learning, multi-strategy learning, cooperative learning, planning and learning, multi-agent learning, online and incremental learning, scalability of learning algorithms, inductive learning, inductive logic programming, Bayesian networks, support vector machines, case-based reasoning, evolutionary computation, machine learning and natural language processing, multi-lingual knowledge acquisition and representation, grammatical inference, knowledge discovery in databases, knowledge Intensive Learning, machine learning and information retrieval, machine learning for bioinformatics and computational biology, machine learning for web navigation and mining, learning through mobile data mining, text and multimedia mining through machine learning, distributed and parallel learning algorithms and applications, feature extraction",
+      "callForPapers": "2026-05-15",
+      "url": "icmla-conference.org/icmla26/",
+      "eventContact": "gqu@oakland.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Oakland Center, University of Oakland, 312 Meadow Brook Rd, , , Rochester, MI, USA, 48309, ;",
+      "region": "Region04-Central USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

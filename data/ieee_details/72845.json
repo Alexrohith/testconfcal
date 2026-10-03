@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0uz3xo40qboBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72845,
+      "eventTitle": "2027 IEEE International Conference on Machine Intelligence and Advanced Computing (MIAC)",
+      "startDate": "2027-06-04",
+      "endDate": "2027-06-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Cox's Bazar",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Advanced Machine Intelligence Research Lab (AMIR Lab); Bangladesh Section CIS Chapter; Jashore University of Science and Technology",
+      "keywords": "Artificial Intelligence, Data Science, Quantum Computing, Generative Intelligence, Cognitive AI, Vision Intelligence, Trustworthy AI,",
+      "scope": "2027 IEEE International Conference on Machine Intelligence and Advanced Computing (MIAC) will provide a global forum for researchers, academics, industry experts, and practitioners to present advances in artificial intelligence, computational intelligence, data systems, robotics, edge computing, healthcare AI, secure AI, and responsible computing.  The conference will cover both theoretical and applied research, including foundation models, generative AI, language intelligence, vision systems, autonomous robotics, quantum-ready algorithms, IoT, sustainable engineering, industrial AI, and trustworthy AI.",
+      "callForPapers": "2027-01-15",
+      "url": "imiac.org/",
+      "eventContact": "durjoy@uap-bd.edu",
+      "sponsorTypes": "5; 9; 9",
+      "venues": ", , , , , Cox's Bazar, , Bangladesh, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vJWhx440078BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74061,
+      "eventTitle": "2027 IEEE 12th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA)",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; Chengdu Section COM Chapter; Sichuan Institute of Electronics",
+      "keywords": "Cloud Computing Models,Cloud Computing,Cloud Applications,Big Data Science and  Engineering Applications,Models and Tools for Smart Computing,Data Mining Graph Mining and Data Science,",
+      "scope": "2027 IEEE 12th International Conference on Cloud Computing and Big Data Analytics (ICCCBDA) will be held in Chengdu, China, between 23-25 April 2027. Several current and upcoming frontier technologies, innovative solutions, research results, as well as enterprises related to cloud computing and big data analytics and their applications will be presented. ICCCBDA 2027 is not just an academic event but a global congregation set against the backdrop of one of the most dynamic ecosystems for Cloud Computing and Big Data Analytics in the world. We look forward to welcoming you to Chengdu, China, where cutting-edge technology and ancient culture converge, offering a holistic view of the industry's past, present, and most importantly, its future.",
+      "callForPapers": "2026-12-05",
+      "url": "www.icccbda.com/",
+      "eventContact": "hangsu@umails.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Tibet Hotel, Chengdu, North Renmin Road, Chengdu, Sichuan, , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

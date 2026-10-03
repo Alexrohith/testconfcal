@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rNqwx4400r0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73847,
+      "eventTitle": "2027 IEEE 36th Microelectronics Design & Test Symposium (MDTS)",
+      "startDate": "2027-05-17",
+      "endDate": "2027-05-19",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Photonics and Electrooptics",
+      "location": {
+        "city": "Albany",
+        "region": "New York",
+        "country": "USA"
+      },
+      "sponsors": "Region 01- Northeastern USA; Region 02 - Eastern USA; Schenectady Section",
+      "keywords": "Embedded systems,System on Chip,DA and AD Converters,Phase shifter,immwave and THz receiver and transmitter,transceivers for wireline systems,optical links,chip to chip communications,Integrated circuit interconnections,sensor and transducer design for test,Amplifiers,logic and circuit simulation,process variation,test generation,IDDQ test,burn-in test,built-in test,boundary scan,test compression,Fault diagnosis,memory test,delay test,CAD for security,hardware and software security,multi-chip mo",
+      "scope": "MDTS-2027 will cover all technical aspects of microelectronics, with focuses on the design and test engineering fields.",
+      "callForPapers": "2027-01-10",
+      "url": "mdts.ieee.org",
+      "eventContact": "edmond.cooley@gmail.com",
+      "sponsorTypes": "2; 2; 3",
+      "venues": "Desmond Hotel, Crowne Plaza, 660 Albany Shaker Rd, , , , , Albany, NY, USA, 12211, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

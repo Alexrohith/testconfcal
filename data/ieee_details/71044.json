@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tNbpwY40nKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71044,
+      "eventTitle": "2026 IEEE International Conference on Agentic AI (ICA)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-17",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Kumamoto",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Decision-making,Game Theory,Agentic AI,Large Language Models,Machine Learning,Multiagent systems,Autonomous agents,Agent-based Modeling,Software agents,Planning, Scheduling And Coordination,",
+      "scope": "Intelligent agents are software entities that can autonomously carry out actions on behalf of humans. This includes agentic AI systems that can plan, reason, use tools, and adapt their behavior over time in pursuit of user or system objectives. Through sensing and interpreting the environment, agents act based on knowledge, learning, and interaction to influence the environment toward their goals. Beyond a single agent, a Multiagent System (MAS) is a group or society of agents. Such agents interact cooperatively or competitively to reach individual or shared goals, and in agentic settings they may also coordinate through communication, negotiation, delegation, and mutual verification. Research on agents, agentic AI, and MAS focuses on frameworks, models, mechanisms, approaches, and algorithms that improve effectiveness, reliability, and efficiency in complex environments.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "nicolas-schwind@aist.go.jp",
+      "sponsorTypes": "1",
+      "venues": "TBA, , , , , Kumamoto, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

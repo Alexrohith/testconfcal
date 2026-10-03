@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +9qIx440nrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70801,
+      "eventTitle": "2026 4th International Conference on Networks and Cryptology (NETCRYPT)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "New Delhi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Jawaharlal Nehru University, New Delhi",
+      "keywords": "Networking and Communication,Smart Computing,Cryptography,Blockchain,Cyber Security,Intelligent System,AI Based Security,Quantum Computing Security,Artificial Intelligence (AI), AI in Health,Cognitive Computing and Decision Support Systems,Cyber Threat Intelligence,",
+      "scope": "Networks are currently witnessing a significant transformation that is resulting in new ways to address the deployment of applications and services in a digital society. Over the years, the focus of the conference has shifted from raising awareness towards sharing security event histories and discussing solutions and protection strategies. The main objective of this conference is to emphasize the recent technological developments in broadband high-speed networks, peer-to-peer networks, wireless and mobile networks which have led to new challenging problems, such as providing QoS support to the emerging multimedia applications across both wired and wireless networks. It will serve as a forum for researchers from both electronics engineering and computer science to present latest research results on QoS, Authentication, reliability, Trust management, security and robustness issues for both wired and wireless networks with the hope that Computer and Electronics practitioners will work tog",
+      "callForPapers": "",
+      "url": "netcrypt.org.in/",
+      "eventContact": "karan@mail.jnu.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Seminar Hall, School of Computer and Systems Sciences, Jawaharlal Nehru University, Delhi, , South West, , India, 110067, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

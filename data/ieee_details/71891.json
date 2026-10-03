@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ufyOx440tbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71891,
+      "eventTitle": "2026 IEEE Conference on Dependable, Autonomic and Secure Computing (DASC)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Melbourne",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Self-Organization and Organic Computing Cognitive Computing and Self-Aware Computing,Energy Management in Autonomic Computing and Autonomous  Systems,Dependable & Fault-tolerant Computing in Big Data,Hardware and Software  Reliability,Verification and Testing,Security and Privacy in CloudFogEdge Computing,Mobile and Pervasive Computing,Big Data, CPS and IoT systems,Artificial Intelligence Techniques in Network and System Security and Privacy,",
+      "scope": "Dependable and Autonomic Computing",
+      "callForPapers": "2026-06-30",
+      "url": "cyber-science.org/2026/dasc/",
+      "eventContact": "fengling.han@rmit.edu.au",
+      "sponsorTypes": "1",
+      "venues": "RMIT University, 124 La Trobe Street, Victoria, , , Meibourne, , Australia, VIC 3000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

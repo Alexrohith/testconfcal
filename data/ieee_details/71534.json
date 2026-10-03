@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zvT9xo405L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71534,
+      "eventTitle": "2026 Intelligent Manufacturing, Industrial Robotics and Automation (ICIMIRA)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-17",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Department of Electrical Automation Engineering, Vocational Faculties, Institut Teknologi Sepuluh Nopember; Indonesia Section",
+      "keywords": "Automation,electrical ,robotics,Artificial Intelligence ,",
+      "scope": "Power, Energy and Industry Applications : Programmable Controllers, Human Machine Interface, Industrial Networks, CNC, Humanoid Robots, Unmanned Vehicle, Machine Vision, Simulator, Noise Reduction, Disturbance Rejection Robotics and Control Systems : Robotic Controllers, Nonlinear Control, Adaptive Control, Predictive Control, System Identification, Transfer Function Development, Optimal Control, H-inf control, Linear Control, Stability Analysis, Distributed Control System Computing and Processing (Hardware/ Software): Vision Systems, Artificial Intelligence, Navigation, Guidance, Trajectory, Path-Plan, Minimum System, Electric Motor Development, Global Positioning System Components, Circuits, and Systems : Motor Drive, Battery Cell, Corrosion Control, Vibration Reduction",
+      "callForPapers": "2026-09-07",
+      "url": "elib.its.ac.id/conf/icimira/",
+      "eventContact": "iwf@its.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

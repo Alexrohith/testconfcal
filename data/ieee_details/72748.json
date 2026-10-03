@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jsuHx440hrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72748,
+      "eventTitle": "2026 14th International Conference on Electrical and Computer Engineering (ICECE)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dhaka",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh Section; Bangladesh University of Engineering & Tech. - EEE Dept",
+      "keywords": "Electrical Engineering,Computers,Electronics industry,power ,Energy,Communication,Signal processing,Semiconductor devices,Photonics,Biomedical Engineering,Computer applications,Artificial Intelligence,",
+      "scope": "The International Conference on Electrical and Computer Engineering (ICECE) is a pioneering international conference in the fields of electrical, electronic, communication, and computer engineering. It has been regularly organized biennially since 2001 by the Department of Electrical and Electronic Engineering (EEE) at Bangladesh University of Engineering and Technology (BUET).",
+      "callForPapers": "2026-08-01",
+      "url": "icece.org.bd/2026/",
+      "eventContact": "s.a.fattah@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "ECE Building, Bangladesh University of Engineering and Technology (BUET), , , , , Dhaka, , Bangladesh, 1205, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

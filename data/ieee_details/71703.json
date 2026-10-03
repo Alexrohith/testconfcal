@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pOumx440/b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71703,
+      "eventTitle": "2026 IEEE 51st Conference on Local Computer Networks Companion Proceedings (LCN-C)",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Coimbra",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "local computer networks,",
+      "scope": "Theoretical and practical aspects of computer networking",
+      "callForPapers": "2026-04-20",
+      "url": "ieeelcn.org",
+      "eventContact": "matthias.wuebbeling@cs.uni-bonn.de",
+      "sponsorTypes": "1",
+      "venues": "Quinta das Lágrimas, Rua António Augusto Gonçalves, , , , Coimbra, , Portugal, 3041-901, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

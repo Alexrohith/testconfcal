@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: t4f6xo40tLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73441,
+      "eventTitle": "2027 2nd International Conference on Artificial Intelligence and Social Network Systems (AISNS)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University- Center for Digital Communication Studies",
+      "keywords": "Artificial Intelligence,Intelligent Algorithms,Social Network Systems,Data Mining and Knowledge Discovery,Trustworthy and Human-Centered AI,",
+      "scope": "AISNS 2027 focuses on the interdisciplinary integration of artificial intelligence and social network systems, covering intelligent algorithms, machine learning, social data analysis, network security, recommendation systems, and AI-driven social applications.",
+      "callForPapers": "2026-10-16",
+      "url": "www.icaisns.com/",
+      "eventContact": "ic_aisns@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University, No. 866, Yuhangtang Road, Hangzhou, Zhejiang, China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

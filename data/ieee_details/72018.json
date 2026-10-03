@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rcmsx440tcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72018,
+      "eventTitle": "2026 International Conference on Aerospace Information Perception and Intelligent Processing (AIPIP)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beihang University; IEEE Communications Society",
+      "keywords": "Aerospace Information Perception,Space Communication Network,Multispectral Image Processing,Satellite Remote Sensing,Intelligent Signal Processing,Adaptive Signal Processing,Sensor Networks,Intelligent Routing Algorithms,",
+      "scope": "The 2026 International Conference on Aerospace Information Perception and Intelligent Processing (AIPIP) will spotlight advancements in aerospace information technology. It will focus on integrating multispectral/hyperspectral image processing, radar imaging, and satellite remote sensing with emerging AI technologies. Topics will include data fusion, multisource data integration, digital twin technologies, and sensor network applications in aerospace. Attendees will explore edge and cloud computing applications, plus blockchain and quantum computing potential in airborne information processing. The conference will address frontier communication technologies such as 5G/6G, low-latency communication, and space–air–ground integrated architectures to enhance the reliability and safety of aerospace communication. As a crucial platform for researchers and industry experts, AIPIP 2026 aims to bridge theoretical insights with practical solutions, driving the future of aerospace innovation.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "l.bai@buaa.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

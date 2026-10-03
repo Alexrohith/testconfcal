@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xr6Fx440kL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72404,
+      "eventTitle": "2027 4th International Conference on Intelligent and Cloud Computing (ICoICC)",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-08",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Institute of Technical Education and Research Siksha ‘O’ Anusandhan (Deemed to be) University",
+      "keywords": "Artificial Intelligence,Cloud Computing,Blockchain,Fog Computing,Edge Computing,Internet of Things,",
+      "scope": "The International Conference on Intelligent and Cloud Computing (ICoICC) provides a platform for researchers, academicians, and industry professionals to share advancements in intelligent computing, big data, cloud technologies, and next-generation communication systems. The conference focuses on Artificial Intelligence, Machine Learning, Big Data analytics, Agentic AI, and Explainable AI, along with applications in healthcare, finance, agriculture, and smart systems. It also covers IoT, 5G/6G communications, and their integration with cloud environments. Emphasis is placed on cloud, fog, and edge computing, including scalable architectures and sustainable solutions. Security, privacy, blockchain, and post-quantum cryptography are key themes. Emerging paradigms such as digital twins, cyber-physical systems, metaverse, AR/VR, and human-AI interaction are also explored, aligning with standards of IEEE.",
+      "callForPapers": "2027-01-31",
+      "url": "icoicc.org.in/",
+      "eventContact": "debahutimishra@soa.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Institute of Technical Education and Research (ITER) , Siksha 'O' Anusandhan (Deemed to be University),  Jagamohan Nagar, Jagamara, Khandagiri, , , Bhubaneswar, , India, 751030, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

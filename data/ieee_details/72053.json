@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: j73rwY40vaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72053,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Project Engineering Governance (AIPEG)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "Lisbon Business & Government School; Portugal Section SMC Chapter",
+      "keywords": "Artificial Intelligence (AI), Project Engineering Governance, E-Government, Machine Learning, Big Data Analytics in Engineering;, Digital Transformation, Smart Governance, Public Policy, AI Governance, Cybersecurity, Blockchain Technology, Strategic Management, Sustainable Project Delivery, Digital Leadership, Engineering Project Management.,",
+      "scope": "The International Conference on Artificial Intelligence and Project Engineering Governance (AIPEG) aims to provide a leading international forum for researchers, practitioners, policymakers, and industry leaders to exchange knowledge, innovations, and best practices at the intersection of artificial intelligence, engineering project management, and governance systems.",
+      "callForPapers": "2026-09-10",
+      "url": "www.lisbonbusinessschool.pt/aipeg2026",
+      "eventContact": "aipeg@lisbonbusinessschool.pt",
+      "sponsorTypes": "5; 9",
+      "venues": "Lisbon Business & Government School, Rua de S. Bernardo 34-A, 1200-825 Lisboa, , , Lisbon, , Portugal, 1200-825 Lisbon, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

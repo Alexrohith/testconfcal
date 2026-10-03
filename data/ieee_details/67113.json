@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: o8OBx4403roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67113,
+      "eventTitle": "MILCOM 2026 - 2026 IEEE Military Communications Conference (MILCOM)",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-16",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "North Bethesda",
+        "region": "Maryland",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Cybersecurity,Cyber Warfare,Military satellites,Military Computing,Military communication,Trusted Computing,Signal Processing,Artificial Intelligence,Learning (artificial Intelligence),Big Data,Networking,Internet Of Things,Waveforms,",
+      "scope": "Now in its 44th year MILCOM attracts decision-makers from government, military, academia, and industry. The conference gathers military and government communications subject matter experts from around the globe to conduct in-depth discussions about the latest in technology advancements. MILCOM is an ideal forum for industry to demonstrate the application of these technologies an to promote products and services that provide reliable solutions to today's mission-critical challenges.",
+      "callForPapers": "2026-06-26",
+      "url": "milcom2026.milcom.org/",
+      "eventContact": "e.gaerlan@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , North Bethesda, MD, USA, , ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

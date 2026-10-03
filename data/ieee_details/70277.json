@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rJzewY403qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70277,
+      "eventTitle": "2026 IEEE 2nd International Conference on Quantum Artificial Intelligence (QAI)",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-16",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Nottingham",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; IEEE Computer Society; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "quantum computing,artificial intelligence,quantum machine learning,quantum optimization,",
+      "scope": "The emerging intersection of quantum computing and artificial intelligence. The event offers a platform for exploring the latest developments and fostering connections within the global research community in these two areas.",
+      "callForPapers": "2026-06-30",
+      "url": "attend.ieee.org/qai-2026/",
+      "eventContact": "amir.pourabdollah@ntu.ac.uk",
+      "sponsorTypes": "1; 1; 1",
+      "venues": "Jubilee Hotel and Conference Centre, Jubilee Campus, Triumph Road, , , Nottingham, , United Kingdom, NG8 1DH, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: k5bjwY4076QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72241,
+      "eventTitle": "2026 International Conference on Intelligent Networks and Data-driven Intelligent Applications (ICon INDIA)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pondicherry",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Madras Section COM Chapter; Pondicherry University",
+      "keywords": "Communications And Networking,Image Processing,Pattern Recognition,Machine learning,Deep learning,Artificial Intelligence,Security and Privacy,Intelligent transportation,Green computing and Communications,5G and beyond,Antennas and Propogation,AI in Business,Internet of Things,",
+      "scope": "The International Conference on Intelligent Networks and Data-driven Intelligent Applications (ICon INDIA 2026) aims to bring together researchers, academicians, industry professionals, and innovators from across the globe to discuss emerging trends in next-generation networks, artificial intelligence, data analytics, and intelligent computing systems. The conference provides a vibrant platform for presenting cutting-edge research, fostering collaborations, and exploring innovative technologies that shape the future of smart connectivity, intelligent decision-making systems, and digital transformation. ICon INDIA encourages interdisciplinary research contributions that integrate wireless communications, computing, signal processing, machine learning, business analytics, and intelligent infrastructure.",
+      "callForPapers": "2026-08-31",
+      "url": "iconindia2026.aconf.org/index.html",
+      "eventContact": "nagarajanece31@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Pondicherry University, , , , , , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

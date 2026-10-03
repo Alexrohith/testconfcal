@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: id+Ox440tLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72218,
+      "eventTitle": "2026 16th International Conference on System Engineering and Technology (ICSET)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-04",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section CAS Chapter; Institute of Technology,Bandung-School of Electrical Engineering & Informatics",
+      "keywords": "control engineering,computer engineering,Information and System Engineering,System Identification,Modelling and Simulation,Signal Processing,Speech Processing,Image Processing,Cyber-Physical Systems,Instrumentation and Automation,Control, Robotics And Mechatronics,Virtual Reality,Brain-Computer Interface,Artificial Intelligence,Intelligent System,Electrical Power Engineering,Data Science and Software TechnBiomedical EngineerinAssistive Technology,Data Science & SoftwarBiomedical Engineering,",
+      "scope": "Control Engineering Computer Engineering Information and System Engineering System Identification, Modelling, & Simulation Signal Processing, Speech Processing, Image Processing Cyber-Physical Systems Instrumentation and Automation Robotics Technological Advancements Human-Computer Interface, Virtual Reality, & Augmented Reality Assistive Technology, Brain-Computer Interface Artificial Intelligence & Intelligent System Electrical Power Engineering Data Science and Software Technology Biomedical Engineering Transportation (Intelligent Transportation System, Electric Vehicle and Its Systems)",
+      "callForPapers": "2026-06-08",
+      "url": "icset2026.org/",
+      "eventContact": "hilton.tnunay@itb.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Institut Teknologi Bandung, Jl. Ganesa No. 10, , , , Bandung, , Indonesia, 40132, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

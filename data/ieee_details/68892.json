@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vLiHx440lbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68892,
+      "eventTitle": "2026 IEEE-RAS 25th International Conference on Humanoid Robots (Humanoids)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Santa Clara",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Humanoid Robots, Human-Robot Interaction, Intelligent Robots, Robots, Service Robots, Cognitive Robotics, Mobile Robots, Smart Robots, Artificial Intelligence, Robot Learning,",
+      "scope": "The IEEE-RAS International Conference on Humanoid Robots is the internationally recognized prime event of the humanoid robotics community. Established in 2000 and held annually, the Humanoids Conference is a forum for researcher working in the area of humanoid robots including mechatronics, control, perception, planning, learning, human-robot interaction, biomechanics, artificial intelligence, cognition, and neuroscience.  The IEEE International Conference on Humanoid Robots is sponsored by the IEEE Robotics & Automation Society.",
+      "callForPapers": "2025-07-13",
+      "url": "2026.ieee-humanoids.org/",
+      "eventContact": "l.lelong@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Santa Clara Convention Center, , , , , Santa Clara, CA, USA, 95054, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

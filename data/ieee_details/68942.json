@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6bX+xo403boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68942,
+      "eventTitle": "2026 Third International Conference on Smart Technologies for Power and Renewable Energy (SPECon)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-04",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Ernakulam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Federal Institute of Science and Technology (FISAT); Kerala Section",
+      "keywords": "Artificial Intelligence, Power Electronics, Renewable Energy,",
+      "scope": "Integration of AI and Power Electronics in Emerging Energy Technologies.",
+      "callForPapers": "2026-07-20",
+      "url": "eee.fisat.ac.in/specon26/",
+      "eventContact": "rabiyarasheed@fisat.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Federal Institute of Science and Technology, Hormis Nagar, Angamaly, Kerala, , , Ernakulam, , India, 683576, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

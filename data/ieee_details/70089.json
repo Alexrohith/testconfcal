@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: seCbx440lLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70089,
+      "eventTitle": "IECON 2028: 54th Annual Conference of the IEEE Industrial Electronics Society",
+      "startDate": "2028-10-29",
+      "endDate": "2028-11-01",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Los Angeles",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Communication Networks for Manufacturing Plants; Computational Intelligence; Data Analytics; Electric Vehicles; Electrical Machines & Drives; Electronic Systems-on-Chip; Energy Conversion; Energy Storage; Engineering Education; Factory Automation; Industrial Electronics; Industrial Informatics; Industrial Control; Instrumentation and Measurement; Intelligent Systems; Mechatronics and Robotics; Motion Control; Power Electronics; Power Systems; Real-Time Embedded Control; Renewable Energy; Sensors",
+      "scope": "IECON focuses on power electronics, energy conversion, smart grid, industrial and manufacturing theory and applications of electronics, controls, communications, instrumentation, and artificial intelligence.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "mohamadshadmand@gmail.com",
+      "sponsorTypes": "1",
+      "venues": "Pasadena Convention Center, , , , , Los Angeles, CA, USA, 91101, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

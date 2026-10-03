@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7K+Cx440/r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71744,
+      "eventTitle": "2026 International Conference on Secure and Intelligent Digital Ecosystems (SIDE)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Astana",
+        "region": "",
+        "country": "Kazakhstan"
+      },
+      "sponsors": "Kazakhstan Section; Nazarbayev University",
+      "keywords": "Computer Society,Cybersecurity,Artificial Intelligence,Internet Of Things,Cloud Computing,Communication networks,Digital Signal Processing,",
+      "scope": "SIDe'26 addresses the convergence of cybersecurity, artificial intelligence, and resilient digital infrastructure in the era of Industry 5.0 and next-generation connectivity. The conference scope encompasses trustworthy and explainable AI, federated and distributed learning, post-quantum cryptography, privacy engineering, secure communication networks, 6G technologies, IoT and cyber-physical systems, smart city platforms, blockchain and distributed ledger technologies, cloud and edge computing security, and digital transformation strategies. SIDe'26 targets original research that advances the design, analysis, and implementation of secure, intelligent, and human-centric digital ecosystems, bridging theoretical foundations with applied innovations across engineering, computer science, and technology management.",
+      "callForPapers": "2026-05-15",
+      "url": "side.nu.edu.kz/",
+      "eventContact": "anwar.ghani@nu.edu.kz",
+      "sponsorTypes": "3; 9",
+      "venues": "Nazarbayev University, School of Engineering and Digital Sciences, 53 Kabanbay Batyr Ave, , , Astana, , Kazakhstan, 010000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +fqAx44067oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73284,
+      "eventTitle": "2026 International Conference on Engineering and Computing Technologies (EngiTek)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-16",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Irbid",
+        "region": "",
+        "country": "Jordan"
+      },
+      "sponsors": "Jordan Section; Jordan University of Science & Technology",
+      "keywords": "electrical engineering,computer engineering,industrial engineering,biomedical engineering,Artificial Intelligence,",
+      "scope": "The scope includes, but is not limited to fields in electrical, electronic and computer engineering, computer science and information technology fields, related fields like mechatronics, robotics and automation, intelligent transportation, smart systems and technologies.",
+      "callForPapers": "2026-10-04",
+      "url": "www.just.edu.jo/Conferences/EngiTek2026",
+      "eventContact": "emalsharoa@just.edu.jo",
+      "sponsorTypes": "3; 9",
+      "venues": "Jordan University of Science and Technology, PO Box 3030, , , , Irbid, , Jordan, 22110, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

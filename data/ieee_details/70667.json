@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 89GXx440kL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70667,
+      "eventTitle": "2027 IEEE 9th Advanced Information Technology, Electronic and Automation Control Conference (IAEAC)",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Chongqing Global Union Academy of Science and Technology",
+      "keywords": "Information Technology,Communication, Networking & Broadcasting,Robotics & Control Systems,",
+      "scope": "he aim of IAEAC 2027 is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in Information Technology,Communication,Network,Electronic and Automation Control. It provides opportunities for the delegates to exchange new ideas and application experiences, to establish business or research relations and to find global partners for future collaboration.",
+      "callForPapers": "2027-01-31",
+      "url": "www.iaeac.org/",
+      "eventContact": "cqwzxb888@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Chongqing Wanyou Conifer hotel, No. 77, Changjiang 2nd  Road , Daping ,Yuzhong District, , , , Chongqing, , China, 400000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

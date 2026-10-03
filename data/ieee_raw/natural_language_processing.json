@@ -1,0 +1,802 @@
+[
+  {
+    "eventId": 70789,
+    "eventTitle": "2026 International Conference on Asian Language Processing (IALP)",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "about": "Computing and Processing; Signal Processing and Analysis",
+    "location": {
+      "city": "Beijing",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Beijing Section; Chinese and Oriental Languages Information Processing Society; Guangzhou Section SP/COM-Shenzhen Jt. Chapter; Singapore Section SMC Chapter",
+    "url": "/conf/details?id=70789",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 72106,
+    "eventTitle": "2026 9th International Conference on Machine Learning and Natural Language Processing (MLNLP)",
+    "startDate": "2026-12-26",
+    "endDate": "2026-12-28",
+    "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+    "location": {
+      "city": "Xiamen",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "IEEE Computational Intelligence Society; International Society for Applied Computing ; Jimei University",
+    "url": "/conf/details?id=72106",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 71652,
+    "eventTitle": "2026 21st International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP)",
+    "startDate": "2026-11-19",
+    "endDate": "2026-11-21",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Bangkok",
+      "region": "",
+      "country": "Thailand"
+    },
+    "sponsors": "Artificial Intelligence Association of Thailand (AIAT); Thailand Section; Thailand Section SMC Chapter",
+    "url": "/conf/details?id=71652",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 73900,
+    "eventTitle": "2026 16th International Conference on Computer and Knowledge Engineering (ICCKE)",
+    "startDate": "2026-12-10",
+    "endDate": "2026-12-10",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+    "location": {
+      "city": "Mashhad",
+      "region": "",
+      "country": "Iran"
+    },
+    "sponsors": "Center Of Excellence on Soft Computing and Intelligent Information Processing; FUM CERT Laboratory; Ferdowsi University of Mashhad; IP-PBX Type Approval Laboratory; Iran Section",
+    "url": "/conf/details?id=73900",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72731,
+    "eventTitle": "2027 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS)",
+    "startDate": "2027-04-10",
+    "endDate": "2027-04-11",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Kanazawa",
+      "region": "",
+      "country": "Japan"
+    },
+    "sponsors": "Amikom Purwokerto University (Faculty of Computer Science); Kanazawa University; Nagoya Section",
+    "url": "/conf/details?id=72731",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72333,
+    "eventTitle": "2027 International Conference on Emerging Smart Computing and Informatics (ESCI)",
+    "startDate": "2027-03-03",
+    "endDate": "2027-03-05",
+    "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "Pune",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "AISSMS Institute of Information Technology; Pune Section Chapter, SP01",
+    "url": "/conf/details?id=72333",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73326,
+    "eventTitle": "2027 7th International Conference on Advanced Research in Computing (ICARC)",
+    "startDate": "2027-02-16",
+    "endDate": "2027-02-17",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+    "location": {
+      "city": "Belihuloya",
+      "region": "",
+      "country": "Sri Lanka"
+    },
+    "sponsors": "Sabaragamuwa University of Sri Lanka; Sri Lanka Section; Sri Lanka Section C Chapter; Sri Lanka Section COM Chapter; Sri Lanka Section GRS Chapter; Sri Lanka Section IA Chapter; Sri Lanka Section SP Chapter",
+    "url": "/conf/details?id=73326",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72362,
+    "eventTitle": "2027 16th International Conference on Pattern Recognition Systems (ICPRS)",
+    "startDate": "2027-03-08",
+    "endDate": "2027-03-11",
+    "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "Bordeaux",
+      "region": "",
+      "country": "France"
+    },
+    "sponsors": "Asociacion Chilena de Reconocimiento de Patrones; Chile/Chile Sur Jt Section CIS Chapter; France Section SP Chapter; UK and Ireland Section WIE Affinity Group; Université de Bordeaux",
+    "url": "/conf/details?id=72362",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 72250,
+    "eventTitle": "2026 International Conference on Computer Science and Intelligent Systems (ICCSIS)",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-15",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Shaoxing City",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "IEEE Systems, Man, and Cybernetics Society; Zhejiang University of Science and Technology",
+    "url": "/conf/details?id=72250",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72707,
+    "eventTitle": "2026 7th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)",
+    "startDate": "2026-11-14",
+    "endDate": "2026-11-16",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+    "location": {
+      "city": "Shenzhen",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Guangzhou Section; Sun Yat-sen University",
+    "url": "/conf/details?id=72707",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 71200,
+    "eventTitle": "2026 International Conference on Artificial Intelligence Models and Systems (iAIMS)",
+    "startDate": "2026-11-16",
+    "endDate": "2026-11-20",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers",
+    "location": {
+      "city": "Barcelona",
+      "region": "",
+      "country": "Spain"
+    },
+    "sponsors": "Al Ain University ; Spain Section",
+    "url": "/conf/details?id=71200",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73342,
+    "eventTitle": "2027 IEEE International Conference on Sustainable AI, Networks, Knowledge and Learning Paradigms (SANKALP)",
+    "startDate": "2027-04-09",
+    "endDate": "2027-04-11",
+    "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Gwalior",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "ABV-Indian Institute of Information Technology and Management, Gwalior, India; Madhya Pradesh Section; Uttar Pradesh Section",
+    "url": "/conf/details?id=73342",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73481,
+    "eventTitle": "2027 International Conference on Data Science and Intelligent Information Processing (DSIIP)",
+    "startDate": "2027-03-19",
+    "endDate": "2027-03-21",
+    "about": "Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+    "location": {
+      "city": "Wuhan",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "IEEE Systems, Man, and Cybernetics Society; Wuhan Textile University",
+    "url": "/conf/details?id=73481",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73447,
+    "eventTitle": "2027 IEEE International Conference on Cybernetics and Innovations (ICCI)",
+    "startDate": "2027-03-30",
+    "endDate": "2027-04-02",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Chonburi",
+      "region": "",
+      "country": "Thailand"
+    },
+    "sponsors": "Thailand Section; Thailand Section SMC Chapter",
+    "url": "/conf/details?id=73447",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 70357,
+    "eventTitle": "2026 IEEE/ACS 23rd International Conference on Computer Systems and Applications (AICCSA)",
+    "startDate": "2026-10-26",
+    "endDate": "2026-10-29",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+    "location": {
+      "city": "Sharjah",
+      "region": "",
+      "country": "United Arab Emirates"
+    },
+    "sponsors": "Arab Computer Society; IEEE Computer Society",
+    "url": "/conf/details?id=70357",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 72330,
+    "eventTitle": "2026 International Conference on Computer, Internet of Things and Smart City (CIoTSC)",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-08",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+    "location": {
+      "city": "Mianyang",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Chengdu Section; Southwest University of Science and Technology, China",
+    "url": "/conf/details?id=72330",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 71301,
+    "eventTitle": "2026 1st International Conference on Deep Learning Innovations for Smart Humanized AI (DISHA)",
+    "startDate": "2026-12-17",
+    "endDate": "2026-12-19",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+    "location": {
+      "city": "Jaipur",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "CNR-Nanotec; Delhi Section; Manipal University, Jaipur; National Institute of Technology - Delhi; University of Calabria",
+    "url": "/conf/details?id=71301",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72598,
+    "eventTitle": "2026 IEEE International Conference on Machine Learning and Artificial Intelligence Applications (MLAIA)",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-20",
+    "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Nanning",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "China Council; Nanning Normal University",
+    "url": "/conf/details?id=72598",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72107,
+    "eventTitle": "2027 International Conference on Intelligent Computing Frontiers (ICICF)",
+    "startDate": "2027-01-21",
+    "endDate": "2027-01-23",
+    "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Bengaluru",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Bangalore Section; Bangalore Section IT Chapter; Jain University (Deemed-to-be University)",
+    "url": "/conf/details?id=72107",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 71708,
+    "eventTitle": "2026 IEEE 4th International Conference on Artificial Intelligence Innovation (ICAII)",
+    "startDate": "2026-10-16",
+    "endDate": "2026-10-18",
+    "about": "Computing and Processing",
+    "location": {
+      "city": "Beijing",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Beijing Section; Beijing Union University",
+    "url": "/conf/details?id=71708",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72704,
+    "eventTitle": "2026 IEEE 22nd International Conference on Intelligent Computer Communication and Processing (ICCP)",
+    "startDate": "2026-10-22",
+    "endDate": "2026-10-24",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "Cluj-Napoca",
+      "region": "",
+      "country": "Romania"
+    },
+    "sponsors": "Romania Section C Chapter",
+    "url": "/conf/details?id=72704",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 72466,
+    "eventTitle": "2026 IEEE International Conference on Progress in Informatics and Computing (PIC)",
+    "startDate": "2026-12-18",
+    "endDate": "2026-12-20",
+    "about": "Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+    "location": {
+      "city": "Shanghai",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Beijing Section; Shanghai University of Finance and Economics",
+    "url": "/conf/details?id=72466",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73057,
+    "eventTitle": "2026 8th International Conference on Advancements in Computing (ICAC)",
+    "startDate": "2026-12-09",
+    "endDate": "2026-12-10",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+    "location": {
+      "city": "Malabe",
+      "region": "",
+      "country": "Sri Lanka"
+    },
+    "sponsors": "Sri Lanka Institute of Information Technology; Sri Lanka Section; Sri Lanka Section C Chapter; Sri Lanka Section COM Chapter; Sri Lanka Section EMB Chapter; Sri Lanka Section GRS Chapter; Sri Lanka Section IA Chapter; Sri Lanka Section IES Chapter",
+    "url": "/conf/details?id=73057",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72646,
+    "eventTitle": "2027 International Conference on Automation and Resilient Innovative Expert System (ICARIES)",
+    "startDate": "2027-02-26",
+    "endDate": "2027-02-27",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Badnera",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Maharashtra Section; Prof. Ram Meghe Institute of Technology",
+    "url": "/conf/details?id=72646",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 69942,
+    "eventTitle": "2026 3rd International Conference on Computing and Data Science (ICCDS)",
+    "startDate": "2026-10-09",
+    "endDate": "2026-10-10",
+    "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+    "location": {
+      "city": "Chennai",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Madras Section; Rajalakshmi Engineering College",
+    "url": "/conf/details?id=69942",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 70916,
+    "eventTitle": "2026 International Conference on Computational Intelligence and Sustainable Communication Systems (ICCISCS)",
+    "startDate": "2026-12-04",
+    "endDate": "2026-12-05",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "Meerut",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Meerut Institute of Engineering and Technology (MIET); Uttar Pradesh Section",
+    "url": "/conf/details?id=70916",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 69864,
+    "eventTitle": "2026 IEEE International Conference on Emerging Trends in Engineering, Sciences and Technology (ICES&T)",
+    "startDate": "2026-11-10",
+    "endDate": "2026-11-12",
+    "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Bahawalpur",
+      "region": "",
+      "country": "Pakistan"
+    },
+    "sponsors": "Bahawalpur Subsection; Lahore Section COM Chapter",
+    "url": "/conf/details?id=69864",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72613,
+    "eventTitle": "2026 6th International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC)",
+    "startDate": "2026-11-13",
+    "endDate": "2026-11-15",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+    "location": {
+      "city": "Xiamen",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xiamen University - China",
+    "url": "/conf/details?id=72613",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 70742,
+    "eventTitle": "2026 3rd International Symposium on AI and Cybersecurity (ISAICS)",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-22",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Rizhao",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Beijing Section; Qufu Normal University",
+    "url": "/conf/details?id=70742",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 71055,
+    "eventTitle": "2026 IEEE 7th International Conference on Computer, Big Data, Artificial Intelligence (ICCBD+AI)",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-22",
+    "about": "Computing and Processing; Robotics and Control Systems",
+    "location": {
+      "city": "Fuzhou",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "China Council; Fuzhou University",
+    "url": "/conf/details?id=71055",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 70421,
+    "eventTitle": "2026 4th DMIHER International Conference on Artificial Intelligence in Healthcare, Education and Industry (IDICAIHEI)",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-28",
+    "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Maharashtra, Wardha",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Datta Meghe Institute of Higher Education and Research; Maharashtra Section",
+    "url": "/conf/details?id=70421",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 71162,
+    "eventTitle": "2026 9th International Conference on Data Science and Information Technology (DSIT)",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "about": "Computing and Processing; Engineering Profession; General Topics for Engineers",
+    "location": {
+      "city": "Taicang",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "International Society for Applied Computing ; Nanjing Section; Xi'an Jiaotong-Liverpool University",
+    "url": "/conf/details?id=71162",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72455,
+    "eventTitle": "2026 International Conference on Artificial Intelligence, Privacy Protection and Network Security (AIPNS)",
+    "startDate": "2026-11-27",
+    "endDate": "2026-11-29",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+    "location": {
+      "city": "Guangzhou",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Guangzhou Section; Guangzhou University",
+    "url": "/conf/details?id=72455",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 72988,
+    "eventTitle": "2027 6th International Informatics and Software Engineering Conference (IISEC)",
+    "startDate": "2027-01-28",
+    "endDate": "2027-01-30",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+    "location": {
+      "city": "Ankara",
+      "region": "",
+      "country": "Turkiye"
+    },
+    "sponsors": "Atilim University; Informatics Association of Turkey (TBD); Ostim Technical University ; TED University ; Turkiye Section",
+    "url": "/conf/details?id=72988",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73607,
+    "eventTitle": "2027 7th International Conference on Neural Networks, Information and Communication Engineering (NNICE)",
+    "startDate": "2027-01-29",
+    "endDate": "2027-01-31",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+    "location": {
+      "city": "Dongguan",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Great Bay University; Guangzhou Section",
+    "url": "/conf/details?id=73607",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73848,
+    "eventTitle": "2026 28th International Multitopic Conference (INMIC)",
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-26",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+    "location": {
+      "city": "Lahore",
+      "region": "",
+      "country": "Pakistan"
+    },
+    "sponsors": "Al-Khawarizimi Institute of Computer Science, UET, Lahore ; Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter; Lahore Section E Chapter",
+    "url": "/conf/details?id=73848",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72676,
+    "eventTitle": "2026 1st Odisha AI Conference (OAIC)",
+    "startDate": "2026-12-19",
+    "endDate": "2026-12-20",
+    "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "BHUBANESWAR",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Bhubaneswar Section COM/C Jt. Chapter; Institute of Technical Education and Research Siksha ‘O’ Anusandhan (Deemed to be) University",
+    "url": "/conf/details?id=72676",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72713,
+    "eventTitle": "2026 40th Conference of Open Innovations Association (FRUCT)",
+    "startDate": "2026-11-04",
+    "endDate": "2026-11-06",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Helsinki",
+      "region": "",
+      "country": "Finland"
+    },
+    "sponsors": "FRUCT; IEEE Communications Society",
+    "url": "/conf/details?id=72713",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72462,
+    "eventTitle": "2026 6th International Conference on Computer Science, Electronic Information Engineering and Intelligent Control Technology (CEI)",
+    "startDate": "2026-11-06",
+    "endDate": "2026-11-08",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Nanning",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "Guangxi University; IEEE Systems, Man, and Cybernetics Society",
+    "url": "/conf/details?id=72462",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73065,
+    "eventTitle": "2026 36th International Conference on Computer Theory and Applications (ICCTA)",
+    "startDate": "2026-12-06",
+    "endDate": "2026-12-08",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Alexandria",
+      "region": "",
+      "country": "Egypt"
+    },
+    "sponsors": "Alexandria Subsection; Arab Academy for Science, Technology and Maritime Transport (AASTMT); Computer Scientific Society (CSS)",
+    "url": "/conf/details?id=73065",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 70122,
+    "eventTitle": "2026 7th International Conference on Communication, Computing & Industry 6.0 (C2I6)",
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-12",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "Bangalore",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "Bangalore Section; CMR Institute of Technology",
+    "url": "/conf/details?id=70122",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 71995,
+    "eventTitle": "2026 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)",
+    "startDate": "2026-11-01",
+    "endDate": "2026-11-03",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Geoscience; Robotics and Control Systems",
+    "location": {
+      "city": "Dhaka",
+      "region": "",
+      "country": "Bangladesh"
+    },
+    "sponsors": "Bangladesh Section C Chapter; Bangladesh University of Business and Technology (BUBT)",
+    "url": "/conf/details?id=71995",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 71975,
+    "eventTitle": "2026 7th International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)",
+    "startDate": "2026-11-20",
+    "endDate": "2026-11-22",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Xian City",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xian University of Technology",
+    "url": "/conf/details?id=71975",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73188,
+    "eventTitle": "2026 7th International Conference on Innovative Computing (ICIC)",
+    "startDate": "2026-12-02",
+    "endDate": "2026-12-03",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+    "location": {
+      "city": "Lahore",
+      "region": "",
+      "country": "Pakistan"
+    },
+    "sponsors": "Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter; University of Management and Technology, Pakistan",
+    "url": "/conf/details?id=73188",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72615,
+    "eventTitle": "2026 6th International Conference on Computer, Internet of Things and Control Engineering (CITCE)",
+    "startDate": "2026-12-11",
+    "endDate": "2026-12-13",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Suzhou",
+      "region": "",
+      "country": "China"
+    },
+    "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xi'an Jiaotong-Liverpool University",
+    "url": "/conf/details?id=72615",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 70786,
+    "eventTitle": "2026 3rd International Conference on Artificial Intelligence Trends and Pattern Recognition (ICAITPR)",
+    "startDate": "2026-12-21",
+    "endDate": "2026-12-23",
+    "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+    "location": {
+      "city": "Hyderabad",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "IEEE Hyderabad Section; Vardhaman College of Engineering",
+    "url": "/conf/details?id=70786",
+    "isvirtual": "N",
+    "eventFormat": "inperson"
+  },
+  {
+    "eventId": 73421,
+    "eventTitle": "2026 20th International Conference on Open Source Systems and Technologies (ICOSST)",
+    "startDate": "2026-12-22",
+    "endDate": "2026-12-23",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Lahore",
+      "region": "",
+      "country": "Pakistan"
+    },
+    "sponsors": "Al-Khawarizimi Institute of Computer Science, UET, Lahore ; Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter",
+    "url": "/conf/details?id=73421",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 70969,
+    "eventTitle": "2026 4th International Conference on Disruptive Technologies (ICDT)",
+    "startDate": "2026-12-29",
+    "endDate": "2026-12-30",
+    "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+    "location": {
+      "city": "Greater Noida",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "G L Bajaj Institute of Technology and Management; IEEE Computer Society",
+    "url": "/conf/details?id=70969",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 73129,
+    "eventTitle": "2027 2nd International Conference on Smart Innovations in Systems, Infrastructure, Mechanical, Power, AI and Computing Technologies (SISIMPACT)",
+    "startDate": "2027-01-15",
+    "endDate": "2027-01-16",
+    "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+    "location": {
+      "city": "Bhopal",
+      "region": "",
+      "country": "India"
+    },
+    "sponsors": "IEEE Industrial Electronics Society; Madhya Pradesh Section; Sagar Institute of Science Technology and Engineering (SISTec-E)",
+    "url": "/conf/details?id=73129",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  },
+  {
+    "eventId": 72684,
+    "eventTitle": "2027 International Conference on Artificial Intelligence, Systems, and Emerging Technologies (ICAISET)",
+    "startDate": "2027-05-03",
+    "endDate": "2027-05-06",
+    "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+    "location": {
+      "city": "CAIRO",
+      "region": "",
+      "country": "Egypt"
+    },
+    "sponsors": "Egypt Section; Université de Technologie et de Sciences Appliquées Libano-Française",
+    "url": "/conf/details?id=72684",
+    "isvirtual": "Y",
+    "eventFormat": "hybrid"
+  }
+]

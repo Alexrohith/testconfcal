@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jJOJx440oLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70983,
+      "eventTitle": "2026 3rd International Conference on Frontiers of Electronic, Electrical and Computer Science (ICFEECS)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Components, Circuits, Devices and Systems; Photonics and Electrooptics; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Suzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Soochow University",
+      "keywords": "Electrical and Electronics Engineering,Automation and Control Engineering,Circuits and Systems,Intelligent Photonic Systems,Computer Science,Artificial intelligence,Algorithms,Computer security,Formal methods,Graph theory,Networking,Quantum computing,",
+      "scope": "The scope of ICFEECS 2026 centers on Electronic, Electrical and Computer Science, with special emphasis on innovative and emerging topics at their intersection, such as photonic computing, AI-driven systems, quantum technologies, and secure networked infrastructure.",
+      "callForPapers": "2026-08-10",
+      "url": "www.icfeecs.org/",
+      "eventContact": "yyscedu@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Wyndham Garden Suzhou, 818 East Ganjiang Road, Gusu District, Suzhou City, Jiangsu Province, China, , , ,  Suzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

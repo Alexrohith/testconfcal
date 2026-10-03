@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: p4iox440+bwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73071,
+      "eventTitle": "2027 22nd Wireless On-demand Network Systems and Services Conference (WONS)",
+      "startDate": "2027-01-25",
+      "endDate": "2027-01-27",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Cortina, Belluno",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "Consorzio Nazionale Interuniversitario per le Telecomunicazioni (CNIT); IEEE Communications Society; IFIP TC 6 ",
+      "keywords": "Wireless,Vehicular and wireless technologies,6g Mobile Communication,Adhoc Wireless Networks,Communication networks,Pervasive Networks,Next generation networking,open RAN,non-terrestrial networks,Computer network management,digital twin,",
+      "scope": "The IEEE WONS conference focuses on the latest advances and challenges in wireless on-demand network systems and services. Its scope covers a broad range of wireless networking technologies, including both established and emerging solutions such as Wi-Fi, Bluetooth, LTE, NR sidelink, NFC, and optical links. The conference addresses networking paradigms like NextG cellular, mesh and sensor networks, vehicular and non-terrestrial networks, and in-body networks. Key topics include robust and adaptive networking in dynamic environments, energy efficiency and sustainability, integration of diverse wireless technologies, self-organizing and self-healing networks, and the application of AI, machine learning, and data analytics to wireless systems. WONS provides a forum for both theoretical and practical research contributions, encouraging innovative solutions, architectures, protocols, and real-world case studies that advance the field of wireless on-demand networking.",
+      "callForPapers": "2026-10-08",
+      "url": "2027.wons-conference.org/",
+      "eventContact": "leonardo.maccari@unive.it",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Hotel Villa Argentina, Pocol, Cortina D'Ampezzo (BL), Italy, , , , Cortina, , Italy, 32043, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: grGBx4407roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73287,
+      "eventTitle": "2027 IEEE Cloud Summit",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-25",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Washington",
+        "region": "District of Columbia",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Cloud Computing,Artificial Intelligence,LLM,GenAI,kubernetes,MLOps,edge computing,",
+      "scope": "Academic research papers, industry talks in cloud, AI, GenAI, fog, edge computing.",
+      "callForPapers": "",
+      "url": "www.ieeecloudsummit.org/",
+      "eventContact": "bingweiliu11@gmail.com",
+      "sponsorTypes": "1",
+      "venues": "Washington Marriott Capitol Hill, 175 L Street NE, , , , , DC, USA, , ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

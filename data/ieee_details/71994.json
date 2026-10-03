@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: 3OjuwY4026IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71994,
+      "eventTitle": "2026 IEEE Conference on Engineering Informatics (ICEI)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Melbourne",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Society on Social Implications of Technology",
+      "keywords": "Augmented Reality (AR) & Virtual Reality (VR),Big data ,Critical Infrastructure ,Digital Construction ,Digital design and manufacturing ,Digital Engineering ,Human-Computer Interface (HCI) ,Industrial Internet of Things (IIOT)  ,Industry 4.0 & Industry 5.0 ,Machine learning & Deep learning ,Metaverse ,Quantum Artificial Intelligence ,Standards on Metaverse ,Transportation and Automotive,",
+      "scope": "Engineering informatics is an emerging and rapidly advancing area known for some of its key technologies and concepts and their transformational potential in domains like Artificial Intelligence, Agentic AI, Robotics, Metaverse, Cybersecurity, Mechatronics and Digital Twins. It combines both Industry 4.0 (advanced technologies in Manufacturing) and Industry 5.0 (advanced industries in Society).",
+      "callForPapers": "2026-06-24",
+      "url": "https://attend.ieee.org/engineering-informatics/",
+      "eventContact": "dvenkatesh@swin.edu.au",
+      "sponsorTypes": "1",
+      "venues": "Swinburne University of Technology, , , , , Melbourne, , Australia, , ;Symbiosis Institute of Technology, Symbiosis International University Near Lupin Research Park, , , , Pune, , India, 412115, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

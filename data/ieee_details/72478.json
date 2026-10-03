@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0ZSWx440+bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72478,
+      "eventTitle": "2026 Conference on Robotics, Intelligent Computing and Automation (RAIC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Yinchuan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; North Minzu University",
+      "keywords": "Cyber-Physical Systems,Intelligent Systems,Human-Machine Systems,Robotics and Automation,Systems Engineering,",
+      "scope": "RAIC 2026 is designed to showcase advances in robotics, automation, and intelligent computing, with emphasis on their integration into cyber-physical and intelligent systems. The conference covers robotic perception, learning, navigation, manipulation, autonomous systems, collaborative robotics, swarm intelligence, and human-robot interaction. It also highlights machine learning, reinforcement learning, computer vision, sensor fusion, and intelligent decision-making for adaptive systems. In addition, RAIC 2026 focuses on automation and systems engineering, including industrial automation, intelligent manufacturing, digital twins, cyber-physical production systems, system modeling, optimization, and control theory. Special attention is given to intelligent control, multi-agent systems, edge intelligence, and networked systems. The conference aims to provide an international platform for interdisciplinary research on intelligent, autonomous, and human-centered cyber-physical systems.",
+      "callForPapers": "2026-09-27",
+      "url": "www.icraic.com/",
+      "eventContact": "zhhwangpb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "North Minzu University, No. 204, Wenchang North Street, Xixia District, Yinchuan City, Ningxia Hui Autonomous Region, China, , , , Yinchuan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

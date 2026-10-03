@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: z76cx440prwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71815,
+      "eventTitle": "2027 31st International Conference on Information Technology (IT)",
+      "startDate": "2027-02-24",
+      "endDate": "2027-02-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Zabljak",
+        "region": "",
+        "country": "Montenegro"
+      },
+      "sponsors": "IT Society, Montenegro; Serbia/Montenegro Section; University of Belgrade, Faculty of Organizational Sciences; University of Donja Gorica, Faculty for Information Systems and Technologies; University of Montenegro, Department of Electrical Engineering",
+      "keywords": "Information Systems,Information Technology,Software Engineering,Software Development,Internet of Things,Cloud Computing,Future Internet,Information and Communication Technology,",
+      "scope": "Scope of IT Conference is a comprehensive and multidisciplinary review of actualities in the field of information and communication technologies. This goal shall be realized through various forms of work at the Conference. Conference hosts presentations of scientific and professional results; discussions, reference lectures, short education courses are organized and development and production projects and programs are presented. IT conference shall refer to topics concerning development and implementation of information-communication technologies in all fields of science, education, industry and society in general.",
+      "callForPapers": "2027-01-15",
+      "url": "it.ac.me/en/index.php?skup=31",
+      "eventContact": "mico@ucg.ac.me",
+      "sponsorTypes": "3; 9; 9; 9; 9",
+      "venues": "Aleksandar Conference & Spa, Vuka Karadzica bb, , , , Zabljak, , Montenegro, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7JqSx4402bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70821,
+      "eventTitle": "2026 International Conference on Sustainable Energy, Intelligent Systems & Advanced Engineering (SEISAE)",
+      "startDate": "2026-09-29",
+      "endDate": "2026-09-30",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jabalpur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gyan Ganga College of Technology, Jabalpur; Madhya Pradesh Section",
+      "keywords": "Renewable Technologies,Sustainable Energy Systems,Material Technology,Intelligent Computation,Internet of Things ,Power Electronics,Cyber-Physical Systems,Communication systems and Communication Standards,Mathematical Modeling and simulation,Data Mining Web Technology,Embedded systems design and Hardware Implementation,Cloud computing Green Computing,Image speech and Signal Processing,Computer Vision and AI,Information security and Network security, ArtificialData Science,",
+      "scope": "The 2026 International Conference on Sustainable Energy, Intelligent Systems & Advanced Engineering (SEISAE) aims to provide a premier interdisciplinary platform for researchers, academicians, and industry professionals from across the globe to present and discuss recent innovations, trends, and challenges in engineering, science, and technology with a focus on sustainability and intelligent systems. This conference emphasizes the integration of sustainable energy technologies, artificial intelligence, advanced materials, smart manufacturing, and intelligent computing to address emerging societal and industrial challenges. By fostering collaboration between the domains of Energy, Electrical, Electronics, Mechanical, and Computer Science, the event seeks to promote technological advancements that drive sustainable development and Industry 4.0 transformation.",
+      "callForPapers": "2026-06-30",
+      "url": "seisae.vercel.app/",
+      "eventContact": "arunksharma232@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Gyan Ganga College of Technology, Bargi Hills, , , , Jabalpur, , India, 482003, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

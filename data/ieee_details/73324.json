@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9PDlwY40/KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73324,
+      "eventTitle": "2027 6th International Symposium on Computer Applications and Information Technology (ISCAIT)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; University of Electronic Science Technology of China",
+      "keywords": "Intelligent Computing and Machine Learning,Computer Applications and Software Systems,Information Technology and Data Driven Systems,Human Centric Intelligent Interaction Systems,",
+      "scope": "ISCAIT 2027 provides an international forum for researchers and practitioners to present advances in artificial intelligence, intelligent systems, computational intelligence, and related information technologies. The conference welcomes contributions on both theoretical developments and practical applications across a wide range of domains. Topics of interest include machine learning, data analytics, intelligent systems, and human centered computing, with particular attention to methods that are scalable, robust, and trustworthy. The event encourages interdisciplinary research that bridges fundamental theory and real world deployment. ISCAIT 2027 aims to promote exchange of ideas and foster collaboration among academia, industry, and research communities worldwide.",
+      "callForPapers": "2026-11-01",
+      "url": "www.iscait.org/",
+      "eventContact": "muda.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Electronic Science and Technology of China, No. 2006 Xiyuan Avenue, High tech Zone (West District), Chengdu, Sichuan Province, China, , , , Chengdu, , China, 611731, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

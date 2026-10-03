@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ltD9xo402boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71624,
+      "eventTitle": "2027 International Conference on Semantic Computing (ICSC)",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-03",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Laguna Hills",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society; Institute for Semantic Computing",
+      "keywords": "Artificial Intelligence,Semanting Computing,",
+      "scope": "​  The recent success of modern AI (including machine learning and generative AI) has stimulated the bridging of modern AI and classic AI (including search, reasoning, planning) to achieve the final goal of Artificial Intelligence. While the use of LLMs in the large realizes the goal of Semantic Web (linked data), Semantic Computing (SC) extends them to address the derivation, description, integration, and use of semantics of all types of resource (including data, document, problem, solution) to facilitate the merge of modern and classic AI.",
+      "callForPapers": "2026-10-10",
+      "url": "www.SemanticComputing.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

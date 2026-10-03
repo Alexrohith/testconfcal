@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zJiQx440zbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68149,
+      "eventTitle": "2027 IEEE 30th International Conference on Intelligent Transportation Systems (ITSC)",
+      "startDate": "2027-09-21",
+      "endDate": "2027-09-24",
+      "about": "Transportation",
+      "location": {
+        "city": "",
+        "region": "Massachusetts",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Intelligent Transportation Systems Society",
+      "keywords": "transportation system,Autonomous Driving,Connected and automated vehicles (CAVs),Vehicle-to-everything (V2X) communication,Traffic flow theory and modeling,Traffic control and signal optimization,Autonomous driving and perception,Transportation safety and security,Mobility-on-demand and shared mobility,Smart infrastructure and digital twins,Data-driven transportation analytics,Artificial intelligence in transportation,Human factors in transportation systems,Multi-modal transportation systems,Tra",
+      "scope": "The IEEE International Conference on Intelligent Transportation Systems (ITSC) is an annual flagship conference of the IEEE Intelligent Transportation Systems Society (ITSS). Researchers, engineers, practitioners, and students, from industry, universities and government agencies are invited to present their latest work and to discuss research and applications for intelligent vehicles and vehicle-infrastructure cooperation. ITSC welcomes articles in the field of intelligent vehicles dealing with new developments in theory and applications, vehicle technologies and demonstrations. It also welcomes proposals for workshops and tutorial sessions to be offered the day before the symposium.",
+      "callForPapers": "2027-03-01",
+      "url": "ieee-itsc.org/2027/",
+      "eventContact": "amaliko@cornell.edu",
+      "sponsorTypes": "1",
+      "venues": "Marriott Copley, 110 Huntington Ave,, MA , , , , Boston, MA, USA, 02116, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

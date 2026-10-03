@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zJmbx440n7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72484,
+      "eventTitle": "2026 8th International Conference on Universal Village (UV)",
+      "startDate": "2026-10-17",
+      "endDate": "2026-10-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Boston",
+        "region": "Massachusetts",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Intelligent Transportation Systems Society; Universal Village Society",
+      "keywords": "Universal Village, Smart Cities, Human-Nature Harmony, System Theory, Evaluation Indices, Lifestyles, Intelligent Transportation, Smart Home & Community, Smart Medicine & Healthcare, Urban Planning, Crowd Management, New Energy, Smart Energy Management, Smart City Infrastructure, Smart Response Systems for City Emergencies, Smart Environmental Protection, Smart Humanity, Smart Agriculture, Smart Manufacturing, Material Cycles, Smart Materials, Robotics, Urban Planning, Big Data, Deep Learning,",
+      "scope": "Intl. Conf. on Universal Village (UV), now in its 14th year, is established as the premier venue for exemplifying a desired future society that pursues human-nature harmony through the wise use of technology. UV concept signifies that we should follow the law of the universe, protect the environment/eco-system, understand humans' needs in-depth, and innovate new lifestyles, thus providing sustainable happiness for humanity. The conference will feature sessions: technical sessions; exhibitions; keynote speeches; panel discussions; City/Student/Art Forum; Competition;  UV2026 calls for collective efforts from world-renowned experts across multi-disciplinary fields to collaborate beyond traditional field boundaries. IEEE UV2026 features the theme of “Human-Centered AI Transformation for Future Empowerment: Explainable & Human-Intelligible Understanding, Intent-Aware Reasoning & Accountable Decision-Making, Human-Authorized AI Action, and Human-Supervised Reflective Learning.”",
+      "callForPapers": "2026-08-01",
+      "url": "https://universalvillage.org/ieee-uv2026/",
+      "eventContact": "xduan@mit.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Cambridge Innovation Center (CIC), 1 Broadway, Cambridge, MA 02142, , , , Cambridge, MA, USA, 02142, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

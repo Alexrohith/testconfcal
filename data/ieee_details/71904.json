@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 77j/xo404roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71904,
+      "eventTitle": "2026 IEEE International Conference on Computer, Electrical, and Electronics Engineering (CEEE)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gwalior",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IETE Gwalior Section; Madhya Pradesh Section; Soft Computing Research Society",
+      "keywords": "Computational Intelligence,Artificial Intelligence,Internet of things,Renewal energy,Data Analytics,Digital Devices,RF Devices,",
+      "scope": "Computer Engineering Artificial Intelligence & Machine Learning  Data Science & Big Data Analytics  Cloud Computing & Edge Computing  Internet of Things (IoT)  Cyber Security & Blockchain  Computer Vision & Image Processing  Software Engineering & Testing  High Performance Computing  Human–Computer Interaction  Electrical Engineering Power Systems & Smart Grids  Renewable Energy Systems  Electrical Machines & Drives  Power Electronics & Applications  Control Systems & Automation  Energy Storage Technologies  Electric Vehicles & Charging Infrastructure  Electronics Engineering VLSI Design & Embedded Systems  Analog & Digital Electronics  Microelectronics & Nanoelectronics  Communication Systems & Signal Processing  Robotics & Mechatronics  Sensors & Instrumentation  Biomedical Electronics  Interdisciplinary & Emerging Areas AI in Electrical & Electronics Systems  Industry 4.0 & Smart Manufacturing  Sustainable and Green Technologies  Intelligent Transportation Systems  Healthcare Techno",
+      "callForPapers": "2026-05-05",
+      "url": "www.scrs.in/conference/ceee2026",
+      "eventContact": "umagst@gmail.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Hotel Adityaz, Airport Road, , , , Gwalior, , India, 474010, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

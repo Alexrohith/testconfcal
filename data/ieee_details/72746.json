@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: o6mix4401LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72746,
+      "eventTitle": "2026 5th International Conference on Geographic Information and Remote Sensing Technology (GIRST)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Aerospace; Computing and Processing; Geoscience; Signal Processing and Analysis",
+      "location": {
+        "city": "Rome",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "Branch of Remote-sensing and Geographic Information Technology (BRGIT); Italy Section VT Chapter",
+      "keywords": "Geographic Information System (GIS) Design and Optimization,Global Navigation Satellite System (GNSS) Application,Satellite Navigation and Positioning Technology,Spatial Information Data Processing,Geographic Information Visualization Technology,Digital Earth and Spatial Information Services,Optoelectronic Sensing-based Surveying Technology,UAV Aerial Survey with Optoelectronic Sensors,Remote Sensing Theories and Methods,Microwave Remote Sensing and Imaging,Hyperspectral Remote Sensing Image Pro",
+      "scope": "GIRST 2026 will act as a pivotal international academic platform for advancing geographic information, surveying & mapping, and remote sensing technologies, uniting global experts, researchers, and practitioners to share innovative findings in fields including GIS design and spatial analysis, GNSS application and anti-jamming technology, spatial information data processing and visualization, optoelectronic sensing-based surveying and mapping, UAV aerial survey and 3D mapping, optical and microwave remote sensing technologies, remote sensing image processing and target detection, remote sensing data fusion and mining, as well as GIS intelligent applications in smart cities and environmental monitoring. The conference will include keynote speeches and interactive discussions to provide access to cutting-edge research, facilitate in-depth knowledge exchange, and offer networking opportunities to accelerate technological innovation and integration in these fields.",
+      "callForPapers": "2026-09-05",
+      "url": "www.girst.org/",
+      "eventContact": "girst.pc@outlook.com",
+      "sponsorTypes": "5; 9",
+      "venues": "NH Collection Roma Vittorio Veneto, Corso D'Italia 1 00198 Roma, Italy, , , , Rome, , Italy, , ;Nanjing University of Information Science and Technology, No. 219 Ningliu Road, Pukou District, Nanjing City, Jiangsu Province, China, , , , Nanjing, , China, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

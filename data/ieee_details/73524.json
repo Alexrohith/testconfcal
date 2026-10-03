@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kPqKx440nbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73524,
+      "eventTitle": "2027 1st C. V. Raman Global University International Conference on Emerging Computing and Engineering Technologies (CGUODISHACON)",
+      "startDate": "2027-09-09",
+      "endDate": "2027-09-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "BHUBANESWAR",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; C.V.Raman Global University",
+      "keywords": "Artificial Intelligence,Communication Systems,5G6G Networks,Internet of Things (IoT),Embedded Systems & VLSI,Signal & Image Processing,Cybersecurity,Cloud & Edge Computing,Sustainable Engineering,",
+      "scope": "The conference provides an international forum for researchers, academicians, industry professionals, and students to present and discuss recent advances in emerging computing and engineering technologies. The scope includes artificial intelligence, machine learning, data science, communication systems, 5G/6G networks, Internet of Things, cyber-physical systems, embedded systems, VLSI, signal and image processing, robotics, cloud and edge computing, cybersecurity, and sustainable engineering solutions. The conference aims to promote interdisciplinary research and foster collaboration between academia, industry, and government.",
+      "callForPapers": "",
+      "url": "cgucon.in/",
+      "eventContact": "tusarkantidash@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "C.V. Raman Global University, Bidyanagar mahura, Janala, , , BHUBANESWAR, , India, 752054, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

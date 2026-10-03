@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1OqYx440mL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72664,
+      "eventTitle": "2027 IEEE 45th Central America and Panama Convention (CONCAPAN XLV)",
+      "startDate": "2027-10-20",
+      "endDate": "2027-10-23",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Panama",
+        "region": "",
+        "country": "Panama"
+      },
+      "sponsors": "Panama Section",
+      "keywords": "Power and Energy,Communications,industry applications,Robotics and automation,Biomedical Applications,Computer Society,",
+      "scope": "The CONCAPAN XLV is a regional conference organized by IEEE Panama Section that covers a broad range of topics in electrical engineering and related fields. Its scope includes power systems, renewable energy integration, power electronics, control and automation, telecommunications, and emerging digital technologies such as artificial intelligence, IoT, and cybersecurity. It also addresses sectoral applications relevant to the region, including electric mobility and critical infrastructure. CONCAPAN XLV brings together academia and industry to foster knowledge exchange, innovation, and professional development aligned with current and future energy and digital challenges.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "sec.panama@ieee.org",
+      "sponsorTypes": "3",
+      "venues": "Hotel Riu Plaza Panama, Calle 50 con 53 Este, Urbanización Marbella, , , Panama, , Panama, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

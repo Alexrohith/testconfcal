@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9bufx440yL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71893,
+      "eventTitle": "2026 IEEE Conference on Resilience and Integrated Security for Space and Critical Systems (RISC)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "San Jose",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "cybersecurity of space systems,Resilience,critical systems,Threat modeling,• Emerging threats across hybrid terrestrial and non -terrestrial infrastructures,",
+      "scope": "This conference focuses on the security challenges of space and critical systems impacting or impacted by space applications. We welcome submissions that address the security and resilience of space systems, space-related assets, cyber-physical integration, and emerging threats across terrestrial and non-terrestrial critical systems that impact space applications. Of particular interest are space-related applications in autonomous vehicles and transportation systems, energy systems, and space medicine. The conference will be co-located with IEEE International Conference on Trust, Privacy and Security in Intelligent Systems and Applications.",
+      "callForPapers": "2026-06-01",
+      "url": "www.sis.pitt.edu/lersais/conference/risc/2026/",
+      "eventContact": "hlu@scu.edu",
+      "sponsorTypes": "1",
+      "venues": "TBA, , , , , , CA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uO6px440+7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70002,
+      "eventTitle": "2026 New Trends in Signal Processing (NTSP)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Demanovska Dolina",
+        "region": "",
+        "country": "Slovakia"
+      },
+      "sponsors": "Armed Forces Academy of Gen. M. R. Stefanik in Liptovsky Mikulas; Czechoslovakia Section; Czechoslovakia Section SP/CAS/COM Joint Chapter; Electrotechnic Society - affiliated branch Liptovský Mikuláš",
+      "keywords": "Signal Processing,Signal Processing in Mititary Applications,Microwave Engineering,Information and Communication Engineering,Applied Electronics,,",
+      "scope": "The conference provides a space for the presentation of new advances and research results in the field of theoretical, experimental, and applied analog and digital signal processing.",
+      "callForPapers": "2026-05-01",
+      "url": "ntsp.sk/2026",
+      "eventContact": "miroslav.pacek@aos.sk",
+      "sponsorTypes": "3; 5; 9; 9",
+      "venues": "Hotel Chopok, Demanovska Dolina 20, , , , Liptovsky Mikulas 1, , Slovakia, 03101, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

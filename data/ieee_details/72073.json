@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kbyLx440obsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72073,
+      "eventTitle": "2026 International Conference on Electrical, Communication and Computer Engineering (ICECCE)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section SP Chapter; Multimedia University Malaysia; University of Buner",
+      "keywords": "Signal Processing,Image Processing,Satellite and Wireless Communications,Software Engineering and Agile Development,Embedded Systems,Internet of Things and Big Data,Intelligent Robotics and Control,Power Generation Systems,Renewable Energy Systems,Technology & Management,Artificial Intelligence,",
+      "scope": "ICECCE Scope covers new and original research for applications in the fields of Electrical, Communication and Computer Engineering. Areas of interest include, but are not limited to: ? Modelling of Power Generation Systems ? Power System Management Technologies ? Renewable Energy Systems, Technologies & Management ? Applications of Power Electronics ? Artificial Intelligence ? Biomedical Engineering & Systems ? Signal and Image Processing ? Neural Networks and Intelligent Systems ? VLSI and MEMS Design ? Intelligent Industrial Process Control ? Intelligent Robotics and Control ? Next Generation Wireless Communications ? Optical Communications and Photonics ? Massive MIMO Communication Systems ? Applications of Compressive Sensing Theory ? Networks and Security ? Internet of Things and Big Data ? Software Engineering and Agile Development ? Multimedia and Web Services Agents ? Embedded Systems ? Virtual and Augmented Realities ? Global Software Engineering ? Education & Technologies",
+      "callForPapers": "2026-06-15",
+      "url": "icecce.com/",
+      "eventContact": "shafqat@ubuner.edu.pk",
+      "sponsorTypes": "5; 9; 9",
+      "venues": "Multimedia University Malaysia, , , , , Kuala Lumpur, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

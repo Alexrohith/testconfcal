@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: obKYx440lb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73190,
+      "eventTitle": "2027 3rd International Conference on Computer, Communication and Control (IC4)",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Indore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section; Madhya Pradesh Section C Chapter; Madhya Pradesh Section IE Chapter; Madhya Pradesh Section PEL Chapter; Madhya Pradesh Section SYS Chapter; Medicaps University",
+      "keywords": "Computer Science and Engineering,Electronics and Communication,Information Technology ,Instrumentation and Measurement,Robotics and Automation,Quantum Computing,",
+      "scope": "This conference will cover topics of emerging technologies including artificial intelligence, machine learning, deep learning, data science, digital twins, augmented reality, virtual reality, Blockchain, Generative AI, XAI, image processing, IoT applications, wireless communication, ICT, sensor networks, Antennas, signal processing, VLSI, robotics and automation, industrial robotics, sustainable development goals, smart infrastructure, smart grid technologies, advance power systems, quantum computing, and industry 5.0 with other relevant emerging topics.",
+      "callForPapers": "2026-09-15",
+      "url": "ic4.medicaps.ac.in",
+      "eventContact": "sonumgd@gmail.com",
+      "sponsorTypes": "3; 5; 5; 5; 5; 9",
+      "venues": "Medicaps University, A.B. Road, Pigdamber, Rau, Indore, Indore, , India, 453331, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

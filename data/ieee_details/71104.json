@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hsvZwY402KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71104,
+      "eventTitle": "2026 International Conference on Artificial Intelligence Machine Learning & Cybernetics (IC-AIMLC)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Bhopal",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section C Chapter; Madhya Pradesh Section IE Chapter; Oriental College of Technology",
+      "keywords": "Artificial Intelligence ,Machine Learning ,Cybernetics ,Data Analytics ,Biomedical imaging,",
+      "scope": "IC-AIMLC2026 aims to bridge the gap between theoretical research and real-world applications, fostering innovation that supports technological advancement, sustainability, and societal well-being. The conference encourages high-quality, peer-reviewed contributions that demonstrate originality, technical excellence, and practical relevance.",
+      "callForPapers": "2026-03-02",
+      "url": "oriental.ac.in/oct-bhopal/ic-aimlc",
+      "eventContact": "rajeshtiwari@oriental.ac.in",
+      "sponsorTypes": "5; 5; 9",
+      "venues": "ORIENTAL COLLEGE OF TECHNOLOGY, ORIENTAL CAMPUS, NEAR PATEL NAGAR, RAISEN ROAD, , BHOPAL, , India, 462022, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

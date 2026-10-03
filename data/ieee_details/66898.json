@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: qJ6Cx44087oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66898,
+      "eventTitle": "2026 IEEE Global Emerging Technologies Conference (iGET)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-25",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Irvine",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Southern California Council",
+      "keywords": "Emerging Technology,Artificial Intelligence,Blockchain,Cybersecurity,Virtual Relity,DIgital Health,Internet of Things,",
+      "scope": "Distributed Ledger/Blockchain Technology; Artificial Intelligence and Machine Learning; Human Machine Interaction; Analytics and Data Mining; Intelligent Systems; Knowledge graph; Cloud Computing; Parallel Computing; Distributed Computing; Mobile Computing; Networking; Reverse Engineering; Decision Support System; Smart Technology; Cyber Security; Information Security; Hacking; Data Protection; IoT and related technologies, Health Informatics",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "goradatta@ieee.org",
+      "sponsorTypes": "4",
+      "venues": "UCI COVE, 5270 California Ave # 100, , , , Irvine, CA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

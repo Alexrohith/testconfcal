@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hcbfwY40+6EBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73132,
+      "eventTitle": "2026 Symposium on Internet of Things (SIoT)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-15",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Campinas",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "Brazilian Forum on Internet of Things; IEEE Electron Devices Society",
+      "keywords": "Internet of Things, Sensor Nodes, Communication Networks, Data Processing, IoT Applications, Interoperability, Artificial Intelligence, Machine Learning,",
+      "scope": "The main purpose of the event is to bring together professionals and students working in the multidisciplinary area of the Internet of Things (IoT), presenting and discussing their work, results and applications.  The event aims to attract people from several states in Brazil and from other countries, members of academia, research institutes and companies. The Symposium will have a focus on recent research results in the area of IoT, covering all technical aspects and applications.",
+      "callForPapers": "2026-06-15",
+      "url": "iotbrasil.org.br/siot/",
+      "eventContact": "jacobus@unicamp.br",
+      "sponsorTypes": "1; 9",
+      "venues": "FEEC/UNICAMP, Av. Albert Einstein 400, Cidade Universitária Zeferino Vaz, , , Campinas, , Brazil, 13083-852, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

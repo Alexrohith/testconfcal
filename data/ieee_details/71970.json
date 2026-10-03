@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rv2jx4407L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71970,
+      "eventTitle": "2026 5th International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu University of Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Intelligent Cloud Computing,Big Data Analytics and Integration,Cyber-Physical Systems and IoT,Software Engineering for Intelligent Systems,Blockchain and Neural Network Applications,",
+      "scope": "The 2026 5th International Conference on Cloud Computing, Big Data Application and Software Engineering (CBASE 2026) focuses on pioneering research and applications in intelligent cloud computing, big data analytics, software engineering, and emerging technologies. The conference explores the integration of cyber-physical systems, Internet of Things (IoT), neural networks, and blockchain to advance intelligent systems and complex networks. CBASE 2026 aims to provide a platform for academics, researchers, and industry professionals to share innovative methodologies, tools, and practical solutions that address real-world challenges in cloud computing, data-driven applications, and intelligent software systems.",
+      "callForPapers": "2026-08-08",
+      "url": "www.ccbase.org/",
+      "eventContact": "zlz_editor@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Chengdu University of Technology, China, No.1 Erxianqiao East Third Road, Chenghua District, Chengdu City, Sichuan Province, China, , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

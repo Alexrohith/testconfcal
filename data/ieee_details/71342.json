@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v9z+xo40zroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71342,
+      "eventTitle": "2026 International Conference on AI-Driven Sustainable Cyber-Physical Systems (AISCPS)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kolkata",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Guru Nanak Institute of Technology; JIS Group; Kolkata Section",
+      "keywords": "Smart grid,Cyber security ,Artificial  intelligence ,Automation ,",
+      "scope": "The conference focuses on the integration of AI, machine learning, data analytics, sensing, communication, control, and computing technologies with physical systems to develop intelligent, adaptive, secure, and energy-efficient solutions for next-generation applications. AISCPS emphasizes sustainable development goals (SDGs) by addressing energy efficiency, environmental impact, safety, reliability, and human-centric design across cyber-physical infrastructures.",
+      "callForPapers": "2026-05-10",
+      "url": "www.aiscps.in",
+      "eventContact": "kundubarnali5@gmail.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Gurunank  Institute  of Technology , 157/ F , Nilgung  Road, Sodepur, Kolkata , , , Sodepur , , India, 700114, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

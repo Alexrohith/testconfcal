@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sfKOx440xLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72394,
+      "eventTitle": "2026 IEEE Asia Pacific Conference on Wireless and Mobile (APWiMob)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section COM Chapter",
+      "keywords": "Wireless Communications,Mobile Communications,Fundamentals and PHY,Mobile And Wireless networks,5 g,mobile computing,Antennas,Cryptography And Security,5G and Future Networks,Embedded Systems, Radio,Satellite & space communications,Optical communications,Big Data, Blockchain,Cloud Computing, EdgeFog Computing,Cyber Security and Network Forensics,Artificial Intelligence,Sensor-Based Applications (Geoscience, Robotics,Healths, etc),,",
+      "scope": "Fundamentals and PHY Antennas, beamforming, multi-antenna signal processing Channel measurement, modeling, and characterization Cooperative communications Modulation, coding, diversity Multihop and cooperative communications Physical layer network coding and security RF propagation studies Signal processing for wireless communications Source and channel coding Space-time coding, MIMO, adaptive antennas, MAC and Cross-Layer Design, Cognitive and cooperative MAC Radio resource management, allocation, and scheduling Routing and scheduling Security issues Software defined radio, RFID Wireless MAC protocols: design and analysis Mobile Cognitive radio networks Congestion, load and admission control Internet of things Mobile computing Satellite communications Wireless sensor networks Services, Applications, and Business Aerospace, Electronic and Defense sector Personalization, service discovery, profiles and profiling Regulations, standards, spectrum management",
+      "callForPapers": "2026-06-16",
+      "url": "apwimobconf.org/",
+      "eventContact": "lailyadeo@telkomuniversity.ac.id",
+      "sponsorTypes": "5",
+      "venues": ", , , , , Bali, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

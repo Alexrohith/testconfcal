@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6oGrx440mb0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65265,
+      "eventTitle": "2028 IEEE 9th International Conference on Actual Problems of Unmanned Aerial Vehicles Developments (APUAVD)",
+      "startDate": "2028-10-24",
+      "endDate": "2028-10-28",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kyiv",
+        "region": "",
+        "country": "Ukraine"
+      },
+      "sponsors": "National Aviation University; Ukraine Section; Ukraine Section SP/AES Joint Chapter",
+      "keywords": "Unmanned Aerial Vehicles,Aerospace and Electronic Systems,",
+      "scope": "IEEE International Conference Actual Problems of Unmanned Aerial Vehicles Development (APUAVD) is a part of IEEE Kyiv Aviation Institute Week and one of major scientific event for IEEE community of the State University \"Kyiv Aviation Institute\". IEEE APUAVD focused on UAV Electronics Design & Test, Aerospace and Electronic Systems for UAV and Computational Intelligence for Unmanned Aerial Vehicles.",
+      "callForPapers": "2028-07-16",
+      "url": "apuavd.ieee.org.ua/",
+      "eventContact": "secretary@ieee.org.ua",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "State University \"Kyiv Aviation Institute\", , , , , Kyiv, , Ukraine, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

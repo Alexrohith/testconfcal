@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8o+nx4409LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70100,
+      "eventTitle": "2028 IEEE International Parallel and Distributed Processing Symposium (IPDPS)",
+      "startDate": "2028-05-29",
+      "endDate": "2028-06-02",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Istanbul or Antalya",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Algorithms,Parallel Algorithms,High Performance Computing,Computer applications,Scientific Computing,Multicore processing,Scability,Scheduling,Load Balancing,Distributed Computing,Synchronization,Heterogeneous Networks,Parallel architectures,Emerging architectures,Middleware,parallel programming models,compiler support,Performance modeling,Experimenal evaluation of novel and parallel architectures,Power Management,Energy efficiency,Fault tolerance,Exascale Computing,novel computing architectures",
+      "scope": "IPDPS is an international forum for engineers and scientists from around the world to present their latest research findings in all aspects of parallel computation. In addition to technical sessions of submitted paper presentations, the meeting offers workshops, tutorials, student mentoring, and commercial presentations & exhibits.",
+      "callForPapers": "2027-10-01",
+      "url": "www.ipdps.org",
+      "eventContact": "prasanna@usc.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Istanbul or Antalya, , Turkiye, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

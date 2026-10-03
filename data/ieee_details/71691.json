@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9/Wax440j7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71691,
+      "eventTitle": "2026 IEEE 14th Conference on Systems, Process & Control (ICSPC)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-17",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section CS Chapter",
+      "keywords": "Sensors and sensing techniques, artificial intelligent and optimization systems, analytical production techniques, signal processing techniques, industrial electronics, automation, robotics and control systems, image processing and transformations, Bioinformatics, geomatic engineering, SELANDAIR digital imagery, applications, other related areas",
+      "scope": "The conference will provide an excellent platform for knowledge exchange between researchers, scientists, academicians and engineers working in the areas of automation, process, scientific research and analysis. This event calls for local and international participation.",
+      "callForPapers": "2026-06-01",
+      "url": "https://www.asprg.net/cms/conference.php",
+      "eventContact": "rozita@ieee.org",
+      "sponsorTypes": "5",
+      "venues": "The Westin Kuala Lumpur, 199, Bukit Bintang Rd, Bukit Bintang, Kuala Lumpur, , Kuala Lumpur, , Malaysia, 55100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

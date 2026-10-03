@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v9bBwo40kqcBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72090,
+      "eventTitle": "2026 10th International Workshop on Control Engineering and Advanced Algorithms (IWCEAA)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chang'an University; IEEE Industrial Electronics Society; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Data-Driven Control Algorithms for Industrial Systems,Intelligent Control Systems,Adaptive Control and Cooperative Control,Multi-Agent Control Systems,Intelligent Control of Autonomous Driving Vehicles,Industrial Robots and Industrial Automation,Advanced Algorithms,AI and Machine Learning Algorithms,Swarm Intelligence Algorithms,Graph Neural Network Algorithms,Perception Algorithms for Autonomous Driving,",
+      "scope": "IWCEAA 2026 aims to serve as a leading international workshop focusing on control engineering and advanced algorithms. It will bring together global researchers and engineers to share cutting-edge progress, tackle key technical challenges, and boost industry-academy collaboration. The workshop will include two core tracks: control engineering, featuring intelligent control, robust and adaptive control, cooperative and fault-tolerant control, embedded control, motion control, multi-agent control, as well as intelligent control for autonomous vehicles and industrial robot automation; advanced algorithm, covering machine learning, reinforcement learning, intelligent optimization, image and signal processing, evolutionary algorithms, and applications for autonomous driving and industrial systems. We sincerely invite experts and scholars from around the world to participate in this workshop, promoting academic innovation and technological progress through academic exchanges.",
+      "callForPapers": "2026-08-21",
+      "url": "www.iwaace.cn/",
+      "eventContact": "jjl.pc@outlook.com",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "Chang’an University, No. 356 Changda South Road, Weiyang District, Xi'an City, Shaanxi Province, China, , , , Xi'an, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

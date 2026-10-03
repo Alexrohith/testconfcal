@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hbjewY4036EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73137,
+      "eventTitle": "2027 International Conference on Activity and Behavior Computing (ABC)",
+      "startDate": "2027-01-19",
+      "endDate": "2027-01-22",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "Care XDX Center, Kyushu Institute of Technology; IEEE Consumer Technology Society",
+      "keywords": "activity recognition,behavior computing,wearable computing,ubiquitous computing,machine learning,",
+      "scope": "Activity and Behavior Computing (ABC) covers sensing, modeling, recognition, analysis, and applications of human activities and behaviors using wearable, mobile, ambient, and ubiquitous computing technologies, including AI, machine learning, signal processing, healthcare, smart environments, and human-centered systems.",
+      "callForPapers": "2026-08-25",
+      "url": "abc-research.github.io/",
+      "eventContact": "sozo@acm.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Western Sydney University, 1PSQ Parramatta City Campus, 161-169 Macquarie Street, Parramatta City Campus, , , Parramatta, , Australia, 2150, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

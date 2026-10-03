@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yLv5xo40x70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71651,
+      "eventTitle": "2027 IEEE International Conference on Artificial Intelligence and eXtended and Virtual Reality (AIxVR)",
+      "startDate": "2027-01-25",
+      "endDate": "2027-01-27",
+      "about": "Computing and Processing; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Vancouver",
+        "region": "British Columbia",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Artificial Intelligence,Extended Reality,Augmented Reality,Mixed Reality,Virtual Reality,",
+      "scope": "IEEE AIxVR stands out as a distinctive event that brings together researchers and professionals across the spectrum of Artificial Intelligence, Augmented Reality, Mixed Reality, and Virtual Reality. This event serves as a global platform fostering collaboration between these diverse fields, facilitating the presentation of cutting-edge advancements, identifying emerging research avenues, and collectively shaping the future of these dynamic research domains.",
+      "callForPapers": "",
+      "url": "http://aixvr.org",
+      "eventContact": "huerst@uu.nl",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Vancouver, BC, Canada, , ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

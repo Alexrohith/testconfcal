@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6bWox440/bwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71190,
+      "eventTitle": "2026 9th IEEE International Conference on Blockchain (Blockchain)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Montbéliard",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Smart contact,Distributed Ledger,Theories of Blockchain,Bitcoin Security,Blockchain Applications,Blockchain and 6G,",
+      "scope": "The IEEE International Conference on Blockchain (Blockchain 2026) will provide a high-profile, leading-edge forum for researchers, engineers, and practitioners to present latest advances and innovations in key theories, infrastructure, schemes, and significant applications for the blockchain, as well as to identify emerging research topics and define the future.",
+      "callForPapers": "2026-06-15",
+      "url": "ieee-smc-2026.web.app/call-for-papers/blockchain",
+      "eventContact": "abdallah.makhoul@umlp.fr",
+      "sponsorTypes": "1",
+      "venues": "Université Marie et Louis Pasteur / UFR STGI, 4 place Tharradin, , , , Montbéliard, , France, 25200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

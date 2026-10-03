@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ufPqwY40o6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71460,
+      "eventTitle": "2026 IEEE 18th International Conference on Signal Processing (ICSP)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Computing and Processing; Engineering Profession; Signal Processing and Analysis",
+      "location": {
+        "city": "Guiyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Jiaotong University - BJTU; Beijing Section; Guizhou University",
+      "keywords": "Signal Processing,AI & Deep Learning,Large Language Model,Big Data & Blockchain,Autonomous driving,Information Retrieval,Multimodal learning,Artificial General Intelligence,Image Processing & Understanding,Speech Coding & Recognition,Embodied Artificial Intelligence,Computer Vision & Graphics,Machine Learning & Pattern Recognition,Vision, language, and reasoning,Communication Signal Processing,Virtual Reality & AuRadar and Sonar Signal Processing,Applications and Systems,",
+      "scope": "The ICSP 2026 is the 18th one of the ICSP conference series, which began from 1990 in Beijing.  During the past 36 years theory and technology of signal processing have been advanced extremely quickly and spread widely in all the disciplines of engineering and scientific fields. Signal processing has also a great effect on the day-to-day life of the human beings. To keep the pace with the technology development and the state of art of applications, the ICSP is being held once every two years. The 18th IEEE ICSP will bring together diversity of authors and speakers from many nations and regions to share ideas and new perspectives in both theoretical and practical aspects of signal processing.",
+      "callForPapers": "2026-06-15",
+      "url": "www.icsp-ieee.org/",
+      "eventContact": "gyan@bjtu.edu.cn",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Guizhou University, Huaxi District, , , , Guiyang, , China, 550025, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

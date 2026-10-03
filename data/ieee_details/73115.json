@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6rqTx4404rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73115,
+      "eventTitle": "2027 International Conference on Next-Generation Intelligent Communication and Signal Processing (NGICSP)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nanjing University of Posts and Telecommunications",
+      "keywords": "Next-Generation Intelligent Communication Systems,5G-A6G Communication Technologies,Air-Ground Integrated Communication,Wireless Communication AI Resource Scheduling,Communication Chips and Terminal Equipment,Multimodal Signals Processing,Lightweight Edge Signals,Generative AI communication signals,Sensor-Signal Fusion,Intelligent Antenna Beamforming,Malicious Signal Identification,Multi-Domain Communication Encryption,",
+      "scope": "NGICSP 2027 will serve as a global academic platform for advancing next-generation intelligent communication and signal processing. It covers core research areas including 5G-A/6G sensing integration, air-ground and satellite communication, AI-based resource scheduling, and semantic communication. It also focuses on key intelligent signal processing technologies, such as multimodal signal analysis, intelligent anti-interference, edge signal optimization, generative AI signal processing, signal compensation, and sensor fusion. Furthermore, it explores antenna beamforming, transmission encryption, privacy protection, and malicious signal identification technologies. The conference will hold keynote speeches and technical sessions to promote global academic and industrial cooperation. It enables researchers to share frontier achievements and conduct professional exchanges, boosting technological innovation and practical applications in intelligent communication and signal processing.",
+      "callForPapers": "2026-11-01",
+      "url": "www.ngicsp.com/",
+      "eventContact": "z.mansor@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Nanjing University of Posts and Telecommunications, No. 66 Xinmofal Road, Gulou District, Nanjing City, Jiangsu Province, China, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

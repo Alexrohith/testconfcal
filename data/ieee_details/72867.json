@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1tDswY40s6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72867,
+      "eventTitle": "2026 International Conference on Data Science and Intelligent Decision (DSID)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Qingdao",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Qingdao University of Science & Technology - QUST",
+      "keywords": "Data Engineering and Pipelines,Big Data System and Storage,Internet of Things Data Acquisition and Processing,Data Mining and Knowledge Discovery,Timing Analysis and Pattern Recognition,Intelligent Decision Support Systems,Multi-agent Collaborative Decision-Making,Data Security and Decision Credibility,Credible AI and Interpretability,Confronting Machine Learning and Security,",
+      "scope": "Aiming to serve as a pivotal international academic platform for advancing data science and intelligent decision technologies, DSID 2026 will feature keynote speeches, interactive discussions, and practice-oriented workshops, bringing together global experts, researchers, and practitioners to share innovative findings and address interdisciplinary challenges. The conference will focus on core research areas including data engineering and pipelines, big data system and storage, cloud and edge computing architecture, IoT data acquisition and processing, machine learning and deep learning, data mining and knowledge discovery, natural language processing, computer vision and multimodal analysis, intelligent decision support systems and automated decision-making, optimization theory and operational research algorithms, data security, privacy computing and federated learning, credible AI and algorithm robustness, as well as blockchain and decentralized trust.",
+      "callForPapers": "2026-09-26",
+      "url": "www.icdsid.com/",
+      "eventContact": "hyu.z@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Qingdao University of Science and Technology, No. 99 Songling Road, Laoshan District, Qingdao City, Shandong Province, China, , , , Qingdao, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

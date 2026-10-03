@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0Jr4xo40sLoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70822,
+      "eventTitle": "2026 21st International Workshop on Smart Media Adaptation, AI and Personalization (SMAP)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Mystras",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; University of West Attica",
+      "keywords": "Social Media Adaptation,Ontologies ,Semantic Web,Computational Intelligence ,Semantic Multimedia ,Information Technology,Social Network Analysis,Linked Data,Intelligent Systems ,Artificial Intelligence ,Explainable and Responsible AI ,Generative AI and LLMs,",
+      "scope": "SMAP workshops are the evolution of the Semantic Media Adaptation and Personalization initiative, which was founded during the summer of 2006 in an effort to discuss the state of the art, recent advances and future perspectives for social & semantic media adaptation, AI and personalization. However, as social media and semantic applications have substantially transformed by AI in the way organizations, communities, and individuals interact, the scopes of the workshops are also extended towards new trends, seeking to bring together researchers from the social & semantic web, as well as from the Artificial Intelligence communities, under the umbrella of the media adaptation and personalization domain.",
+      "callForPapers": "2026-06-30",
+      "url": "smap2026.uniwa.gr/",
+      "eventContact": "mylonasf@uniwa.gr",
+      "sponsorTypes": "1; 9",
+      "venues": "Research Institute of Byzantine Culture, Lakonia, , , , Mystras, , Greece, 23100, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

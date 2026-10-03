@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: taaAx44057oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71519,
+      "eventTitle": "2026 6th International Conference on Advancement in Electronics & Communication Engineering (AECE)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Ghaziabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Raj Kumar Goel Inst of Technology; Uttar Pradesh Section",
+      "keywords": "Internet of Things,Artificial intelligence,signal processing,Microwave antenna,cyber security,",
+      "scope": "The scope of (AECE-2025) is to provide an international forum to promote, enhance and stimulate international research interactions and collaboration in the fields of Computer Science, Electronics, Electrical, Healthcare and Information Technology. It will facilitate to promote the exchange of ideas among interested researchers, students, industrialists, developers and practitioners. This conference will also feature plenary talks, workshops, and parallel technical sessions.",
+      "callForPapers": "2026-09-15",
+      "url": "aece2026.rkgitedu.in",
+      "eventContact": "amit1408@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "RAJ KUMAR GOEL INSTITUTE OF TECHNOLOGY, 5TH KM STONE, DELHI MEERUT ROAD, GHAZIABAD, UP, Ghaziabad, , India, 201017, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

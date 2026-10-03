@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hcitx440tr0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70532,
+      "eventTitle": "2026 CIE International Conference on Radar (Radar)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chinese Institute of Electronics - CIE; IEEE Aerospace and Electronic Systems Society",
+      "keywords": "radar technogies,Radar Applications,Radar Signal Processing,Radar Systems,Radar,Radar theory,",
+      "scope": "Radar2026, themed Radar for Next-Generation Sensing, will highlight cutting-edge advances in radar technologies for diverse applications. Main Topics include, but are not limited to: Radar Systems and Applications, Radar Signal and Data Processing, Radar Imaging and Interpretation, Advanced RF, Sub-Systems, Components, Antenna Technology, Target and Environment Characteristics, Radar for Health, Integrated Sensing and Communication, Radar for Autonomous Driving, Radar Information Intelligent Learning and Processing, Emerging Radar Technologies, New Materials Application.",
+      "callForPapers": "2026-04-30",
+      "url": "www.radarconf.cn/2026",
+      "eventContact": "lanlan@xidian.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Xi'an, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

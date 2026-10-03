@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hNqvx4404sABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70597,
+      "eventTitle": "2026 24th ACM-IEEE International Symposium on Formal Methods and Models for System Design (MEMOCODE)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-09",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Computing and Processing; Transportation",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Design Automation  - ACM SIGDA; Association for Computing Machinery Special Interest Group on Embedded Systems - ACM SIGBED; Association for Computing Machinery Special Interest Group on Microarchitectural Research & Processing - ACM SIGMICRO; IEEE Circuits and Systems Society; IEEE Council on Electronic Design Automation",
+      "keywords": "Hardware Software Co-Design, Models and Methods for Developing Crtical System,",
+      "scope": "Formal Methods and Models for System Design",
+      "callForPapers": "",
+      "url": "memocode2026.github.io/",
+      "eventContact": "nanguan@cityu.edu.hk",
+      "sponsorTypes": "1; 1; 9; 9; 9",
+      "venues": ", , , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

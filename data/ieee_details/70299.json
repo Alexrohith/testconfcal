@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4ceXx440j78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70299,
+      "eventTitle": "2027 International Conference on Innovative Design and Intelligent Manufacturing (IDIM)",
+      "startDate": "2027-01-30",
+      "endDate": "2027-01-31",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section C Chapter; Zhejiang Sci-Tech University",
+      "keywords": "Innovative Design,Intelligent Manufacturing,Internet of Things,Robotics Technology,",
+      "scope": "We look forward to sharing and discussing research findings and insights in the fields of innovative design and intelligent manufacturing, including digitization and automation in manufacturing processes, smart manufacturing and Industry 4.0, additive manufacturing and 3D printing, smart sensors and the Internet of Things (IoT), innovative design and user experience, human-machine collaboration and interfaces, sustainable manufacturing, and environmental technologies, among others.",
+      "callForPapers": "2026-10-30",
+      "url": "idimconf.org/",
+      "eventContact": "fuqian.shi.nj@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": "Bali Dynasty Resort, Jl. Kartika Plaza, South Kuta, Kuta, , , Bali, , Indonesia, 80361, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vZqox440+7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71607,
+      "eventTitle": "2026 20th International Conference on Telecommunication Systems, Services, and Applications (TSSA)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Denpasar, Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section CAS Chapter; Institut Teknologi Bandung",
+      "keywords": "networking, telematics, radar system, network networks, mobile communications, electrical engineering, biomedical engineering, computer engineering, information system,",
+      "scope": "Telematics, Networking, & Telematics Application; Wireless Technology, Mobile Communication, & Radar System; Electrical, Computer, & Biomedical Engineering; and Information Systems & Informatics",
+      "callForPapers": "2026-07-31",
+      "url": "tssa-conference.org/2026/",
+      "eventContact": "inggrianti@staff.stei.itb.ac.id",
+      "sponsorTypes": "5; 9",
+      "venues": "Bali Indonesia, , , , , Denpasar, , Indonesia, 80111, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

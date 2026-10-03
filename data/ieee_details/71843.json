@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xsPBwo40kacBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71843,
+      "eventTitle": "2026 15th IFIP/IEEE International Conference on Performance Evaluation and Modeling in Wired and Wireless Networks (PEMWN)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Montreal",
+        "region": "Quebec",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Communications Society; International Federation for Information Processing - IFIP; Montreal Section; Montreal Section IT/COM Chapter; Tunisia Section; Tunisia Section COM Chapter; Tunisian Association of Research and Innovation in NETworking (TRINET)",
+      "keywords": "5G and 6G beyond networks,Machine learning for IoT and networks,Digital Twin,Blockchain applications and technologies,Internet of the Future,New IP,Internet of Things (IoT) Internet ofEverything (IoE),Unmanned Aerial Vehicles and Internet of drones,Cyber-security in wired and wireless communications,Cloud continuum,Edge and Fog Computing,Smart cities,Smart farming,E-health and home automation applications,Low Power Wide Area (LPWA) networks,Privacy-preserving communication,Network Management,",
+      "scope": "The International Conference on Performance Evaluation and Modeling in Wireless and Wired Networks aims at providing a forum for sharing ideas and new research advances among researchers and practitioners working on state-of-the-art solutions in Wireless Networks, Internet of Things, Smart Cities and Internet of the Future. We are seeking papers that describe original and unpublished contributions addressing various aspects of performance evaluation of protocols, architectures and modeling of Wireless Networks, Cloud Computing, Internet of Everything, etc.",
+      "callForPapers": "2026-06-30",
+      "url": "https://sites.google.com/ensi-uma.tn/pemwn2026/home",
+      "eventContact": "cherif.ghazel@ensi-uma.tn",
+      "sponsorTypes": "1; 3; 3; 5; 5; 9; 9",
+      "venues": "ÉTS, 1100 R. Notre Dame O , , , , Montréal, QC, Canada, QC H3C 1K3, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

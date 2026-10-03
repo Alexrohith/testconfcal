@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: npGox4407bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70778,
+      "eventTitle": "2027 19th International Conference on Knowledge and Smart Technology (KST)",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-20",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Burapha University, Faculty of Informatics; Thailand Section; Thailand Section C Chapter",
+      "keywords": "Computational Intelligence,Intelligent Computer Networks and System,Emerging Intelligent Technology,",
+      "scope": "Scope of our conference are: Computational Intelligence Intelligent Computer Networks and Systems Emerging Intelligent Technologies",
+      "callForPapers": "2026-11-10",
+      "url": "kst.buu.ac.th",
+      "eventContact": "wyookwan@informatics.buu.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Tokyo Metropolitan University, , , , , Tokyo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

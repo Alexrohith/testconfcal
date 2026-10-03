@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yqnjwY40hqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72912,
+      "eventTitle": "2026 IEEE 29th International Conference on Computer and Information Technology (ICCIT)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Cox's Bazar",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh Section",
+      "keywords": "signal processing,electronic device,Biophotonics,Photonics,Power electronics,Power systems,Communications,Information theory,Computer Science,Machine learning,Deep learning,Biomedical Engineering,",
+      "scope": "Algorithms, AI Technology, Models, Applications, Policies and Related Areas, Antenna, Microwave & RF Engineering, Bio-Informatics, Blockchain, Climate Change and Sustainability, Cloud Computing, Computer Graphics and Multimedia, Computer Networks and Data Communication, Computer Vision, Cryptography and Network Security, Cyber Security, Data Mining/Data Analytics, Database Systems, Deep Learning/Machine Learning, Digital Signal and Image Processing, Digital Systems and Logic Design, Distributed and Parallel Processing, E-Commerce and E-Governance, Embedded System Design, Fuzzy Systems, Gaming, Grid and Scalable Computing, Human-Computer Interaction, ICY Education and its Outcome Assessment, Intelligent Information Systems, Internet and Web Applications, Internet of Things, Multimedia Systems and Services, Neural Networks, Neuromorphic Computing, Pattern Recognition/Tracking, Robotics and Control, Satellite Communication, Security and Information Assurance, Software Engineering",
+      "callForPapers": "2026-07-31",
+      "url": "iccit.org.bd/2026/",
+      "eventContact": "azad@cuet.ac.bd",
+      "sponsorTypes": "3",
+      "venues": ", , , , , Cox's Bazar, , Bangladesh, 4700, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

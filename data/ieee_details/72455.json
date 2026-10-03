@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /vzqwY40uaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72455,
+      "eventTitle": "2026 International Conference on Artificial Intelligence, Privacy Protection and Network Security (AIPNS)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Guangzhou University",
+      "keywords": "Machine learning and deep learning algorithms,Natural language processing and large language models,Explainable and responsible AI,Differential privacy and federated learning,Data anonymization and desensitization technologies,Privacy protection in IoT and smart devices,Blockchain-based decentralized privacy protection,Network intrusion detection and prevention systems,Data security and cloud platform security,Security of AI systems and defense against adversarial attacks,",
+      "scope": "Against the rapid development of AI technologies and the growing concern for privacy protection and network security, AIPNS 2026 aims to serve as a high-level global academic platform for presenting, discussing, and fostering cutting-edge research in AI, privacy preservation, and cybersecurity. Encompassing core areas, including machine learning and deep learning algorithms, natural language processing, explainable and responsible AI, data anonymization and desensitization technologies, privacy protection in IoT and smart devices, network intrusion detection and prevention systems, and data security and cloud platform security, this conference is dedicated to promoting worldwide cooperation among experts, researchers, and industrial practitioners; participants will gain access to state-of-the-art research outcomes, engage in in-depth discussions, and expand academic networks, all aimed at driving technological innovation and sustainable development in the relevant fields.",
+      "callForPapers": "2026-09-11",
+      "url": "www.aipns.cn/",
+      "eventContact": "a.m.zain@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Guangzhou University, No. 230, Waihuan West Road, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

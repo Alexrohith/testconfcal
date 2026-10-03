@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lrn3xo40p7oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71694,
+      "eventTitle": "2027 Fifth International Symposium on Instrumentation, Control, Artificial Intelligence, and Robotics (ICA-SYMP)",
+      "startDate": "2027-01-20",
+      "endDate": "2027-01-22",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Artificial Intelligence Association of Thailand (AIAT); ECTI Association; Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang; Thai Robotics Society; Thailand Section CS Chapter",
+      "keywords": "Instrumentation,Control,Artificial Intelligence,Robotics,",
+      "scope": "This conference serves as an international platform dedicated to presenting  technological advances, launching innovative ideas, and showcasing cutting-edge research in the fields of  Instrumentation, Robotics, Automation, Control, Artificial Intelligence (AI),  Image Processing, Computer vision, IoT, and Cyber-Physical Systems.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "sudchai.boo@kmutt.ac.th",
+      "sponsorTypes": "5; 9; 9; 9; 9",
+      "venues": ", , , , , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

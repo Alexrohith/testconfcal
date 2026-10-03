@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 78Cqx440k70BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70674,
+      "eventTitle": "2026 International Symposium on Multimedia (ISM)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Laguna Hills",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Signal Processing Society; Institute for Semantic Computing Foundation",
+      "keywords": "Multimedia,Computing,",
+      "scope": "Research in multimedia computing is generally concerned with presentation, integration and computation of one or more media, such as text, image, graphics, audio, video, social data, and data collected from various sensors, etc., using computing techniques. The International Symposium on Multimedia (ISM) is an international forum for researchers to exchange information regarding advances in the state of the art and practice of multimedia computing, as well as to identify the emerging research topics and define the future of multimedia computing.",
+      "callForPapers": "2026-09-01",
+      "url": "www.MultimediaComputing.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

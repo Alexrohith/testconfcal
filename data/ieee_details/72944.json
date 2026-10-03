@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: p+X6xo40070BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72944,
+      "eventTitle": "2026 International Conference on Artificial Intelligence, Computer Architecture and Edge Computing (AI-CAEC)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dongguan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangdong University of Science and Technology; Guangzhou Section",
+      "keywords": "Artificial Intelligence,Computer Architecture ,Edge Computing,",
+      "scope": "AI-CAEC 2026 aims to bring together world-leading AI scientists, computer architecture experts, edge computing systems researchers, and industry pioneers. We will jointly examine and address a central tension: the conflict between rapidly growing intelligence demands and constrained computing resources, strict latency, and privacy requirements. The conference will explore a wide range of key topics, from dedicated AI processor design and disruptive memory/storage architectures, to intelligent task partitioning and scheduling strategies across cloud, edge, and end devices, and to new network protocols and system software that support distributed intelligence. Our goal is not only to showcase the latest advances in each individual field, but also to inspire cross-disciplinary dialogue and collaboration, drawing a new blueprint for intelligent computing systems in the post-Moore’s-law era.",
+      "callForPapers": "2026-10-06",
+      "url": "ai-caec.com/",
+      "eventContact": "aicaec_pc@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Guangdong University of Science and Technology (GUST) , No. 99 Xihu Road, Nancheng District, Dongguan City, Guangdong Province, China , , , , Dongguan, , China, 523000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

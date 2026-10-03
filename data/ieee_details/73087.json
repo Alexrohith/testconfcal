@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 762ux440zMABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73087,
+      "eventTitle": "2027 IEEE International Conference on E-health Networking, Application & Services (Healthcom)",
+      "startDate": "2027-11-01",
+      "endDate": "2027-11-03",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "London",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Ehealth,Telemedicine and Telecare,Digital Health,Mobile Health,AI ,Wearable Sensors,Signal  Processing,Biomedical Applications,Biomedical Engineering ,Ethics, Security and Privacy,",
+      "scope": "IEEE HealthCom goal is to gather in London, all the worldwide interested cohorts (universities, research centres, industries, policy makers and healthcare providers). It should be the meeting point to exchange opinions, discuss ideas, developing innovative and emerging solutions, and establishing new collaborations.  IEEE Healthcom will gather together experts from around the world to discuss the latest  advancements in the healthcare field by showcasing the innovative and efficient solutions being developed within the scientific and industrial community. The conference will illustrate practical aspects of eHealth solutions through experimental results and by hosting several workshops targeting key technology for assisted medical care and treatments. Also, IEEE HealthCom will be the venue to further discuss and establish future research directions, by defining the critical problems and challenges that should be addressed in the eHealth.",
+      "callForPapers": "",
+      "url": "https://healthcom2027.ieee-healthcom.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "Kingston University London, Penrhyn Road, , , , Surrey, , United Kingdom, KT1 2EE, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

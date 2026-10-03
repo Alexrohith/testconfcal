@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ttuox440/rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71090,
+      "eventTitle": "2026 8th International Conference on Blockchain Computing and Applications (BCCA)",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "OpenKnowledge Sharing Society; Spain Section",
+      "keywords": "Blockchain ,Application Security,Security & Privacy,Distributed Computing,Communication networks,",
+      "scope": "Blockchain is a revolutionary technology in decentralized systems that enables secure decentralized transaction processing while ensuring data privacy and authenticity. It is now playing a significant role in several areas such the Internet of Things, supply-chain management, manufacturing, cyber-physical systems, healthcare systems, and much more. Unlike centralized transaction processing solutions, blockchain uses a distributed ledger mechanism to record data transactions on multiple devices, this will prevent data breach, identity theft, and a plethora of cyber-related attacks, in essence, leading to a sustainability in data privacy and security. This conference aims at to attract work of both researchers and practitioners in the area of cyber-security to share and exchange their experiences and research studies in both academia and industry in the field of blockchain.",
+      "callForPapers": "2026-04-15",
+      "url": "https://bcca-conference.org/2026/",
+      "eventContact": "mzaloqaily@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Novotel Barcelona City, Avenida Diagonal 201, Barcelona - España , , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: itC/wo4066kBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73732,
+      "eventTitle": "2027 IEEE International Symposium on Artificial Intelligence for Instrumentation and Measurement (AI4IM)",
+      "startDate": "2027-05-13",
+      "endDate": "2027-05-15",
+      "about": "Bioengineering; Engineering Profession",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Instrumentation and Measurement Society",
+      "keywords": "AI-assisted soft sensors,AI-assisted synthetic instruments,AI-assisted virtual instrumentation,Evolutionary computation-assisted I&M with genetic algorithms or swarm intelligence,Fuzzy-logic and logic-driven I&M,Generative AI-assisted I&M,&M with decision trees random forests and gradient boosting,Interpretation and compatibility of measurement standards in the world of AI,Large language models for measurement,Machine learning and  deep learning for I&M,Reinforcement learning-assisted I&M,Uncert",
+      "scope": "Artificial Intelligence (AI) is now prevalent in all technology domains, including instrumentation and measurement (I&M). In recent years, public discourse and media attention have largely centered on generative AI, particularly Large Language Models (LLMs), driven by the popularity of tools like ChatGPT and other chatbots. However, AI extends far beyond just LLMs, as shown in the diagram. Machine learning, deep learning, reinforcement learning, evolutionary computation, and logic are now routinely used in I&M systems for measurement, detection, tracking, monitoring, characterization, identification, sensing, estimation, recognition, or diagnosis of physical phenomena.",
+      "callForPapers": "2027-01-08",
+      "url": "ai4im.ieee-ims.org/2027",
+      "eventContact": "cdyer@conferencecatalysts.com",
+      "sponsorTypes": "1",
+      "venues": "Wyndham Hotels & Resorts, No. 208 Ci'en East Road, Qujiang New District, Shaanxi, , Xi'an, , China, 710061, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

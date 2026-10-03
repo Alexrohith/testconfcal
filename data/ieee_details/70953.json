@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4L2dx440oLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70953,
+      "eventTitle": "2026 19th International Conference on Sensing Technology (ICST)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
+      "about": "Bioengineering; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "Macquarie University, Australia; New South Wales Section; New South Wales Section IM Chapter",
+      "keywords": "Sensors; sensing technology; smart sensors; wireless sensors; Internet of Things; mechanical sensors; physical sensors; bio-sensors; chemical sensors; optical sensors; sensors for education; ,,",
+      "scope": "Macquarie University, Sydney, Australia is pleased to announce that the 19th International Conference on Sensing Technology (ICST2026) will be held during December 7 to 9, 2025 at Macquarie University, North Ryde campus. ICST2026 is intended to provide a common forum for researchers, scientists, engineers and practitioners throughout the world to present their latest research findings, developments and applications in the area of sensing technology. ICST2026 will include keynote addresses by eminent scientists as well as special, regular and poster sessions. All papers will be peer reviewed on the basis of a full-length manuscript and acceptance will be based on quality, originality and relevance. Accepted papers will be published in the conference proceedings with an IEEE catalog number and ISBN number. The proceedings will be submitted for possible publication in IEEE Xplore subject to meeting IEEE Xplore’s scope and quality requirements and indexing by EI Compendex.",
+      "callForPapers": "2026-06-30",
+      "url": "icst.in/icst2026/index.html",
+      "eventContact": "Krishanthi.Jayasundera@insearch.edu.au",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Macquarie University, North Ryde, Sydney, , , Sydney, , Australia, 2109, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0OSox440/7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71591,
+      "eventTitle": "2026 IEEE International Conference on Blockchain and Distributed Systems Security (ICBDS)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pune Section; Pune Section-C Chapter",
+      "keywords": "Blockchain,Distributed algorithms,Content distribution network,Distributed Computing,Edge Computing,Distributed Ledger,Network Security,Network Security,Information Security,Non Fungible Token,Federated Learning,Blockchain based federated Learning,Data Security,Non fungible Token,Consensus algorithms,Key Distibution,Key agrement,Key Management,Threshold Crytography,Quantum safe computing,",
+      "scope": "Blockchain is an emerging technology and is used widely in banking, agriculture, healthcare, intelligent manufacturing, and other sectors. We have seen successful application of Blockchain into digital-currency and now blockchain is playing an important role in secure decentralization in many emerging fields such as digital asset transactions, internet of things, cyber-physical systems, edge computing, social networking etc. This will bring many challenges and issues to be addressed by the research community, this conference will provide a platform to bring forth innovations in addressing issues and challenges. The main objective of this conference is to bring together people with shared interests in blockchain, distributed systems and security. This conference will provide a platform for researchers, engineers, and practitioners to contribute to identifying emerging research topics for the blockchain and present latest advances & innovations in theories, applications, infrastructure.",
+      "callForPapers": "2026-04-15",
+      "url": "icbds.ieeepunesection.org",
+      "eventContact": "makk123@yahoo.com",
+      "sponsorTypes": "3; 5",
+      "venues": "Meenakshi More, 131, , Mayur Colony,, KOTHRUD,, PUNE, PUNE, , India, 411038, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

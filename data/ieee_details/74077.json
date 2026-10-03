@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: u+iPx4401b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74077,
+      "eventTitle": "2027 Conference on Advanced Technologies in Mechanical, Automotive and Energy Engineering (ATMAE)",
+      "startDate": "2027-07-16",
+      "endDate": "2027-07-17",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Danang",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": " The University of Danang - University of Science and Technology⁠; IEEE Systems, Man, and Cybernetics Society; National Taipei University of Technology",
+      "keywords": "Advanced mechanical engineering and smart manufacturing,Sustainable transportation and green mobility technologies,Renewable energy systems and hydrogen technologies,Intelligent manufacturing systems and industrial automation,Electric and hybrid vehicle powertrain technologies,Thermal engineering and heat transfer optimization,Energy efficiency and low-carbon industrial technologies,Artificial intelligence in mechanical engineering design,Digital twin and Industry 4.0 in production engineering,R",
+      "scope": "ATMAE 2027 focuses on advanced technologies in mechanical, automotive and energy engineering, bringing together researchers and industry experts to discuss emerging solutions in smart manufacturing, green mobility and sustainable energy systems. The conference highlights artificial intelligence, digital twins, intelligent control, automation, energy efficiency and innovative engineering approaches supporting sustainable industrial development.",
+      "callForPapers": "2027-02-15",
+      "url": "atmae2027.udn.vn",
+      "eventContact": "anhdl@dut.udn.vn",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "The University of Danang - University of Science and Technology, 54 Nguyen Luong Bang Street, Lien Chieu Ward, , , , Danang, , Vietnam, 50000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sorewY4076EBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72236,
+      "eventTitle": "2026 International Conference on Computer Vision and Intelligent Systems for Pattern Recognition (CVISPR)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Zhuhai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Zhuhai College of Science and Technology",
+      "keywords": "Computer Vision,Pattern Recognition,Intelligent Systems,Machine Learning,Autonomous Systems,",
+      "scope": "CVPRIS 2026 focuses on the latest research in computer vision, pattern recognition, and intelligent systems. Key areas include image and video analysis, machine learning and deep learning, object detection, biometric and speech recognition, as well as autonomous systems and intelligent sensing.",
+      "callForPapers": "2026-09-11",
+      "url": "www.cvpris.com/",
+      "eventContact": "cvpris_pc@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhuhai College of Science and Technology, No.8 Anji East Road, Jinwan District, Zhuhai City, Guangdong, China, , , , Zhuhai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

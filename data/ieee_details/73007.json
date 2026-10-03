@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4uyLx440pLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73007,
+      "eventTitle": "2026 Ninth International Conference on Parallel, Distributed and Grid Computing (PDGC)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Shimla",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; IEEE Jaypee University of Information Technology Student Branch; Jaypee University of Information Technology (JUIT)",
+      "keywords": "Parallel Processing,Distributed Computing,Grid Computing,Quantum Computing,Green Computing,Artificial intelligence,High Performance Computing,Cloud Computing,Big Data,Smart Healthcare,Deep Learning,Cognitive Neuroscience,Data intensive,Data Science,Parallel algorithms,Parallel architectures,",
+      "scope": "PDGC-2026 will serve as an international forum for researchers and practitioners interested in recent advances in the areas of parallel, distributed and grid computing. It will provide an opportunity to present and exchange advanced scientific and technological information in hardware, software and theoretical foundation in these areas.",
+      "callForPapers": "2026-07-01",
+      "url": "https://www.juit.ac.in/pdgc-2026/index1.php",
+      "eventContact": "pradeep.juit@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Jaypee University of Information Technology, Waknaghat, Shimla, Himachal Pradesh, India. , , , Shimla, , India, 173234, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

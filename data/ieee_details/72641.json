@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5qC/wo406akBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72641,
+      "eventTitle": "2027 International Conference on Cutting-Edge Innovations, Research Advancements, and Sustainable Solutions in Multidisciplinary Engineering (COEP CON)",
+      "startDate": "2027-06-04",
+      "endDate": "2027-06-06",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "COEP Technological University; Pune Section",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Sustainable and Responsible AI,Explainable AI,Trustworthy AI,Autonomous Systems,Cyber-Physical Systems,Next-Generation Communication Systems,5G6G Networks,Internet of Things (IoT),Robotics and Automation,Intelligent Control Systems,Industrial Automation,Embedded Systems,VLSI Design,Electronic Devices and Circuits,Power Electronics,Smart Grids,Energy-Efficient Systems,Quantum Technologies,Biomedical Engineering,Wearable and Healthcare Technol",
+      "scope": "The conference provides a multidisciplinary forum to present and discuss advances in regenerative and intelligent technologies that drive industrial innovation, societal well-being, and environmental sustainability. Its scope includes AI and machine learning, robotics and automation, intelligent control, embedded and VLSI systems, communication networks and IoT, power and energy systems, photonics, biomedical technologies, signal and image processing, secure software systems, intelligent sensing, and smart mobility, with emphasis on interdisciplinary research and real-world impact aligned with IEEE’s mission",
+      "callForPapers": "2026-05-18",
+      "url": "www.ieeecoepcon.coeptech.ac.in",
+      "eventContact": "umc.instru@coeptech.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "COEP Technological University Pune, Wellesley Road, Shivajinagar, Pune, , Pune, , India, 411005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

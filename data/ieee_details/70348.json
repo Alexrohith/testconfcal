@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6ObkwY4096QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70348,
+      "eventTitle": "2026 International Conference on Intelligent & Innovative Practices in Engineering & Management (IIPEM)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-26",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "Amity Global Institute; Singapore Section SMC Chapter",
+      "keywords": "cloud computing,intelligent systems,fintech,green technologies,Technology Innovation And Sustainability,cognition biases,machine learning,artificial intelligence,Disruptive Innovation,",
+      "scope": "The objective of the conference is to address the most essential issues of engineering, technology, computation, automation and knowledge management. It also serves to foster communication among researchers and practitioners working in a wide variety of scientific areas with a common interest in improvement of Engineering, Technology and Knowledge Management related tools and techniques.",
+      "callForPapers": "",
+      "url": "www.amity.edu/iipem2026/",
+      "eventContact": "asingh11@amity.edu",
+      "sponsorTypes": "5; 9",
+      "venues": "Amity Global Institute, 228, Orchard Road, Singapore, , , , , , Singapore, 238853, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

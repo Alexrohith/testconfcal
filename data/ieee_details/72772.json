@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: k/anx44067wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72772,
+      "eventTitle": "2026 25th RoEduNet Conference: Networking in Education and Research (RoEduNet)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Iasi",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Agency ARNIEC/Romanian Education Network; Alexandru Ioan Cuza University; Gheorghe Asachi Technical University of Iasi; Romania Section C Chapter",
+      "keywords": "Communication networks,Education,Computer Networks,Computer Science,",
+      "scope": "Nowadays, modern education and research activities are strongly dependent on a high-speed communication infrastructure and computer networks based on the newest technology. Design, implementation, management of such networks, together with development of new application fields are not possible without good knowledge of networking state-of-the-art.",
+      "callForPapers": "2026-08-30",
+      "url": "https://events.roedu.net/event/9/",
+      "eventContact": "simona.caraiman@tuiasi.ro",
+      "sponsorTypes": "5; 9; 9; 9",
+      "venues": "Alexandru Ioan Cuza University from Iasi, 11 Carol I, , , , Iasi, , Romania, 700506, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

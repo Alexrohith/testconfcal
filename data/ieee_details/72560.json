@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: grmKx440tL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72560,
+      "eventTitle": "2027 13th International Conference on Reliability, Infocom Technologies and Optimization (Trends and Future Directions) (ICRITO)",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-12",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Noida NCR",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "AIIT, Amity University; Uttar Pradesh Section",
+      "keywords": "Artificial Intelligence,Quality and Reliability,Optimization,infocom Technologies,mathematical modelling,cyber security,Internet of things,Communications,cloud security,safety and risk analysis,Humanitarian Technologies,",
+      "scope": "Scope of conference is included but not limited to Quality and Reliability, Infocom Technologies (IT), Mathematical Modelling and Optimization, Artificial Intelligence, Networks, Communications and Cyber Security, Safety and Risk Analysis and Humanitarian Technologies. This theme is most appropriate in the current context as well as in the future. Besides, it will help in sharing of experience and exchange of ideas, which will foster international collaborations.",
+      "callForPapers": "2026-11-15",
+      "url": "amity.edu/aiit/icrito2027/",
+      "eventContact": "sjain@amity.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Amity Institute of Information Technology, Amity University Uttar Pradesh, Amity University Uttar Pradesh, Sec 125, Noida, , Noida, , India, 201301, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

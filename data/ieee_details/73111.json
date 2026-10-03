@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sZqUx4405rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73111,
+      "eventTitle": "2028 IEEE 11th International Conference on Soft Robotics (RoboSoft)",
+      "startDate": "2028-04-23",
+      "endDate": "2028-04-29",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Edmonton",
+        "region": "Alberta",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "soft robotics,material science,robot control,human robot interaction,soft sensors,soft-bodied control,soft actuation,printable robots,wearable robots,",
+      "scope": "Soft robotics is a recent exciting trend of robotics, taking the challenge of using soft materials and deformable structures for building robots, with high potential for impact in science and in applications. Given the young and fast growing area and the lively interdisciplinary community that grew around soft robotics, the RoboSoft international conference aims at presenting recent progress in this field, for discussing new science, new technologies and new opportunities for applications.",
+      "callForPapers": "2027-10-15",
+      "url": "",
+      "eventContact": "nana.obayashi@nyu.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , AB, Canada, , ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

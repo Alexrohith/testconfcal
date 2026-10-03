@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lJjqwY40tKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72612,
+      "eventTitle": "2027 IEEE 9th Students Conference on Engineering and Systems (SCES)",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Prayagraj",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Motilal Nehru National Institute of Technology - MNNIT; Uttar Pradesh Section; Uttar Pradesh Section IE Chapter; Uttar Pradesh Section PEL Chapter",
+      "keywords": "MNNIT,Multidisciplinary Conference,Power Systems,Renewable Energy,Control Systems,Electronics & Communication,Signal Processing,Computing Networks,Machine Learning,Mechanical Systems,Mechatronics,Applied Sciences,",
+      "scope": "The conference will provide a platform for researchers to get recognition for their research innovations and provide wider publicity to the Institute. It serves as a multidisciplinary platform for researchers with diverse backgrounds and research interests. Specifically, the conference will spotlight emerging trends in Power, Energy & Control; Electronics, Communication & Signal Processing; Computer Networks & Machine Learning; Mechanical Systems and Mechatronics; and Applied Sciences, fostering collaboration and knowledge exchange among participants.",
+      "callForPapers": "2026-11-15",
+      "url": "www.mnnit.ac.in/sces2027/",
+      "eventContact": "slakshmi@mnnit.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Motilal Nehru National Institute of Technology Allahabad, Teliyarganj, , , , Prayagraj, , India, 211004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

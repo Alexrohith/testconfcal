@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: k5mEx440/roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73211,
+      "eventTitle": "2026 7th International Conference on Computing and Informatics (ICCI)",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "cairo",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Future University in Egypt - FUE",
+      "keywords": "Artificial Intelligence , Software Engineering,Data Science,Cybersecurity,Information Systems,Emerging Technologies,",
+      "scope": "Smart Computing, Digital Transformation: Building Tomorrow's Intelligent Future",
+      "callForPapers": "2026-09-10",
+      "url": "www.fue.edu.eg/ICCI2026/Article.Aspx?AID=6741&CID=4377&WID=100",
+      "eventContact": "mohamed.abdelgwad@fue.edu.eg",
+      "sponsorTypes": "3; 9",
+      "venues": "Future Univeristy in Egypt, 90th St., Fifth Settlement, New Cairo , , , , cairo, , Egypt, 11561, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

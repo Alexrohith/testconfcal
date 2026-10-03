@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r72Xx4409rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70233,
+      "eventTitle": "2027 IEEE 24th Consumer Communications & Networking Conference (CCNC)",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Las Vegas",
+        "region": "Nevada",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Communication,Networking,Networking and Broadcasting,Computing and Processing,Robotics and Control,",
+      "scope": "CCNC 2027 will present the latest developments and technical solutions in the areas of home networking, consumer networking, enabling technologies (such as middleware) and novel applications and services. The conference will include a peer-reviewed program of technical sessions, special sessions, business application sessions, tutorials, and demonstration sessions",
+      "callForPapers": "2026-07-01",
+      "url": "ccnc2027.ieee-ccnc.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "Flamingo Las Vegas Hotel & Casino, 3555 Las Vegas Blvd S, Las Vegas, NV 89109, , , , , NV, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

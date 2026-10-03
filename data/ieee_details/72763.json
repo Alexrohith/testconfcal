@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kdeJx440krsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72763,
+      "eventTitle": "2026 IEEE International Meeting for Future of Electron Devices, Kansai (IMFEDK)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Kyoto",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Kansai Section ED Chapter",
+      "keywords": "Electron Devices,Si Devices,Compound Semicondutor Devices,Power Devices,Emerging Devices,Solid State Devices,Optoelectronics,RF Devices,Computing,Circuit,Artificial Intelligence,MEMS,Actuators,Sensors,Semiconductor,Devices,Industry,IMFEDK,",
+      "scope": "IMFEDK has been and will be giving scientists and engineers chances to disseminate their research results and university students opportunity to grow on their own.",
+      "callForPapers": "2026-09-05",
+      "url": "www.ieee-jp.org/section/kansai/chapter/eds/imfedk/",
+      "eventContact": "yoshiaki.oku@dsn.rohm.co.jp",
+      "sponsorTypes": "5",
+      "venues": "Joju-kan, 67, Tsukamoto-cho, Fukakusa, Fushimi-ku, , , Kyoto, , Japan, 612-8577, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

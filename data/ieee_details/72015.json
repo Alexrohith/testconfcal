@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 66Oox440hsABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72015,
+      "eventTitle": "2026 9th International Conference on Advanced Communication Technologies and Networking (CommNet)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-16",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "RABAT",
+        "region": "",
+        "country": "Morocco"
+      },
+      "sponsors": "Association of Development Scientific Research and Training (ADSciRT); IEEE Communications Society",
+      "keywords": "Wireless Communication, Communication System Security, Computer Security, Communication Networks, Smart Systems and Application,",
+      "scope": "2026 9th International Conference on Advanced Communication Technologies and Networking (CommNet) is a forum for scientists, engineers, and practitioners to present their latest research results, ideas, developments, and applications in all areas of advanced communication systems and networking.",
+      "callForPapers": "2026-03-22",
+      "url": "www.commnet-conf.org/",
+      "eventContact": "f.elbouanani@um5s.net.ma",
+      "sponsorTypes": "1; 9",
+      "venues": "Regional Center for Education and Training Professions (CRMEF) of Rabat, MAdinat Al Irfane - Av. Allal Al Fassi, , , , RABAT, , Morocco, 10000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

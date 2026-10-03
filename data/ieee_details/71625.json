@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5IH/xo406b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71625,
+      "eventTitle": "2027 International Conference on AI x Data and Knowledge Engineering (AIxDKE)",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-03",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Laguna Hills",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society; Institute for Semantic Computing Foundation",
+      "keywords": "Artificial Intelligence,Data Engineering,Knowledge Engineering,",
+      "scope": "Artificial Intelligence (AI) is concerned with computing technologies that allow machines to see, hear, talk, think, learn, and solve problems. The huge potential of applying AI to problem-solving represents an exciting future in business objectives that can be achieved much more effectively. In addition, business-business, business-customer, and customer-customer may be interconnected in a revolutionary way to stimulate a tremendous amount of interesting activities.     A core of AI is Data and Knowledge Engineering which address the acquisition, understanding, description, storage, integration, processing, control, and use of data and knowledge, among others.     With the recent advances of AI, including ChatGPT, we think it is the right time to address the broader impacts of AI on Data & Knowledge Engineering and vice versa.​",
+      "callForPapers": "2026-10-10",
+      "url": "www.AIxDKE.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

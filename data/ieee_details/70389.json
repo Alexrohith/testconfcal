@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tKPgwY401KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70389,
+      "eventTitle": "2026 IEEE International Conference on Knowledge Graph (ICKG)",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-13",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Shenyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Knowledge graph,Data mining,machine learning,foundations,Algorithms,knowledge engeering,graph mining,",
+      "scope": "The annual IEEE International Conference on Knowledge Graph (ICKG) provides a premier international forum for presentation of original research results in knowledge discovery and graph learning, discussion of opportunities and challenges, as well as exchange and dissemination of innovative, practical development experiences. The conference covers all aspects of knowledge discovery from data, with a strong focus on graph learning and knowledge graph, including algorithms, software, platforms.",
+      "callForPapers": "2026-06-19",
+      "url": "ickg2026.github.io",
+      "eventContact": "uvmxwu@gmail.com",
+      "sponsorTypes": "1",
+      "venues": "Northeastern University of China, , , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 19eLx440vb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69265,
+      "eventTitle": "2026 IEEE International Conference on Smart Innovations for Medicine and Engineering (SIME)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sousse",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "ASSOCIATION TUNISIENNE DES TECHNIQUES INTELLIGENTES; Region 08 - Europe,Middle East,Africa; Tunisia Section; Tunisia Section EMB Chapter; Tunisia Section IA Chapter; Tunisia Section RA Chapter",
+      "keywords": "Artificial intelligence,Embedded system,Embedded Systems,edge computing,Control, Robotics And Mechatronics,Renewable Energy Systems,computer vision,control systems,biomedical engineering,medical imaging,Genomics,Personalized Medicine,Pharmaceutical Engineering,Telemedicine,smart healthcare,RF systems ,Cyber Security,",
+      "scope": "The IEEE International Conference on Smart Innovations for Medicine and Engineering has a broad and interdisciplinary scope, covering cutting-edge advancements in Artificial Intelligence, IoT, Biomedical Engineering, Renewable Energy, Robotics, Cybersecurity, Smart Systems, and Healthcare Technologies. The conference aims to bridge the gap between engineering innovations and medical applications, fostering collaborations between academia, industry, and healthcare professionals.",
+      "callForPapers": "2026-07-21",
+      "url": "www.sime-conf.org",
+      "eventContact": "mohamed.ali.cherni@gmail.com",
+      "sponsorTypes": "2; 3; 5; 5; 5; 9",
+      "venues": ", Sousse, , Tunisia, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

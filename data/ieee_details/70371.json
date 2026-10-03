@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 07HpwY40maUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70371,
+      "eventTitle": "2026 IEEE International Conference on Industrial Engineering and Engineering Management (IEEM)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-05",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Nuclear Engineering; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "Singapore Section TEMS Chapter",
+      "keywords": "Engineering management,Supply chain management,Innovation management,Quality control,systems engineering,reliability engineering,Manufacturing systems,Human factors,operations research,Robotics,AI and machine learning,Data Science,Safety management,",
+      "scope": "All areas related to industrial engineering, systems engineering, technology management etc.",
+      "callForPapers": "2026-06-01",
+      "url": "www.ieem.org",
+      "eventContact": "info@ieem.org",
+      "sponsorTypes": "5",
+      "venues": "Marina Bay Sands, , , , , , , Singapore, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

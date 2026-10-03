@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /KXdwY4016EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72770,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and New Materials Development (AINMD)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Engineered Materials, Dielectrics and Plasmas",
+      "location": {
+        "city": "Johor Bahru",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Universiti Teknologi Malaysia (UTM)",
+      "keywords": "Intelligent Materials Optimization,Al-Enabled Materials Design & Applications,Deep Learning,Al Algorithms,Artificial Intelligence & Machine Learning,",
+      "scope": "AINMD 2026 is a premier international conference on artificial intelligence and new materials development. It provides a global platform for researchers and industry practitioners to present cutting-edge research, exchange knowledge, and foster interdisciplinary collaboration. The conference will focus on AI-driven materials discovery, predictive modeling, and autonomous experimentation, highlighting advances in machine learning, deep learning, and high-throughput computational techniques for designing materials with tailored functionalities. By bridging intelligent algorithms and materials innovation, AINMD 2026 aims to accelerate scientific breakthroughs, enable transformative applications, and inspire future leaders in these rapidly evolving fields.",
+      "callForPapers": "2026-10-01",
+      "url": "www.icainmd.com/",
+      "eventContact": "ainmd.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Universiti Teknologi Malaysia (UTM), Malaysia, Jalan Sultan Yahya Petra, 81310 Skudai, Johor Bahru, Johor, Malaysia, , , , Johor Bahru, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

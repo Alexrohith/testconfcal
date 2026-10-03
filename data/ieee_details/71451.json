@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: u7vowY40qKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71451,
+      "eventTitle": "2026 Third International Conference on Computing, Semiconductor, Mechatronics, Intelligent Systems and Communications (COSMIC)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-28",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Mangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Mangalore Subsection; Sahyadri College of Engineering & Management",
+      "keywords": "Computing Systems, Semiconductor Devices, Mechatronics, Intelligent Systems, Artificial Intelligence, Machine Learning, Embedded Systems, Internet of Things (IoT), Communication Networks, Signal Processing, Robotics,Computing & IT,Semiconductor devices,Mechatronics ,Intelligent Systems ,Artificial Intelligence ,Machine Learning ,embedded systems,Internet of Things,Communication networks ,Signal Processing,Robotics ,Cyber Physical Systems,",
+      "scope": "COSMIC-2026 provides an international forum for researchers, academicians, and industry professionals to present and discuss recent advances, challenges, and future directions in computing, semiconductor technologies, mechatronics, intelligent systems, and communications. The conference focuses on both theoretical foundations and practical applications of emerging technologies such as artificial intelligence, machine learning, Internet of Things, cyber-physical systems, robotics, embedded systems, and advanced communication networks. COSMIC-2026 aims to foster interdisciplinary collaboration and knowledge exchange across academia and industry.",
+      "callForPapers": "",
+      "url": "cosmic.sahyadri.edu.in/",
+      "eventContact": "mbasthik@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Sahyadri College of Engineering & Management, Sahyadri Campus, Adyar, Mangalore, Dakshina Kannada District, Karnataka, , Mangalore, , India, 575007, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

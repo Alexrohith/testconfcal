@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kMvawY403aEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71427,
+      "eventTitle": "2026 International Conference on Big Data, Machine Learning and Intelligent Computing (BDMLIC)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Shenzhen University",
+      "keywords": "Big Data Acquisition and Preprocessing,Big Data Distributed Computing,Big Data Visualization,Deep Learning Architectures,Transfer & Few-Shot Learning,Self-Supervised Learning,Multimodal Learning,Brain-Inspired Computing,Quantum Intelligent Computing,",
+      "scope": "BDMLIC 2026 will stand as an authoritative international academic forum focusing on the innovation, integration, and application of big data, machine learning, and intelligent computing technologies. It will gather global researchers, engineers, and industry experts to present cutting-edge achievements, tackle cross-domain technical difficulties, and promote the deep integration of academia and industry. The conference will cover key tracks including Big Data Fundamentals & Technologies (acquisition, storage, distributed computing, visualization, cloud-native systems); Machine Learning Theories & Methods (deep learning, reinforcement learning, transfer/few-shot learning, Bayesian learning); Intelligent Computing & Fusion (neurocomputing, swarm intelligence, brain-inspired/quantum intelligent computing); and their applications in industry, smart cities, healthcare and IoT. We will invite global professionals to contribute and jointly advance technological innovation in these fields.",
+      "callForPapers": "2026-07-13",
+      "url": "www.bdmlic.org",
+      "eventContact": "nt.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Shenzhen University, No. 3688 Nanhai Avenue, Nanshan District, Shenzhen City, Guangdong Province, China, , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

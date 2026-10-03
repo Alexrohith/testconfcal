@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gP6cx440nLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71014,
+      "eventTitle": "2026 International Conference on Intelligent Signal Processing and Effective Communication Technologies (INSPECT)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-10",
+      "about": "Engineering Profession; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Patna",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Indian Institute of Technology, Patna; Kolkata Section; Patna Subsection",
+      "keywords": "Signal Processing,image processing,internet of things,communications ,Antennas,Electromagnetic Metamaterials,Audio and Acoustics,optical communication,electronic sysyem,power system,control systems,",
+      "scope": "The conference serves as a premier forum for presenting cutting-edge advances and research outcomes across diverse disciplines and their associated applications in Communication Technology, Signal Processing, Informatics, and Machine Learning, with a focus on innovations that enhance the quality of human life and promote sustainable living on Earth. In addition to the technical sessions, the conference will feature invited sessions, panel discussions, and keynote addresses by distinguished experts. The overarching aim of the conference is to foster interaction, collaboration, and convergence among researchers actively engaged in these domains.",
+      "callForPapers": "2026-04-01",
+      "url": "www.iitp.ac.in/inspect-main/index.html",
+      "eventContact": "pradhans@iitp.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Indian Institute of Technology Patna, Department of Electrical Engineering, Bihta, Patna -801106 (Bihar), , , Patna, , India, 801106, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

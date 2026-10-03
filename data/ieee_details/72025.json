@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3oaex440pLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72025,
+      "eventTitle": "2027 IEEE International Microwave Biomedical Conference (IMBioC)",
+      "startDate": "2027-05-19",
+      "endDate": "2027-05-21",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Chicago",
+        "region": "Illinois",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Antennas and Propagation Society; IEEE Microwave Theory and Technology Society",
+      "keywords": "Microwave Theory and Techniques Society,Antennas and Propagation Society,Radar,Biomedical Applications,Biosensors,Microwave circuits,Microwave Imaging,Microwave Technology,Rf Wireless Communication,Wireless Power Transmission,Wireless Sensors,Wireless Sensing,Terahertz Imaging,Antennas,Internet Of Things,Microwave devices,Computational electromagnetics,Electromagnetic Fields,",
+      "scope": "The scope of IMBioC focuses on the intersection of radio-frequency (RF), microwave, and Terahertz (THz) technologies with biological and medical applications.",
+      "callForPapers": "",
+      "url": "www.imbioc2027.org/",
+      "eventContact": "ctmwu@ntu.edu.tw",
+      "sponsorTypes": "1; 1",
+      "venues": "Isadore and Sadie Dorin Forum, 725 W Roosevelt Rd, , , , Chicago, IL, USA, 60608, ;",
+      "region": "Region04-Central USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

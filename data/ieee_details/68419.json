@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: p5qwx4406MABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68419,
+      "eventTitle": "2026 IEEE International Conference on Vehicular Electronics and Safety (ICVES)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-11",
+      "about": "Transportation",
+      "location": {
+        "city": "Cochabamba",
+        "region": "",
+        "country": "Bolivia"
+      },
+      "sponsors": "IEEE Intelligent Transportation Systems Society",
+      "keywords": "Resilient Machine Perception,Active & Passive Safety Systems,ICT in Road Safety and Infrastructure,Accident prevention technologies and crash analysis,Driving assistance systems for unstructured environments,Vehicle-To-Everything (V2X) and Cellular V2X ,Embedded systems and automotive software,Sensor fusion and electronic control units (ECUs),Vehicle architectures for AI enabled systems,Power electronics for electric vehicles,Metrics, verificaFrugal technologies for sustainable ITS ,",
+      "scope": "The 20th IEEE International Conference on Vehicular Electronics and Safety (ICVES 2026) is an annual forum sponsored by the IEEE Intelligent Transportation Systems Society (ITSS). It serves as a premier interdisciplinary platform for the presentation and discussion of the latest advances and research findings in the field of intelligent vehicular electronics and safety. The conference brings together leading academic researchers, scholars, and industry experts from around the world to exchange knowledge, foster collaboration, and promote innovation in this rapidly evolving domain.",
+      "callForPapers": "2026-07-01",
+      "url": "ieee-icves.org/2026",
+      "eventContact": "javier.ibanez-guzman@renault.com",
+      "sponsorTypes": "1",
+      "venues": "Universidad Privada del Valle (UNIVALLE), Torre Académica América, Av. América N° 165, , , Cochabamba, , Bolivia, N/A, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pPWcx440s78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66739,
+      "eventTitle": "GLOBECOM 2028 - 2028 IEEE Global Communications Conference",
+      "startDate": "2028-12-04",
+      "endDate": "2028-12-08",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Honolulu",
+        "region": "Hawaii",
+        "country": "USA"
+      },
+      "sponsors": "",
+      "keywords": "Globecom,Global communication,Telecommunications,Technical activities,Professional activities,Multimedia communication,symposia,Communications And Networking,Workshops,Tutorials,Internet,Wireless Communications,Optical/fibre Communications,Satellite Communications,Public safety technologies,Internet of Things,",
+      "scope": "Provides a full program of technical and professional activities spanning hot topics in voice, data, image and multimedia communications and networking",
+      "callForPapers": "2028-03-01",
+      "url": "globecom2028.ieee-globecom.org/",
+      "eventContact": "j.le@comsoc.org",
+      "sponsorTypes": "",
+      "venues": "Hilton Hawaian Village, 2005 Kālia Rd, Honolulu, HI 96815, , , , Honolulu, HI, USA, 96815, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

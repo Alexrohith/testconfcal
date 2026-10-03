@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ptKEx440gbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72982,
+      "eventTitle": "2027 IEEE 6th International Conference on AI in Cybersecurity (ICAIC)",
+      "startDate": "2027-03-03",
+      "endDate": "2027-03-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Houston",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Gyancity Research Labs; University of Houston-Victoria STB",
+      "keywords": "Artificial Intelligence,Cyber Security,Generative AI,Agentic AI,Trustworthy AI,Cloud Computing Security,Application Security,DevSecOps,",
+      "scope": "This conference provides a platform for researchers and scientists across the world to exchange and share their experiences and research results about all aspects of AI and Cybersecurity in Healthcare, Business, Management, Environmental, and Critical Infrastructure. This conference also provides an opportunity to interact and establish professional relations for future collaboration. The conference aims to promote innovations and work of researchers, engineers, students and scientists from across the world on Advancement in AI, Cybersecurity, IoT, eBusiness, Management, Healthcare, and Emerging Technology. The basic idea of the conference is to determine what else can be done using the existing technology and resources.",
+      "callForPapers": "2026-12-31",
+      "url": "icaic.gyancity.com/",
+      "eventContact": "chiragrdave@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": "University of Houston, , , , , , TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

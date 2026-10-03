@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: reqCx44057oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72443,
+      "eventTitle": "2026 24th IEEE International Symposium on Network Computing and Applications Workshops (NCA-Workshops)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Syracuse",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Computing & IT,Artificial intelligence,Cyber Security,Sensing,Networking,Computer Performance,Cyber Physical Systems,",
+      "scope": "NCA is a successful series of conferences that serves as a large international forum for presenting and sharing recent research results and technological developments in the fields of Network and Cloud Computing. NCA reaches out to both researchers and practitioners, and to both academia and industry. This year, NCA features a dedicated Workshops section, where thematic research areas are deeeply investigated.",
+      "callForPapers": "2026-07-03",
+      "url": "www.nca-ieee.org/",
+      "eventContact": "apuliafito@unime.it",
+      "sponsorTypes": "1",
+      "venues": "URBAN CITY CENTER, via Nino Bixio, 1, , , , Syracuse, , Italy, 96100, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

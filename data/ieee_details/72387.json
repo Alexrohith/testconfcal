@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +ZntwY40t6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72387,
+      "eventTitle": "2027 IEEE International Conference on AI Engineering and Innovations (AIEI)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-23",
+      "about": "Aerospace; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section TEMS Chapter; IEEE Systems Council; IEEE Technology and Engineering Management Society (TEMS)",
+      "keywords": "Artificial Intelligence,AI Engineering,Engineering Innovation,Technology Management,Innovation Management,Engineering Management,Digital Transformation,Intelligent Systems,Machine Learning,Industry 5.0,Emerging Technologies,Entrepreneurship,AI for Defense,Information Security,AI for Energy,Human-Centered AI,Business Intelligence,",
+      "scope": "The 2027 IEEE International Conference on AI Engineering and Innovation (AIEI 2027) provides a global forum for researchers, academicians, industry experts, entrepreneurs, and policymakers to share advances in Artificial Intelligence, AI Engineering, and innovation-led technologies. The conference focuses on the design, development, deployment, management, and impact of AI-enabled systems across engineering and industrial sectors. Scope includes machine learning, deep learning, generative AI, robotics, automation, data analytics, decision support systems, digital transformation, technology management, innovation management, cybersecurity, responsible AI, and sustainable intelligent systems. Special emphasis is given to AI for Healthcare, Agriculture, Business, Education, Defense, Information Security, and Energy systems, promoting collaboration among academia, industry, and IEEE communities.",
+      "callForPapers": "2026-09-30",
+      "url": "https://www.aiengineering-conference.org/",
+      "eventContact": "vmeena1@ee.iitr.ac.in",
+      "sponsorTypes": "1; 1; 5",
+      "venues": ", , , Bangalore, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

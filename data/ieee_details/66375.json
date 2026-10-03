@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mbLowY40kaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66375,
+      "eventTitle": "2026 1st International Conference on Next-Gen Computing: Converging Microelectronics and Mechatronics for Transformative Solutions (ICCMM)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hyderabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Hyderabad Section; Muffakham Jah College of Engineering and Technology",
+      "keywords": "Artificial Intelligence, Machine Learning, Deep Learning, Edge AI, Internet of Things (IoT), IoT Security, Blockchain Integration, Cyber-Physical Systems, Digital Twins VLSI. Additive Manufacturing, Smart Materials, Biomedical Mechatronics, Robotics, Control Systems. SoC Design, MEMS, NEMS, Sensor Integration, Embedded Systems, Hardware Security, Robotics, Control Systems, Autonomous Vehicles, Industrial Automation, Human-Machine Interaction, Energy Storage, Electric Mobility, Computational Mode",
+      "scope": "Computing, Microelectronics, Mechatronics",
+      "callForPapers": "2026-05-15",
+      "url": "iccmm.mjcollege.ac.in/",
+      "eventContact": "sailajasinha@mjcollege.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Muffakham Jah College of Engineering and Technology, Mount Pleasant, 8-2-249 to 267, Road No. 3, Banjara Hills, , Hyderabad, , India, 500034, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

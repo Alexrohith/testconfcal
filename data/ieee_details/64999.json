@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: z7aux440z8ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 64999,
+      "eventTitle": "2028 IEEE International Symposium on Circuits and Systems (ISCAS)",
+      "startDate": "2028-05-28",
+      "endDate": "2028-05-31",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Minneapolis",
+        "region": "Minnesota",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Circuits and Systems Society",
+      "keywords": "iscas,circuits and systems,Analog and Mixed Signal Circuits and Systems,Digital Integrated Circuits and Systems,Communications Circuits and Systems,Power and Energy Circuits and Systems,Biomedical Circuits and Systems,Sensory Circuits and Systems,Neural Networks and Neuromorphic Engineering,Nonlinear Systems and Circuit Theory,Digital Signal Processing Visual Signal Processing and Communications,Multimedia Systems and Applications,Beyond CMOS: Nanoelectronics and Hybrid Systems Integration,",
+      "scope": "ISCAS is the world's premier networking and exchange forum for leading researchers in the highly active fields of theory, design and implementation of circuits and systems. ISCAS is the flagship conference of the IEEE Circuits and Systems Society and aim to bring together its multidisciplinary community that has a strong history of cultivating creative, proof-of-concept research in a diverse range of technical domains including analog and digital circuits and systems, nanotechnology, sensors, nonlinear systems, biosystems, neural systems, signal processing, and communications.",
+      "callForPapers": "2027-10-11",
+      "url": "ieee-iscas.org",
+      "eventContact": "cdyer@conferencecatalysts.comj",
+      "sponsorTypes": "1",
+      "venues": "Hyatt Regency, 1300 Nicollet Mall, , , , Minneapolis, MN, USA, 55403, ;",
+      "region": "Region04-Central USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

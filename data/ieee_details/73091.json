@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pfLnwY40uKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73091,
+      "eventTitle": "2026 24th OITS International Conference on Information Technology (OCIT)",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kurukshetra, Haryana",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; National Institute ofTech, Kurukshetra ",
+      "keywords": "Artificial Intelligence, Machine Learning, and Deep Learning (AMD),Data Science (DSC),Networking and Information Security (NIS),Sequential, Parallel, Distributed and Cloud Computing (PDC),Multimedia, Signal Processing, Embedded Systems (MSE),Power Smart Grid and Internet of Things (PSI),Information Systems & Business Analytics (ISBA),",
+      "scope": "The OITS International Conference on Information Technology (OCIT) is a premier international forum for high quality research in the areas of Information Technology. OCIT 2026 is a premier international forum for high-quality Information Technology research, jointly organized by the Orissa Information Technology Society (OITS) and NIT Kurukshetra. We invite researchers and industry practitioners to present their findings on a wide range of emerging IT topics and applications. The conference is technically co-sponsored by the IEEE Delhi Section, with proceedings intended for publication in IEEE Xplore.",
+      "callForPapers": "2026-07-07",
+      "url": "oits-ocit.github.io/",
+      "eventContact": "niranjan.rayfcs@kiit.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Department of Computer Engineering, NIT, National Institute of Technology (NIT) Kurukshetra, Kurukshetra, Haryana, , , Kurukshetra, , India, 136119, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

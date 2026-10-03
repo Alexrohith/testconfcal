@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: z+aXx440+bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72519,
+      "eventTitle": "2026 9th International Conference on Mechatronics and Computer Technology Engineering (MCTE)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Harbin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "East University of Heilongjiang; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Robotics and Intelligent Automation,Computational Intelligence,Cyber-Physical Systems,Signal Processing and Instrumentation,Human-Machine Systems,",
+      "scope": "MTCE 2026 encompasses the theoretical foundations, design methodologies, and engineering applications of mechatronics systems and computational technologies. The conference addresses intelligent electromechanical systems, automation and control architectures, robotics, embedded systems, and cyber-physical infrastructures, alongside computational methods including machine learning, high-performance computing, and data analytics. Contributions bridging hardware-software integration, system modeling, and industrial implementations are central to the technical program. The event serves researchers and practitioners advancing the convergence of mechanical engineering, electronics, and computer science in industrial and emerging application domains.",
+      "callForPapers": "2026-08-09",
+      "url": "www.ic-mcte.com/",
+      "eventContact": "mcte.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "East University of Heilongjiang, No. 1, Hanan 19th Road, Hanning Industrial New City, Pingfang District, Harbin City, China, , , , Harbin, , China, 150066, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

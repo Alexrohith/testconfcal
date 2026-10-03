@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lMWix440x7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71734,
+      "eventTitle": "2026 41st IEEE/ACM International Conference on Automated Software Engineering (ASE)",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-16",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Munich",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "ACM SIGAI; Association for Computing Machinery Special Interest Group on Software Engineering  - ACM SIGSOFT; IEEE Computer Society",
+      "keywords": "Software Engineering,",
+      "scope": "The ASE conference is the premier research forum for Automated Software Engineering. Each year, it brings together researchers and practitioners from academia and industry to discuss foundations, techniques, and tools for automating the analysis, design, implementation, testing, and maintenance of large software systems.",
+      "callForPapers": "2026-03-26",
+      "url": "conf.researchr.org/home/ase-2026",
+      "eventContact": "dirk.beyer@sosy-lab.org",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Holiday Inn Munich - City Centre, , , , , Munich, , Germany, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

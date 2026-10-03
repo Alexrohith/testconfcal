@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pJn3xo40mLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71533,
+      "eventTitle": "2026 Asian Conference on Artificial Intelligence Technology (ACAIT)",
+      "startDate": "2026-10-31",
+      "endDate": "2026-11-02",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chinese Association for Artificial Intelligence; Chongqing University of Technology; IEEE Computational Intelligence Society",
+      "keywords": "AI Foundations,AI Technologies,AI Applications,",
+      "scope": "The program committee of ACAIT2026 invites the submission of papers for the technical program of the conference. High-quality original submissions are welcome from research results and applications of all areas of AI.",
+      "callForPapers": "2026-06-16",
+      "url": "2026.acaitconf.com/",
+      "eventContact": "xb@cqut.edu.cn",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Chongqing University of Technology, , , , , Chongqing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

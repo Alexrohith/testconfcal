@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oKjlwY40paIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71767,
+      "eventTitle": "2026 8th International Conference on Intelligent Manufacturing and Automation Engineering (ICIMA)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Dalian",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Dalian University of Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Advanced Manufacturing Paradigms,Smart Factories and Digital Manufacturing Ecosystems,Sustainable and Resilient Manufacturing Systems,Artificial Intelligence and Machine Learning for Manufacturing,Robotics, Automation & Control,",
+      "scope": "ICIMA 2026 will uphold its tradition of fostering academic exchange and industry-academia collaboration, with a dedicated focus on the latest advancements and future trends in intelligent manufacturing and automation engineering. The conference will provide an international forum for experts from academia, industry, and government to present and discuss their novel ideas, research outcomes, practical applications, and experiences across all aspects of the field.  Prospective authors are warmly invited to submit high-quality original research and technical contributions for presentation as oral talks or posters. Accepted papers will be included in the conference proceedings. We look forward to welcoming researchers, engineers, industry professionals, and experts from around the world to the beautiful coastal city of Dalian. Join us in contributing to the innovation and development of intelligent manufacturing and automation engineering!",
+      "callForPapers": "2026-07-25",
+      "url": "www.icima.org/",
+      "eventContact": "jiangxh@iiai.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Hi Chance Dalian Science & Technology Center, No.507 Huangpu Road, Dalian, , , , Dalian, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

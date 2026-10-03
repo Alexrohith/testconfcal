@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 947Cwo40lqcBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70108,
+      "eventTitle": "2026 4th International Conference on Advanced Electrical Engineering (ICAEE)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Algiers",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Laboratoire de recherche en Electrotechnique-LRE",
+      "keywords": "Electrical Machines, Power Electrical Systems, Electromagnetic Compatibility, Renewable Energies, Smart Grids, Diagnosis and Fault Detection, Battery Management System, Analogical and Digital Electronics, Signal, Image and Video Processing, Machine Learning & IA, Detection and Estimation Theory, Adaptive signal processing, Data sciences, Internet of things and sensor networks, Array processing, radar, and sonar, Medical and biomedical imaging, Control of Linear and Nonlinear Systems, Control App",
+      "scope": "With technically co-sponsored by IEEE Algeria Section, The International Conference on Advanced Electrical Engineering is the premier event of the IEEE Algerian Section and ‘’AAGEE’’, the Algerian Association on Electrical and Electronics Engineering, founded in 2016 with the purpose of improving communication between groups and individuals that work within the multidisciplinary field of Electrical Engineering in Algeria and elsewhere. The 4th edition of ICAEE will be held from 21 to 23 November 2026 at EcoleNationalePolytechnique, Algiers, Algeria. The program will feature world-class plenary speakers for emerging topics, as well as sessions covering the latest research and innovation in the field.",
+      "callForPapers": "2026-02-05",
+      "url": "www.aagee.dz/icaee2026/",
+      "eventContact": "abdelouahab.mekhaldi@g.enp.edu.dz",
+      "sponsorTypes": "3; 9",
+      "venues": "Ecole Nationale Polytechnique, 10 Rue des Frères OUDEK, El-Harrach, , , , Algiers, , Algeria, 16200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

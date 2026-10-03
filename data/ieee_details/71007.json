@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ttKux440xr0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71007,
+      "eventTitle": "2026 IEEE 22nd International Conference on Body Sensor Networks (BSN)",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Porto",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Engineering Medicine and Biology Society; Portugal Section; Portugal Section EMB Chapter",
+      "keywords": "BioinformaticsBody Sensor Networks,Biomedical Signal Processing,Digital Health,Sensor Informatics,Biomedical Informatics,Health Informatics,Biomedical Devices,Wearable Sensors,Ambient Sensors,,Bioinformatics,Body Sensor Networks,Biomedical Signal Processing,Digital Health,Sensor Informatics,Biomedical Informatics,Health Informatics,Biomedical Devices,Wearable Sensors,Ambient Sensors,",
+      "scope": "Body Sensor Networks",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "fer.carlosan@gmail.com",
+      "sponsorTypes": "1; 3; 5",
+      "venues": "Centro de Congressos Alfândega do Porto, R. Nova da Alfândega 59, , , , Porto, , Portugal, 4050-430, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

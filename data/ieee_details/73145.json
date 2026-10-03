@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0rzqwY40yqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73145,
+      "eventTitle": "2027 5th International Conference on Self Sustainable Artificial Intelligence Systems (ICSSAS)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-26",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Erode",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems Council; M P Nachimuthu M Jaganathan Engineering College",
+      "keywords": "Systems Thinking and Engineering Applications,AI-Enabled Systems Engineering Solutions,Artificial Intelligence,Soft Computing,Distributed Systems,Decision Support Tools,CloudEdge Intelligence,Machine Learning,",
+      "scope": "In recent years, there has been a growing emphasis on the integration of Artificial Intelligence (AI) technologies across various domains, a trend further accelerated by the challenges posed by the global pandemic. This has prompted industrial stakeholders to reassess their approaches to sustainable operations, particularly in areas such as smart cities, smart transportation, smart industries, and healthcare. Leveraging computer-aided techniques, predictive methods, and expert systems has become increasingly vital for researchers and practitioners in navigating the complexities of these real-time applications. This International Conference on Self Sustainable Artificial Intelligence Systems aims to explore the intersection of AI technologies and sustainability within the broader context of systems engineering principles.",
+      "callForPapers": "2027-02-28",
+      "url": "icssat.com/2027/",
+      "eventContact": "icssat.contact@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "M.P.Nachimuthu M.Jaganathan Engineering College, Sudhanandhen Kalvi Nagar , Chennimalai , , , Erode, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2szlwY40kqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70818,
+      "eventTitle": "2026 IEEE 13th International Conference on Cyber Security and Cloud Computing (CSCloud)",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Security of Artificial Intelligence enabled computing,Machine learning based big data solutions,Social engineering,insider threats,advance spear phishing,,",
+      "scope": "IEEE CSCloud 2026 focuses on these two aspects and aims to gather recent achievements in cyber security and cloud computing fields. The conference invites those papers that concentrate on new paradigms, algorithms, and applications in cyber security or cloud computing. We also encourage researchers and practitioners to build up the connections between academia and industry. We aim to collect the latest achievements and exchange research ideas in the domains of intelligent data and security at this academic event.",
+      "callForPapers": "2026-08-01",
+      "url": "www.cloud-conf.net/cscloud/2026/cscloud/index.html",
+      "eventContact": "qiumeikang@yahoo.com",
+      "sponsorTypes": "1",
+      "venues": "Shanghai Conference center, , , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

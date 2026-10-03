@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4I2ix440w7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71434,
+      "eventTitle": "2026 11th International Conference on Computer and Information Processing Technology (ISCIPT)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Fushun",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Liaoning Petrochemical University",
+      "keywords": "Computer Science and Technology,Computer System Design,Intelligent Computing Systems,Deep Learning Applications,Intelligent Algorithm Optimization,Distributed Intelligent Systems,Information Processing Technology,Image Information Processing,Multi-source Information Fusion,Information Security Protection,Data Encryption Technology,",
+      "scope": "ISCIPT 2026 will serve as an international academic forum dedicated to the innovation, integration, and application of computer and information processing technologies. Its topic will cover four key tracks: Computer Science and Engineering (system design, embedded technology, architecture, SoC integration, cloud/edge computing, brain-machine interface); Machine Learning and Intelligent Computing (learning systems, deep learning applications, algorithm optimization, lightweight/distributed intelligent computing, multi-source fusion); Information Processing and Analysis (data mining, image/text analysis, big data processing); Information Transmission and Security (communication optimization, information/network security, data encryption, privacy protection). All aimed at gathering global researchers, engineers, and industry experts to share cutting-edge achievements, address cross-domain technical challenges, and advance innovation in these dynamic and evolving sectors.",
+      "callForPapers": "2026-06-27",
+      "url": "www.iscipt.org/",
+      "eventContact": "ssk.patil@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Liaoning Petrochemical University, No.1 Dandong Road West Section, Wanghua District, Fushun City, Liaoning Province, China, , , , Fushun, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

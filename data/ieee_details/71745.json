@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pLjdwY407KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71745,
+      "eventTitle": "2026 International Conference on Advances in Artificial Intelligence (AAI)",
+      "startDate": "2026-12-21",
+      "endDate": "2026-12-23",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Penang",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section C Chapter; Universiti Malaysia Perlis - UniMAP",
+      "keywords": "Artificial intelligence,Machine Learning,Deep Learning,Big Data Analytics,AI Application,Mathematical Intelligence,",
+      "scope": "The International Conference on Advances in Artificial Intelligence (AAI 2026) focuses on recent developments, innovations, and applications in Artificial Intelligence and Intelligent Computing. The conference covers both theoretical foundations and practical implementations, including machine learning, deep learning, data science, intelligent systems, robotics, Internet of Things, and AI-driven smart technologies. Special emphasis is given to sustainable computing, communication technologies, and AI applications in healthcare, industry, and smart environments. The conference aims to bring together researchers, academics, and industry practitioners to exchange knowledge and promote interdisciplinary collaboration in emerging AI technologies for societal and industrial impact.",
+      "callForPapers": "2026-07-31",
+      "url": "aai.unimap.edu.my/",
+      "eventContact": "snorlyana@unimap.edu.my",
+      "sponsorTypes": "5; 9",
+      "venues": "Langkawi, Malaysia, , , , , , , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

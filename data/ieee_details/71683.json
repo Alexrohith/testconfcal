@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jYCTx44037sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71683,
+      "eventTitle": "2026 IEEE EMBS International Conference on Biomedical and Health Informatics (BHI)",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-15",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Hong Kong",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chinese Society of Biomedical Engineering; City University of Hong Kong (CityUHK), College of Engineering; Hong Kong Section EMB Chapter; IEEE Engineering Medicine and Biology Society; The Chinese University of Hong Kong - CUHK",
+      "keywords": "AI Implementation & Clinical Translation,Precision & Predictive Healthcare,Digital Twins,Personalized Medicine,Data Fusion,Generative AI,Cognitive AI,Explainable AI,Causal AI,Data Harmonization,Quality Control,Computational and Preventive Health Modeling,Wearable Sensors,Pervasive Computing,Human-Computer Interaction,Robotic and Intelligent Interventions,",
+      "scope": "The IEEE-EMBS International Conference on Biomedical and Health Informatics (BHI), sponsored by the IEEE Engineering in Medicine and Biology Society (IEEE EMBS), is EMBS’s primary technical conference on informatics and computing in healthcare and life sciences. BHI 2026 will take place in Hong Kong, China, December 12-15, 2026. It will provide a unique forum to showcase innovative research that leverages AI, machine learning, and intelligent informatics frameworks to transform complex multimodal biomedical data into actionable, individualized insights for diagnosis, treatment, and health management. It will also demonstrate the deployment of intelligent informatics systems capable of harmonizing diverse data sources from medical imaging, wearable sensors, neural engineering, to electronic health records, identifying clinically relevant patterns, and supporting reliable patient-specific decision making for personalized healthcare.",
+      "callForPapers": "2026-07-03",
+      "url": "https://bhi.embs.org/2026/",
+      "eventContact": "pedromou@um.edu.mo",
+      "sponsorTypes": "1; 5; 9; 9; 9",
+      "venues": "The Chinese University of Hong Kong, The Chinese University of Hong Kong, Shatin, New Territories, Hong Kong SAR, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

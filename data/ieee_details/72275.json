@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uYaZx440grwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72275,
+      "eventTitle": "2026 IEEE Stuttgart Conference on Automotive Production (SCAP)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Stuttgart, Baden-Württemberg",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "ARENA2036 e.V.; IEEE Technology and Engineering Management Society (TEMS)",
+      "keywords": "AI & Intelligent Automation in Engineering & Production,Robotics & Autonomous Systems in Production & Logistics,Sustainable Mobility and Electric Drive Systems,Sustainable and Digital Automotive Value Chains,,",
+      "scope": "The Stuttgart Conference on Automotive Production (SCAP) is an international platform hosted at ARENA2036, University of Stuttgart, bringing together academia and industry to advance automotive production, intelligent manufacturing, and digital engineering systems.  SCAP has been successfully held three times (2020 online, 2022 and 2024 in person), attracting strong international participation and establishing itself as a recognized forum in the field. The conferences featured keynotes, peer-reviewed sessions, workshops, and demonstrations, with all accepted papers published as open-access Springer proceedings, ensuring high scientific visibility. The events also demonstrated solid attendance and financial sustainability.  SCAP 2026 will focus on AI and Intelligent Automation in Engineering and Production, aligning strongly with IEEE domains such as AI, robotics, and smart manufacturing.",
+      "callForPapers": "2026-03-01",
+      "url": "scap-stuttgart.de/",
+      "eventContact": "muhammad.saeed@arena2036.de",
+      "sponsorTypes": "1; 9",
+      "venues": "ARENA2036 e.V., Pfaffenwaldring 19, , , , Stuttgart, Baden-Württemberg , , Germany, 70569, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

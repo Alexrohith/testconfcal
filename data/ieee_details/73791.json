@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: g5vDwo40iKoBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73791,
+      "eventTitle": "2027 11th International Conference on Computing, Communication, Control & Automation (ICCUBEA)",
+      "startDate": "2027-08-20",
+      "endDate": "2027-08-21",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pimpri Chinchwad College of Engineering; Pune Section; Pune Section Chapter, SP01",
+      "keywords": "Computing,Communication,Control,Automation,Artifitial Intelligence,Machine Learning,signal and Image Processing,Advanced Robotics, Control and Automation Systems,Electronics and Communication Syatems,Power Electronics, EV Technologies and Intelligent Energy Systems,Big VLSI and Embedded Design andf AI accel;eration,Internet of Things,AgenSustainable TecComputer applications ,Business management,Sustainable Technology,Computer Secirity,Smart Grid,Energy,Energy Mobility,Green Technologies,FinTech,",
+      "scope": "The scope of the International Conference on Computing, Communication, Control and Automation (ICCUBEA 2027) addresses a multi-tiered technological spectrum bridging fundamental engineering with next-generation innovations. At its core, the conference spans foundational disciplines in computer science, wireless communications, control theory, and industrial automation. Within these fields, it highlights operational subsets driving digital transformation, including edge-based Internet of Things (IoT) architectures, intelligent robotics, cyber-physical systems, VLSI design, smart grid energy management, and AI-driven cybersecurity. Pushing into frontier paradigms, ICCUBEA 2027 emphasizes emerging research avenues such as Agentic and Explainable AI (XAI), quantum computing algorithms, 6G communication networks, neuromorphic hardware acceleration, sustainable green IT, and climate-resilient intelligent infrastructure to solve complex industrial and societal challenges.",
+      "callForPapers": "2027-05-10",
+      "url": "iccubea.pccoepune.com/index.php",
+      "eventContact": "rajani_ranjith@yahoo.co.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Pimpri Chnichwad College of Engineering, Sector No 26, Near Akurdi Railway Station,, Pradhikaran, Nigdi,, , , Pune, , India, 411044, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

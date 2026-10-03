@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8OKGx440kbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71924,
+      "eventTitle": "2026 International Symposium on Electronics and Telecommunications (ISETC)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Timisoara",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Politehnica University of Timisoara, Faculty of Electronics and Telecommunications; Romania Section; Romania Section COM Chapter; Romania Section SP/IT/COM Joint Chapter; Romanian Academy for Technical Sciences",
+      "keywords": "Telecommunications,Signal Processing,image processing,electronic circuits,embedded systems,instrumentation and measurement,automotive radar,information technologies,artificial intelligence,deep learning,Microelectronics,",
+      "scope": "The main objective of ISETC is to bring together researchers and industry professionals in the technical fields of Electronics, Telecommunications, and Information Technologies in order to increase the understanding of emerging scientific ideas and research methodologies, disseminate the latest progress, discoveries, and innovative applications, and promote and strengthen partnerships and cooperation between academia and industry.",
+      "callForPapers": "2026-07-26",
+      "url": "isetc.upt.ro/",
+      "eventContact": "corina.nafornita@gmail.com",
+      "sponsorTypes": "3; 5; 5; 9; 9",
+      "venues": "Politehnica University of Timisoara, Bd. Vasile Parvan 2, , , , Timisoara, , Romania, 300223, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

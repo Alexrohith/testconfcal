@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zK/awY40sKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73689,
+      "eventTitle": "2027 International Conference on Robotics, Autonomous Intelligence and Machine Learning (RAIML)",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-07",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Wenzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Wenzhou University of Technology",
+      "keywords": "Robotics Science and Engineering,Medical Robotics and Bio-robotics,Adaptive and Robust Cooperative Control,Complex Systems and Cooperative Control,Networked Control Systems and Integrated Control Systems,Robotic Perception and Learning Representations,Machine Learning and Representation Learning,Computer Vision and Visual Navigation,Sensor Network Systems and Sensor Fusion,Reinforcement Learning and Autonomous Control,Model Predictive Control,",
+      "scope": "RAIML 2027 will serve as an international academic forum focusing on cutting-edge robotics, machine learning, and intelligent control systems. Its research scope covers robotics science and engineering, medical robotics and bio-robotics, adaptive and robust cooperative control, complex and cooperative control systems, networked and integrated control systems, robotic perception and learning representations, machine learning and representation learning, computer vision and visual navigation, sensor network systems and sensor fusion, reinforcement learning and autonomous control, as well as model predictive control. The conference will feature prestigious keynote speeches and interactive sessions to inspire forward-looking research and collaborative innovations. Attendees will access pioneering achievements, engage in in-depth academic discussions, and build academic networks, jointly driving continuous innovation and scholarly progress in these rapidly developing fields.",
+      "callForPapers": "2026-12-20",
+      "url": "www.icrml.com/",
+      "eventContact": "rml.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Wenzhou University of Technology, No.337 Jinhai 3rd Road, Longwan Economic and Technological Development Zone, Wenzhou City, Zhejiang Province, China, , , , Wenzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wuqTx4401bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73471,
+      "eventTitle": "2027 IEEE 23rd International Conference on Advanced Robotics (ICAR)",
+      "startDate": "2027-07-12",
+      "endDate": "2027-07-16",
+      "about": "Aerospace; Bioengineering; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Zagreb",
+        "region": "",
+        "country": "Croatia"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Advanced Robotics, Biomedical Robotics and Bionics, BioRobotics, Physical AI, Embodied AI, Robotics and Automation, Automation,",
+      "scope": "Since 1983, ICAR has led the way in robotics innovation.  A comprehensive range of robotics issues, including robotic vision, cognitive robotics, humanoid robots, and many more, will be covered through oral presentations, practical workshops, and plenary speeches by well-known specialists. ICAR has always been a driving force behind innovative contributions, ground-breaking concepts, and novel viewpoints that push the limits of robotics technology and research. This edition will focus on DEEP TECH ROBOTICS AND EMBODIED AI and will target the issues and opportunities – for research and science-driven innovation - of applying AI to Robotics, in particular for biomedical robotics, biorobotics, soft robotics and the intertwining of them. We will provide a gathering occasion for a large bustling area spanning from an Austro-Hungarian mittel-europa  to the Adriatic , the southern Slavic countries, Greece and Turkey. We will offer a stage to local unicorns and technology companies.",
+      "callForPapers": "2027-03-21",
+      "url": "2027.ieee-icar.org/",
+      "eventContact": "fabio.bonsignorio@fer.hr",
+      "sponsorTypes": "1",
+      "venues": "University of Zagreb Faculty of Electrical Engineering and Computing, Unska Ulica 3, , , , Zagreb, , Croatia, 100000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

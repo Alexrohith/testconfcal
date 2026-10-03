@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wvGBx440+r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70256,
+      "eventTitle": "2026 IEEE 17th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON)",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-09",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "New York",
+        "region": "New York",
+        "country": "USA"
+      },
+      "sponsors": "IEEE USA Washington, DC; Institute of Engineering & Management (IEM) - Kolkata; New York Section; Region 01- Northeastern USA; Region 02 - Eastern USA; Society for Makers, Artists, Researchers and Technologists; University of Engineering & Management, Kolkata  ",
+      "keywords": "Artificial intelligence,Computing and Communications,Cryptography,Data Mining,Mobile Computing,Ubiquitous Computing,",
+      "scope": "The conference mainly has scope on the issues, trends, and developments in Electronics and Communication. It aims to bring together scholars from different disciplinary backgrounds to emphasize dissemination of ongoing research in the fields of Internet of Things, Machine Learning, Artificial Intelligence, communication, Cloud Computing, Ubiquitous Computing, Electronics, and Mobile Communication.",
+      "callForPapers": "2026-08-09",
+      "url": "ieee-uemcon.org/",
+      "eventContact": "rajashree.paul@uem.edu.in",
+      "sponsorTypes": "2; 2; 3; 6; 9; 9; 9",
+      "venues": "IBM Learning Center, , , , , Armonk, NY, USA, , ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

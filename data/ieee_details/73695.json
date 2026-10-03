@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1r+ax440pL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73695,
+      "eventTitle": "2027 ICEENG International Conference for Innovations in Power and Control Systems (IPCS)",
+      "startDate": "2027-04-19",
+      "endDate": "2027-04-22",
+      "about": "Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Cairo",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Egypt Section IE Chapter; Military Technical College",
+      "keywords": "Robotics and automation,optimal control,Adaptive control,Rubost control,Industerial process control,Power System,Electrical machines,Power generation,Power distribution,Renewable enrgy,High Voltage,Power System Protection,",
+      "scope": "Robotics and Automation, Optimal Control, Adaptive Control, Robust Control, Industrial Process Control, Power System, Electrical Machines, Power Generation, Power Distribution, Renewable Energy, High Voltage, Power system Protection",
+      "callForPapers": "2026-12-15",
+      "url": "https://ipcs.conferences.ekb.eg/",
+      "eventContact": "mohammed_amer@mtc.edu.eg",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Military Technical College, Kobery Elkoba, Cairo, , , Cairo, , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

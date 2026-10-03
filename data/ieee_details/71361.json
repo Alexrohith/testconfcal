@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0tTkwY409qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71361,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Emerging Technology (Global AI Summit)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Geoscience; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bennett University; Uttar Pradesh Section",
+      "keywords": "Artificial Intelligence,Emerging Technology,Machine Learning,Cyber Security,Data Science,Mobile computing,Optimization,Quantum Computing,Block Chain,",
+      "scope": "AISUMMIT 2026, being an interdisciplinary conference aims to apply innovative techniques from computer science, information science, operations research, applied mathematics, software reliability, reliability modelling and statistics for balancing environmental, economic, and societal needs for sustainable development. The focus is on developing sustainable computational and mathematical models and methods for decision making concerning the management and  allocation of resources to solve some of the most challenging problems related to sustainability in society.",
+      "callForPapers": "2026-07-04",
+      "url": "www.bennett.edu.in/aisummit2026",
+      "eventContact": "mandeep.mittal@bennett.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Bennett University, Plot 8-11, Tech Zone II, , , Greater Noida, , India, 201310, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

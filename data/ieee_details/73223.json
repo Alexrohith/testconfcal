@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: it+Mx440wr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73223,
+      "eventTitle": "2027 International Conference on Informatics and Information Technologies (CIIT)",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-18",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Struga",
+        "region": "",
+        "country": "Macedonia"
+      },
+      "sponsors": "North Macedonia Section; Ss.Cyril and Methodius University in Skopje- Faculty of Computer Science and Engineering",
+      "keywords": "Artificial Intelligence,Generative AI,Digital Health,Widening Excellence,Responsible AI,European Research Collaboration,AI Infrastructure,Digital Transformation,Clinical Decision Support,Interoperability ,Research Capacity Building,Cybersecurity,Data Spaces,Software Engineering,Translational AI,",
+      "scope": "The conference particularly encourages work related to AI in healthcare, generative and trustworthy AI, health informatics, digital infrastructure, cybersecurity, software systems, Widening projects, EU projects, research excellence and industry-academia-public sector cooperation.",
+      "callForPapers": "2027-01-10",
+      "url": "https://ciit.finki.ukim.mk/",
+      "eventContact": "monika.simjanoska@finki.ukim.mk",
+      "sponsorTypes": "3; 9",
+      "venues": "Hotel Drim, Boris Kidric 51, , , , Struga, , Macedonia, 6330, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kb/4xo40vr0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72296,
+      "eventTitle": "2027 International Conference on Intelligent Computing, Communication Technology and Management (ICCTM)",
+      "startDate": "2027-05-27",
+      "endDate": "2027-05-29",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Integrated Management Academy (BIMA), Bangalore; Bangalore Section; Bangalore Section CIS Chapter; Bangalore Section TEMS Chapter",
+      "keywords": "Data Intelligence,Computational Intelligence ,Artificial Intelligence,Smart Communication,Computational Electronics,Engineering Management,Data Management,Data Analytics,",
+      "scope": "ICCTM 2027 aims to bring together researchers, academicians, industry professionals, and innovators from across the globe to share knowledge, research findings, and practical experiences in the rapidly evolving domains of intelligent computing, communication technologies, and modern management practices",
+      "callForPapers": "2027-01-30",
+      "url": "icctmgt.com/",
+      "eventContact": "tanweer.ali@manipal.edu",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Bangalore Integrated Management Academy (BIMA), Near Pattanagere Metro Station, opposite RV COLLEGE OF ENGINEERING, Duvasapalya, Harsha Layout, Kengeri Satellite Town, Bengaluru, Karnataka , Bengaluru, , India, 560059, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

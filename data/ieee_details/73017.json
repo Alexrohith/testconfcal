@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ldPZwY40rKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73017,
+      "eventTitle": "2026 International Conference on Machine Learning, Computational Intelligence and Pattern Recognition (MLCIPR)",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-27",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nanjing Tech University",
+      "keywords": "Machine Learning,Computational Intelligence,Pattern Recognition,Robustness and Interpretability,Intelligent optimization,",
+      "scope": "MLCIPR 2026 is a premier international academic conference dedicated to the latest advancements in machine learning, computational intelligence, and pattern recognition. The conference aims to bring together researchers, engineers, and industry professionals to exchange insights and foster collaboration across disciplines. In response to the growing demand for intelligent computing and recognition technologies, MLCIPR 2026 will emphasize topics such as natural language understanding, artificial neural networks, automatic programming, game theory and decision making, and intelligent systems. By facilitating interdisciplinary dialogue, the conference provides a vital platform for shaping the future of intelligent computing and pattern recognition, driving innovation toward next-generation solutions.",
+      "callForPapers": "2026-10-05",
+      "url": "www.iccipr.org/",
+      "eventContact": "mlcipr.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Nanjing Tech University, 30 South Puzhu Road, Jiangbei New Area, Nanjing, Jiangsu Province 211816, China, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

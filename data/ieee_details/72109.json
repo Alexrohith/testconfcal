@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h4SBx44027oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72109,
+      "eventTitle": "2027 1st European Conference on Emerging Technologies, Engineering, and Science (ECETES)",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-06",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Nuclear Engineering; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Berlin",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; World Research Union",
+      "keywords": "Emerging Technologies,Electrical Engineering,Nuclear thermodynamics,Behavioral Neuroscience,Artificial Intelligence,",
+      "scope": "Emerging Technologies, Engineering and Science",
+      "callForPapers": "2026-09-13",
+      "url": "https://ecetes.com",
+      "eventContact": "admin@wrunion.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Technische Universität Berlin, Straße des 17,  Juni 135, , , Berlin, , Germany, 10623, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

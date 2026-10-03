@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5KyVx440+74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70184,
+      "eventTitle": "2026 Society for Automation, Instrumentation, Mechatronics and Computer Engineering (SAIMC) International Interdisciplinary Summit for Progress, Innovation, Research and Excellence (INSPIRE) Conference (SAIMC-INSPIRE)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-15",
+      "about": "Aerospace; Bioengineering; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Muldersdrift, Johannesburg",
+        "region": "",
+        "country": "South Africa"
+      },
+      "sponsors": "Society for Automation, Instrumentation, Mechatronics and Computer Engineering (SAIMC); South Africa Section CS/RA Joint Chapter",
+      "keywords": "Automation,Instrumentation and measurement,Mechatronics,Robotics,Control,computer engineering,interdisciplinary,multi-disciplinary,Technological innovation,Research And Development,pattern recorgnition,image processing,",
+      "scope": "multidisciplinary",
+      "callForPapers": "2026-07-03",
+      "url": "saimc.co.za/saimc-inspire-conferences/",
+      "eventContact": "stopforth@ukzn.ac.za",
+      "sponsorTypes": "5; 9",
+      "venues": ", , , , , Johannesburg, , South Africa, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gZDkwY40n6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73261,
+      "eventTitle": "2027 2nd International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA)",
+      "startDate": "2027-03-16",
+      "endDate": "2027-03-18",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Karak",
+        "region": "",
+        "country": "Jordan"
+      },
+      "sponsors": "Jerash University; Jordan Section; Mutah University",
+      "keywords": "Artificial Intelligence,Data science,Machine learning,,Deep Learning,Computer Vision,NLP,Evolutionary Computation,Big Data Analytics,Statistical Learning,Cyber Security ,Digital Forensics,Blockchain ,Biometrics ,Networking ,Green AI,Smart Cities,Digital Humanities,Bioinformatics ,Ethical AI,AI in medicine,IoT ,",
+      "scope": "The 2nd International Conference on Emerging Trends in Computing and Engineering Applications (ETCEA27) encompasses a broad yet technically rigorous scope focusing on the full spectrum of modern computing and interdisciplinary innovation. The technical scope bridges foundational research with practical advancements across four primary domains: Artificial Intelligence & Data Science, featuring core methodologies like Machine Learning, Deep Learning, and Computer Vision; Cyber Security & Networking, emphasizing digital forensics, blockchain, and wireless sensor networks; Software Engineering & Internet of Things, focusing on edge/fog computing and system integration ; and Interdisciplinary AI Applications, highlighting high-impact deployments such as Green AI for sustainability, Smart Cities, and bioinformatics.",
+      "callForPapers": "2026-09-30",
+      "url": "eportal.mutah.edu.jo/ETCEA2027/index.html",
+      "eventContact": "khalid_awad@MUTAH.EDU.JO",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Jerash University, Jerash, , , , Jerash, , Jordan, 26150, ;Mutah University, Mutah , , , , Karak, , Jordan, 61711, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

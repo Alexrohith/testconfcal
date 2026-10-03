@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: o9uEx440i74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72986,
+      "eventTitle": "2027 IEEE 16th International Conference on Communication Systems and Network Technologies (CSNT)",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Khajuraho, Gwalior",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IETE Gwalior Section; Madhya Pradesh Section",
+      "keywords": "Artificial Intelligence,Internet of Things,Cryptography,Waves and propagation,Power systems,Data Analytics,",
+      "scope": "The 16th IEEE International Conference on Communication Systems and Network Technologies CSNT 2027 is planned to be organised to bring together selected minds from various research communities, to have brainstorming sessions on their research outcomes to be published in Scopus-indexed IEEE Xplore international digital library. The participation is aimed from academia and industry working in all major areas and interdisciplinary areas of computational intelligence, Communication systems, computer networks and soft computing to share their experience, and exchange and cross-fertilize their ideas. Papers are invited on the following track but not limited to:  Communication systems and Standards Soft computing, Fuzzy Systems and ANN Sensors and sensor networks Security and authentication Air Interface, Wave propagation & Antennas Mathematical Modeling and simulation Data Mining, Web Technology & Ontology Parallel and distributed systems Microwave Theory and Techniques Microwave Devices and",
+      "callForPapers": "2026-12-10",
+      "url": "csnt.in",
+      "eventContact": "umagst@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Hotel, , , , , Khajuraho gwalior, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

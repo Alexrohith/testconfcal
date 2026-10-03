@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vsSYx440jLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72177,
+      "eventTitle": "2027 IEEE 8th Advanced Information Management, Communicates, Electronic and Automation Control Conference (IMCEC)",
+      "startDate": "2027-06-04",
+      "endDate": "2027-06-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Chongqing Global Union Academy of Science and Technology",
+      "keywords": "Communication, Networking and Broadcast Technologies,Engineering Profession,Information Technology and Computer Science, Robotics & Control Systems,",
+      "scope": "The aim of IMCEC 2027 is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in Information Management, Communicates, Electronic and Automation Control. It provides opportunities for the delegates to exchange new ideas and application experiences, to establish business or research relations and to find global partners for future collaboration.",
+      "callForPapers": "2027-04-30",
+      "url": "www.imcec.org/",
+      "eventContact": "guastvip@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "lDays Hotel Chongqing Keyuan, No.83 Shabei Street, Chongda Square, , , , Chongqing, , China, 400000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gq/hwY40+KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71754,
+      "eventTitle": "2026 International Conference on Computational Intelligence in Electrical and Electronics Systems (CIE2S)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kolkata",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Institute of Engineering & Management; Kolkata Section",
+      "keywords": "Computational Intelligence  ,Machine Learning  ,Artificial Neural Networks  ,Electrical Power Systems  ,Signal Processing  ,Optimization Techniques , Embedded Systems,",
+      "scope": "1. Computational Intelligence & AI Techniques • Artificial Intelligence and Machine Learning • Deep Learning and Neural Networks • Evolutionary Computing and Swarm Intelligence • Fuzzy Logic Systems • Hybrid Optimization Algorithms 2. Electrical Engineering Systems • Power Systems and Smart Grids • Renewable Energy Systems • Power Electronics and Electrical Drives • Energy Management and Storage Systems • Electric Vehicle Technologies 3. Electronics and Communication Engineering • Wireless Communication Systems (5G/6G) • MIMO and Advanced Antenna Systems • Mobile Ad Hoc Networks (MANET) • IoT and Embedded Systems • Signal and Image Processing 4. Intelligent Control and Automation • Robotics and Automation • Control Systems Engineering • Industrial Automation 5. Emerging Interdisciplinary Applications • Biomedical Signal Processing • Medical Imaging and Healthcare Systems • Neuromorphic Engineering • Secure and Intelligent Networking",
+      "callForPapers": "2026-03-20",
+      "url": "cie2s.iem.edu.in/",
+      "eventContact": "Tanmay.SinhaRoy@iem.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Institute of Engineering & Management, Management House, D-1, Sector-V, Saltlake Electronics Complex, , , , kolkata, , India, 700091, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

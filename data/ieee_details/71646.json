@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ydDcwY4006EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71646,
+      "eventTitle": "2026 9th Iberian Robotics Conference (ROBOT)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; Sociedade Portuguesa de Robotica; Spanish Society for Research and Development in Robotics (SEIDROB)",
+      "keywords": "Robotics, Machine Learning, Control, Artificial Intelligence,",
+      "scope": "The conference focuses on robotics applications and serves as a meeting point of the robotics community in the Iberian peninsula, open internationally.",
+      "callForPapers": "2026-06-23",
+      "url": "robot2026.upc.edu/",
+      "eventContact": "acolome@iri.upc.edu",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "UPC Escola Tècnica Superior d'Enginyeria Industrial de Barcelona (ETSEIB), Avd. Diagonal 647, , , , Barcelona, , Spain, 08028, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

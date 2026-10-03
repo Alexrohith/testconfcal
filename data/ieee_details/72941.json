@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: qo2lx4402rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72941,
+      "eventTitle": "2026 Fourteenth International Conference on Advanced Cloud and Big Data (CBD)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Kunming",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society; Southeast University, China; Yunnan Normal University",
+      "keywords": "Cloud Computing,Big Data,Cloud Computing Security,Big Data Applications,Smart City,",
+      "scope": "The International Conference on Advanced Cloud and Big Data (CBD) provides a forum for both academics and practitioners working on cloud computing and big data technologies to explore new ideas, share their experiences and leverage each other’s perspectives. Besides the latest research achievements, this conference also covers cloud/big data industry practices and their broad applications, and gives all participants a chance to identify the new/emerging “hot” trends in these areas.",
+      "callForPapers": "",
+      "url": "cbd-conference.net/2026/",
+      "eventContact": "xy-xu@seu.edu.cn",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Yunnan Lishui Yunquan Hotel, No. 768 Juxian Street, University Town, Chenggong District, , , Kunming, , China, 650500, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

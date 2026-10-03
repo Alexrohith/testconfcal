@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sdjfwY4056EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71776,
+      "eventTitle": "2026 International Conference on Future Technologies (ICFT)",
+      "startDate": "2026-10-18",
+      "endDate": "2026-10-22",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Amman",
+        "region": "",
+        "country": "Jordan"
+      },
+      "sponsors": "German Jordanian University; IEEE Communications Society; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Artificial Intelligence, Machine Learning, Embedded Systems, Cybersecurity, Robotics, FinTech, Health Informatics, Energy storage,",
+      "scope": "ICFT 2026 is designed to highlight breakthrough research and impactful technologies across diverse areas, including Artificial Intelligence and Machine Learning, Robotics and Autonomous Systems, IoT and Cybersecurity, FinTech and Digital Transformation, Health Informatics and Digital Health, and Smart Grids and Intelligent Energy Systems. The conference promotes interdisciplinary collaboration and emphasizes solutions that drive measurable progress in real-world environments toward smarter, safer, and more sustainable societies.",
+      "callForPapers": "2026-03-01",
+      "url": "icft.gju.edu.jo/",
+      "eventContact": "sahar.qadan@gju.edu.jo",
+      "sponsorTypes": "1; 1; 9",
+      "venues": ", , , , , Amman, , Jordan, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

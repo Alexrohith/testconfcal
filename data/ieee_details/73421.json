@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hYPjwY40mqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73421,
+      "eventTitle": "2026 20th International Conference on Open Source Systems and Technologies (ICOSST)",
+      "startDate": "2026-12-22",
+      "endDate": "2026-12-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lahore",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Al-Khawarizimi Institute of Computer Science, UET, Lahore ; Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter",
+      "keywords": "Artificial Intelligence and Machine Learning Artificial Intelligence (AI) Machine Learning (ML) Deep Learning Generative AI Explainable AI (XAI) Computer Vision Natural Language Processing (NLP) Reinforcement Learning Edge AI AI Ethics and Responsible AI Data Science and Big Data Analytics Big Data Analytics Data Mining Data Warehousing Predictive Analytics Statistical Analysis Data Visualization Business Intelligence Open Data Knowledge Discovery Cloud Data Analytics Software Engineering and In",
+      "scope": "Open-Source Software (OSS) is an established cross-disciplinary paradigm for distributed enterprise computing and e-Government. It is helping organizations both public and private to keep control on the cost of development and deployment. OSS has not only changed the way software applications are architected, deployed, and consumed but also, they are engineered to provide large distributed cross-platforms and frameworks. IEEE Lahore Computer & Comsoc Societies, Lahore Section, (R10) in Technical Co-sponsorship & in Joint Collaboration with Al-Khawarizmi Institute of Computer Science, UET, Lahore, Pakistan are organizing a two-day event to invite researchers and practitioners from across the world to share their ideas and experiences related to the state-of-the-art and the future of Open Source systems and technologies, software applications, networks, information security, OSS and social innovation, embedded computing, cloud computing, Big data and AI application.",
+      "callForPapers": "2026-09-30",
+      "url": "icosst.kics.edu.pk/2026/",
+      "eventContact": "director@kics.edu.pk",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "University of Engineering and Technology, UET GT Road Lahore, , , , Lahore, , Pakistan, 54000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

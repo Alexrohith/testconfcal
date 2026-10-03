@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pfH7xo40wLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70421,
+      "eventTitle": "2026 4th DMIHER International Conference on Artificial Intelligence in Healthcare, Education and Industry (IDICAIHEI)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-28",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Maharashtra, Wardha",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Datta Meghe Institute of Higher Education and Research; Maharashtra Section",
+      "keywords": "artificial intelligenceMachine Learning,Healthcare,Quatanum Computing,Telemedicine,AI in Healthcare,Personalized medicine,Edge Computing,Distributed systems,,Deep Learning,,,Big Data,Biomedical engineering,Natural Language  processing,Cybersecurity,Virtual Reality,Automation,,Augmented Reality ,Robotics and Automation,STEM ,",
+      "scope": "To highlight the ideas for, mentioned tracks in AI, Healthcare, big data, and  biomedical engineering, development of a sustainable solution for mankind. The idea is to bring  researchers from various domains to come together and discuss the technology. This proposed  conference aims to produce quality research and add knowledge in AI domain.",
+      "callForPapers": "2026-09-02",
+      "url": "www.dmiher.edu.in/IDICAIHEI2026/",
+      "eventContact": "ktvreddy@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Faculty of Engineering And Technology, Datta Meghe Institute of Higher Education and Research, Sawamgi(Meghe), , , Wardha, , India, 442001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

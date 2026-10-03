@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: t9T/xo401LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70924,
+      "eventTitle": "2026 23rd International SoC Design Conference (ISOCC)",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-13",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Incheon",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Circuits and Systems Society; The Institute of Semiconductor Engineers",
+      "keywords": "Analog Circuits,Digital Circuits,System on Chip,Artificial Intelligence,",
+      "scope": "SoC, Analog Circuits, Digital Circuits, Data Converters, RF/Microwave/Wireless Circuits, Memories, Design Methodology, Circuits and Systems for Emerging Technologies, AI",
+      "callForPapers": "2026-06-26",
+      "url": "isocc.org",
+      "eventContact": "wylee@seoultech.ac.kr",
+      "sponsorTypes": "1; 9",
+      "venues": "Songdo ConvensiA, 123, Central-ro, Yeonsu-gu, , , , Incheon, , Korea (South), 21998, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

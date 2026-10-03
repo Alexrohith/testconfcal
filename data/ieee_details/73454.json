@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 16SPx440x7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73454,
+      "eventTitle": "2027 International Conference on Electronics, Information, and Communication (ICEIC)",
+      "startDate": "2027-01-24",
+      "endDate": "2027-01-27",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Fukuoka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Consumer Technology Society; Institute of Electronics and Information Engineers - IEIE",
+      "keywords": "Electronics Information,Communications,Semiconductor devices,Circuits & Systems,Computer Science,Signal Processing,System and Control,Communication Networks & Systems,PCB & Packaging,Convergence Computing,RF Integrated Circuits,Information Security,Artificial Intelligence,Neural Networks,Digital ImageVideo Processing,Vehicular Electronics,Biomedical Electronics,IT Convergence,Computer Vision,Digital Signal Processing,Power Electronics &Circuits,Wireless PANBAN,MQuantum Electronics,",
+      "scope": "Our conference covers a comprehensive spectrum of cutting-edge topics in electronics and information engineering. Areas include semiconductor and device technologies, signal processing, communications, computer and information systems, system and control engineering, and emerging technologies such as biomedical electronics, bioengineering, and IT convergence. By bringing together leading researchers and industry professionals, the conference fosters the exchange of innovative ideas, promotes interdisciplinary collaboration, and advances technological progress to address current and future challenges across these fields.",
+      "callForPapers": "2026-10-23",
+      "url": "iceic.org/",
+      "eventContact": "inter@theieie.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Hilton Fukuoka Sea Hawk, Chuo-ku, 2-2-3 Jigyohama, , , Fukuoka, , Japan, 810-8650, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

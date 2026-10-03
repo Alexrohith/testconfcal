@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +I7qwY40nqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71500,
+      "eventTitle": "2027 International Conference on Information Processing (ICIP)",
+      "startDate": "2027-02-25",
+      "endDate": "2027-02-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pune Section; Pune Section IM Chapter; Vishwakarma Institute of Technology",
+      "keywords": "Sensors,VLSI,Signal and Image Processing,Manufacturing,Information Processing,Internet of Things,Robotics,Cybersecurity,Machine Learning, Artificial Intelligence,Communication Network,Blockchain,Automation, Data Science,",
+      "scope": "The conference focuses on Information Processing concepts. Information Processing is trend related to manufacturing automation with data exchange. It includes cyber physical systems, internet of things, cloud computing and cognitive computing. It is mainly related to building interconnected smart systems with an ability to decentralize decisions. This is the end-to-end solution for automation in next generation. The focus of the conference will be on Signal and Speech Processing, VLSI Signal Processing, Image Processing and Pattern Recognition, Embedded Systems, Artificial Intelligence and Machine Learning, Data Mining, Big Data Analytics, Bioinformatics, High Performance Computing, Computer Network, Internet of Things, Deep Learning, Parallel Computing on GPU, Human Computer Interaction  Informatics and Applications, Intelligent Data Analytics, Smart Computing Techniques and Applications, Communication and Control Systems, and new trends in Information Processing.",
+      "callForPapers": "2026-07-31",
+      "url": "www.vit.edu/ICIP2027",
+      "eventContact": "ketki.kshirsagar@vit.edu",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Vishwakarma Institute of Technology, Pune, Survey No. 3/4, Kondhwa (Budruk), , , , Pune, , India, 411048, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

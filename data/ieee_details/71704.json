@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 76XkwY40oKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71704,
+      "eventTitle": "2026 18th International Conference on Security of Information and Networks (SIN)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Istanbul",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Beykent University; Gazi University; Hasan Kalyoncu University (HKU); Turkiye Section",
+      "keywords": "Cybersecurity, Cryptology, Post-Quantum Cryptography, IoT Security, Blockchain, Privacy and Trust, Avionics Security, Security in Cyber-Physical Systems, Security using Machine Learning,",
+      "scope": "SIN’26 provides an excellent international forum for sharing knowledge and results in theory, methodology, and applications of Security in information and networks. Papers, special sessions, tutorials, and workshops addressing all aspects and issues of security in information and networks are being pursued. The conference invites significant original contributions from researchers and industrial working of developing cryptographic algorithms, security schemes, cryptanalysis, application security, system security, AI security, cloud security, IoT security, and network security. The conference aims to provide a platform for researchers and practitioners from academia and industry to meet and share cutting-edge advancements in information and network security. Authors are solicited to contribute to the conference by submitting articles that illustrate research results, project outputs, surveys, and industrial experiences that describe significant advances in Security in Mobile and IoT.",
+      "callForPapers": "2026-08-01",
+      "url": "www.sinconf.org/sin2026/",
+      "eventContact": "kubra.seyhan@bil.omu.edu.tr",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Beykent University, , , , , Istanbul, , Turkiye, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

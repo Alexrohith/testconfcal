@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: upOKx440sb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73318,
+      "eventTitle": "2026 Renewable Energy Systems and Emerging Technologies (RESET)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-16",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Qom",
+        "region": "",
+        "country": "Iran"
+      },
+      "sponsors": "Iran Section; Qom University of Technology",
+      "keywords": "Renewable Energy Sources, Renewable Energy Systems, Artificial Intelligence, Distributed Generation, Smart Grid, Demand Response, Micro Grid, Energy Storage, Electric Vehicle, Power Converter,",
+      "scope": "1. AI in Renewable Energies 2. Types of Renewable Energies and related technologies: Solar, Wind, Geothermal, etc 3. Renewable Energy Strategies: Economic, Environmental, etc 4. Impacts of Renewable Energies: Power system, Electricity Market, etc 5. Novel Solar Cell Technologies and Their Applications (Perovskite, Gallium Arsenide, etc.) 6. Setting up Large-Scale Solar Power Plants 7. Distributed Generations: Control, protection, Management, Security, Reliability, etc 8. Smart Grids and Micro Grids 9. Energy Storages and Electric Vehicles 10. Applications of power electronic converters and energy generators in renewable energies and distributed generations",
+      "callForPapers": "2026-10-22",
+      "url": "icreset2026.qut.ac.ir/",
+      "eventContact": "sezavar@qut.ac.ir",
+      "sponsorTypes": "3; 9",
+      "venues": "Department of Electrical and Computer Engineering, Qom University of Technology, Qom University of Technology, Martyred Brigadier Khodakaram Blvd, Old Qom-Tehran, road, Qom, Iran, , , , Qom, , Iran, 3718146645, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

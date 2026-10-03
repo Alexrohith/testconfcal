@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3ZKqx440jb0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73033,
+      "eventTitle": "2027 Computational Imaging Symposium (CISym)",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-24",
+      "about": "Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Burlingame",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Signal Processing Society; Purdue University",
+      "keywords": "Computational Imaging, Image Processing,",
+      "scope": "The Computational Imaging Symposium is one of the most active venues for research at the intersection of optics, signal processing, machine learning, and imaging systems. CISym brings together researchers working across the full pipeline of computational imaging: from physics and optics through algorithm design, learning-based methods, and application domains.",
+      "callForPapers": "2026-12-01",
+      "url": "computational-imaging.org/",
+      "eventContact": "fowler@ece.msstate.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Crowne Plaza San Francisco Airport, 1177 Airport Boulevard, , , , Burlingame, CA, USA, 94010, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

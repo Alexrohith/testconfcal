@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xoaEx4407boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73109,
+      "eventTitle": "2026 Fourth International Conference on Sustainable Computing and Data Communication Systems (ICSCDS)",
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Erode",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Shree Venkateshwara Hi-Tech Engineering College",
+      "keywords": "Sustainable Computing,Internet of things,Artificial Intelligence,Information-Centric Networking,Mobile Computing,Communication Systems,Data Mining and Analysis,",
+      "scope": "The current advances in technologies require sustainable networking and computing models to meet the growing demand of emerging indispensable ICT applications such as smart cities, entertainment, business, healthcare etc. On the other hand, data intelligence and communication plays a critical role in sustainable computing, especially the size of the data is beyond the ability of commonly used computing platforms for capturing, managing, and processing the data. Recent breakthroughs in data mining, data modelling, data processing, and artificial intelligence are seeking applications in energy networks to build a more sustainable environment. As the opportunities and challenges co-exist in both the fields, this 4th International Conference of Sustainable Computing and Data Communication Systems [ICSCDS 2026] provides a platform to initiate research discussions in all aspects including theoretical studies, real-time applications, and experimental prototypes.",
+      "callForPapers": "2026-09-07",
+      "url": "icscds.com/2026/",
+      "eventContact": "icscds2022@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Shree Venkateshwara Hi-Tech Engineering College, Erode - Gobi Main Road, Othakuthirai, Gobichettipalayam (T.K),, , , , Erode, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

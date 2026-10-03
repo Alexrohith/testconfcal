@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nJT/xo400boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73193,
+      "eventTitle": "2027 International Conference on Advanced and Intelligent Technologies (ICoAaIT)",
+      "startDate": "2027-04-18",
+      "endDate": "2027-04-19",
+      "about": "Bioengineering; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": "Oman"
+      },
+      "sponsors": "National University of Science and Technology (NUST); Oman Section",
+      "keywords": "Artificial Intelligence,Robotics and automation,Cognitive Technologies,Bioinformatics,",
+      "scope": "The 2nd International Conference on Advanced Technology (ICAT 2027) aims to provide an international forum for researchers, academicians, and industry professionals to present and discuss advancements in Artificial Intelligence and emerging technologies. The conference emphasizes interdisciplinary research spanning intelligent systems, data science, smart infrastructure, healthcare technologies, and sustainable engineering solutions. ICAT 2027 fosters collaboration between academia, industry, and government to address contemporary technological challenges and promote innovation-driven development. The conference encourages the submission of high-quality original research contributions, with accepted papers intended for publication in IEEE Xplore and other reputed indexing platforms. Overall, ICAT 2027 is committed to advancing knowledge, promoting ethical and responsible technology adoption, and supporting global sustainable development goals.",
+      "callForPapers": "",
+      "url": "icatconference.com/",
+      "eventContact": "sureshmanic@nu.edu.om",
+      "sponsorTypes": "3; 9",
+      "venues": "Hormuz Grand Hotel, , , , , Muscat, , Oman, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

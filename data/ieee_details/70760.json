@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4KqDx440+boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70760,
+      "eventTitle": "2026 International Conference on Fuzzy Theory and Its Applications (iFUZZY)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Taichung",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Taiwan Fuzzy Systems Association (TFSA)",
+      "keywords": "Fuzzy Logic,Fuzzy neural networks,Artificial intelligence,Computational modeling,Fuzzy set theory,Fuzzy systems,",
+      "scope": "This event will provide a great opportunity for scientists, engineers, and practitioners to present the latest design concepts, research results, developments, and applications, as well as to facilitate interactions between scholars and practitioners. Submission of papers with new research results in all aspects of fuzzy theory and its applications are encouraged. To broaden the scope and promote participations, organized sessions will also be welcome and incorporated into the iFUZZY 2026 program. Best paper awards will be given to those with outstanding achievements.",
+      "callForPapers": "2026-06-15",
+      "url": "ifuzzy2026.nchu.edu.tw/",
+      "eventContact": "hchuang@ccu.edu.tw",
+      "sponsorTypes": "1; 9",
+      "venues": "National Chung Hsing University, Taichung, Taiwan, No. 145, Xingda Road, South District Taichung, 40227, Taiwan, , , , Taichung, , Taiwan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

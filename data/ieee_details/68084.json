@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kvvnwY40uaIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68084,
+      "eventTitle": "2027 4th International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-04",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Rio de Janeiro",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "Antalya Bilim University; Rio de Janeiro Section",
+      "keywords": "Artificial Intelligence, Deep Learning, Machine Learning, Big Data, Data Science, Adaptive Control, Energy, Energy Conservation, Energy Harvesting, Cyber Security, Internet Of Things, Cryptography, Robotics, Robotics and Automation, Antennas, Communications, Electric Vehicles, Electric Machines,",
+      "scope": "The ACDSA is a peer-reviewed international conference that aims to bring together scientists, academics, researchers, and industrial representatives to exchange the ideas, to disseminate the high quality research results and to present the new developments on the topics related to Artificial Intelligence, Control, Data Sciences and applications. The conference will feature a comprehensive technical program offering numerous technical sessions with papers showcasing the latest technologies, and applications.",
+      "callForPapers": "2026-08-10",
+      "url": "acdsa.org/2027/",
+      "eventContact": "emrearslan@aksaray.edu.tr",
+      "sponsorTypes": "3; 9",
+      "venues": "Rio de Janeiro, , , , , , , Brazil, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

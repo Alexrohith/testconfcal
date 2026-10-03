@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5oz7xo40u7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73984,
+      "eventTitle": "2027 IEEE 7th International Conference on Computer Communication and Artificial Intelligence (CCAI)",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Shanghai Dianji University",
+      "keywords": "Computer Science and Engineering, Communication and Networking,Optoelectronics and Electronics,Artificial Intelligence and Technology,Hardware Implementations,Communications Transmission,",
+      "scope": "CCAI 2027 aims to serve as an exceptional opportunity for researchers, spanning both the emerging talents and seasoned academics, to converge and share their latest advancements. This conference is envisioned as a hub for intellectual dialogue, fostering collaboration and mentorship among participants from diverse backgrounds. Through a carefully curated program of presentations, discussions, and networking opportunities, CCAI 2026 seeks to transcend geographical boundaries and promote the dissemination of pioneering research in computer communication and artificial intelligence.",
+      "callForPapers": "2027-01-10",
+      "url": "www.ccai.net/",
+      "eventContact": "xu_lixl@126.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Shanghai DianJi University (SDJU), No. 690 Jiangchuan Road, Shanghai, , , , Shanghai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

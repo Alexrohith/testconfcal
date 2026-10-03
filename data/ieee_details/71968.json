@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vM+Cx4405boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71968,
+      "eventTitle": "2026 IEEE International Conference on Aerospace Electronics and Remote Sensing Technology (ICARES)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Geoscience; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section GRS/AES Joint Chapter; Research Center for Satellite Technology, BRIN",
+      "keywords": "Aerospace and electronic systems,Satellite Communications,Geoscience and remote sensing,Computational and artificial intelligence,",
+      "scope": "This conference will be a platform for disseminating timely information on aeronautics & aerospace technology, electronics system, UAV, satellites and launch vehicles technology as well as in the processing of information especially in Geoscience & Remote Sensing technology.",
+      "callForPapers": "2026-06-10",
+      "url": "r10.ieee.org/indonesia-grsaes/icares/",
+      "eventContact": "nuru032@brin.go.id",
+      "sponsorTypes": "5; 9",
+      "venues": ", , , , , Yogyakarta, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m9XuwY40xKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70596,
+      "eventTitle": "2026 IEEE 38th International Conference on Tools with Artificial Intelligence (ICTAI)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Boca Raton",
+        "region": "Florida",
+        "country": "USA"
+      },
+      "sponsors": "Biological & AI Foundation - BAIF; IEEE Computer Society",
+      "keywords": "AI Foundation,Domain Specific AI Apps,AI Systems,Data Ming-Analysis and Big Data,AI Decision Systems,AI Synergistic Models,AI based Agents,AI in Smart Cities,AI & Social Impact;,AI & Uncertainty,Machine Learning; Deep Learning,Planning; Intelligent Robotics,,Knowledge Representation-Reasoning-Cognition,Natural Language ProcessingUnderstanding,LLMs,Recommendation Systems,,,Assistive Technologies,",
+      "scope": "The IEEE International Conference on Tools with Artificial Intelligence (ICTAI) is a leading IEEECS annual scientific meeting for three decades. It provides a major international forum where the creation and exchange of ideas related to artificial intelligence are fostered among academia, industry, and government agencies. The conference facilitates the cross-fertilization of these ideas and promotes their transfer into practical tools, for developing intelligent systems and pursuing artificial intelligence applications. The ICTAI encompasses all technical aspects of specifying, developing and evaluating the theoretical underpinnings and applied mechanisms of the AI-based components of computer tools such as algorithms, architectures and languages.",
+      "callForPapers": "2026-06-15",
+      "url": "",
+      "eventContact": "skayikci@fau.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Boca Center Marriot Hotel, 5150 Town Center Cir, , , , Boca Raton, FL, USA, FL 33486, ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

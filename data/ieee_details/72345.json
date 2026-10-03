@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oL+vx4404cABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72345,
+      "eventTitle": "2026 IEEE International Workshop on Rapid System Prototyping (RSP)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-09",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Design Automation  - ACM SIGDA; Association for Computing Machinery Special Interest Group on Embedded Systems - ACM SIGBED; Association for Computing Machinery Special Interest Group on Microarchitectural Research & Processing - ACM SIGMICRO; IEEE Circuits and Systems Society; IEEE Council on Electronic Design Automation; IEEE Reliability Society",
+      "keywords": "hardware-software design,Embedded systems,Design prototyping,RISC-V based System Prototyping,",
+      "scope": "The International Workshop on Rapid System Prototyping (RSP) emphasizes design experience sharing and a collaborative approach between hardware and software research communities from industry and academia. It considers prototyping as an iterative design methodology for embedded hardware and software systems. The RSP series of workshops aims at bridging the gaps in embedded system design between applications, architectures, tools, and technologies to achieve rapid system prototyping of emerging software and hardware systems.",
+      "callForPapers": "2026-06-22",
+      "url": "conferences.imt-atlantique.fr/rsp-symposium/",
+      "eventContact": "frederic.rousseau@univ-grenoble-alpes.fr",
+      "sponsorTypes": "1; 1; 1; 9; 9; 9",
+      "venues": "Not yet available, , , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

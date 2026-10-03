@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r/XbwY40uaQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71623,
+      "eventTitle": "2026 2nd International Conference on Optical Communication, Photonics, Telecommunications, and Intelligent Machine Applications (OPTIMA)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-05",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Tashkent",
+        "region": "",
+        "country": "Uzbekistan"
+      },
+      "sponsors": "IEEE Photonics Society; Tashkent University of Information Technology",
+      "keywords": "Optical Communication Photonics Optical Networks Fiber-Optic Technologies Integrated Photonics Photonic Integrated Circuits Quantum Photonics Quantum Communication Artificial Intelligence Machine Learning AI in Optical Communications Optical Signal Processing Optical Sensors Smart Optical Systems Telecommunications 5G and 6G Networks Terahertz Communication Free Space Optics Optical Wireless Communication Edge Computing Cyber-Physical Systems Intelligent Machine Applications Smart Infrastructure",
+      "scope": "The International Conference on Optical Communication, Photonics, Telecommunications, and Intelligent Machine Applications (OPTIMA-2026) aims to provide a premier international platform for researchers, academicians, industry experts, and innovators to present and discuss recent advances in photonics, artificial intelligence, and next-generation communication technologies.  The conference focuses on theoretical developments, experimental research, industrial applications, and emerging trends in optical communication systems, photonic devices, intelligent network architectures, and AI-driven communication frameworks. It encourages interdisciplinary contributions that integrate photonics with machine learning, quantum technologies, edge–cloud systems, and intelligent automation.",
+      "callForPapers": "2026-08-15",
+      "url": "optima2026.tuit.uz/",
+      "eventContact": "interdep@tuit.uz",
+      "sponsorTypes": "1; 9",
+      "venues": "Block E, TUIT INCUBATION CENTER, Tashkent University of Information Technologies named after Muhammad al-Khwarizmi (TUIT), , , , TASHKENT, , Uzbekistan, 100028, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

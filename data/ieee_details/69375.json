@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gYX8xo402b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69375,
+      "eventTitle": "2026 2nd International Conference on Innovation in Artificial Intelligence and Internet of Things (AIIT)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jeddah",
+        "region": "",
+        "country": "Saudi Arabia"
+      },
+      "sponsors": "University of Jeddah; Western Saudi Arabia Section",
+      "keywords": "AI , Internet of things , Autonomous,Ehealth,smart cit,",
+      "scope": "Our goal is to be at the forefront of the dynamic world of AI, revolutionizing industries and empowering people with cutting-edge knowledge and experience where the latest technologies and futuristic ideas converge to shape the future of AI. This groundbreaking event brings together a global community of experts, researchers, and industry leaders to explore the limitless potential of artificial intelligence",
+      "callForPapers": "2026-04-01",
+      "url": "aiit.uj.edu.sa",
+      "eventContact": "eaal-dhahery@uj.edu.sa",
+      "sponsorTypes": "3; 9",
+      "venues": "university of jeddah conference center, , , , , Jeddah, , Saudi Arabia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

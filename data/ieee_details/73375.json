@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ibuYx440/bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73375,
+      "eventTitle": "2027 IEEE 25th International Conference on Industrial Informatics (INDIN)",
+      "startDate": "2027-05-11",
+      "endDate": "2027-05-14",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Industrial Informatics,industrial electronics,cyber-physical systems,control systems,robotics and automation,",
+      "scope": "This is one of the main conferences of IES Society, focusing on industrial informatics systems and technologies.",
+      "callForPapers": "2027-02-19",
+      "url": "indin2027.ieee-ies.org/",
+      "eventContact": "pleitao@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "EPIC Sana Marques Hotel, Av. Fontes Pereira de Melo, 8  , , , , Lisboa, , Portugal, 1069-310, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

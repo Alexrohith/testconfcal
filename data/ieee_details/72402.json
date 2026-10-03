@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ztKsx440qL0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72402,
+      "eventTitle": "2026 16th Workshop on Hyperspectral Imaging and Signal Processing: Evolution in Remote Sensing (WHISPERS)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-19",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Glasgow",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "IEEE Geoscience and Remote Sensing Society; Whispers Non-Profit Foundation",
+      "keywords": "Hyperspectral imaging,Hyperspectral sensors,",
+      "scope": "hyperspectral data processing",
+      "callForPapers": "2026-07-28",
+      "url": "https://ieee-whispers.com",
+      "eventContact": "vincent@couturier-doux.fr",
+      "sponsorTypes": "1; 9",
+      "venues": "Technology and Innovation Centre (TIC), University of Strathclyde, 99 George Street, , , Glasgow, , United Kingdom, G1 1RD, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

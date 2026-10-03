@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0Jmdx440q7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72314,
+      "eventTitle": "2026 Fourth International Conference on Sustainable Communication Networks and Application (ICSCNA)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Theni",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bharath Niketan Engineering College; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Sustainable Computing,Communication Technologies,Cloud Computing Architectures,Big Data Frameworks,Smart Network Sensing Systems,Wireless Networks,Internet of Things,",
+      "scope": "This International Conference on Sustainable Communication Networks and Applications [ICSCN 2026] facilitates an innovative platform for researchers and academicians to share and exchange their research ideas to address the prodigious research challenges in developing energy efficient communication network systems, green computing architectures and sustainable network resource management frameworks. The main objective of ICSCN is to serve as a confluence point between researchers, academicians and industrialists to present their state-of-the-art research and works in the areas of sustainable communication networks and applications to materialize prodigious benefits in order to meet the global sustainable needs. ICSCN will be an intriguing platform for scientists, researchers, research scholars and industrialists to present, share and exchange their ideas on the recent advances in sustainable communication networks and applications.",
+      "callForPapers": "2026-08-09",
+      "url": "icoscn.com/2026/",
+      "eventContact": "icscncontact.info@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Bharath Niketan Engineering College, Sri Gowri Nagar,, Thimmarasanaickanoor,, , , Theni, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

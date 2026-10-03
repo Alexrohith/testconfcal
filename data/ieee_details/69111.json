@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /4WQx4401r4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69111,
+      "eventTitle": "2027 IEEE 32nd International Conference on Emerging Technologies and Factory Automation (ETFA)",
+      "startDate": "2027-09-07",
+      "endDate": "2027-09-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pisa",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; Scuola Superiore S. Anna, Pisa",
+      "keywords": "Information Technology in Automation,Industrial Communication Technologies and Systems,Real-Time and Networked Embedded Systems,Automated Manufacturing Systems,Industrial Control,Computer Vision and Human-Machine Interaction in Industrial and Factory Automation,Intelligent Sensors, Sensor Networks, and Information Processing,Complex Automation Systems and Systems Engineering,Artificial Intelligence for Cyber-Physical Systems in Automation,Vehicular Embedded Systems,Autonomous Robotic Systems, Ar",
+      "scope": "IEEE ETFA is the flagship event of the IEEE IES Technical Committee on Factory Automation (TCFA) and a premier event sponsored by the IEEE Industrial Electronics Society. It aims at bringing together the international community to present the latest research results, share new ideas and engineering breakthroughs, and discuss state-of-the-art challenges and future directions in technology and innovation in the broad domain of Automation with a focus on Industrial and Factory Automation. Since its first edition in 1992 in Melbourne, Australia, the ETFA conference series has evolved to one of the largest and most important IEEE conferences with the key goal to foster the enhancement and application of scientific techniques, models, and tools that support the efficient design and operation of industrial and factory automation systems, and presenting new research results at the cutting edge of emerging technologies in the diverse areas of industrial automation.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "tommaso.cucinotta@santannapisa.it",
+      "sponsorTypes": "1; 9",
+      "venues": "TeCIP Institute, Scuola Superiore Sant'Anna, Via G. Moruzzi, 1, Località San Cataldo – Area CNR, , Pisa, , Italy, 56124, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

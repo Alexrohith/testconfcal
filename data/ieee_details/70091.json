@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /cXrwY40qKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70091,
+      "eventTitle": "2026 3rd International Conference on Computing and Data Analytics (ICCDA)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Salalah",
+        "region": "",
+        "country": "Oman"
+      },
+      "sponsors": "Oman Section; University of Technology and Applied Sciences-Salalah",
+      "keywords": "Data Sciences, Artificial Intelligence,Cyber Security,Software Engineering,Machine Learning,Data Analytics,AI Ethics,Soft Computing,Big Data,Statistical Exploratory Data Analysis,Applied Mathematics,Emerging Topics & Special Sessions,Information Systems,",
+      "scope": "The ICCDA 2026 is a premier international forum dedicated to advancing research and innovation in Data Sciences, Soft Computing, AI Ethics, Machine Learning, Big Data, Statistical Exploratory Data Analysis, and Information Sciences. The conference highlights emerging themes shaping technological progress and the evolution of data-driven research across industries, academia, and society. ICCDA 2026 provides a vibrant platform for researchers, academicians, and professionals to exchange ideas, present breakthroughs, and foster collaboration in computational intelligence and information sciences. It welcomes original, methodologically sound, and ethically responsible submissions that demonstrate scientific rigor, data integrity, and clarity, contributing to the advancement of computational data analytics. Through this event, ICCDA 2026 aims to accelerate knowledge exchange, promote responsible AI, and inspire innovation in intelligent, ethical, and data-driven technologies for a smarter a",
+      "callForPapers": "2026-06-30",
+      "url": "iccda.utas.edu.om/",
+      "eventContact": "senthilkumar.n@utas.edu.om",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Technology and Applied Sciences - Salalah, PO Box: 608, Salalah, Dhofar , , Salalah, , Oman, 211, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wZHDwo40jacBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73066,
+      "eventTitle": "2027 14th International Workshop on Robot Motion and Control (RoMoCo)",
+      "startDate": "2027-06-30",
+      "endDate": "2027-07-02",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Poznan",
+        "region": "",
+        "country": "Poland"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; Poznan University of Technology",
+      "keywords": "Motion-planning,motion control,Robotics,nonholonomic systems,underactuated systems,multi-robot systems,teleoperation,control in robotics,nonlinear systems,autonomous systems,human-robot cooperative systems,modelling and data-based identification of robotic systems,machine learning methods in robot motion and control,sensors devices and tools for robots,applications of robotics,",
+      "scope": "RoMoCo focuses on advances in robot motion and control, bringing together researchers and practitioners working on the design, modeling, planning, sensing, and control of robotic systems. Its scope includes nonholonomic and underactuated robots, optimal and constrained control, multi-robot coordination, teleoperation, localization, perception, system identification, machine learning, robust and adaptive autonomy, safety, and human-robot cooperation. RoMoCo also covers control architectures, autonomous vehicles, robotic sensors and devices, and applications of robotics in agriculture, medicine, manufacturing, civil engineering, services, space, underwater, and aerial environments.",
+      "callForPapers": "2027-02-13",
+      "url": "romoco.put.poznan.pl/",
+      "eventContact": "dariusz.pazderski@put.poznan.pl",
+      "sponsorTypes": "1; 9",
+      "venues": "Poznan University of Technology Lecture Center, Piotrowo 2, , , , Poznan, , Poland, 61-138, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

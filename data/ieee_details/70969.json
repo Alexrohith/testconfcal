@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4sbvwY400KUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70969,
+      "eventTitle": "2026 4th International Conference on Disruptive Technologies (ICDT)",
+      "startDate": "2026-12-29",
+      "endDate": "2026-12-30",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "G L Bajaj Institute of Technology and Management; IEEE Computer Society",
+      "keywords": "undefinedArtificial Intelligence,Machine Learning,Deep Learning,Natural Language Processing ,Generative AI,Big Data Analytics,AI in Ethics,Blockchain Technology,Distributed Ledger Technology,Non-Fungible Tokens,Zero-Knowledge Proofs,Data Encryption,Cyber Security,Digital Twinning,Internet of Things,Cloud Computing,Edge Computing,Fog Computing,Quantum Computing,5G and 6G Networks,AR and VR,Green ICT,Sustainability,Industry 5.0,AI in Education,Software Engineering,Operating Systems,Programming Lan",
+      "scope": "ICDT-2026 is envisioned as a premier international forum for academicians, researchers, industry professionals, and students to exchange ideas and research outcomes in disruptive technologies, including but not limited to: • Artificial Intelligence and Machine Learning • Software Engineering and Advanced Computing • Blockchain Technologies • Internet of Things (IoT) • Cybersecurity and Secure Systems • Cloud, Edge, and Distributed Computing • Intelligent Communications and Networks The conference program will comprise keynote lectures, invited talks, panel discussions, and rigorously peer-reviewed technical paper sessions, addressing both theoretical advancements and real-world applications. Strong emphasis is placed on student engagement, research mentoring, and skill development, in alignment with IEEE CS’s mission of professional growth and knowledge dissemination.",
+      "callForPapers": "2026-08-07",
+      "url": "www.glbitm.org/icdt-2026/",
+      "eventContact": "pankaj.kumar@glbitm.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": "G.L. Bajaj Institute of Technology and Management Greater Noida, Plot No. 2, Knowledge Park 3, Greater Noida, Dist- Gautam Buddh Nagar, Greater Noida, , India, 201306, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

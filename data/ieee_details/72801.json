@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: x5Gpx440jcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72801,
+      "eventTitle": "2026 3rd International Conference On Cryptography And Information Security (VCRIS)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Hanoi",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Academy of Cryptography Techniques; Vietnam Section",
+      "keywords": "Cryptography Digital Signature,Applied Cryptography,Public Key Cryptography,Post-Quantum Cryptography,Quantum Cryptography,Cryptographic Protocols,Cryptanalysis,Block and Stream Ciphers,Blockchains,Information Hiding and Watermarking,Side Channel Attacks and Countermeasures,Distributed Systems Security,IoT Security,Mobile Network Security,Network Security,Wireless Network Security,AI in Cyber Security,Big Data and Cloud Security,,Blockchain Security,Database Security,Malware analysis,Software Se",
+      "scope": "VCRIS 2026 is organized by the Academy of Cryptography Techniques in collaboration with co-organizing institutions including the Vietnam Institute for Advanced Study in Mathematics (VISAM), the Vietnam Association of Faculties- Institutes-Schools-Universities of ICT (FISU VN), the Information Security Journal (ISJ), with the endorsement of the University of Lorraine – France and the Japan Advanced Institute of Science and Technology – Japan, and the Computer Security and Industrial Cryptography group of KU Leuven – Belgium",
+      "callForPapers": "2026-06-30",
+      "url": "vcris.org/",
+      "eventContact": "daovt@actvn.edu.vn",
+      "sponsorTypes": "3; 9",
+      "venues": "Academy of Cryptography Techniques, 141 Chien Thang - Thanh Liet, , , , Hanoi, , Vietnam, 100000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1by/wo408KYBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73107,
+      "eventTitle": "IEEE EUROCON 2027 - 22nd International Conference on Smart Technologies",
+      "startDate": "2027-06-09",
+      "endDate": "2027-06-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sarajevo",
+        "region": "",
+        "country": "Bosnia and Herzegovina"
+      },
+      "sponsors": "Bosnia and Herzegovina Section; IEEE Industrial Electronics Society; Region 08 - Europe,Middle East,Africa; University of Sarajevo - Faculty of Electrical Engineering",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Data Science,Big Data Analytics,Signal Processing,Electronic Circuits,Embedded Systems,Internet of Things,Cyber-Physical Systems,Robotics and Automation,Industry 4.0,Smart Manufacturing,Renewable Energy Systems,Distributed Generation,Microgrids,Power System Control,Energy Storage Systems,Electric Vehicles,Smart Energy Management,",
+      "scope": "This scope addresses innovative technologies and engineering solutions that support Europe's digital and green transition. Topics include smart energy systems, renewable energy integration, artificial intelligence, IoT, advanced communications, sustainable transportation, resilient critical infrastructures, cybersecurity, and digital transformation. Contributions promoting sustainability, efficiency, reliability and resilience in modern society and industry are encouraged.",
+      "callForPapers": "2027-01-15",
+      "url": "2027.ieee-eurocon.org",
+      "eventContact": "hcapelj1@etf.unsa.ba",
+      "sponsorTypes": "1; 2; 3; 9",
+      "venues": "Hotel Holiday, Zmaja od Bosne 6, , , , Sarajevo, , Bosnia and Herzegovina, 71000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

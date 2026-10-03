@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6IKWx4406rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72352,
+      "eventTitle": "2026 Autonomous Machines and Intelligent Robotics Applications (AMIRA)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-14",
+      "about": "Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Debrecen",
+        "region": "",
+        "country": "Hungary"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; University of Debrecen",
+      "keywords": "Electric Transportation,Control, Robotics And Mechatronics,Cognitive Robotics,Autonomous agents,Autonomous Systems,Autonomous Vehicles,Industry 4.0,Cyber-physical Systems,",
+      "scope": "The International Conference on Autonomous Machines and Intelligent Robotics Applications (AMIRA) serves as an international forum for researchers and practitioners from engineering and related disciplines focusing on Autonomous Machines and Intelligent Robotics Applications. It addresses both application-driven and theoretical aspects of autonomous systems, encompassing transportation and robotics, as well as enabling technologies such as artificial intelligence, machine learning, sensing, modeling, and control. The scope further includes human–machine interaction, cognitive and social aspects, and ethical, legal, and regulatory considerations related to autonomous systems.",
+      "callForPapers": "2026-07-27",
+      "url": "eng.unideb.hu/en/amira-2026",
+      "eventContact": "hethy.amira@eng.unideb.hu",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Debrecen Faculty of Engineering, Ótemető u. 2-4., , , , Debrecen, , Hungary, 4028, ;University of Debrecen, Egyetem tér 1., , , , Debrecen, , Hungary, 4032, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

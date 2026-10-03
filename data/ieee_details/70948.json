@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /ZXBwo40/KYBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70948,
+      "eventTitle": "2026 29th International Conference on Mechatronics Technology (ICMT)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-24",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Coventry",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; University of Warwick",
+      "keywords": "Mechatronics,Control, Robotics And Mechatronics,Biomechatronics,Mechatronic,Mechatronic Systems,Artificial Intelligence,Artificial neural networks,machine learning,Computer Aided Manufacturing,Intelligent manufacturing systems,Manufacturing Automation,smart manufacturing,smart actuator,Active Smart Materials,Gyroscopes And Microelectromechanical (mems) Sensors,Nanoelectromechanical Systems (NEMS),Precision Engineering,Production systems,Intelligent Transportation Systems,Energy MaAgricultural Ro",
+      "scope": "The ICMT is an annual international conference on mechatronics technology with successful past editions held for more than 20 years. ICMT offers a forum to discuss state-of-the-art technologies and emerging application trends, and provides great opportunities for interactions between academic and industrial stakeholders in the areas of mechatronics, control, robotics, innovative systems, sensors, energy harvesting, AI, Renewable Energy and Smart Grid etc.",
+      "callForPapers": "2026-03-01",
+      "url": "www.icmt2026.org/",
+      "eventContact": "Kaibo.Li@warwick.ac.uk",
+      "sponsorTypes": "1; 9",
+      "venues": "Radcliffe, Warwick Conference Centre, Radcliffe University of Warwick, Scarman Road, , , Coventry, , United Kingdom, CV4 7SH, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

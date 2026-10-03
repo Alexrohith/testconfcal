@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vvKMx440qbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73748,
+      "eventTitle": "2027 XII International Conference on Information Technology and Nanotechnology (ITNT)",
+      "startDate": "2027-05-25",
+      "endDate": "2027-05-28",
+      "about": "Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Samara",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "Russia Section AP Chapter; Samara National Research University",
+      "keywords": "Diffractive optics,Nanophotonics,Singular Optics,Information Technology in Design of Earth  Remote Sensing,Geoinformation Systems and  Technologies,Pattern Recognition and Image Analysis,Neural Network Methods and Deep  Learning,Applied Artificial Intelligence Technologies in Image Processing,Mathematical Methods of Data Analysis,Mathematical Methods for Processing Biomedical Data,",
+      "scope": "The scope of the conference includes the following topics: Computer Optics and Nanophotonics, Information Technologies for Earth Remote Sensing, Artificial Intelligence, Data Science, Information Technologies in Biomedicine",
+      "callForPapers": "2026-10-12",
+      "url": "itnt-conf.org/en",
+      "eventContact": "secretary@itnt-conf.org",
+      "sponsorTypes": "5; 9",
+      "venues": "Samara National Research University, 34, Moskovskoye shosse, , , , Samara, , Russia, 443086, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

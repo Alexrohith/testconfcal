@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: l4j4xo40uL0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69158,
+      "eventTitle": "2026 IEEE Latin American Conference on Computational Intelligence (LA-CCI)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lima",
+        "region": "",
+        "country": "Peru"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; Universidad del Pacifico",
+      "keywords": "Computational Intelligence,Evolutionary Computation,Swarm Computation,Genetic Algorithms,Genetic programming,Artificial immune systems,swarm intelligence,Collective Intelligence,Bio-inspired Engineering,Neural Networks,Learning Systems,Complex Systems,Quantum Computing,Complex networks,Fuzzy systems,Fuzzy neural networks,Rough Sets,Multiagent systems,Game Theory,Semiotics,Symbiotic Autonomous Systems,Reinforcement Learning,",
+      "scope": "Evolutionary & Swarm Computation, Neural & Learning Systems ,and Fuzzy & Stochastic Modeling",
+      "callForPapers": "",
+      "url": "lacci2026.up.edu.pe/",
+      "eventContact": "aa.cornejor@up.edu.pe",
+      "sponsorTypes": "1; 9",
+      "venues": "Universidad del Pacífico, Jr. Gral. Luis Sánchez Cerro 2141, Jesús María, , , , Lima, , Peru, 15072, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

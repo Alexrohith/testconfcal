@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tuSEx4408boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73068,
+      "eventTitle": "2027 3rd International Conference on Computing for Sustainability and Intelligent Future (COMP-SIF)",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "BMS Institute of Technology and Management; Bangalore Section; Bangalore Section C Chapter",
+      "keywords": "Artificial intelligence,Sustainable Computing,Cybersecurity,Signal Processing and Communication,Industry 4.0,Intelligent Systems,Semiconductor Technology,",
+      "scope": "The scope of the conference includes advances in sustainable computing, artificial intelligence, cybersecurity, signal processing and communication systems, semiconductor technologies, embedded systems, and emerging industrial innovations.",
+      "callForPapers": "2026-09-15",
+      "url": "bmsit.ac.in/compsif/",
+      "eventContact": "sane@ieee.org",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "BMS Institute of Technology & Management, Avalahalli, Doddaballapura Main Road, Yelahanka, , Bengaluru, , India, 560119, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

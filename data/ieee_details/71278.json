@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: rJH4xo40oroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71278,
+      "eventTitle": "2026 IEEE/WIC International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-06",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Brisbane",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society; Web Intelligence Consortium - WIC",
+      "keywords": "Web Intelligence,Intelligent Agents,Artificial Intelligence,Agent Technology,",
+      "scope": "WI-IAT’26 provides a premier international forum for researchers, practitioners, and industry professionals to present original research, share innovative practices, and exchange ideas on advances in Web Intelligence and Intelligent Agent Technology. The conference promotes interdisciplinary collaboration to deepen understanding of Web systems and to develop intelligent technologies that integrate human cognition and artificial networks. WI-IAT’26 focuses on the impact of artificial intelligence across the Web of People, Data, Things, Trust, and Agents, as well as applications in industry, society, health, education, and smart living, including the Web of Everything and emerging AIGC. It encourages research that advances theories, methods, and applications in collective intelligence, data science, human-centered computing, knowledge management, network science, and multi-agent systems.",
+      "callForPapers": "2026-07-15",
+      "url": "",
+      "eventContact": "xiaohui.tao@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Brisbane, , Australia, 4000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

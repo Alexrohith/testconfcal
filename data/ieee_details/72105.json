@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wM+mx440+78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72105,
+      "eventTitle": "2026 IEEE Thompson Okanagan Systems Council Chapter Symposium (TOKSysConSymp)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-11",
+      "about": "Bioengineering; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Robotics and Control Systems",
+      "location": {
+        "city": "Kelowna",
+        "region": "British Columbia",
+        "country": "Canada"
+      },
+      "sponsors": "Thompson Okanagan Section; Thompson Okanagan Section SYS Chapter",
+      "keywords": "Systems Engineering,Engineering Systems-of-Systems,Cyber Security,Cloud Computing,Modeling & Simulation,Model-Based Systems Engineering,Systems Engineering Education,Systems Integration & Verification,Autonomous Systems,Defense Systems,Gaming and Entertainment Systems,Socio-technical Systems track,",
+      "scope": "The IEEE Systems Council facilitates interactions among communities of interest on system-level problems and applications. System-level thinking is essential in the world today, not only for technical systems, but also for society at large.",
+      "callForPapers": "2026-10-06",
+      "url": "www.okanagan.ieee.ca/",
+      "eventContact": "youry@ieee.org",
+      "sponsorTypes": "3; 5",
+      "venues": "Okanagan College, 1000 KLO Rd, , , , Kelowna, BC, Canada, V1Y 4X8, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

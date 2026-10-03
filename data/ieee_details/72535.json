@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8IyXx44087sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72535,
+      "eventTitle": "2026 3rd International Conference on Intelligent Computing and Data Mining (ICDM)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Changchun",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Changchun College of Electronic Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Intelligent Computing,Data Mining,Neural Networks,Intelligent Computing in Robotics,",
+      "scope": "ICDM 2026 is a premier research-oriented conference dedicated to both fundamental and frontier advancements in intelligent computing and data mining. With a strong emphasis on academic excellence and industrial innovation, it aspires to serve as a leading platform for global scholarly exchange. The conference will convene distinguished experts, researchers, and industry leaders from around the world to address emerging opportunities and challenges in cutting-edge domains such as Intelligent Computing, data mining, and big data analytics. By fostering interdisciplinary dialogue and collaboration, ICDM 2026 aims to accelerate research breakthroughs, drive practical applications, advance disciplinary development, and nurture the next generation of talent.",
+      "callForPapers": "2026-08-16",
+      "url": "www.ic-icdm.org/",
+      "eventContact": "soon.chung.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Changchun College of Electronic Technology, China, No. 330 Xueli Road, Kuancheng District, Changchun City, Jilin Province, China, , , , Changchun, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

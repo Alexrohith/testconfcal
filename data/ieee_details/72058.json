@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5/niwY407aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72058,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Robotic Systems (ICAIRS)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Tianjin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; International Society for Applied Computing ; Tiangong University",
+      "keywords": "Artificial Intelligence,Robotic Systems,Intelligent Robot,Control, Robotics And Mechatronics,Evolutionary Robotics,Robot sensing systems,Robot vision systems,Robotics and automation,Robots,Smart Robots,Machine intelligence,Machine Learning,",
+      "scope": "The aim of this conference is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results in various topics of Artificial Intelligence and Robotic Systems. It provides participants an opportunity to discuss the recent developments in the fields of Artificial Intelligence and Robotic Systems areas.",
+      "callForPapers": "2026-08-20",
+      "url": "www.icairs.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Tiangong University, No. 399, Binshui West Road, Xiqing District, Tianjin, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

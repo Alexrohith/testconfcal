@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oofDwo40n6cBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73203,
+      "eventTitle": "2027 IEEE 57th International Symposium on Multiple-Valued Logic (ISMVL)",
+      "startDate": "2027-06-01",
+      "endDate": "2027-06-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kongsberg",
+        "region": "",
+        "country": "Norway"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Algebra and Formal Aspects,Boolean Satisfiability,Computer Arithmetic,Image Processing,Machine Learning and Robotics,MVL Aspects of Medical Technology,Quantum Computing,Signal Processing,Automatic Test Pattern Generation,CircuitDevice Implementation,Data Mining,Logic Design and Switching Theory,Mathematical Fuzzy Logic,Nanotechnology,Quantum Cryptography,Spectral Techniques,Automatic Reasoning,Fuzzy Systems and Soft Computing,Logic Programming,MVL Approaches to Big Data,PhiTernary Computing,",
+      "scope": "As the flagship international conference of the technical community of Multiple-valued  logic(TCMVL), the symposium will bring together researchers from computer science, engineering, mathematics, and further disciplines to discuss new developments and directions for future research in the area of multi-valued logic and related fields.",
+      "callForPapers": "2026-12-01",
+      "url": "mvl.jpn.org/ISMVL2027/",
+      "eventContact": "henning.gundersen@usn.no",
+      "sponsorTypes": "1",
+      "venues": "University of South-Eastern Norway, Hasbergs vei 36, Kongsberg, , Norway, 3616, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

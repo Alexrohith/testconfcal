@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4eyax440nbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70499,
+      "eventTitle": "2026 International Conference on Innovation in Computing Data And Electronics (InCODE)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bhopal",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section; Oriental Institute of Science and Technology; Oriental Institute of Science and Technology STB",
+      "keywords": "AI,ML,Big Data,,Deep Learning,Data Analytics,Cloud & Edge Computing,Quantum Computing,Cyber security,Blockchains,Communication systems,Networking (5G6G, IoT, Satellite, and wireless),Signal and image processing,Robotics,Automation, and Embedded systems,Healthcare Systems,Biotechnology & Digital Health,Smart Energy,Sustainability & Emerging Technologies,",
+      "scope": "The conference encompasses a wide range of emerging and advanced technologies, including Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, Big Data, Cloud and Edge Computing, Quantum Computing, Cyber Security, Blockchain, Communication Systems, Networking technologies such as 5G/6G, IoT and Satellite communication, Signal and Image Processing, Robotics, Automation, Embedded Systems, Healthcare Technologies, Biotechnology, Digital Health, Smart Energy solutions, Sustainability, and other emerging technologies.",
+      "callForPapers": "2026-05-30",
+      "url": "oriental.ac.in/oist-bhopal/incode",
+      "eventContact": "dswati31@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Oriental Institute of Science and Technology, Opposite Patel Nagar , Raisen Road, Bhopal, , , , Bhopal, , India, 462022, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

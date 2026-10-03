@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7vaEx440jb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72730,
+      "eventTitle": "2027 IEEE International Conference on Industrial Technology (ICIT)",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-19",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Florianópolis",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Industrial Automation, Industrial Electronics, Industrial Electronics Society, Computational and Artificial Intelligence, Control, Robotics And Mechatronics,",
+      "scope": "ICIT has as its main objective to promote an international forum of excellence for the dissemination, discussion, and integration of scientific, technological, and innovation advances in the fields of industrial technology, automation, control, power electronics, intelligent systems, robotics, renewable energy, and advanced manufacturing. The event seeks to strengthen the exchange of knowledge among researchers, industry professionals, students, and innovation managers, contributing to the sustainable and competitive development of the industrial sector.",
+      "callForPapers": "2026-11-01",
+      "url": "icit2027.ieee-ies.org/",
+      "eventContact": "leandro.becker@ufsc.br",
+      "sponsorTypes": "1",
+      "venues": "Majestic Palace Hotel, Av. Jorn. Rubéns de Arruda Ramos, 2746, , , , Florianopolis, , Brazil, 88015-702, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

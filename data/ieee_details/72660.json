@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: u+aUx4409b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72660,
+      "eventTitle": "2026 International Symposium on Micro-NanoMechatronics and Human Science (MHS)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-03",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nagoya",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Humanware Network Initiative; IEEE Robotics and Automation Society",
+      "keywords": "Microelectromechanical SystemsRobotics,Biologically Inspired Engineering,Soft Robotics,Intelligent control,Human Centered,Human-robot Interaction,Medical robotics,Biomedical Engineering,Microelectromechanical Systems,Microelectromechanical devices,Nanoelectromechanical Systems (NEMS),Bio-inspired Robotics,Robotics And Robots,Human In The Loop,Human Machine Interfaces,Control,",
+      "scope": "The scopes of MHS2026 are micro nano mechatronics technology and human science which are currently used in broader spectra, ranging from basic applications in robots, actuators, sensors, semiconductors, automobiles, and machine tools to new applications in bio medicalsystems and life science, construction machines, and aerospace equipment. Applications fields are welfare engineering, human life supporting engineering, medical engineering, and other brand-new scopes.",
+      "callForPapers": "2026-07-17",
+      "url": "www.mein.nagoya-u.ac.jp/mhs/mhs2026-Top.html",
+      "eventContact": "hsugiura965@g.ecc.u-tokyo.ac.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "Noyori Memorial Conference Hall, Nagoya University, Furo-cho, Chikusa-ku , , , , Nagoya, , Japan, 464-8603, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

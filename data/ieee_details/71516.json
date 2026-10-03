@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: na6Px440uLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71516,
+      "eventTitle": "2027 International Conference on Radio Frequency Communication & Networks (RFCoN)",
+      "startDate": "2027-02-25",
+      "endDate": "2027-02-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Thanjavur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Madras Section AP Chapter; Madras Section MTT Chapter; Sastra University",
+      "keywords": "Microwave antennas,Microwave antenna arrays,Microwave communication,Antennas,5G wireless,Adhoc Wireless Networks,Fiber-wireless,Rf Wireless Communication,Open wireless architecture,6g Mobile Communication,Communication system signaling,Wireless Access In Vehicular Environments,Artificial intelligence,Technology Innovation And Sustainability,Unmanned Air Vehicle (uav),Embedded Systems,",
+      "scope": "RFCoN 2027 is a platform for researchers, teachers, industry professionals, and policymakers to come together and share ideas in the areas of RF systems, wireless communication, and networks. The conference places strong emphasis on sustainability and on bringing different technologies together. The goal is to encourage practical, energy‑efficient, and well‑integrated communication systems that can support future networks, including 6G and beyond. Rather than focusing only on theory, RFCoN 2027 aims to promote solutions that are realistic, environmentally responsible, and useful to society.",
+      "callForPapers": "2026-08-03",
+      "url": "sastraevents.zohobackstage.in/RFCoN2027",
+      "eventContact": "prabaharan.nataraj@gmail.com",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "SASTRA Deemed University, Tirumalaisamudram, Trichy - Thanjavur Main Road, , , Thanjavur, , India, 613401, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

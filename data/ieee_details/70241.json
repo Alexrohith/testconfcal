@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: usmQx4400bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70241,
+      "eventTitle": "2031 IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)",
+      "startDate": "2031-01-05",
+      "endDate": "2031-01-12",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Waiklola",
+        "region": "Hawaii",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "WACV,Computer Vision ,Computer Applications,Vision for Graphics,Large Scale Vision Applications,",
+      "scope": "WACV conferences provide a forum for computer vision researchers working on practical applications to share their latest developments. WACV 2019 solicits high-quality, original submissions describing research on computer vision applications. Unlike other vision conferences, WACV emphasizes papers on systems and applications with significant, interesting vision components. Authors are encouraged to submit applications papers, as well as more traditional algorithms papers",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Hilton Waikoloa Village, , , , , Waikoloa, HI, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

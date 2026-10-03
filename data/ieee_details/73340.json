@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uvasx440rr0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73340,
+      "eventTitle": "2026 18th International Conference on Advanced Infocomm Technology (ICAIT)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-27",
+      "about": "Communication, Networking and Broadcast Technologies; Photonics and Electrooptics",
+      "location": {
+        "city": "Auckland",
+        "region": "",
+        "country": "New Zealand"
+      },
+      "sponsors": "Auckland University of Technology, AUT; IEEE Photonics Society",
+      "keywords": "Communication and Network, Signal Processing Techniques, Advanced Technology in IT, Computer Graphics and Image Processing, Computer Science,",
+      "scope": "The 18th ICAIT 2026 covers a broad interdisciplinary range of advanced infocomm technologies, including wireless/optical communications, networking, signal processing, photonic devices, and computer science. Its technical tracks encompass fiber sensors, microwave photonics, optical imaging, data processing, information security, visual analysis, and machine learning. The conference also addresses emerging fields such as AI, big data, blockchain, cloud computing, cybersecurity, IoT, VR/AR, and parallel/distributed computing.",
+      "callForPapers": "2026-07-30",
+      "url": "www.icait.org/",
+      "eventContact": "yyluo@tcee.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Auckland University of Technology, 55 Wellesley Street East, Auckland Central, Auckland 1010, New Zealand, , , , Auckland, , New Zealand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

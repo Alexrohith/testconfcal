@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0JCdx440tL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72143,
+      "eventTitle": "2026 5th International Symposium on Sensor Technology and Control (ISSTC)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Components, Circuits, Devices and Systems; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Qingdao",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": " China University of Petroleum (East China); IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Sensor Technology and Control,Wireless Sensors and Sensor Networks,Internet of Things and Sensing Technology,Adaptive Control Technology,Robot and Intelligent Control,",
+      "scope": "ISSTC 2026 is an international symposium dedicated to advancing foundational theories and emerging innovations in sensor technology, intelligent sensing, and control systems. With a strong commitment to academic rigor and technological progress, the symposium aims to serve as a premier platform for global knowledge exchange and cross-disciplinary collaboration in sensing and control engineering. The event will bring together scholars, researchers, engineers, and industry practitioners to explore trends, opportunities, and challenges across sensor design, signal processing, intelligent measurement, control algorithms, robotics, automation, and system integration. By fostering dialogue among diverse research communities, ISSTC 2026 seeks to accelerate scientific breakthroughs, promote impactful engineering applications, support the industrialization of innovative sensing technologies, and cultivate future leaders in sensor technology and control.",
+      "callForPapers": "2026-07-25",
+      "url": "www.isstc.net/",
+      "eventContact": "isstc.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "China University of Petroleum (East China), No. 66, West Changjiang Road, Huangdao District, Qingdao, Shandong Province, China, 266580  , , , , Qingdao, , China, 266580, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

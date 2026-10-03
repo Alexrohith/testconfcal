@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mPepx440lcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68625,
+      "eventTitle": "2027 IEEE 24th International Symposium on Biomedical Imaging (ISBI)",
+      "startDate": "2027-05-25",
+      "endDate": "2027-05-28",
+      "about": "Bioengineering; Signal Processing and Analysis",
+      "location": {
+        "city": "Lausanne",
+        "region": "",
+        "country": "Switzerland"
+      },
+      "sponsors": "IEEE Engineering Medicine and Biology Society; IEEE Signal Processing Society",
+      "keywords": "Biomedical Imaging,Signal Processing,",
+      "scope": "The conference gathers yearly the main leaders in the field of biomedical imaging and signal processing.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "giuls90210@hotmail.it",
+      "sponsorTypes": "1; 1",
+      "venues": "SwissTech Convention Center, Rte Louis Favre 2, , , , 1024, , Switzerland, Ecublens, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

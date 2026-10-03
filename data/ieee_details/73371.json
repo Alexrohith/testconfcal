@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vNWMx440qLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73371,
+      "eventTitle": "2027 International Conference on Quantum Communications, Networking, and Computing (QCNC)",
+      "startDate": "2027-03-22",
+      "endDate": "2027-03-26",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Hokkaido",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Communications Society; IEEE Computer Society; Kanazawa University",
+      "keywords": "Quantum Hardware and Devices,Quantum Information Networks,Quantum Computing,Quantum Key Distribution,Quantum Cryptography,Quantum Services and Applications,Quantum Sensing,Quantum Theories and Experiments,Quantum artificial intelligence,Quantum Internet,Quantum Circuit,Quantum algorithm,Quantum error correction,",
+      "scope": "In recent decades, quantum researchers have made remarkable progress, propelling quantum technology into the spotlight for its potential to revolutionize classical communications, networking, and computing. The inherent advantages of quantum technology, particularly in terms of security, privacy, efficiency and scalability, have opened new frontiers in information technology. Quantum technology has demonstrated its ability to introduce applications with no equivalent in classical realm, marking a breakthrough towards an unimaginable future. The establishment of connections between the quantum source node and destination node using quantum hardware and devices facilitates qubit transmissions, which in turn enables advancements in quantum computing, artificial intelligence and cryptography and further services and applications. Envisioned as a transformative force, quantum services are anticipated to span globe, leveraging quantum terrestrial components, satellites, and other vehicles.",
+      "callForPapers": "2026-10-20",
+      "url": "www.qcnc.org/2027/",
+      "eventContact": "liruidong@ieee.org",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "Hotel Monterey Edelhof Sapporo, 1-1 Nishi, Kita 2-jo, Chuo-ku, Sapporo, Hokkaido, , , , , , Japan, 060-0002, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

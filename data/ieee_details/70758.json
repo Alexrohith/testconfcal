@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0POCx44097oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70758,
+      "eventTitle": "2026 10th International Symposium on Multidisciplinary Studies and Innovative Technologies (ISMSIT)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Antalya",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Tokat Gaziosmanpasa University; Turkiye Section",
+      "keywords": "Computer Science,Cognitive science,Artificial Intelligence,Automation and Control,Technology Innovation And Sustainability,Power Electronics,",
+      "scope": "Track 1. Artificial Intelligence & Machine Learning Track 2. Communication and NetworkingTrack 3. Computational Methods and Algorithms Track 4. Electronic and Embedded Systems Track 5. Information Technology Track 6. Innovative Research and Development Track 7. Power, Energy and Power Electronics Track 8. Robotic, Automation and Control",
+      "callForPapers": "2026-08-20",
+      "url": "www.ismsitconf.org/",
+      "eventContact": "turgutozseven@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "hotel, Antalya, , , , Antalya, , Turkiye, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

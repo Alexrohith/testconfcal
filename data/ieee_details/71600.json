@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: o+2nx440g8ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71600,
+      "eventTitle": "2026 22nd International Conference on Network and Service Management (CNSM)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Alcalá de Henares",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Communications Society; IFIP TC6 Working Group 6.6; University of Alcalá",
+      "keywords": "Communication networks,Computer networks,Computer network management,Telecommunication services,",
+      "scope": "The 22nd International conference on Network and Service Management (CNSM) is inviting authors to submit original contributions to network and service management research. CNSM is a selective single-track conference that covers all aspects of network and service management, pervasive systems, enterprises, and cloud computing environments. In particular, CNSM 2026 will focus on Evolving Network and Service Management: From Automation to Agentic Intelligence.",
+      "callForPapers": "2026-06-15",
+      "url": "www.cnsm-conf.org/2026/",
+      "eventContact": "jaime@unex.es",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Escuela Politécnica Superior, Universidad de Alcalá, Ctra. Madrid-Barcelona, km. 33.6, , , Alcala de Henares (Madrid), , Spain, 28805, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

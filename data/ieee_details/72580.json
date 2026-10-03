@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: reeHx440h7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72580,
+      "eventTitle": "2026 10th Conference on Information and Communication Technology (CICT)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kurnool",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Hyderabad Section; Indian Institute of Information Technology Design and Manufacturing (IIITDM)-Kurnool",
+      "keywords": "Artificial intelligence,5g Mobile Communication,Machine Learing,Emebedded Systrems ,Drones,Intelligent Systems,Internet of Things,Control, Robotics And Mechatronics,",
+      "scope": "The Conference on Information and Communication Technology (CICT) is a flagship annual event jointly organized by the five Ministry of Education-funded Indian Institutes of Information Technology, providing a platform for researchers, industry professionals, and academicians to exchange ideas and present innovations in the field of ICT. The conference features keynote lectures, tutorial sessions, technical and poster presentations, as well as industry and Women in Engineering forums. It covers a wide range of domains including Artificial Intelligence and Machine Learning, IoT and Wireless Sensor Networks, Robotics and Automation, Big Data and Cloud Computing, Cybersecurity and Information Privacy, Signal, Image and Video Processing, Next-Generation Communication Technologies, Industry 4.0 and Smart Manufacturing, Healthcare Analytics, and Education.",
+      "callForPapers": "2026-08-30",
+      "url": "www.cict2026.iiitk.ac.in/",
+      "eventContact": "krishnakaramtoti@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Indian Institute of Information Technology Design and Manufacturing Kurnool, Dinnedevarapadu, Jagannathagattu, Kurnool, Andhra Pradesh, Kurnool, , India, 518008, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

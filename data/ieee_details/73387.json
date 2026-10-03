@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v/35xo40zb0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73387,
+      "eventTitle": "2027 Asia Conference on Advances in Artificial Intelligence and Education (AAIE)",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-11",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Education Society; Kogakuin University",
+      "keywords": "Artificial Intelligence,Educational Technology,AI Agents and Copilots in Education,Adaptive and Personalized Learning Systems,AI in Education,",
+      "scope": "The 2027 Asia Artificial Intelligence and Education Conference (AAIE 2027) is a multidisciplinary academic event that bridges the cutting edge of artificial intelligence with the evolving landscape of educational technology. Its scope encompasses three broad, interconnected pillars: core Artificial Intelligence (AI) technologies, such as Foundation Models, Large Language Models (LLMs), Generative AI, and Autonomous Systems; Educational Technology (EdTech) applications, including Learning Analytics, Adaptive Learning, and Intelligent Tutoring Systems; and the critical intersection of AI in Education (AI + EdTech Integration), which explores areas like AI-driven personalized learning, human-AI collaboration in the classroom, and the ethical and inclusive deployment of AI for global education.",
+      "callForPapers": "2026-07-20",
+      "url": "www.icaaie.org/",
+      "eventContact": "ypli@vconf.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Kogakuin University, Japan, , , , , Tokyo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

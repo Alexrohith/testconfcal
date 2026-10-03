@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sNGax440m7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73560,
+      "eventTitle": "2027 24th International Conference on Electrical Engineering/Electronics, Computer, Telecommunications, and Information Technology (ECTI-CON)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "ECTI Association; Thailand Section; Thailand Section C Chapter",
+      "keywords": "Antennas & Electromagnetics,Communications & Networking,Robotics Control & Instrumentation,Biomedical Engineering & Healthcare Technology,Power Energy & Power Electronics,Signal Processing,Semiconductor Technology,Computer & Computational Intelligence,Circuits & Systems,Agriculture Technology,",
+      "scope": "The conference aims to provide an international forum for discussing the latest research, new ideas, and technological advances in electrical engineering, electronics, computer engineering, telecommunications, and information technology.",
+      "callForPapers": "2027-02-01",
+      "url": "ecti-con2027.org/",
+      "eventContact": "jetsada.arn@mahidol.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "The Park Nine Suvarnabhumi, 599, 599/1 Lat Krabang Rd. Lat Krabang, , , , Bangkok, , Thailand, 10520, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

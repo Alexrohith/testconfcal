@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: stb8xo40xLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71928,
+      "eventTitle": "2026 International Conference on Advances in Machine Intelligence, and Cybersecurity Technologies (AMICT)",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-13",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Labuan",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Faculty of Computing and Informatics, Universiti Malaysia Sabah; Sabah Subsection",
+      "keywords": "Artificial Intelligence,Cybersecurity,Machine Intelligence,Data Technologies & Application,Creative Computing,Decision-Support System,Visual Analytics,User Experience,Optimization,Language Engineering & Application Development,",
+      "scope": "Computer Science, Artificial Intelligence, Cybersecurity, and Information Technology",
+      "callForPapers": "2026-07-01",
+      "url": "https://amictconf.com/",
+      "eventContact": "kimonchin@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": "Dorsett Grand Labuan, 462 Jalan Merdekan,, , , , Labuan F.T., , Malaysia, 87029, ;Tiara Labuan Hotel, Jalan Tanjung Batu,, , , , Labuan F.T, , Malaysia, 87007, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

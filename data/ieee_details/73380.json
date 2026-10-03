@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h4L5xo40q7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73380,
+      "eventTitle": "2026 2nd International Conference on Artificial Intelligence's Future Implementations (ICAIFI)",
+      "startDate": "2026-10-31",
+      "endDate": "2026-10-31",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Universitas Perwira Purbalingga",
+      "keywords": "Artificial Intelligence,Transportation,Power engineering and energy,Computational Intelligence,",
+      "scope": "Machine Learning (ML), Deep Learning, Natural Language Processing (NLP), Robotics and Autonomous Systems, Computer Vision, Data Mining and Knowledge Discovery, Optimization Algorithms, Explainable AI (XAI), Human-Centered AI, Knowledge Representation and Reasoning (KR), Multi-Modal AI, Autonomous Driving Technologies, Traffic Strategy and Optimization, Smart Infrastructure, Public Transportation Systems, Mobility as a Service (MaaS), Safety Systems and Risk Assessment, Railway Systems and Automation, Aviation and Air Traffic Engineering, Smart Grid Strategy, Renewable Energy Integration, Energy Consumption Optimization, Grid Security and Cybersecurity, Electric Vehicles (EVs) and Charging Infrastructure, Energy Market Forecasting, Industrial Automation and Control Systems, Energy Efficiency in Manufacturing, Water and Wastewater Engineering, Artificial Intelligence in Nuclear Power, Cell Networks, Computational Neuroscience, Brain-Computer Interface, Ambient Intelligence",
+      "callForPapers": "2026-07-31",
+      "url": "icaifi.unperba.ac.id/",
+      "eventContact": "icaifi@unperba.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Riss Hotel Malioboro,  Jl. Gowongan Kidul, Sosromenduran, Gedong Tengen, Kota Yogyakarta , , , , Yogyakarta, , Indonesia, 55271, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

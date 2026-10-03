@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gpmDx440gr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72366,
+      "eventTitle": "2026 International Conference on Electrical, Electronics, and Computer Science with Advance Power Technologies - A Future Trends (ICE2CPT)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Aerospace; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Roorkee",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "College of Engineering Roorkee; IEEE Industrial Electronics Society; National Institute of Technology - Jamshedpur",
+      "keywords": "Electrical Engineering,Electronics Engineering,Computer Science,Advanced Power Technologies,Artificial Intelligence,",
+      "scope": "The International Conference on Electrical Electronics and Computer Science with Advanced Power Technologies aims to bring together researchers, academicians, industry professionals, and practitioners to exchange innovative ideas, recent advancements, and practical experiences in the fields of electrical engineering, electronics, computer science, and advanced power technologies.  The conference focuses on emerging trends and interdisciplinary approaches that address current challenges and future directions in sustainable energy systems, intelligent control, and digital transformation of power and computing infrastructures.",
+      "callForPapers": "2026-08-15",
+      "url": "ice2cpt.org/",
+      "eventContact": "vmeena1@ee.iitr.ac.in",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "COER University, Roorkee-Haridwar, Roorkee, Haridwar, Uttarakhand, Roorkee, , India, 247667, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

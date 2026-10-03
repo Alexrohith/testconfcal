@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ofLowY40q6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70357,
+      "eventTitle": "2026 IEEE/ACS 23rd International Conference on Computer Systems and Applications (AICCSA)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Sharjah",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "Arab Computer Society; IEEE Computer Society",
+      "keywords": "Cloud Computing,Internet of Things,Computer Science,Computer Networks,Cybersecurity,Trust Management,Data Science,Data Analytics,Big Data,Machine Learning,Artificial Intelligence,Natural Language Processing,Multimedia,Computer Vision,",
+      "scope": "AICCSA 2026 is an international forum for academics, industry researchers, developers, and practitioners to report and share groundbreaking contributions in various IT fields that range from distributed computing to data science, security and machine learning.",
+      "callForPapers": "",
+      "url": "aiccsa.net/",
+      "eventContact": "cihantunc@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Sharjah, , , , , Sharjah, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1/Smx4408rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70266,
+      "eventTitle": "2026 IEEE/SBC 38th International Symposium on Computer Architecture and High Performance Computing (SBAC-PAD)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Madrid",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Brazilian Computer Society - SBC; IEEE Computer Society",
+      "keywords": "High Performance Computing,Distributed Computing,Computer applications,Computer Architecture,Hardware Software Co-design,Computer Networks,Parallel architectures,Parallel Processing,",
+      "scope": "SBAC-PAD is an annual international conference series, which presents the latest trends, current research and developments, and novel tools and applications in the fields of Computer Architecture, High-Performance Computing, and Parallel and Distributed Computing technologies. SBAC-PAD is open to industry, faculty, researchers, practitioners, and undergraduate and graduate students from around the world. Its scientific program is composed of high-quality submitted papers, selected by a thorough peer review process, and invited talks from renowned researchers.",
+      "callForPapers": "2026-07-01",
+      "url": "coco-arcos.github.io/sbac-pad2026/",
+      "eventContact": "jesus.carretero@uc3m.es",
+      "sponsorTypes": "1; 9",
+      "venues": "UNIVERSIDAD CARLOS III DE MADRID, RONDA DE TOLEDO 1, CAMPUS PUERTA DE TOLEDO, , , MADRID, , Spain, 28005, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

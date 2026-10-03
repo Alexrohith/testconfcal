@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wt/ewY409aEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73365,
+      "eventTitle": "2029 68th IEEE Conference on Decision and Control (CDC)",
+      "startDate": "2029-12-11",
+      "endDate": "2029-12-14",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "San Juan",
+        "region": "Puerto Rico",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Control Systems Society",
+      "keywords": "Control Theory, Machine Learning, Optimization, Decision Theory, Estimation,",
+      "scope": "Conference is the main international conference on decision and control theory",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "dullerud@umn.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , PR, USA, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

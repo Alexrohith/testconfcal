@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 13,Rid: x82Ax440870BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71512,
+      "eventTitle": "2026 IEEE/ACM 19th International Conference on Utility and Cloud Computing (UCC)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Florianópolis",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Computer Architecture - ACM SIGARCH; IEEE Computer Society",
+      "keywords": "Cloud Computing,Edge Computing,Artificial intelligence,Autonomic Computing,Computing Continuum,",
+      "scope": "New discoveries and high-quality research contributions in the broad area of Cloud, Edge and Computing Continuum, Utility Computing, and associated technologies and applications, such as Serverless, Distributed Computing and Function as a Service.",
+      "callForPapers": "2026-08-31",
+      "url": "",
+      "eventContact": "bit@ic.unicamp.br",
+      "sponsorTypes": "1; 9",
+      "venues": "Majestic Palace Hotel, Av. Jorn. Rubéns de Arruda Ramos, 2746, , , , Florianópolis, , Brazil,  88015-702, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

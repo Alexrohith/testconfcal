@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /f38xo40xroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72488,
+      "eventTitle": "2027 International Conference on Computational Intelligence for Sustainable Solutions (ICCISS)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-09",
+      "about": "Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Ghaziabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "KIET Deemed to be University; Uttar Pradesh Section",
+      "keywords": "Computational artificial intelligence,Sustainable Solutions,Healthcare and Biomedical Applications,Data Science and Analytics for Sustainability,Renewable Energy and Smart Grid Systems,Cyber-Physical Systems and Security in Sustainable Solutions,",
+      "scope": "The conference theme is  interdisciplinary and provides a broader  spectrum of coverage in the field of  using AI in engineering and science for sustainable development.",
+      "callForPapers": "2026-08-14",
+      "url": "icciss2027.kiet.co.in/",
+      "eventContact": "drjkseth@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "KIET Deemed to be University, Delhi-NCR, Ghaziabad-Meerut Road, , , Ghaziabad, , India, 201206, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

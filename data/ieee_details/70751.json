@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: tZmZx440g7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70751,
+      "eventTitle": "2026 5th International Conference on Automation, Computing and Renewable Systems (ICACRS)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pudukkottai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": " Mount Zion College of Engineering and Technology; IEEE Industry Applications Society",
+      "keywords": "Computational Methods,Grid Computing,Human-Computer Interaction,Robotics and Automation,Internet of Things (IoT),Renewable Systems,Cyber-Physical Systems,",
+      "scope": "Many computational intelligence and learning methods, such as expert systems, neural networks, genetic algorithms and so on have found success in a variety of control and automation fields. Intelligent Control, which differs from conventional approaches based on methodologies derived from Artificial Intelligence[AI] and soft computing techniques, is capable of dealing with problems in diverse computational and communication domains and, more recently, those related to renewable energy and mobile autonomous systems, where conventional methods were unsuccessful. Nevertheless, new technologies such as artificial intelligence, edge computing, and the Internet of Things have led to an unprecedented development of control and intelligent systems. The theme of ICACRS 2026 is \"Intelligent Computational Methods, Automation and Emerging trends in renewable energy\".",
+      "callForPapers": "2026-09-03",
+      "url": "icacrs.com/2026/",
+      "eventContact": "icacrs.confe@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Mount Zion College of Engineering and Technology, Lena vilakku, Pilivalam P.O, Thirumayam Tk, , Pudukkottai, , India, 622507, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

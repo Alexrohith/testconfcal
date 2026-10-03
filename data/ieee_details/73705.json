@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 8,Rid: 1NyQx440wrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73705,
+      "eventTitle": "2027 IEEE International Conference on Computational Photography (ICCP)",
+      "startDate": "2027-08-02",
+      "endDate": "2027-08-04",
+      "about": "Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "College Park",
+        "region": "Maryland",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "computational photography,physics-based vision,computer graphics,image processing,computer vision,3D imaging,computational optics,",
+      "scope": "The International Conference on Computational Photography is the premier venue for research works broadly on computational photography. Computational photography is a vibrant area at the intersection of optics, imaging, sensors, signal processing, computer vision, and computer graphics. It seeks to create new photographic and imaging functionalities and experiences that go beyond the possibilities of exclusive, disparate camera and image processing technologies. This cross-disciplinary field further seeks a better understanding of imaging models, perception, and limits, through holistic analysis.",
+      "callForPapers": "",
+      "url": "iccp2027.iccp-conference.org",
+      "eventContact": "metzler@umd.edu",
+      "sponsorTypes": "1",
+      "venues": "University of Maryland, 8125 Paint Branch Dr, , , , College Park, MD, USA,  20742, ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

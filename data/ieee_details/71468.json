@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /d7uwY40xaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71468,
+      "eventTitle": "2026 11th International Conference on Energy Efficiency and Agricultural Engineering (EE&AE)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Nuclear Engineering; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Starozagorski bani",
+        "region": "",
+        "country": "Bulgaria"
+      },
+      "sponsors": "Association for Engineering and Research in Agriculture (AERA); Bulgaria Section; Bulgaria Section CAS/SSC Joint Chapter",
+      "keywords": "energy efficiency,smart grid,renewable energy sources,NZEB,power systems,control systems,energy storage,lifecycle management,electric vehicles,Sensors,Internet of Things (IoT),precision agriculture,remote sensing,information and communication technologies,Big Data,unmanned aerial vehicles,artificial intelligence,machine learning,deep learning,Entrepreneurship,education technologies,",
+      "scope": "The general scope of the conference includes all topics related to energy efficiency, renewable energy and precision agriculture.",
+      "callForPapers": "2026-07-19",
+      "url": "eeae-conf.uni-ruse.bg/",
+      "eventContact": "tgeorgiev@ecs.uni-ruse.bg",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Spa Hotel Calista, , , , , Starozagorski bani, , Bulgaria, 6062, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

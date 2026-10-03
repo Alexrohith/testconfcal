@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: rPv7xo40z7oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71094,
+      "eventTitle": "2026 2nd International Conference on Medical Robotics and Artificial Intelligence (CMRAI)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Bioengineering; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; Hong Kong Society of Mechanical Engineers; Sichuan University; University of Electronic Science and Technology of China (UESTC) ",
+      "keywords": "Medical Robotics,AI Applications in Medicine, Health, and Care,Surgical Robots,• Bioinformatics and computational biology,",
+      "scope": "The scope of this event convers all the cutting-edge topics related to Medical Robotics and AI applications in Medicine, Health, and Care",
+      "callForPapers": "2026-06-10",
+      "url": "cmrai.org/",
+      "eventContact": "yifan.chen@uestc.edu.cn",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Qingshuihe Campus of University of Electronic Science and Technology of China, , , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

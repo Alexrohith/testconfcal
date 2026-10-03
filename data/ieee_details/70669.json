@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oNelx4409r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70669,
+      "eventTitle": "2026 6th International Conference on Ubiquitous Computing and Intelligent Information Systems (ICUIS)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Coimbatore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; RVS Technical Campus",
+      "keywords": "Cloud Computing,Advanced Intelligent Systems,High Performance Computing,Pervasive Communication Networks,Ubiquitous Computing,Cognitive Informatics,Smart Automation Systems,",
+      "scope": "The rapid development of Information and Communication Technologies [ICT], which has the ability to completely change the way people communicate and interact with each other and the environment. In this scenario, recently ubiquitous computing is emerging as the new research paradigm that implements a pervasive usage of intelligent computing technologies in the emerging cyber-physical domains. The 6th International Conference on ubiquitous computing and intelligent information systems [ICUIS 2026] organized by RVS Technical Campus, Coimbatore, India, on 11-13, November 2026 aims to develop a new research forum for researchers, academicians and industrialist to share and exchange their potential insights on the design, implementation and analysis of ubiquitous computing models in intelligent information systems.",
+      "callForPapers": "2026-08-05",
+      "url": "icuis.com/2026/",
+      "eventContact": "contact.icuis@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "RVS Technical Campus, Kumaran Kottam Campus, Kannampalayam, , , Coimatore, , India, 641 402 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

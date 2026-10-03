@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9oTvwY40x6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71975,
+      "eventTitle": "2026 7th International Conference on Big Data, Artificial Intelligence and Internet of Things Engineering (ICBAIE)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Xian City",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xian University of Technology",
+      "keywords": "Big Data Theory and Algorithms,Big Data Mining and Analysis,Big Data Storage and Management,Multi-source Data Fusion,Machine Learning and Deep Learning,Natural Language Processing,Explainable AI,Intelligent Robotics and Computer Vision,IoT Architecture and Protocols,Wireless Sensor Networks,Smart City and IoT Applications,Edge Intelligence for IoT,",
+      "scope": "ICBAIE 2026 will serve as a high-level international academic forum focused on the innovation, integration, and interdisciplinary application of big data, AI, and IoT engineering technologies. The conference will convene global researchers, engineers, and industrial experts to share cutting-edge findings, tackle core technical challenges, and advance the deep integration of academic research and industrial practice. Its core research tracks will include: big data theory and algorithms, big data mining and analysis, big data storage and management, multi-source data fusion, machine learning and deep learning, natural language processing, explainable AI, intelligent robotics and computer vision, IoT architecture and protocols, wireless sensor networks, smart city and IoT applications, and edge intelligence for IoT. All aim to build a professional exchange platform, boosting technological innovation and industrial development in these interdisciplinary fields.",
+      "callForPapers": "2026-09-07",
+      "url": "www.icbaie.net/",
+      "eventContact": "wdl.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "No. 5 Jinhua South Road, Beilin District, Xi'an City, Shaanxi Province, , , , Xi'an City, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

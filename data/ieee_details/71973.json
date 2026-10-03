@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 07GTx4407L4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71973,
+      "eventTitle": "2026 IEEE International Conference on Visual Communications and Image Processing (VCIP)",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Circuits and Systems Society; Singapore Section CAS Chapter; Singapore Section SP Chapter",
+      "keywords": "video coding,Point cloud capture and compression,Compression for Machine Vision,ImageVideo Security and Privacy,Advanced Techniques for Emerging Stereo and Multi-view Videos,3D reconstruction from monocular views,Visual Communications,Embedded Systems and Architecture Implementations,Cloud Multimedia Systems,Emerging applications leveraging 5G networks,Generative AI and Perceptual AI for visual communication and image processing,",
+      "scope": "The IEEE International Conference on Visual Communications and Image Processing (VCIP) is one of the flagship conferences of the IEEE Circuits and Systems Society’s Visual Signal Processing and Communications Technical Committee. Since 1986, VCIP has served as a premier global forum for sharing advances in visual communication, image processing, and multimedia technologies.   VCIP 2026 will continue this legacy by providing a fertile environment for researchers, engineers, and practitioners from both academia and industry. The program will include oral presentations, poster sessions, plenary talks, special sessions, and tutorials, encouraging in-depth scientific exchange and collaboration.",
+      "callForPapers": "2026-06-19",
+      "url": "vcip-2026.org/",
+      "eventContact": "hazel_hee@sutd.edu.sg",
+      "sponsorTypes": "1; 5; 5",
+      "venues": "Singapore University of Technology and Design, 8 Somapah Road Singapore, , , , Singapore, , Singapore, 487372, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

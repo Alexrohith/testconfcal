@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 87LZwY4016EBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72890,
+      "eventTitle": "2028 IEEE International Workshop on Machine Learning for Signal Processing (MLSP)",
+      "startDate": "2028-09-10",
+      "endDate": "2028-09-13",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Signal processing,Machine Learning,Aritificial Intelligence,",
+      "scope": "Machine learning for signal processing",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "zhaosi@nwpu.edu.cn",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Xi'an, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: n/+nx440hMABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71291,
+      "eventTitle": "2027 International Conference on Advances in Next-Gen Computer Science (ICANCS)",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section C Chapter; Gopalan College of Engineering and Management",
+      "keywords": "Intelligent Systems and Applications,Networks, Security and Privacy Technologies,Emerging Technologies and Interdisciplinary Applications,,",
+      "scope": "The scope of the IEEE conference on Advances in Next-Gen Computer Science (ICANCS 2026) encompasses a broad spectrum of topics within computer science engineering and information technology fields. It focuses on the latest technological advancements, innovative research findings, and emerging trends in these areas. The conference aims to bring together experts, researchers, and practitioners to discuss challenges, share solutions, and explore opportunities for collaboration in various domains of engineering and technology, thereby contributing to the advancement of the scientific and industrial community.",
+      "callForPapers": "2026-05-09",
+      "url": "sites.google.com/view/icancs-2027?usp=sharing",
+      "eventContact": "poorani_cse@gopalancolleges.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Gopalan College of Engineering and Management, 181/1, 182/1, Behind SAP Labs, Seetharam Palya, Basavanagar, Hoodi, Bangalore -560 048 , , , , Bangalore, , India, 560048, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

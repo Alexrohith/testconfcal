@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: q5qIx440o74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73469,
+      "eventTitle": "2027 4th International Conference on Innovations in Cybersecurity and Data Science (ICICDS)",
+      "startDate": "2027-06-28",
+      "endDate": "2027-06-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Pathum Thani",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; S.E.A. College of Engineering and Technology",
+      "keywords": "Artificial Intelligence Algorithms,Data Engineering,Cybersecurity,Data-driven decision-making,Applied Cryptography,Multimodal Data Analysis,Deep Learning for Data Analytics,",
+      "scope": "ICICDS 2027 aims to bring academicians, industrialists, technocrats, researchers, and experts from the field of computer science, computer applications, information technology, Artificial Intelligence, and all other relevant fields to a common forum to explore and discuss innovative research ideas and findings in the fields of IoT, big data, data management and analytics, and security. The theme of ICICDS, \"Data-Driven Technologies and Cybersecurity,\" highlights the significance of research and development activities in the fields of data science and cybersecurity to incorporate the benefits of these technologies to enhance the quality of life.",
+      "callForPapers": "2027-03-21",
+      "url": "icicds.com/2027/",
+      "eventContact": "Pratikshya.b@siu.ac.th",
+      "sponsorTypes": "1; 9",
+      "venues": "Shinawatra University, 99 Moo 10, Bangtoey, , , , Pathum Thani, , Thailand, 12160, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

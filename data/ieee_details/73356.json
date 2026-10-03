@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5L+Ex440ir4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73356,
+      "eventTitle": "2027 3rd International Conference on Advanced Innovations in Smart Cities (ICAISC)",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Jeddah",
+        "region": "",
+        "country": "Saudi Arabia"
+      },
+      "sponsors": "Jeddah International College; Western Saudi Arabia Section",
+      "keywords": "Smart Cities,Artificial Intelligence,Cybersecurity,Big Data,Data Science,Smart Energy,Smart Transportation,",
+      "scope": "AI & Urban Automation – Generative AI, digital twins, computer vision, predictive maintenance, and autonomous systems for city services.  IoT & Connectivity – 5G/6G, edge-to-cloud computing, LPWAN, VANETs, V2X, and wearable tech.  Cybersecurity & Privacy – Zero-trust architectures, blockchain, federated learning, differential privacy, and cryptographic protocols for critical infrastructure.  Big Data & Spatial Analytics – GIS, spatial-temporal mining, real-time stream processing, data fusion, and open data frameworks.  Smart Energy & Sustainability – Renewable microgrids, AI-driven energy management, EV charging, circular economy, waste/water management, and carbon tracking.  Digital Society & Governance – E-government, FinTech, digital inclusion, disaster response, and smart logistics.",
+      "callForPapers": "2026-09-01",
+      "url": "icaisc27.jicollege.edu.sa/",
+      "eventContact": "ghadeer.a@jicollege.edu.sa",
+      "sponsorTypes": "3; 9",
+      "venues": "Jeddah International College,  Ibn Rasheed Elfehri Street,, Taiba District, , , Jeddah, , Saudi Arabia,  23831, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

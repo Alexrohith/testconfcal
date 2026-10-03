@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /rOcx440sL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72303,
+      "eventTitle": "2026 IEEE International Conference Challenges and Innovations on TIC (I2CIT)",
+      "startDate": "2026-12-23",
+      "endDate": "2026-12-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Hammamet",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "Economic Development and Innovation Association; Tunisia Section; Tunisia Section IA Chapter",
+      "keywords": "Internet of things,Cloud Computing,Cyber security,Acoustic Sensors,Smart city,",
+      "scope": "Industry",
+      "callForPapers": "2026-10-04",
+      "url": "https://www.i2cit.com/accueil",
+      "eventContact": "cherifa.nakkach@enit.utm.tn",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Yasmine Hammamet, , , , , , , Tunisia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

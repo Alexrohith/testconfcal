@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3vGfx440wbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70082,
+      "eventTitle": "2026 20th Biennial Baltic Electronics Conference (BEC)",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-08",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Tallin",
+        "region": "",
+        "country": "Estonia"
+      },
+      "sponsors": "Estonia Section IM/ED/EMB Joint Chapter; Tallinn University of Technology",
+      "keywords": "communication systems,cognitive systems,embedded systems,cyberphysical systems,electronic devices,power conversion technologies,energy conversion technologies,instrumentation and signal processing,bioelectronics,Bioanalytical systems,Cybersecurity,",
+      "scope": "The Baltic Electronics Conference 2026 (BEC2026) marks its 20th edition, continuing a proud tradition as a leading event for electronics and embedded systems in the Baltics-Nordics. For nearly three decades, BEC has been the meeting point for academia, industry, and innovators, driving research and technology that shape the future.",
+      "callForPapers": "2026-06-03",
+      "url": "taltech.ee/en/bec2026",
+      "eventContact": "frederick.rang@taltech.ee",
+      "sponsorTypes": "5; 9",
+      "venues": "Nordic Hotel Forum, Viru väljak 3, , , , Tallinn, , Estonia, 10111, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

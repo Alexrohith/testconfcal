@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2cadx440ub8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 61040,
+      "eventTitle": "ICC 2027 - IEEE International Conference on Communications",
+      "startDate": "2027-05-30",
+      "endDate": "2027-06-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Washington",
+        "region": "District of Columbia",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Telecommunications,Communications,Networking,Optical Networks,Signal Processing,Internet of things,Satellite Communications,Big Data,Data Center Networks,Social Networks,Multimedia,Wireless Networks,",
+      "scope": "All topics related to existing emerging communications and networking technologies",
+      "callForPapers": "2026-10-26",
+      "url": "icc2027.ieee-icc.org/",
+      "eventContact": "e.gaerlan@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "Washington Hilton, 1919 Connecticut Ave NW, , , , Washington, DC, USA, 20009, ;",
+      "region": "Region02-Eastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

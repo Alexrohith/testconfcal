@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3qfnwY40iaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72493,
+      "eventTitle": "2026 International Conference on Recent Advances in Mathematics and Informatics (ICRAMI)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hammamet",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "Carthage University; Tunisia Section; Tunisia Section CIS Chapter",
+      "keywords": "Artificial Intelligence; Machine Learning; Deep Learning; Optimization Algorithms; Data Science; Applied Mathematics; Computational Intelligence; Signal Processing; Pattern Recognition; Graph Theory; Network Science; Cybersecurity; Cryptography; Intelligent Systems; Big Data Analytics.,",
+      "scope": "the International Conference on Recent Advances in Mathematics and Informatics (ICRAMI 2026) focuses on advancing both theoretical and applied research in mathematics and computer science, with an emphasis on innovative methodologies and real-world applications.  Its scope includes, but is not limited to, artificial intelligence, machine learning, optimization, applied mathematics, statistics, data science, computational modeling, graph theory, cryptography, and information systems, as well as emerging interdisciplinary topics that connect mathematics, computing, and intelligent systems.",
+      "callForPapers": "2026-07-09",
+      "url": "https://icrami-2026.sciencesconf.org/?lang=en",
+      "eventContact": "hakim.bendjenna@univ-tebessa.dz",
+      "sponsorTypes": "3; 5; 9",
+      "venues": ", Hammamet, , Tunisia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

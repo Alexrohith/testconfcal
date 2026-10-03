@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lqilx4406LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73833,
+      "eventTitle": "2027 IEEE International Conference on Quantum Computing and Communication Systems (QSys)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Denton",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Quantum Computing,Distributed Systems,Edge-Cloud Computing,",
+      "scope": "This conference will explore the interplay between quantum computing, cloud computing, and modern distributed computing systems, with a focus on emerging architectures, technologies, algorithms, and applications that integrate quantum and classical computational resources. As quantum computing transitions from isolated experimental platforms toward networked and cloud-accessible services, new opportunities and challenges arise in designing systems that span quantum processors, classical data centers, edge and fog infrastructure, and distributed computing environments.",
+      "callForPapers": "2026-11-24",
+      "url": "",
+      "eventContact": "ymao41@fordham.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

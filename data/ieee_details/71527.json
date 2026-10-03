@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iZ6hx440yrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71527,
+      "eventTitle": "2026 1st International Conference on AI Infrastructure and Interconnect Technologies (AI3T)",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Hefei",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Communications Society; University of Science & Technology of China - USTC",
+      "keywords": "AI Infrastructure, High-Performance Interconnects, Data Center Networking, Optical Interconnect Technologies, AI Accelerator Networking (GPUTPUFPGA), Scalable AI System Architecture, Low-Latency Network Protocols, Network Automation for AI, Distributed AI Training & Networking, Edge-to-Cloud AI Networks, Green & Efficient AI Infrastructure, AI-Native Network Architectures, Embodied AI Infrastructure, Secure and Trustworthy AI Systems,",
+      "scope": "The 1st International Conference on AI Infrastructure and Interconnect Technologies (AI3T 2026) provides a premier international forum for researchers, engineers, industry practitioners, and end-users to present, exchange, and discuss the latest innovations, foundational research, practical experiences, and future visions across the entire ecosystem of hardware and network systems that power advanced artificial intelligence. The conference encompasses all aspects of scalable, efficient, and intelligent computing foundations, including: AI Infrastructure & Architecture、High-Performance Interconnects & Optical Networking、AI Accelerator & Heterogeneous Computing Systems、Data Center & Scalable Network Architectures、Distributed AI Training & Workload Orchestration、Network Automation & AI-Native Operations、Edge-to-Cloud Computing for AI、Embodied AI & Robotic Infrastructure、Secure, Trustworthy & Sustainable AI Systems、Emerging Interconnect Technologies & Standards.",
+      "callForPapers": "",
+      "url": "ai3t.ieee-aiconf.cn/",
+      "eventContact": "yunyunf@mail.ustc.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "InterContinental Hefei by IHG, , , , , Hefei, , China, 230000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h9iix44017wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72245,
+      "eventTitle": "2026 33rd Asia-Pacific Software Engineering Conference (APSEC)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-10",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "IEEE Computer Society; Universitas Brawijaya",
+      "keywords": "Software Engineering,Software Engineering Practice,AI-driven Software Engineering,Requirements Engineering,Software Architecture and Design,Testing and Verification,Software Security,Software Maintenance and Evolution,",
+      "scope": "The Asia-Pacific Software Engineering Conference (APSEC) focuses on advancing the theory and practice of software engineering. It covers a broad spectrum of topics, including software design, development, testing, maintenance, and evolution, as well as emerging areas such as AI-driven software engineering, cyber-physical systems, and autonomous systems. The conference aims to bridge academia and industry by addressing real-world challenges, promoting empirical studies, and fostering innovation in software engineering methodologies, tools, and practices.",
+      "callForPapers": "2026-07-06",
+      "url": "conf.researchr.org/home/apsec-2026",
+      "eventContact": "moch.ali.fauzi@ub.ac.id",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , Bali, , Indonesia, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

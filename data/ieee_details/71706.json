@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m/rlwY40qKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71706,
+      "eventTitle": "2027 5th International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Ottapalam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Jawaharlal College of Engineering and Technology",
+      "keywords": "Data Engineering,Internet of Things,Big Data Analytics,Computing Technologies,Machine Learning,Artificial Intelligence,Data Mining and Knowledge Discovery,Software Defined Network,",
+      "scope": "The 5th International Conference on Intelligent Data Communication Technologies and Internet of Things (IDCIoT 2027) is being organized on 21–23, January 2027 at Jawaharlal College of Engineering and Technology (JCET), Ottapalam, Kerala, India. IDCIoT 2027 will provide an outstanding international forum for sharing knowledge and results in all fields of Data Communication and IoT. IDCIoT 2027 provides quality key experts who provide an opportunity in bringing up innovative ideas. Recent updates in the in the field of Data Communication Technology will be a platform for the upcoming researchers. The conference will be Complete, Concise, Clear and Cohesive in terms of research related to Data Communication and Internet of Things.",
+      "callForPapers": "2026-10-29",
+      "url": "icoici.org/2027/",
+      "eventContact": "iciciconfhelpdesk@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Jawaharlal College of Engineering and Technology, Lakkidi,, Mangalam,, , Kerala, Ottapalam, , India, 679301, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

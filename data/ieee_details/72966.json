@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uIitx440vcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72966,
+      "eventTitle": "2026 7th China International SAR Symposium (CISS)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Geoscience; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Geoscience and Remote Sensing Society; Nanjing University of Aeronautics & Astronautics - NUAA",
+      "keywords": "SAR System,Advanced SAR Subsystem,Signal Processing Technique,SAR Application,",
+      "scope": "The 7th China International SAR Symposium (CISS 2026) will be jointly organized by Nanjing University of Aeronautics and Astronautics and the Shanghai Institute of Satellite Engineering. The symposium is scheduled to take place from November 6 to 8,2026, in Nanjing, Jiangsu Province, China. As the premier international conference dedicated to advancing Synthetic ApertureRadar (SAR) technologies and applications, CISS has established its academic leadership through six successful editions since itsinception in 2018. The 7th CISS continues this tradition, serving as a global platform for SAR innovation.",
+      "callForPapers": "2026-08-30",
+      "url": "https://www.researching.cn/conference/CISS2026",
+      "eventContact": "huiwang@mml-ciss.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Nanjing Cuipingshan Hotel, No. 168 Tianyuan West Road, Jiangning District, Nanjing, Jiangsu, China, , , , Nanjing, , China, 211100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

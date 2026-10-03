@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3Kirx440psABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73333,
+      "eventTitle": "2028 IEEE Symposium on Security and Privacy (SP)",
+      "startDate": "2028-05-22",
+      "endDate": "2028-05-25",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Montreal",
+        "region": "Quebec",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "security and privacy,",
+      "scope": "Since 1980, the IEEE Symposium on Security and Privacy has been the premier forum for presenting developments in computer security and electronic privacy, and for bringing together researchers and practitioners in the field.",
+      "callForPapers": "2027-05-31",
+      "url": "",
+      "eventContact": "aaviv@gwu.edu",
+      "sponsorTypes": "1",
+      "venues": "Le Centre Sheraton Montreal Hotel, , , , , , QC, Canada, , ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

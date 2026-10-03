@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xofgwY406aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72271,
+      "eventTitle": "2026 International Conference on Robot Technology and Control Engineering (RTCE)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Zhenjiang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Jiangsu University; Nanjing Section",
+      "keywords": "Robot Technology ,Control Engineering,Deep Learning and Intelligent Control,Machine Vision Control Algorithms,",
+      "scope": "RTCE 2026 invites original research contributions advancing robot technology and control engineering. We welcome submissions addressing intelligent robot design, visual perception systems, and motion planning algorithms. Topics of interest include visual navigation, multimodal perception fusion, SLAM algorithms, and vision-driven manipulation. In control engineering, we seek works on visual servo control, adaptive systems, robust trajectory tracking, and vision-based state estimation. Research integrating machine learning with robotic perception, human-robot interaction, and autonomous decision-making is particularly encouraged. All manuscripts will undergo rigorous peer review to ensure technical excellence and practical relevance to emerging industrial applications.",
+      "callForPapers": "2026-08-19",
+      "url": "www.ic-rtce.org/",
+      "eventContact": "mohdaliff.pc@hotmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Jiangsu University, No. 301 Xuefu Road, Zhenjiang City, Jiangsu Province, China, , , , Zhenjiang, , China, 212013‌‌, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

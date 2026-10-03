@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: tJOMx440trsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72315,
+      "eventTitle": "2026 IEEE 5th International Conference on Data, Decision and Systems (ICDDS)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section CS Chapter",
+      "keywords": "Data science,Data Mining and Optimization,Systems for Big Data,Artificial intelligence,Affective Computing,Distributed Computing,Resource-constrained computing architectures,Privacy, security, and trust,Social computing and analytics,Quantum-safe applications,CPUGPU architectures for AIML applications,",
+      "scope": "ICDDS 2026 invites high-quality original contributions from researchers, engineers, and subject matter experts from academia, industry, and start-ups to present their latest innovations in Data/Decision Systems (DDS) and their applications. ICDDS 2026 aims to look broadly at data-based innovation and technologies in interdisciplinary areas. The conference is particularly interested in all aspects of data and decision science, applications, solution design, and system challenges in new paradigms, ranging from theory to applied research.",
+      "callForPapers": "2026-07-31",
+      "url": "ieeecsbangalore.org/icdds-2026/",
+      "eventContact": "rohitverma.kgp@gmail.com",
+      "sponsorTypes": "3; 5",
+      "venues": "Christ University, Yeshwantpur Campus, Bengaluru, Nagasandra Post, Bangalore, , , Bangalore, , India, 560073, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

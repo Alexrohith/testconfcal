@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9/Chx4400LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71693,
+      "eventTitle": "2026 IEEE 6th International Conference on ICT in Business Industry & Government (ICTBIG)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-03",
+      "about": "Bioengineering; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Indore, Madhya Pradesh, India",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section; Madhya Pradesh Section C Chapter",
+      "keywords": "ICT,Business,indusstry,Government,Information And Communication Technology, computer engineering,data science,Engineering Management,",
+      "scope": "Scope of the conference is for academia, industry in the field of information and communication technology. ICT applications in Engineering, Management and sciences.",
+      "callForPapers": "2026-09-01",
+      "url": "indore.hosting.acm.org/ictbig2026/",
+      "eventContact": "sarlamore@gmail.com",
+      "sponsorTypes": "3; 5",
+      "venues": "Symbiosis University of Applied Sciences, Indore, Bada Bangadda , Super Corridor, Near Airport, , Indore, , India, 453111, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

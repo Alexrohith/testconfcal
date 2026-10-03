@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /M/jwY408aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73787,
+      "eventTitle": "2027 15th International Winter Conference on Brain-Computer Interface (BCI)",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-24",
+      "about": "Bioengineering; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gangwon Province",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Korea Brain Education Society",
+      "keywords": "brain-computer interface,EEG,BCI APPLICATIONS,DEEP LEARNING,NEURO-REHABILIATIONS,VIRTUAL REALITY,MACHINE LEARNING,REHABILITATION ROBOTICS,NEURAL NETWORKS,BRAIN-MAHCINE INTERFACE,",
+      "scope": "BRAIN-COMPUTER INTERFACE AND ITS APPLICATIONS, AND MORE",
+      "callForPapers": "2026-09-01",
+      "url": "brain.korea.ac.kr/bci2027/index.php",
+      "eventContact": "jungminsong@korea.ac.kr",
+      "sponsorTypes": "1; 9",
+      "venues": "High 1 Resort, 265 HIGH1-GIL, SABUK-EUP, JEONGSEON-GUN  , , , , GANGWON STATE , , Korea (South), 26154 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

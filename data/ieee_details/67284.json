@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zv7swY40taUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67284,
+      "eventTitle": "2026 International Conference on Advanced VLSI Design, AI Solutions, and Reconfigurable Technology Applications (AVARTA)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Thanjavur, Tamil Nadu",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Sastra University",
+      "keywords": "Machine Learning & Artificial Intelligence,Reconfigurable Computing & Processor Design,Analog & Mixed Signal and RF circuits,Power & Energy Management,Embedded Security,Semiconductors, Logic and Circuit Design,Embedded Systems, IoT, Cyber Physical Systems, Automotive Systems,Optical & Quantum Computing,",
+      "scope": "The First International Conference on Advanced VLSI Design, AI Solutions, and Reconfigurable Technology Applications (AVARTA 2026) is set to be a groundbreaking global forum, bringing together brilliant minds from academia, industry, and research to shape the future of semiconductor and AI-driven technologies. This premier event will serve as a catalyst for innovation, collaboration, and transformative breakthroughs across a spectrum of emerging domains, including Machine Learning & Artificial Intelligence, Reconfigurable Computing & Processor Design, Analog & RF Circuits, Embedded Security, Semiconductor & Circuit Design, Embedded Systems, IoT & Cyber-Physical Systems, and Optical & Quantum Computing. AVARTA 2026 aims to redefine the possibilities of intelligent systems, fostering cutting-edge discussions and technological advancements that will drive the future of VLSI and AI solutions.",
+      "callForPapers": "2026-11-09",
+      "url": "apps.sastra.edu/avarta26/",
+      "eventContact": "murali@core.sastra.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "SASTRA Deemed University, Thirumalaisamudram, Trichy - Thanjavur Main Road, Tamil Nadu, , Thanjavur, , India, 613401, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

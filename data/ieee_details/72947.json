@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: y+Ocx440qLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72947,
+      "eventTitle": "2027 6th International Conference on Energy Utilization and Automation (ICEUA)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-10",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Xuzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China University of Mining and Technology- CUMT; Nanjing Section",
+      "keywords": "Energy Systems and Intelligent Power Technologies,Energy Conversion and Utilization,Automation, Control and Intelligent Applications,Mechatronics,Industrial Internet of Things,",
+      "scope": "2027 6th International Conference on Energy Utilization and Automation (ICEUA 2027) focuses on recent advances in energy systems, electrical engineering, automation technologies, intelligent control, and industrial applications. The conference covers topics including renewable energy systems, smart grids, power electronics, energy management, robotics, embedded systems, industrial automation, artificial intelligence, and intelligent manufacturing. ICEUA 2027 aims to promote research and innovation in sustainable energy utilization, automation engineering, and intelligent industrial systems. It provides an international platform for researchers, engineers, and practitioners to share recent developments, discuss emerging challenges, and explore future directions in energy and automation technologies.",
+      "callForPapers": "2026-10-22",
+      "url": "www.iceua.org/",
+      "eventContact": "azura.pub@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "China University of Mining and Technology, China, No.1, Daxue Road, Xuzhou, Jiangsu 221116, China, , , , Xuzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

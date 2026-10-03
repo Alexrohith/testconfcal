@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8KOUx4408L4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71777,
+      "eventTitle": "2026 IEEE Latin American Robotics Symposium (LARS)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Bogota",
+        "region": "",
+        "country": "Colombia"
+      },
+      "sponsors": "Colombia Section; Colombia Section RA Chapter; Universidad Militar Nueva Granada",
+      "keywords": "Robotics, Robotics and Automation, Control, Robots, Control Design, Control Systems,",
+      "scope": "The Latin American Robotics Symposium (LARS) and the Latin American Robotics Competition (LARC) are leading robotics events in the region, bringing together researchers, students, and industry professionals from across Latin America and the world. The 2026 edition will take place from November 4–6, continuing the tradition of promoting innovation, scientific exchange, and high-level robotics competitions. LARS is a unique opportunity to present original research, student posters, and applied case studies in a collaborative, robotics-focused environment. Whether you're investigating autonomous systems, designing novel platforms, or exploring education through robotics, this is where your work finds its audience.",
+      "callForPapers": "2026-07-15",
+      "url": "mecatronica.umng.edu.co/lars-larc2026/",
+      "eventContact": "robinson.jimenez@unimilitar.edu.co",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Universidad Militar Nueva Granada, Cra. 11 # 101 - 80, , , , Bogotá, , Colombia, 110111, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

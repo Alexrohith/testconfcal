@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m9iRx44017sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73195,
+      "eventTitle": "2027 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)",
+      "startDate": "2027-05-20",
+      "endDate": "2027-05-22",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Kathmandu",
+        "region": "",
+        "country": "Nepal"
+      },
+      "sponsors": "Indian Inst of Info Tech & Management-Gwalior STB; Madhya Pradesh Section; Madhya Pradesh Section EPS Chapter; Nepal Section",
+      "keywords": "internet of things ,Aerospace and Electronic Systems Society,Computer aided engineering,Communication system operations and management,Networking ,digital twins,Healthcare,Intelligent Transportation,Computer Vision Enabled Technologies,Green Electronics, VLSI,",
+      "scope": "Track 1: Innovative Solutions for Healthcare, Biomedical Engineering and Sustainable Development; Track 2: Power, Control, Energy, and Intelligent Transportation Technologies; Track 3: AI, Data Science, IoT, and Computer Vision-Enabled Technologies; Track 4: Green, Flexible Electronics, VLSI, Communication, and Sensor-Based Technologies; Track 5: IT-enabled Management for Social Innovation; Track 6: Quantum Technologies, Digital Twins, Industry 5.0 and Smart Manufacturing",
+      "callForPapers": "2026-12-20",
+      "url": "iatmsi.iiitm.ac.in",
+      "eventContact": "somesh@iiitm.ac.in",
+      "sponsorTypes": "3; 3; 5; 9",
+      "venues": ", , , , Kathmandu, , Nepal, 21218, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

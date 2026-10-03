@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sJqpx440jsABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74043,
+      "eventTitle": "2027 IEEE Workshop on Applications of Signal Processing to Audio and Acoustics (WASPAA)",
+      "startDate": "2027-09-19",
+      "endDate": "2027-09-22",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Levi",
+        "region": "",
+        "country": "Finland"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "3d audio, audio coding,audio compresion,audio user interfaces,Acoustics,acoustic signal processing,acoustic signal detection,signal denoising,music information retrieval,speech enhancement,speech coding,speech processing,acoustic arrays,audio signal processing,music signal processing,source separation,",
+      "scope": "WASPAA is sponsored by the Audio and Acoustic Signal Processing Technical Committee of the IEEE Signal Processing Society. The objective of this workshop is to provide an informal environment for the discussion of  problems in audio and acoustics and signal processing techniques leading to novel solutions. Topic areas broadly include acoustic signal processing and music signal processing, together with relevant applications.",
+      "callForPapers": "2027-04-14",
+      "url": "waspaa.com/",
+      "eventContact": "annamaria.mesaros@tuni.fi",
+      "sponsorTypes": "1",
+      "venues": "Hotel Levi Panorama & Levi Summit, Tunturitie 205, , , , Levi, , Finland, 99130, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

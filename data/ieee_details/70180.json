@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +/bcwY406KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70180,
+      "eventTitle": "2027 Asia Pacific Workshop on Data Science and Information Theory (APDIT)",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-19",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Information Theory Society; Tsinghua Shenzhen International Graduate School",
+      "keywords": "Information Theory,Machine Learning,Data Science,",
+      "scope": "2027 Asia Pacific Workshop on Data Science and Information Theory will be held on April 16- 19, 2027 in Shenzhen, China.  The Asia Pacific Workshop on Data Science and Information Theory (APDIT) aims at providing a platform for information theorists in the Asia Pacific region to exchange frontier research ideas in information theory as well as the applications to emerging scientific fields, and promote cross-disciplinary researches between information theory and other research areas, such as signal processing, control and optimization, and machine learning.",
+      "callForPapers": "",
+      "url": "2027.apdit.org",
+      "eventContact": "twn2gold@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

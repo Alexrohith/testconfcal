@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: tqj5xo40rboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72639,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Frontier Computing (AIFC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Computer Society; Guangzhou Section",
+      "keywords": "Artificial Intelligence,Frontier Computing,Integration and Application of Intelligent Computing,Multimodal Fusion,",
+      "scope": "AIFC 2026 aims to gather global leading scholars, researchers and industry experts to exchange cutting-edge research and innovative applications in artificial intelligence (AI) and frontier computing. The event focuses on key topics: AI technologies (machine learning, deep learning, computer vision, NLP, generative models, multimodal fusion), frontier computing (quantum, neuromorphic, edge, secure computing), and their cross-disciplinary applications (AI for Science, intelligent manufacturing, smart healthcare, smart cities, digital twins), serving as a high-level academic and industrial collaboration platform. AIFC 2026 seeks to promote advances in AI and frontier computing, support the efficient development of intelligent computing systems, and contribute to the optimization of modern scientific and industrial development.",
+      "callForPapers": "2026-09-27",
+      "url": "www.icaifc.org/",
+      "eventContact": "aifc.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Guangzhou Computer Society, China, Inside Guangzhou Information Center, No. 45 Lianxin Road, Yuexiu District, Guangzhou, Guangdong Province, 510032, China, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

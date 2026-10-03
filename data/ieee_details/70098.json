@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +umkx4408L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70098,
+      "eventTitle": "SC27: International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "startDate": "2027-11-14",
+      "endDate": "2027-11-19",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "USA"
+      },
+      "sponsors": "Association for Computing Machinery - ACM; IEEE Computer Society",
+      "keywords": "Supercomputing, SC,High Performance,Cloud Computing,Networking,Data storage systems,High-speed networks,Mainframes,superconference,",
+      "scope": "Established in 1988, the annual SC Conference continues to steadily increase in size and impact each year. Approximately 5,000 attendees participate in the technical program, with about 17,000 attendees overall.  SC has built a community of participants, including researchers, scientists, application developers, computing center staff and management, computing industry staff, agency program managers, journalists, and congressional staffers. This is one of the conference's main strengths, making it a \"must-attend\" forum for stakeholders throughout the technical computing community.",
+      "callForPapers": "2027-04-07",
+      "url": "",
+      "eventContact": "j.leachbarnaby@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Colorado Convention Center ,  700 14th St, , , , Denver, CO, USA, 80202, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

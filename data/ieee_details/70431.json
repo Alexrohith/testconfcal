@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gKjBwo40/aYBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70431,
+      "eventTitle": "2026 IEEE 12th World Forum on Internet of Things (WF-IoT)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-29",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Abu Dhabi",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "IEEE Internet of Things Community",
+      "keywords": "• Control Robotic Network eHealth and System Sciences and Technologies,• 6G and IoT,• Design Automation for IoT Devices,• Signal Processing for IoT,• Circuits and Systems for IoT,• Reliability trustworthy Cybersecurity and security,• Electron Devices Technology and Intelligent Sensors,• Critical IoT for Industrial Applications,• Novel sensors for IoT,• Quantum Sensing and Communications,• Vehicular networks and IoT,• Digital twin and IoT Applications,• AI/Machine Learning Technologies,• IoT-Driv",
+      "scope": "The IEEE World Forum on the Internet of Things (WF-IoT2026) is to be held in Abu Dhabi- UAE for the first time. WF-IoT seeks submissions and proposals for original technical papers and presentations that address the Internet of Things (IoT), its theoretical and technological building blocks, applications that drive the growth and evolution of the IoT, operational considerations, experimentation, and experiences from deployments. It also welcomes papers on the impacts of IoT on consumers, the research community, the public sector, and commercial and industrial sectors. The theme of WF-IoT2025 is “Connected and Resilient Ecosystems”, aiming to encourage submissions of content focusing on technology and application scenarios of smart IoT and its sustainability.",
+      "callForPapers": "2026-03-31",
+      "url": "https://wfiot2026.iot.ieee.org/",
+      "eventContact": "fatima.domingues@ua.pt",
+      "sponsorTypes": "6",
+      "venues": "Khalifa University, Shakhbout Bin Sultan St - Hadbat Al Za`Faranah, , , , Abu Dhabi, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

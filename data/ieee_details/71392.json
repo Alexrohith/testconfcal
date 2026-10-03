@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6MngwY407aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71392,
+      "eventTitle": "2026 4th International Conference on Artificial Intelligence and Applications (ICAIA)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "New Delhi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Maharaja Surajmal Institute of Technology",
+      "keywords": "Artificial intelligence, Machine learning, Neural Networks, Deep AI, Evolutionary Algorithms, Robitics,IoT, Sustainability,",
+      "scope": "Track #I: Evolutionary Algorithms Track #II: AI for IoT Applications Track #III: Robotics & AI, Track #IV: AI for Human-Machine Interaction, Track #V: Deep AI & Neural Networks, Track #VI: Pattern Matching and Speech Recognition, Track #VII: AI Applications in Renewable Energy & Sustainability.",
+      "callForPapers": "2026-04-15",
+      "url": "icaia-msit.in/",
+      "eventContact": "rinkydwivedi@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Maharaja Surajmal Institute of Technology, C-4, Janakpuri, New Delhi, INDIA, , New Delhi, , India, 110058, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

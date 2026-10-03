@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hNuNx440vbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71435,
+      "eventTitle": "2027 IEEE Gujarat Section Conference (GSCon)",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-11",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "SUrat",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gujarat Section",
+      "keywords": "IEEE, IEEE gujarat section ,svnit,artificial intelligence ,smart technologies ,5G ,Robotics and automation,Industrial electronics,Microgrids,energy storage systems,electic vehicles ,Wide band gap semiconductors,sustainabilty ,cloud technology,Cryptography,sensors ,computational intelligence,geoscience and remote sensing,microwave and antennas,signal processing,cybernatics ,intelligent transportation,Aerospace and electronic systems,solid state circuits ,",
+      "scope": "This conference wil be looking for recent trends in the area of existing chapters and council of IEEE Gujarat Section like 5G communication, Computational intelligence, Power electronics applications, AI and ML, Cloud computing, edge computing, quantom computing, signals and signal processing, microwave, intelligent transportation, cybernatics , aerospace applications etc.",
+      "callForPapers": "2026-07-15",
+      "url": "www.svnit.ac.in/conference/IEEE/",
+      "eventContact": "amit.ved@marwadieducation.edu.in",
+      "sponsorTypes": "3",
+      "venues": "Sardar Vallabhbhai National Institute of Technology, Ichchhanath Road, , , , surat, , India, 395007,, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

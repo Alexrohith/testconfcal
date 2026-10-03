@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: g4iSx4404r4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73227,
+      "eventTitle": "2027 5th International Conference on Range Technology (ICORT)",
+      "startDate": "2027-02-24",
+      "endDate": "2027-02-26",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chandipur, Balasore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section COM/C Jt. Chapter; Defense Research and Development Organization, Ministry of Defence,  Government of India",
+      "keywords": "Range Technology,Radar Tracking,Electro Optics,RF and Microwave,Computer VIsion, Telemetry, Estimation Data Processing,Communication,Decision Theory,Image Processing,Safety Management,Unmanned Air Vehicle (UAV),",
+      "scope": "To bring together experts from defence and space sector, academia and industry working in the fields of range technology  for performance evaluation of weapon systems. The ICORT-2027 will provide an excellent platform for sharing novel and innovative works and results in Range Instrumentation Systems like Electro Optics, Radar, Telemetry,Command Destruct System and their associated technologies , namely RF and Microwave Engineering, Image and video processing, Communication and Digital Signal Processing, Data Science and Decision Theory etc. The aim of the conference is to create a forum for international range practitioners to share ideas, challenges and technological breakthroughs related to field of Test Ranges for performance evaluation of flight vehicles.",
+      "callForPapers": "",
+      "url": "www.icort.in/",
+      "eventContact": "pradiptar@yahoo.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Integrated Test Range , Chandipur, Balasore, Odisha, , Balasore, , India, 756025, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

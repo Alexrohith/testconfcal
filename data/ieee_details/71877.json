@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uvWvx440y70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71877,
+      "eventTitle": "2026 IEEE International Conference on Embedded Software and Systems (ICESS)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-02",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Luoyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Edge Intelligence,Systems, Models & Algorithms,Design Methodology & Tools,Emerging Embedded Applications & Interdisciplinary,",
+      "scope": "The International Conference on Embedded Software and Systems (ICESS) is a global forum for researchers and developers from academia, industry, and government to present and discuss emerging ideas and trends in embedded software and systems. The conference has a broad scope covering the design, implementation, optimization, and validation of embedded software and systems in various domains. With the rapid development of high-performance embedded chips, the computing power of edge devices has been greatly enhanced, enabling the devices to handle computation-intensive tasks in real time. More and more artificial intelligence (Al) applications are migrating to edge computing platforms for ensuring real-time response. The combination of edge computing and Al has given rise to edge intelligence, which is an emerging technology that integrates the core capabilities of network, computing, storage, and applications.",
+      "callForPapers": "2026-06-15",
+      "url": "www.ieee-hpcc.org/2026/icess/ (under construction)",
+      "eventContact": "liangxueqin@xidian.edu.cn",
+      "sponsorTypes": "1",
+      "venues": "Courtyard by Marriott Luoyang, No. 288 Kaiyuan Avenue, Luolong District, , , , Luoyang, , China, 471025, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

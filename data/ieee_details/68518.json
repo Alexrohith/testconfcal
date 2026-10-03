@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: jKTDwo40oacBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68518,
+      "eventTitle": "2027 IEEE 38th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+      "startDate": "2027-09-07",
+      "endDate": "2027-09-10",
+      "about": "Communication, Networking and Broadcast Technologies; Signal Processing and Analysis",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Communications Society; Portugal Section; Portugal Section COM Chapter",
+      "keywords": "6G enabling technologies,Wireless communications,Communication networks,Indoor radio communication,Satellite communications,Wireless propagation modelling,Machine learning for 6G spectrum sharing,Spectrum situational awareness,6G network management,ORAN solutions,Edge computing in 6G,AI-native communications,Semantic communications,Integrated sensing and communications,6G security enhancements,Generative AI for 6G,6G simulation and deployment,Gigabit wireless networPersonal area networks ,",
+      "scope": "PIMRC is one of ComSoc’s portfolio conferences, in the area of mobile and wireless communications",
+      "callForPapers": "2027-03-22",
+      "url": "imrc2027.ieee-pimrc.org",
+      "eventContact": "vera.almeida@inov.pt",
+      "sponsorTypes": "1; 3; 5",
+      "venues": "Centro de Congressos de Lisboa, Praça das Indústrias, 1, , , , Lisbon, , Portugal, 1300-307 Lisboa, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

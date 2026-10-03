@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2cGHx440n74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72682,
+      "eventTitle": "2026 International Conference on Cybersecurity for Smart and Trusted Society (ICCSTS)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Institut Teknologi Bandung",
+      "keywords": "Cybersecurity,Information Security,Network Security,Artificial Intelligence,Internet of Things,Smart Cities,Privacy,Trustworthy Systems,Digital Forensics,Blockchain Security,Cloud Security,",
+      "scope": "This conference focuses on advancing research and innovation in cybersecurity for smart and trusted society. It covers topics including information security, network security, privacy, and trustworthy systems, as well as emerging technologies such as artificial intelligence, Internet of Things (IoT), and smart cities. The conference aims to provide a platform for researchers, practitioners, and industry experts to discuss challenges, solutions, and future directions in securing digital infrastructures and intelligent systems.",
+      "callForPapers": "2026-10-31",
+      "url": "iccsts.goesmart.id",
+      "eventContact": "yusufayuba@live.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Intitut Teknologi Bandung, Jl Ganesa 10 Coblong, , , , , , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

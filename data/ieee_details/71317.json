@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: q9idx440ur8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71317,
+      "eventTitle": "2026 IEEE 26th International Conference on Communication Technology (ICCT)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Zhuhai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; China Council; Guangzhou Section; Jinan University ",
+      "keywords": "Communication and Information Theory,Signal Processing for Communications,Integrated  Sensing and Communication,Intelligent and Semantic Communications,AI for Communications  and Networks,Cloud and Edge Computing,Mobile and Wireless Networks,Internet-Of-Things &  Sensor Networks,Aerial Communications,UAV Communications,Vehicular  Networks,Reconfigurable Intelligent Surfaces,Optical Communications and Networks,",
+      "scope": "This year's theme is \"Intelligent Communications Empowering New Quality Productive Forces\" and promises to be an exciting event, bringing together researchers, academics, industry professionals, and students from all over the world to share their latest research findings, ideas, and innovations. It is also an international gathering for research in information and communication technology. With a commitment to exploring academic hotspots and industry trends within the field of Communication Technology. We believe that communication technology has a crucial role to play in addressing the challenges and creating a better future for all. The conference program includes keynote speeches, panel discussions, paper presentations, and poster sessions, covering a wide range of topics related to communication technology, including but not limited to, wireless communications, internet of things, artificial intelligence, and social media.",
+      "callForPapers": "2026-05-25",
+      "url": "www.ieee-icct.org/",
+      "eventContact": "zhaosc@fmail.org",
+      "sponsorTypes": "3; 3; 4; 9",
+      "venues": "Zhuhai Campus, Jinan University, No. 206, Qianshan Road, Xiangzhou District, , , , Zhuhai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

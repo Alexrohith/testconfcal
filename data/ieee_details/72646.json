@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kcHtwY40uqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72646,
+      "eventTitle": "2027 International Conference on Automation and Resilient Innovative Expert System (ICARIES)",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Badnera",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Maharashtra Section; Prof. Ram Meghe Institute of Technology",
+      "keywords": "Computing,Natural Language Processing,Computer Networks,Artificial Intelligence,Control Systems,Robotics and automation,Cyber Security,Digital Signal Processing,Big data Analytics,Machine learning,Cloud Computing,Generative AI,Ad Hoc Networks,Telecommunication,Digital Image Processing,Internet of Things,Network Security,Edge and Fog Computing,",
+      "scope": "The conference theme focuses on the development of advanced engineering and computing solutions that enhance the reliability, robustness, and resilience of modern technological infrastructures. The conference aims to explore innovative approaches in computing and processing, including intelligent algorithms, artificial intelligence, machine learning, and scalable cloud and edge computing architectures. It also addresses advancements in communication, networking, and broadcasting, emphasizing on secure, fault-tolerant, and resilient communication frameworks. Additionally, the theme highlights progress in robotics and control systems, particularly in autonomous systems and adaptive control. By bringing together researchers, academician, and industry professionals, the conference provides a platform to share emerging technologies and interdisciplinary research that contribute to the design of reliable and resilient technological systems for future applications.",
+      "callForPapers": "2026-06-30",
+      "url": "mitra.ac.in/icaries2026.html",
+      "eventContact": "mappund@mitra.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Prof. Ram Meghe Institute of Technology & Research Badnera, Anjangao Bari road, Badnera, Amravati, , Amravati, , India, 444701, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

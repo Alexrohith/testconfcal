@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7LOmx4408LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71682,
+      "eventTitle": "2026 28th International Conference on Modeling, Analysis and Simulation or Wireless and Mobile Systems (MSWiM)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; France Section COM Chapter; University of Ottawa",
+      "keywords": "Wireless Network,Mobile Computing,Performance Evaluation,Vehicular Network,Wireless Measurement,Modeling  and Simulatuion,Security and Privacy,Mobile Cloud,Pervasive computing and emerging models,Software Defined Network,channel modeling and analysis,Analytical Models,AI and Federated Learning models for wireless and mobile networks,",
+      "scope": "MSWiM 2026 is the 28th Annual International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems. MSWiM is an international forum dedicated to in-depth discussion of Wireless and Mobile systems, networks, algorithms and applications, with an emphasis on rigorous performance evaluation. MSWiM is a highly selective conference with a long track record of publishing innovative ideas and breakthroughs. MSWiM 2026 will be held in Paris France",
+      "callForPapers": "2026-06-01",
+      "url": "mswimconf.com/2026/",
+      "eventContact": "n.aljerri@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "ESIEE Paris, Université Gustave Eiffel , , , , , Paris, , France, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

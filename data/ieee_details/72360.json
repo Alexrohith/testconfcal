@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: t9X7xo40v7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72360,
+      "eventTitle": "2026 34th Telecommunications Forum (TELFOR)",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-26",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Belgrade",
+        "region": "",
+        "country": "Serbia"
+      },
+      "sponsors": "ETF - School of Electrical Engineering, University of Belgrade; Region 08 - Europe,Middle East,Africa; Serbia and Montenegro Section CIS Chapter; Serbia and Montenegro Section COM Chapter; Serbia/Montenegro Section; Telecommunications Society, Belgrade",
+      "keywords": "Telecommunications,Policy and Services,Communication networks,Information Technology,Radio Communications,Mobile and Wireless Networks,Communications Systems,Signal Processing,Applied Electronics,Applied Electromagnetics,Multimedia,Optical Cmmunications,Software Tools and Applications,Artificial Intelligence,Data Science,Quantum Communications,Smart and Efficient Vehicles,Smart Grid and Green Energy,Internet of Things - IoT,",
+      "scope": "TELFOR has the purpose of considering important scientific, engineering, professional, social, economic and legal aspects of Telecommunications and Information Technology. The work of TELFOR is organized through plenary sessions, invited papers, lectures, regular authors and students paper sessions, tutorials, seminars, workshops, technical, information and commercial presentations, exhibitions, etc.",
+      "callForPapers": "2026-09-04",
+      "url": "www.telfor.rs",
+      "eventContact": "kopra@etf.rs",
+      "sponsorTypes": "2; 3; 5; 5; 9; 9",
+      "venues": "Hotel Crowne Plaza, Vladimira Popovica 10, , , , Belgrade, , Serbia, 11070, ;Palace of Science, Kralja Milana 11, 11070, 11070, 11070, Belgrade, , Serbia, 11000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

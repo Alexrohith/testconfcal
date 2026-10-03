@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: rq/kwY40i6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69334,
+      "eventTitle": "2026 IEEE International Conference on E-health Networking, Application & Services (Healthcom)",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-21",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "New York",
+        "region": "New York",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Ehealth,Telemedicine,Internet of Medical Things,Wearable Sensors,Signal Processing,Biomedical Applications,Biomedical Engineering,Artificial Intelligence,Machine Learning,Security & Privacy,",
+      "scope": "IEEE HealthCom goal is to gather in New York, all the worldwide interested cohorts  (universities, research centers, industries and stakeholders) working in the healthcare field. It  should be the meeting point to exchange opinions, discuss brand-new ideas, developing  innovative and emerging solutions, and establishing new collaborations.  IEEE Healthcom will gather together experts from around the world to discuss the latest  advancements in the healthcare field by showcasing the innovative and efficient solutions being  developed within the scientific and industrial community. The conference will illustrate practical  aspects of eHealth solutions through experimental results and by hosting several workshops  targeting key technology for assisted medical care and treatments. Also, IEEE HealthCom will be the venue to further discuss and stablish future research directions, by defining the  critical problems and challenges that should be addressed in the eHealth.",
+      "callForPapers": "",
+      "url": "healthcom2026.ieee-healthcom.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "Yeshiva University Museum, 15 West 16th Street, , , , NY, NY, USA, 10011, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

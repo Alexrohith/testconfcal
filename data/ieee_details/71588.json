@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 37jkwY409aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71588,
+      "eventTitle": "2026 International Conference on Emerging Digital Intelligence and Generative Engineering (EDIGE)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-31",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Kothri District Sehore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section; VIT Bhopal University",
+      "keywords": "Artificial Intelligence,Generative Artificial Intelligence,Machine Learning,Edge Computing,Intelligent Systems,Cyber-Physical Systems,Data Analytics,Explainable AI,",
+      "scope": "The International Conference on Emerging Digital Intelligence and Generative Engineering (EDGE) aims to provide a platform for researchers, academicians, industry professionals, and practitioners to discuss recent advancements in artificial intelligence, generative AI, and intelligent engineering systems.  The conference focuses on innovative methodologies, emerging technologies, and practical applications in digital intelligence, smart systems, edge computing, and AI-driven engineering solutions. It encourages interdisciplinary research, industry collaboration, and the development of responsible, secure, and scalable intelligent systems.",
+      "callForPapers": "2026-07-15",
+      "url": "www.edgeconf.in",
+      "eventContact": "smonga6@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "VIT Bhopal University, Bhopal -  Indore Highway,, Kothari Kalan, Sehore (Dt), , , Bhopal, , , India, 466114, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

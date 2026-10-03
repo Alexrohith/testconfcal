@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wsfswY40sqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72669,
+      "eventTitle": "2026 10th International Conference on Recent Advances and Innovations in Engineering (ICRAIE)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Aerospace; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Society for Applied Computing ; Nanjing Institute of Technology, China; Nanjing Section; Poornima College of Engineering, Jaipur, Rajasthan, India",
+      "keywords": "Artificial Intelligence,Cybersecurity,Machine Learning,Engineering Management,Internet of Things,Smart Systems,Advanced Materials and Nanotechnology,Robotics,Robotics and Automation,Industry 4.0,Transportation,Automotive Engineering,Computer Science and Engineering,Aerospace Engineering,Energy Systems,Power Engineering,Transportation and Automotive Engineering,Energy Systems and Power Engineering,",
+      "scope": "Recent Advances and Innovations in Engineering",
+      "callForPapers": "2026-10-10",
+      "url": "www.icraie.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Nanjing Institute of Technology, No. 1 Hongjing Avenue, Jiangning District, Nanjing City, Jiangsu Province, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

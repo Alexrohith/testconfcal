@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lKOwx440zr0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73160,
+      "eventTitle": "2027 3rd International Conference on Networking, Embedded and Wireless Systems (ICNEWS)",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-12",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "BMS College of Engineering; Bangalore Section; Bangalore Section SEN Chapter",
+      "keywords": "Communications & RF Engineering,Intelligent Systems & Edge Computing,Smart Healthcare & Biomedical Sys-tems,VLSI, Automation & Industrial Tech,Energy, Smart Cities & Sustainability,",
+      "scope": "ICNEWS 2027 invites original research and prototypes focused on \"Driving Sustainable Innovation.\" Key themes include Next-Gen Wireless (6G/V2X), Edge AI, and Intelli-gent Embedded Systems, with a strong emphasis on Sus-tainable Industrial Automation, Smart Healthcare, and Advanced VLSI/Quantum Technologies",
+      "callForPapers": "2026-06-25",
+      "url": "ieee-conference2027-ltf3.vercel.app/",
+      "eventContact": "kpl.ece@bmsce.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "B. M. S. College of Engineering , , , , Bull Temple Road , Bengaluru , , India, 560019, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

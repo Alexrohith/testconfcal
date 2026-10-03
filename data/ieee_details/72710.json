@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1e2Sx4400LsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72710,
+      "eventTitle": "2026 World Conference on Cognitive Computing and Generative AI (WCCG)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Laxmeshwar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; North Karnataka Subsection; Smt. Kamala & Sri Venkappa M. Agadi College of Engineering & Technology - SKSVMACET",
+      "keywords": "WCCG,IEEE CONFERENCE,IEEE CONFERENCE IN KARNATAKA,",
+      "scope": "Cognitive Computing and Generative AI",
+      "callForPapers": "2026-06-10",
+      "url": "wccg.in/",
+      "eventContact": "rsreenivasadvg@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Smt Kamala And Sri Venkappa M. Agadi College of Engineering & Technology, Lakshmeshwar,  Gadag-Betageri, , , Laxmeshwar, , India, 582210, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wZ3uwY401aIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71987,
+      "eventTitle": "2029 66th ACM/IEEE Design Automation Conference (DAC)",
+      "startDate": "2029-07-15",
+      "endDate": "2029-07-18",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Austin",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Design Automation  - ACM SIGDA; IEEE Council on Electronic Design Automation; IEEE Solid-State Circuits Society",
+      "keywords": "Security & Privacy,design automation,cross layer design,Design Engineering,Artificial intelligence,Embedded Systems,design on cloud,Security And Privacy,Intellectual Property,Machine learning,autonomous systems ,electronic design automation,Embedded Software,Systems on Chip,heterogeneous integration, Chiplts,",
+      "scope": "DAC is recognized as the global event for chips to systems. DAC offers outstanding training, education, exhibits and superb networking opportunities for designers, researchers, tool developers and vendors. The conference is sponsored by the Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE) and is supported by ACM's Special Interest Group on Design Automation (SIGDA) and IEEE's Council on Electronic Design Automation (CEDA).",
+      "callForPapers": "2028-11-11",
+      "url": "http://www.dac.com",
+      "eventContact": "lms@inesc-id.pt",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "Austin Convention Center, 500 E. Cesar Chavez St, , , , Austin, TX, USA, 78701, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

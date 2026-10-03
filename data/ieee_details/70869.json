@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lPDkwY40o6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70869,
+      "eventTitle": "2026 IEEE 9th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Section; Tianjin University of Technology and Education",
+      "keywords": "Automation,control and Robotics,Power Electronics,Communications and Networking,Signal Processing,Electric Automation,Smart Grids,Computation Intelligence,Machine Learning, Photonics and Optoelectronics,",
+      "scope": "2026 IEEE 9th International Conference on Automation, Electronics and Electrical Engineering (AUTEEE 2026) will be held in Shenyang during November 27-29, 2026. The aim as well as objective of AUTEEE 2026 is to present the latest research and results of scientists working in the field related to Automation, Electronics and Electrical Engineering topics. This conference provides opportunities for the delegates to exchange new ideas and application through face-to-face discussions, to establish business or research relations and to find global partners for future collaborations.",
+      "callForPapers": "2026-08-29",
+      "url": "www.auteee.org/",
+      "eventContact": "auteee@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Sofitel Shenyang Lido, , , , , Shenyang, , China, 110000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

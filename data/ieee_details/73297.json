@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lbPjwY408KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73297,
+      "eventTitle": "2026 IEEE 14th International Conference on Computer Science and Network Technology (ICCSNT)",
+      "startDate": "2026-12-29",
+      "endDate": "2026-12-31",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Harbin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Section",
+      "keywords": "Computer Applications,Mechatronics, Embedded Systems,Deep learning, Software Engineering,Communications,Data Mining,Intelligent Systems,Signal Processing,Robotics,Automation,Image Processing,Artificial intelligence,Machine learning,",
+      "scope": "2026 IEEE 14th International Conference on Computer Science and Network Technology (ICCSNT 2026) will be held during December 29-31, 2026 in Harbin. It is the fourteenth forum for the presentation of new advances and research results in a wide variety of scientific areas with a common interest in improving future computer science, network technology and communication related techniques. ICCSNT2011 (Dec 24-26, 2011), ICCSNT2012 (Dec 29-31, 2012), ICCSNT2013 (Oct 12-14, 2013), ICCSNT2015 (Dec 20-22, 2015), ICCSNT2016 (Dec 10-11, 2016), ICCSNT2017 (Oct 21-22, 2017), ICCSNT2019 (Oct 19-20, 2019), ICCSNT2020 (Nov 20-22, 2020), ICCSNT2021 (Oct 22-24, 2021), ICCSNT2022 (Oct 22-23, 2022), ICCSNT2023 (Oct 21-22, 2023) , ICCSNT2024 (Oct 19-20, 2024) were successfully held respectively and all the accepted papers from ICCSNT conferences have been included in IEEE Xplore and indexed by EI Compendex.",
+      "callForPapers": "2026-09-30",
+      "url": "www.iccsnt.org/",
+      "eventContact": "iccsnt@163.com",
+      "sponsorTypes": "3",
+      "venues": "Jingu Hotel, , , , , Harbin, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

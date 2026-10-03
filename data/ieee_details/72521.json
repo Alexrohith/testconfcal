@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yKaWx440hb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72521,
+      "eventTitle": "2026 International Conference on Advanced Intelligent Systems, Robotics and Automation (AISRA)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Components, Circuits, Devices and Systems; Robotics and Control Systems",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xihua University",
+      "keywords": "Robotics and Autonomous Systems,Intelligent Systems and AI,Automation and Control,",
+      "scope": "ARISA 2026 focuses on cutting-edge research and innovative applications across the fields of advanced robotics, intelligent systems, and automation. It is dedicated to promoting the deep integration of robotics technologies, artificial intelligence, and intelligent control systems, thereby addressing critical challenges in intelligent transformation, autonomous systems development, and next-generation industrial automation. The conference aims to establish a high-level international forum for researchers, engineers, and industry practitioners worldwide to exchange the latest scientific achievements, stimulate interdisciplinary innovation, and explore collaborative opportunities. It particularly emphasizes the synergy between intelligent algorithms, robotic systems, and automation technologies to accelerate the advancement of smart industries and human-centered intelligent solutions.",
+      "callForPapers": "2026-09-20",
+      "url": "www.icarisa.org/",
+      "eventContact": "arisa.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xihua University, China, 9999 Hongguang Avenue, Pidu District, Chengdu, Sichuan Province, China, , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

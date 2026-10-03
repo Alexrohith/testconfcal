@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kc75xo40vboBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72260,
+      "eventTitle": "2026 4th International Conference on Artificial Intelligence and Automation Control (AIAC)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Southern University of Science and Technology",
+      "keywords": "Artificial Intelligence,Control Science Engineering,Evolutionary Algorithms,Electromechanical Integration and Robot System,",
+      "scope": "AIAC 2026 aims to bring together leading scholars, researchers, and industry experts worldwide to exchange cutting edge research and innovative applications in artificial intelligence and automation control. The event will focus on key topics such as artificial intelligence technologies, automation control systems, and related intelligent technologies, serving as a high level platform for academic and industrial collaboration. AIAC 2026 seeks to promote advances in artificial intelligence and automation technologies, support the efficient development of intelligent systems, and contribute to the optimization of modern industrial and technological development.",
+      "callForPapers": "2026-08-15",
+      "url": "www.icaiac.org/",
+      "eventContact": "Lounis.Adouane.pub@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Southern University of Science and Technology, No. 1088 Xueyuan Avenue, Nanshan District, Shenzhen, Guangdong, China, 518055, , , , Shenzhen, , China, 518055, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

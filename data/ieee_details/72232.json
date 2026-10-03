@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4IuWx440gr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72232,
+      "eventTitle": "2026 IEEE International Autumn Meeting on Power, Electronics and Computing (ROPEC)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-11",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Morelia",
+        "region": "",
+        "country": "Mexico"
+      },
+      "sponsors": "Centro Occidente Section; Centro Occidente Section C Chapter; Centro Occidente Section CIS/RA Chapter; Centro Occidente Section EMB Chapter; Centro Occidente Section PE Chapter; Centro Occidente Section PEL Chapter",
+      "keywords": "Power Electronics,Power Systems,Power Dsitribution Reliability,Power Generation Reliability,AC-DC Power Converters,DC-DC Power Converters,Hydroelectric Power Generation,Power Electronics,Power Systems Control,NLP, LLM,",
+      "scope": "The ROPEC is a forum where practitioners as well as researchers and students will meet to exchange points of view, present new ideas as well as advances to push further the areas of Power Systems, Electronics and Computing. The location, Morelia, Mexico, will provide the ideal environment to engage in discussions which surely will continue up after the conference.",
+      "callForPapers": "2026-07-06",
+      "url": "https://2026.ropec.org/",
+      "eventContact": "jcerda@umich.mx",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5",
+      "venues": "University Cultural Center, Av Francisco I. Madero Pte 350, , , , Morelia, , Mexico, 58000 , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

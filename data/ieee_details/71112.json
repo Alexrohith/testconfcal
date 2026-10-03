@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 36WHx440nr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71112,
+      "eventTitle": "2026 IEEE Sensor Data Fusion: Trends, Solutions, Applications (SDF)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-25",
+      "about": "Aerospace; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bonn",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society",
+      "keywords": "information fusion,target tracking,distributed fusion,artificial intelligence,data fusion,resources management,non-linear state estimation,context fusion,autonomous systems,",
+      "scope": "Sensor Data Fusion techniques provide higher-level in- formation by spatio-temporal data integration, the ex- ploitation of redundant and complementary information, and the available context. Important applications exist in logistics, advanced driver assistance systems, medical care, public security, defence, aerospace, robotics, indus- trial production, precision agriculture, traffic monitoring, sensor positioning, and resource management.",
+      "callForPapers": "2026-08-24",
+      "url": "www.fkie.fraunhofer.de/en/events/sdf2026.html",
+      "eventContact": "felix.govaers@fkie.fraunhofer.de",
+      "sponsorTypes": "1",
+      "venues": "University Club Bonn, Konviktstr. 9, , , , Bonn, , Germany, 53113, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

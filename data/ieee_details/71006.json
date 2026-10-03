@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zcKJx440kbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71006,
+      "eventTitle": "2026 Germany India Conference on Innovation, Technology and Engineering (GICITE)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Berlin",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; World Research Union",
+      "keywords": "Technological innovation,Electrical Engineering,Artificial intelligence,Quantum Computing,Big Data,Automotive Electronics,Automatic programming,Aerospace engineering,Automotive engineering,Business process re-engineering,Building Automation, Control And Management,",
+      "scope": "Emerging Technologies, Sustainable Innovation, Engineering, Applied Sciences, Artificial Intelligence",
+      "callForPapers": "2026-08-31",
+      "url": "gicite.com/",
+      "eventContact": "mkvijay@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": "GISMA University of Applied Sciences, , , , , , , Germany, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9eOnx4406rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74079,
+      "eventTitle": "2027 19th International Conference on Computer Modeling and Simulation (ICCMS)",
+      "startDate": "2027-05-14",
+      "endDate": "2027-05-16",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China University of Mining and Technology (Beijing)- CUMT; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Computer Modeling and Simulation,Deep learning for predictive simulations,Neural networks for simulation optimization,Big data analytics in simulation,AI-driven modeling and simulation,",
+      "scope": "The 19th International Conference on Computer Modeling and Simulation (ICCMS 2027) is the premier forum for the presentation of technological advances and research results in the fields of Computer Modeling and Simulation. ICCMS 2027 will bring together leading engineers and scientists in the field of Computer Modeling and Simulation from around the world.",
+      "callForPapers": "2026-12-10",
+      "url": "www.iccms.org/",
+      "eventContact": "tanggl@hkci.org",
+      "sponsorTypes": "1; 9",
+      "venues": "China University of Mining and Technology-Beijing, , , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

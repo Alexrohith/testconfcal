@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4ZGtx440sr0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70090,
+      "eventTitle": "2026 International Conference on Intelligent Systems & Data-driven Computing (ISDDC)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lucknow",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Babu Banarasi Das Institute of Technology and Management; Uttar Pradesh Section",
+      "keywords": "Intelligent Systems,Signal processing,Advance computing,Operations Research,",
+      "scope": "The conference will be devoted to all developments in Intelligent Systems & Data-driven Computing. Researchers from all over the country and abroad will gather physically in order to introduce their recent advances in the field and thereby promoting exchange of new ideas, results and techniques. The conference will be a catalyst in promoting research work, sharing views and getting innovative ideas in this field.",
+      "callForPapers": "2026-04-15",
+      "url": "isddc-2026.bbditm.ac.in/",
+      "eventContact": "phsupriya@bbdnitm.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Babu Banarasi Das Institute of Technology and Management, Faizabad Road, Lucknow, Uttar Pradesh, , , Lucknow, , India, 226028, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

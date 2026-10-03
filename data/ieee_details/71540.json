@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3LOGx440jrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71540,
+      "eventTitle": "2026 14th International Conference on Information Systems and Computing Technology (ISCTech)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Jiaxing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Jiaxing University",
+      "keywords": "High Performance Computing,Cloud Computing, Automation and Control Engineering,Artificial Intelligence,Computer Vision,Fuzzy Logic,Remote Sensing Application,",
+      "scope": "The conference encompasses a broad range of topics related to information systems, computational science, intelligent systems, and the application of emerging technologies across various domains. The conference aims to facilitate the exchange of ideas, research results, and practical challenges in these rapidly evolving fields.",
+      "callForPapers": "2026-08-26",
+      "url": "www.icisct.org/",
+      "eventContact": "zhu_edu@126.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Dragon Dream Hotel , 1977 South Zhonghuan Road (Zhonghuan Nan Lu), Nanhu District, Jiaxing, Zhejiang, 314000, China., , , , Jiaxing, , China, 314000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l6Wqx440gb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69055,
+      "eventTitle": "2026 IEEE 1st Annual Integrated Sensing and Communication Conference (ISAC)",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-18",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society; IEEE Communications Society; IEEE Signal Processing Society",
+      "keywords": "Information Theory,Signal Processing,Mobile Computing,Aerospace and Electronic Systems,Vehicular Technology,Intelligent Transportation Systems,",
+      "scope": "(ISAC) is a design paradigm that merges sensing and communication systems, offering two key benefits:  1). Integration Gain- Efficiently uses shared resources. 2). Coordination Gain- Balances dual-functional performance and enables mutual assistance.  These advantages make ISAC suitable for various applications, including vehicular networks, environmental monitoring, remote sensing, IoT, smart cities, and indoor services like human activity and gesture recognition.  ISAC is also recognized as a crucial technology for B5G/6G and next-generation Wi-Fi systems. The conference aims to unify current research and initiatives, serving as a future reference for ISAC experts.",
+      "callForPapers": "2026-06-01",
+      "url": "isac2025.ieee-isac.org/",
+      "eventContact": "s.cisneros@comsoc.org",
+      "sponsorTypes": "1; 1; 1",
+      "venues": ", , , , , Lisbon, , Portugal, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

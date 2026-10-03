@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4+LcwY40vaQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73048,
+      "eventTitle": "2027 4th International Conference on Data Science and Information System (ICDSIS)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-09",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Hassan",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Malnad College of Engineering; Mysore Subsection",
+      "keywords": "Data Science, Information System,Machine Learning,",
+      "scope": "ICDSIS aims to bring together leading academic scientists, researchers and research scholars to exchange and share their experiences and research results on all aspects of Computer Science and Engineering. It also provides a premier interdisciplinary platform for researchers, practitioners and educators to present and discuss the most recent innovations, trends, and concerns as well as practical challenges encountered and solutions adopted in the fields of Computer Science and Engineering.",
+      "callForPapers": "2026-09-10",
+      "url": "icdsis.in/",
+      "eventContact": "chair@icdsis.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "MCE, No 21, Salagame Rd, Rangoli Halla, Hassan, Karnataka 573202, , , , Hassan, , India, 573202, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

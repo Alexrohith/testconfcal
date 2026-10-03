@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 25DtwY40tqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72374,
+      "eventTitle": "2027 International conference on Advancements in Computer Engineering and Communication Technologies (ICACECT)",
+      "startDate": "2027-01-18",
+      "endDate": "2027-01-19",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lucknow",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Integral University, Lucknow; Uttar Pradesh Section",
+      "keywords": "Data Science, Cloud Computing and Big Data Analytics,IoT and Artificial Intelligence,Biomedical, Bioinformatics and Healthcare Technologies,Soft Computing and Machine Learning,Edge Computing and Robotics ,Communication Technology,Signal Processing,Embedded System,Power System modeling and Control System,",
+      "scope": "The conference focuses on recent advancements, emerging technologies, and research challenges in the areas of Computer Engineering, Electronics, Communication Technologies, Artificial Intelligence, IoT, Signal Processing, Embedded Systems, Cyber Security, Data Science, Networking, and interdisciplinary engineering applications. The conference aims to provide a platform for researchers, academicians, industry professionals, and students to present and discuss innovative research contributions and technological developments.",
+      "callForPapers": "2026-06-15",
+      "url": "www.icacect27.iul.ac.in",
+      "eventContact": "iukhansmieee@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Integral University, Lucknow, Bas-Ha Dasauli, Kursi Road, , , , Lucknow, , India, 226026, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

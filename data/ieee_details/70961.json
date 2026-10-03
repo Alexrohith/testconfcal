@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pL2mx4404bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70961,
+      "eventTitle": "2026 IEEE 32nd International Conference on Parallel and Distributed Systems (ICPADS)",
+      "startDate": "2026-11-22",
+      "endDate": "2026-11-26",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Distributed systems,Parallel Computing,Edge Computing,Computer Architecture,cloud systems,Performance prediction,Federated Learning and Reinforcement Learning,Crowd Sourcing and Parallel Acceleration,Localization and Cross-Technology Communication,Localization and Cross-Technology Communication,,Distributed Data processing,,Cyber Physical Security,,",
+      "scope": "Topics of interest include, but are not limited to the following topic areas: Algorithm: parallel and distributed algorithm design and implementation Application: parallel and distributed applications, scalable data analytics, and applied machine learning Architecture: architectures for parallelism and distributed computing Performance: performance modeling and evaluation of parallel and distributed systems  Security: security and privacy issues in parallel and distributed systems System: system software and middleware for parallel and distributed systems",
+      "callForPapers": "2026-06-30",
+      "url": "www.cloud-conf.net/icpads2026/",
+      "eventContact": "qiumeikang@yahoo.com",
+      "sponsorTypes": "1",
+      "venues": "Waseda University Conference Center , 1 Chome-20-14 Nishiwaseda, Shinjuku-ku, Tokyo-to 169-0051 , , , , Tokyo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

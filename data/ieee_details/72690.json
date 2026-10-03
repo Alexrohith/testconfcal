@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iqiBx4403boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72690,
+      "eventTitle": "2027 10th International Conference on Inventive Computation Technologies (ICICT)",
+      "startDate": "2027-04-19",
+      "endDate": "2027-04-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Kirtipur",
+        "region": "",
+        "country": "Nepal"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Tribhuvan University Institute of Engineering, Pulchowk Campus Nepal",
+      "keywords": "Social Networks, Internet of Things, Computing Technologies, Artificial Intelligence, Intelligent Systems,",
+      "scope": "In the emerging digital era, the need for developing advanced computing technologies to meet the increasing demands of Information and Communication Technologies [ICT] and smart real world applications like smart cities, automated business, entertainment, transportation, and healthcare has become imperative. To satisfy this increasing need the International Conference on Inventive Computation Technologies [ICICT 2027] paves way to foster the research innovations in the emerging computing technologies like neural networks, Fuzzy Systems, Genetic algorithms, Artificial Intelligence [AI] and other such hybrid computing models for addressing various uncertainties and complexities in almost all the real-time applications. In particular, ICICT 2027 focuses on sustaining innovative computing-based solutions by efficiently using emerging machine learning, deep learning, cloud computing, fog/edge computing, natural language processing and artificial neural networks.",
+      "callForPapers": "2027-01-12",
+      "url": "icicts.com/2027/",
+      "eventContact": "Prakash.chandra@pcampus.edu.np",
+      "sponsorTypes": "1; 9",
+      "venues": "Institute of Engineering, Pulchowk Campus, Tribhuvan University , , , , , Nepal, 44600, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

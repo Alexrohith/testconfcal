@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /Z6Bx440970BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66895,
+      "eventTitle": "2027 2nd International Conference on Logistics (ICL)",
+      "startDate": "2027-03-30",
+      "endDate": "2027-03-31",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Jeddah",
+        "region": "",
+        "country": "Saudi Arabia"
+      },
+      "sponsors": "University of Jeddah; Western Saudi Arabia Section",
+      "keywords": "Logistics, Supply Chain, Computer Science, Artificial Intelligence, Smart Cities,",
+      "scope": "2027 2nd International Conference on Logistics focuses on the latest advancements and innovations in logistics, with an emphasis on applications relevant to global challenges and daily operations in various sectors",
+      "callForPapers": "2026-05-12",
+      "url": "icl.uj.edu.sa",
+      "eventContact": "eaal-dhahery@uj.edu.sa",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Jeddah Conference Center, , , , , Jeddah, , Saudi Arabia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

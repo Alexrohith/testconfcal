@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ssf9xo40yLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70559,
+      "eventTitle": "2026 Conference on AI x Software Engineering (AIxSE)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Laguna Hills",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Semantic Computing Foundation",
+      "keywords": "Artificial Intelligence,Software,Engineering,",
+      "scope": "Software Engineering (SE) deals with the design, development, testing, and maintenance of computer software. With the recent advances of AI, we think it is the right time to address the broader impacts of AI on SE and vice versa.​ Artificial Intelligence x Software Engineering (AIxSE) is an international forum for academia and industries to exchange visions and ideas in the state of the art and practice, as well as to identify the emerging topics and define the synergy between the research in AI and SE in general.  ​",
+      "callForPapers": "2026-09-01",
+      "url": "www.AIxSE.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

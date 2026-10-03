@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pJOax440ibwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70654,
+      "eventTitle": "2026 International Conference on Smart Electronics and Communication Systems (ISENSE)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kottayam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Indian Institute of Information Technology (IIIT) Kottayam; Kerala Section",
+      "keywords": "VLSI and Embedded Systems Communication Systems IoT and Sensor Networks Security & Privacy RF Microwave & Optics Signal Speech and Image Processing Emerging Technologies, AI, ML,DL, Robotics ,",
+      "scope": "This conference is the second edition of IEEE ISENSE, organized by the department of Electronics and Communication Engineering, IIIT Kottayam, aimed to promulgate the innovations and breakthroughs that occur in the contemporary world of Electronics and Communication Engineering. The conference encompasses 8 vital tracks such as:  1. VLSI & Embedded Systems  2. Communication Systems  3. IoT & Sensor Networks  4. Security & Privacy  5. RF, Microwave & Optics  6. Signal, Speech & Image Processing  7. Emerging Technologies: AI, ML, DL & NLP  8. Robotics & Automation  Apart from the main conference, it also motivates researchers to learn, unlearn and exemplify their talents in usage of advanced tools and technologies through tutorial sessions. Further, our conference is a platform for our viable sponsors to introduce and showcase their products relevant to research in the aforementioned fields.",
+      "callForPapers": "2026-05-31",
+      "url": "isense26.iiitkottayam.ac.in/",
+      "eventContact": "venkt.89@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "INDIAN INSTITUTE OF INFORMATION TECHNOLOGY KOTTAYAM (IIIT) , DEPARTMENT OF ELECTRONICS AND COMMUNICATION ENGINEERING, VALAVOOR-CHEKKAMPUZHA ROAD, PALA, KOTTAYAM, PALA, , India, 686635, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

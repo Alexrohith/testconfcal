@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: y9zdwY407aEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72411,
+      "eventTitle": "2026 International Conference on Applied Statistics, Modeling and Advanced Algorithms (ASMA)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Xiamen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xiamen University - China",
+      "keywords": "Applied Statistics,Statistical Modeling,Computational Intelligence,Systems Modeling,Machine Learning,",
+      "scope": "The 2026 4th International Conference on Applied Statistics, Modeling and Advanced Algorithms (ASMA 2026) focuses on advanced research and applications in applied statistics, data-driven modeling, and algorithmic innovation. The conference explores the integration of statistical analysis, machine learning, optimization techniques, and computational intelligence to address challenges in complex data and system environments. ASMA 2026 aims to provide a platform for academics, researchers, and industry professionals to share novel methodologies, models, and algorithmic solutions that support intelligent data analysis, predictive modeling, and system optimization across engineering, information systems, and interdisciplinary applications.",
+      "callForPapers": "2026-08-01",
+      "url": "www.icasma.org/",
+      "eventContact": "hywangpb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xiamen University, No. 422 Siming South Road, Siming District, Xiamen City, Fujian Province, China, , , , Xiamen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

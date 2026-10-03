@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8q6vx440xr0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 62992,
+      "eventTitle": "2028 IEEE USNC-URSI Radio Science Meeting (Joint with AP-S Symposium)",
+      "startDate": "2028-07-02",
+      "endDate": "2028-07-07",
+      "about": "Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics",
+      "location": {
+        "city": "San Diego",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Antennas and Propagation Society; US Foundation for Radio Science, Inc",
+      "keywords": "Antenna, Radio wave Propagation,Applied Electromagnetics,Electromagnetic Metamaterials,Array Antennas,MIMO ,Computational Electromagnetics,Antenna Measurements,Electromagnetics & Materials,Antenna Applications & Emerging Technologies,Propagation & Scattering,Commission B: Fields & Waves,Commission A: Electromagnetic Metrology,Commission C: Radio Comm and Signal Processing Systems,Antenna Radio wave PropagationApplied ElectromagneticsElectromagnetic MetamaterialsArray AntennasMIMO Computational E",
+      "scope": "This conference is cosponsored by the IEEE Antennas and Propagation Society (AP-S) and the US National Committee (USNC) for the International Union of Radio Science (URSI). It is intended to provide an international forum for the exchange of information on state-of-the-art research on antennas, propagation, electromagnetic engineering, and radio science. The symposium and meeting will include a wide range of technical sessions, invited talks, special sessions, student paper and design competitions, short courses, tutorials, exhibits, professional meetings, tours, and networking events. All events will be held in person.",
+      "callForPapers": "2028-01-16",
+      "url": "",
+      "eventContact": "ssharma@sdsu.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Marriott Marquis San Diego Marina, 333 WEST HARBOR DRIVE , , , , San Diego, CA, USA, 92101 , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

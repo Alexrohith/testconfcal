@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1PGPx440zLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74186,
+      "eventTitle": "2027 IEEE International Conference on Information Technology and Automation Control (ICITAC)",
+      "startDate": "2027-07-23",
+      "endDate": "2027-07-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Nanjing University of Finance and Economics",
+      "keywords": "ICITAC,Information Technology,Automation Control,Electrical Automation,Artificial Intelligence,Deep Learning,Foundation Models,Digital Twins,Generative Models,Large Language Models,Multimodal Learning,Computer Engineering,Software Engineering,Big Data,Cloud Computing,Network Security,Wireless Communication,Signal Processing,Robotics,Control Systems,Image Processing,Intelligent System,Embedded Systems,Mechatronics,Internet of Things,Computer Vision,Computer Vision,Multimedia Technology,",
+      "scope": "Artificial Intelligence and Machine Learning, Big Data Analytics and Data Mining, Cloud Computing and Virtualization Technologies, Computer Network and Network Security, Computer Vision and Image Processing, Natural Language Processing,Wireless Communication and Mobile Networks,Signal Processing and Pattern Recognition, Intelligent Systems and Intelligent Applications, Foundation Models and Generative Models, Digital Twins, Large Language Models, Multimodal Learning, Mechatronics and Robotics, Control Engineering and Control Systems, Software Engineering and Software Testing, Intelligent Automation and Intelligent Manufacturing, Blockchain Technology and Applications, Embedded Systems, Electrical Automation, Multimedia and Broadcasting Technology, Detection Technology and Automatic Equipment, Internet of Things and Sensor Networks, Parallel Computing and Intelligent Optimization, Fuzzy Control and Neuro-Control, Algorithm, Data Structure and Computational Intelligence",
+      "callForPapers": "2027-05-10",
+      "url": "icitac.cn/",
+      "eventContact": "9120051068@nufe.edu.cn",
+      "sponsorTypes": "4; 9",
+      "venues": "Vienna International Hotel (Nanjing Xianlin University Town Xingang Development Zone),  No. 8 Hengtai Road, Xingang Economic & Technological Development Zone, Qixia District, Nanjing, Jiangsu, China, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4LWtx440pL0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70030,
+      "eventTitle": "2026 International Symposium on Information Theory and Its Applications (ISITA)",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-04",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Ginowan",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Information Theory Society; IEICE Research Society of Information Theory and its Applications",
+      "keywords": "Information Theory,Coding Theory,Shannon Theory,Signal Processing,Communication System,Data Compression and Source Coding,Information Security,Quantum Information Processing,",
+      "scope": "The scope of the symposium includes all aspects of information theory and its applications. It covers a wide range of topics such as Shannon Theory, Coding Theory, and Information Security as well as novel applications of information theory.",
+      "callForPapers": "2026-04-30",
+      "url": "isita.ieice.org/2026/",
+      "eventContact": "hirotomo@cc.saga-u.ac.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "Okinawa Convention Center, 4-3-1 Mashiki, Ginowan City, Okinawa, , , , Ginowan, , Japan, 901-2224, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

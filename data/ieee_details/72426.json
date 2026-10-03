@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 56Ccx440pbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72426,
+      "eventTitle": "2026 4th International Conference on Computational Intelligence and Network Systems (CINS)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Dubai",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "BITS Pilani, Dubai Campus (BPDC); United Arab Emirates Section",
+      "keywords": "Intelligent Systems, Internet of Things,Security and Privacy,Computing ,",
+      "scope": "CINS is the 4rd edition of the series and it provides opportunities to academicians, researchers, industry practitioners to discuss the contemporary challenges within computing systems and the utilization of intelligent approaches to improve computing methodologies.",
+      "callForPapers": "2026-07-15",
+      "url": "www.cins2026.com/",
+      "eventContact": "amanjot@dubai.bits-pilani.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Auditorium, BITS Pilani Dubai Campus, UAE., Al Rowaiyah First - Academic City, , , , Dubai, , United Arab Emirates, 345055, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0rX6xo40z70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72574,
+      "eventTitle": "2026 IEEE Annual Congress on Artificial Intelligence of Things (AIoT)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Kobe",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Internet of Things Community",
+      "keywords": "Interoperability; AI-Driven Automation; AI Solutions; AIoT Applications; Edge Computing; AI Security; Applications; Ethics; Internet of Things; AI Artificial Intelligence ,,",
+      "scope": "IEEE AIoT 2026 aims to bring together interested parties (universities, research centers, industries, and stakeholders) from around the world working in AI and the Internet of Things to exchange ideas, explore new concepts, develop innovative and emerging solutions, and establish new collaborations. Artificial Intelligence (AI) and the Internet of Things (IoT) are two of the most rapidly evolving and interdependent fields of technology. The convergence of these two fields is leading to the creation of an emerging interdisciplinary field, dubbed the Artificial Intelligence of Things (AIoT). The AIoT refers to the integration of AI technologies into IoT systems and devices, enabling them to interact with their environments in more sophisticated, intelligent ways. By combining IoT with AI, the data collected by distributed nodes can be analyzed using AI techniques such as machine learning and deep learning.",
+      "callForPapers": "2026-08-01",
+      "url": "www.ieee-aiot.org/2026/",
+      "eventContact": "liruidong@ieee.org",
+      "sponsorTypes": "6",
+      "venues": "Kobe Portopia Hotel, 0-1, 6 Chome, Minatojima Nakamachi, Chuo-ku, , , Kobe, , Japan, 650-0046, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

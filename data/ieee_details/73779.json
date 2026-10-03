@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3NWPx440yrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73779,
+      "eventTitle": "2027 IEEE Space, Aerospace and Defence Conference (SPACE)",
+      "startDate": "2027-07-05",
+      "endDate": "2027-07-07",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society",
+      "keywords": "Aerospace and electronic systems,Space Technology,Aerospace engineering,defence technology,Satellite Systems,radar systems,Drones,Unmanned Air Vehicle (uav),Reliability,Control systems,Robotics,Mechatronics,Hyperspectral imaging,signal and data processing,Artificial intelligence,Aircraft,Global Satellite Navigations Systems (GNSS),Mission critical systems,power electronics,Solar Power,Electromagnetic Compatibility,Antennas,Payloads,rf seekers,Nuclear and plasma sciences,Microelectronics,strategi",
+      "scope": "The conference covers all aspects of Space, Aerospace and Defence technologies (within IEEE's field of interest). The conference program includes keynote presentations, technical sessions, workshops, and panel discussions, all aimed at fostering collaboration and driving innovation in space, aerospace and defence.",
+      "callForPapers": "2027-01-31",
+      "url": "ieeespace.org",
+      "eventContact": "mishra_puneet@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Marina Bay Sands, 10 Bayfront Ave, , , , , Singapore, , Singapore, 018956, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

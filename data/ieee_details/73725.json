@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8LD7xo401r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73725,
+      "eventTitle": "2027 3rd International Conference on Computational Intelligence Approaches and Applications (ICCIAA)",
+      "startDate": "2027-05-11",
+      "endDate": "2027-05-13",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Amman",
+        "region": "",
+        "country": "Jordan"
+      },
+      "sponsors": "Jordan Section; Petra University; Universiti Teknologi MARA - UiTM",
+      "keywords": "Computational Intelligence,Artificial Intelligence,Data Mining,Big Data,Data Science,",
+      "scope": "We welcome submissions on computational intelligence, including (1) AI & Knowledge Systems: expert systems, reasoning, hybrid AI, and applications in healthcare, finance, education, and smart cities; (2) Machine Learning: predictive modeling, deep learning, and data-driven decision-making in marketing, recommendations, anomaly detection, etc.; (3) Vision & NLP: image, speech, and text processing, with uses in autonomous systems and medical imaging; (4) Big Data & Cloud: IoT, intelligent infrastructure, real-time analytics, and predictive maintenance; (5) Evolutionary Computing: algorithms, swarm intelligence, autonomous systems, and optimization; (6) AI for Cybersecurity: threat detection, secure AI, and privacy-preserving learning.",
+      "callForPapers": "2027-01-01",
+      "url": "www.uop.edu.jo/En/ICCIAA2027/Pages/default.aspx",
+      "eventContact": "whadi@uop.edu.jo",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "University of Petra, Airport Road, , , , Amman, , Jordan, 11196, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

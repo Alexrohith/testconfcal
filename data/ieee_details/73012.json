@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2e+Wx4408bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73012,
+      "eventTitle": "2027 IEEE 11th Forum on Research and Technologies for Society and Industry (RTSI)",
+      "startDate": "2027-09-06",
+      "endDate": "2027-09-09",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Catania",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "Central South Italy Section IA/PEL Chatper; Finland Section; IEEE Industry Applications Society; IEEE Instrumentation and Measurement Society; IEEE Vehicular Technology Society; Italy (C&S) Section CAS Chapter; Italy Section; Italy Section C Chapter; Italy Section CS Chapter; Italy Section CT Chapter; Italy Section E Chapter; Italy Section ED Chapter; Italy Section IM Chapter; Italy Section ITS Chapter; Italy Section MAG Chapter; Italy Section PE Chapter; Italy Section RA Chapter; Italy Section SEN Chapter; Italy Section SMC Chapter; Italy Section TEM Chapter; Italy Section VT Chapter; North Macedonia Section; Region 08 - Europe,Middle East,Africa; Tunisia Section",
+      "keywords": "Sustainability,wellnes, Clean Energy ,Sustainable Cities,Transportation Systems,Health and Smart Living,Industry Innovation,technological solution,",
+      "scope": "The RTSI (Research and Technologies for Society and Industry) Forum, the flagship conference of the IEEE Italy Section and an IEEE Region 8 portfolio conference, brings together researchers and industry professionals across IEEE technical fields to foster collaboration between academia and industry. The conference promotes the exchange of innovative research and technological solutions while increasing awareness of the positive impact that engineering and technology can have on society, industry, and quality of life.",
+      "callForPapers": "",
+      "url": "2027.ieee-rtsi.org",
+      "eventContact": "maide.bucolo@unict.it",
+      "sponsorTypes": "1; 1; 1; 2; 3; 3; 3; 3; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5",
+      "venues": "Università di Catania, Piazza Università, 2, , , , Catania, , Italy,  95131, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

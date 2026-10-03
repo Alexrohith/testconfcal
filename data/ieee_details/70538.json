@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vrHBwo40kKcBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70538,
+      "eventTitle": "2026 2nd International Conference on Advances in Computing, Communication and Networking (ICAC2N)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-10-31",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "ITS Engineering College; Uttar Pradesh Section",
+      "keywords": "Evolutionary Computing, Distributed and Parallel Processing , Cloud and Green Computing,  IOT, Data Mining, Advance Database Management System, ,BigData,DataAnalysis,Machine  Learning and Artificial Intelligence,Mobile Computing ,Artificial Neural Network  ,MANETs,Computer Networking,Cyber security, Virtual Reality ,Network Security,WSN,,Multimedia Applications, Web Intelligence & Semantics ,Ubiquitous Computing &  NetworkingSoftware Engineering & Information Systems ,Intelligent Systems & Autom",
+      "scope": "The IEEE conference is an international forum which aims to bring together leading  academician, researchers and research scholars to exchange and share their experiences and  hard-earned technological advancements about all aspects of based on their research related to  Computing, Communication Control & Networking. We invite all leading researchers, engineers  and scientists in the domain of interest from around the world. We warmly welcome all authors  to submit your research papers to ICAC2N'26 and share the valuable experiences with the  scientist and scholars around the world.",
+      "callForPapers": "2025-10-01",
+      "url": "icac2n.in/",
+      "eventContact": "vishnu.sharma@its.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "ITS Engineering College, , , , , Greater Noida, , India, 201310, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mqubx440kbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69445,
+      "eventTitle": "2026 International Symposium on Advanced Control of Industrial Processes (AdCONIP)",
+      "startDate": "2026-11-29",
+      "endDate": "2026-12-01",
+      "about": "Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Auckland",
+        "region": "",
+        "country": "New Zealand"
+      },
+      "sponsors": "IEEE Control Systems Society; University of Auckland",
+      "keywords": "Process Control & Automation,Identification & Estimation,Controller Performance Evaluation,Fault Detection & Diagnosis,AI & Intelligent Control,Adaptive & Learning Systems,Robotics & Mechatronics,Computer Integrated Manufacturing,Air Pollution Modeling & Control,Precision Agriculture,Data Mining & Analytics,Control in Medicine & HIntegration of Design & Control,Health & Bio Informatics,Food Process ControSafety & Process Control,Process & Control Optimization,WCyber Physical Control,Digitalizati",
+      "scope": "The International Symposium on Advanced Control of Industrial Processes (AdCONIP) is a triennial international conference. AdCONIP 2026 is the eighth symposium following previous events at Kumamoto (2002), Seoul (2005), Jasper (2008), Hangzhou (2011), Hiroshima (2014), Taipei (2017), Vancouver (2022). This symposium aims at bringing together researchers and practitioners from academia and industry to discuss the state-of-the-art developments/techniques in advanced control and its applications in industrial processes. The emphasis of this symposium will be on the theory and practice of advanced industrial control methods.",
+      "callForPapers": "2026-02-15",
+      "url": "www.adconip2026.org/",
+      "eventContact": "b.young@auckland.ac.nz",
+      "sponsorTypes": "1; 9",
+      "venues": "Faculty of Engineering Building Complex, The University of Auckland, 20 Symonds Street, Auckland Central, , Auckland, , New Zealand, 1010, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

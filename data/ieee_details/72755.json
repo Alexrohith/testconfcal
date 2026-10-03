@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0cSTx44047sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72755,
+      "eventTitle": "2027 International Conference on Cognitive Informatics and Smart Computing (IC2ISC)",
+      "startDate": "2027-10-22",
+      "endDate": "2027-10-24",
+      "about": "Bioengineering; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Mahendradatta University",
+      "keywords": "Cognitive Informatics,Cognitive robotics,Knowledge representation,Pattern recognition,Semantic computing,Big Data and Healthcare,Medical Image Processing and Techniques,Computational Intelligence,Neural Language Modelling,Generative AI and foundation models,Edge, fog and cloud computing,Industrial IoT and Industry 5.0,Cyber-physical systems,Digital twin technologies,Sentiment and emotion analysis,Conversational AI and chatbot,Biometrics and surARVRMR and Metaverse technoDisaster prediction and m",
+      "scope": "The International Conference on Cognitive Informatics & Smart Computing (CISC) aims to provide a premier international platform for researchers, academicians, scientists, industry professionals, and practitioners to discuss and exchange innovative ideas, recent research findings, and technological advancements in the fields of cognitive informatics and smart computing. The conference focuses on emerging areas such as artificial intelligence, machine learning, deep learning, data science, Internet of Things (IoT), cybersecurity, natural language processing, computer vision, robotics, cloud and edge computing, and intelligent automation systems. It also emphasizes interdisciplinary applications in healthcare, agriculture, smart cities, education, sustainability, and industrial systems. CISC encourages collaborative research, industry-academia interaction, and development of intelligent technologies for solving real-world societal and industrial challenges.",
+      "callForPapers": "2027-02-15",
+      "url": "iccisc.in/",
+      "eventContact": "hrudayakumar@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Mahendradatta University, Jl. Ken Arok No.12, Peguyangan, Kec. Denpasar Utara, Kota Denpasar, , Bali, , Indonesia, 80115, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

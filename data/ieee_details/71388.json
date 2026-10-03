@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +LKfx440sLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71388,
+      "eventTitle": "2026 APWG Symposium on Electronic Crime Research (eCrime)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Computer Society; The Anti-Phishing Working Group - APWG",
+      "keywords": "Cybercrime,Cyber Physical Systems,Cyber-physical Systems,Cybercrime Detection,Ransomware,Cybersecurity,Cyberattack,Phishing,Malware,Crimeware,",
+      "scope": "The 2026 Symposium on Electronic Crime Research (eCrime 2026) examines essential factors for managing the impacts of the global cybercrime plexus to secure IT users, commercial enterprises, governments, critical infrastructures, and operational technologies.",
+      "callForPapers": "2026-05-30",
+      "url": "apwg.org/events/ecrime2026",
+      "eventContact": "pcassidy@apwg.org",
+      "sponsorTypes": "1; 9",
+      "venues": "InterContinental Lisbon, Rua Castilho 149, , , , Lisbon, , Portugal, 1070-050, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

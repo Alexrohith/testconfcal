@@ -1,0 +1,52 @@
+name: Weekly IEEE Conference Sync
+
+on:
+  schedule:
+    - cron: '30 21 * * 6'
+  workflow_dispatch:
+
+concurrency:
+  group: weekly-ieee-sync
+  cancel-in-progress: false
+
+permissions:
+  contents: read
+
+jobs:
+  sync:
+    name: Sync IEEE conferences
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: backend/requirements.txt
+
+      - name: Install backend dependencies
+        run: |
+          python -m pip install --upgrade pip
+          python -m pip install -r requirements.txt
+
+      - name: Run weekly IEEE sync
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          IEEE_API_KEY: ${{ secrets.IEEE_API_KEY }}
+        run: |
+          echo "Starting IEEE sync at $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+          start_time=$(date +%s)
+          if python -u -m scripts.scheduled_sync; then
+            sync_status=0
+          else
+            sync_status=$?
+          fi
+          duration_seconds=$(( $(date +%s) - start_time ))
+          echo "Sync process duration: ${duration_seconds}s"
+          exit "$sync_status"

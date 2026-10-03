@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1az6xo40xLoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72434,
+      "eventTitle": "2026 3rd International Conference on Artificial Intelligence and Teacher Education (ICAITE)",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-08",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Nagasaki",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Education Society; University of Nagasaki",
+      "keywords": "Fundamentals and Applied Technologies of Artificial Intelligence, Digitization of Educational  Assessment,AI-Assisted Teaching and Innovative Teaching and Learning Models, ChatGPT  and Chatbot in Education,",
+      "scope": "The conference is co-sponsored by Nagasaki University, patronized by Ritsumeikan University, Japan, Capital Normal University, China, Beijing Spring Institute of Education(BSIE) and so on. ICAITE 2026 will provide a suitable environment and opportunity to discuss new research/engineering achievements on more flexible, sophisticated, and predictive solutions for the existing and coming problems and challenges in the field of AI and teacher education.  Authors are solicited to contribute to the conference by submitting articles that illustrate research results, projects, surveying works and industrial experiences that describe significant advances in the areas of Software Engineering, Computer Applications, Computational Intelligence and AI techniques, etc.",
+      "callForPapers": "2026-06-20",
+      "url": "https://www.icaite.net/",
+      "eventContact": "wanghl@siet.ac.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "Nagasaki University, , , , , , , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

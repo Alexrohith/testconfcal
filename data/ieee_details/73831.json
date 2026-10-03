@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7Z7bwY40zaEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73831,
+      "eventTitle": "2027 IEEE International Conference on Computer Vision and Machine Intelligence (CVMI)",
+      "startDate": "2027-06-17",
+      "endDate": "2027-06-19",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IIITDM Kancheepuram; Madras Section; Uttar Pradesh Section SP Chapter",
+      "keywords": "Computer Vision, Machine learning ,deep learning ,machine intelligence ,image processing ,aritifical intelligence ,robotic intelligence ,biomedical applications,human computer interaction ,remote sensing ,",
+      "scope": "AI in biometrics, forensics, content protection, Trustworthy, explainable and ethical AI, Machine learning, Deep learning ,Image/video security, blockchain for image and video security ,Audio and video deepfakes, Computational intelligence, AI & intelligence in other applications",
+      "callForPapers": "2027-02-25",
+      "url": "cvmi2027.iiitdm.ac.in/",
+      "eventContact": "drnisanthkartheek@iiitdm.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "IIITDM Kancheepuram, vandalur kelambakkam road, kandigai, , TamilNadu State, chennai, , India, 600127, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

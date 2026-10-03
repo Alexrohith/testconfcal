@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 34mJx440j7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72111,
+      "eventTitle": "2026 International Workshop on Biomedical Applications, Technologies and Sensors (BATS)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-16",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Naples",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "CeRICT scrl Regional Center Information Communication Technology; Italy Section; Italy Section BIO Chapter; Italy Section EMB Chapter; Italy Section IM Chapter; Italy Section PHO Chapter; Italy Section SEN Chapter",
+      "keywords": "Sensors Technologies,Energy Harvesting,Rehabilitation Systems,Wearable Systems,Flexible Systems,Sensor Networks,Artificial Intelligence,Internet of Things,Physical Sensors,Chemical Sensors,",
+      "scope": "Since the first edition, the workshop intended to represent a meeting place for scientists in the field of sensors technologies with a focus on the fascinating world of medicine. The meeting involves national and international institutions, academia and a strong industrial component debating on the most recent technologies, and applications that require a joint approach by experts in the field.  This 9th edition will keep pursuing the same approach started during the first editions. More attention will be paid to the technology transfer involving key people with strong interests supporting industrial research activities. The event will include invited lecturers, and presentations from industry and academia to facilitate sharing, networking, exchange of ideas and experiences in the field of technologies and sensors for medicine.",
+      "callForPapers": "2026-05-30",
+      "url": "bats2026.org/",
+      "eventContact": "gian.mazzilli@gmail.com",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5; 9",
+      "venues": "Pathenope University of Naples, , , , , Naples, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

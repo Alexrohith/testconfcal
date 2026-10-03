@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: luSSx4403rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72675,
+      "eventTitle": "2027 Southeast Asian Stakeholder Summit on Generative AI for Education (SEA-SSAIE)",
+      "startDate": "2027-01-20",
+      "endDate": "2027-01-22",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Manila",
+        "region": "",
+        "country": "Philippines"
+      },
+      "sponsors": "KICS-The Korean Institute of Communications and Information Sciences; Philippine Section COM/MTT/AP Chapter; Philippine Section CT Chapter",
+      "keywords": "Generative AI,AI in Education,Responsible AI,Educational Technology,",
+      "scope": "The conference scope covers artificial intelligence and educational technology, with emphasis on the responsible and human-centered integration of generative AI in teaching, learning, research, and workforce development. It includes AI-enabled education systems, ethical and trustworthy AI, data privacy and governance, educator capacity-building, digital equity, learning innovation, and industry-academe-government collaboration for future-ready education across Southeast Asia.",
+      "callForPapers": "2026-08-15",
+      "url": "",
+      "eventContact": "garsampedro@ieee.org",
+      "sponsorTypes": "5; 5; 9",
+      "venues": "Asia Pacific College, 3 Humabon Place, Magallanes Village, , , Makati City, , Philippines, 1232, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

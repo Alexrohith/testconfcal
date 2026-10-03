@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5vybx440pLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72046,
+      "eventTitle": "2026 International Conference on Identification, Information and Knowledge in the Internet of Things (IIKI)",
+      "startDate": "2026-09-29",
+      "endDate": "2026-10-02",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bled",
+        "region": "",
+        "country": "Slovenia"
+      },
+      "sponsors": "Serbia and Montenegro Section CIS Chapter; Serbia/Montenegro Section; Slovenia Section; Slovenia Section SP/CAS Joint Chapter; Slovenia Section YP Affinity Group; University of Ljubljana, Faculty of Electrical Engineering",
+      "keywords": "Internet of Things, Data Analytics, Cloud, Edge & Distributed Computing ,Cyber-Physical Systems, Smart Environments, Intelligent Sensing & Human-Centric Technologies, E-Health, Mobile Health, Wellbeing, and Sport Technologies, Sensing, Connectivity, and Human Factors in Connected and Automated Driving, Security, Privacy & Trust for IoT,",
+      "scope": "IIKI is a premier interdisciplinary forum that brings together international researchers, practitioners, and industry experts to share the latest advances and innovations in the Internet of Things (IoT), knowledge engineering, data sciences, digital economy, and related fields. IIKI has a long tradition of providing a dedicated platform for presenting cutting-edge research, fostering academic and industrial collaborations, and driving forward the theoretical and practical applications of IoT and information technologies (https://www.lait.fe.uni-lj.si/IIKI/). We invite original, high-quality research contributions from academia and industry that address foundational issues, emerging challenges, practical applications, and innovative solutions across a broad set of topics.",
+      "callForPapers": "2026-06-15",
+      "url": "www.lait.fe.uni-lj.si/IIKI/",
+      "eventContact": "timotej.gruden@fe.uni-lj.si",
+      "sponsorTypes": "3; 3; 5; 5; 5; 9",
+      "venues": "Hotel Astoria, Prešernova cesta 44, , , , Bled, , Slovenia, 4260, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

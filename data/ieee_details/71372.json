@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9dbbwY40uKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71372,
+      "eventTitle": "2026 5th International Conference on Cloud Computing, Performance Computing and Deep Learning (CCPCDL)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Nantong",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nantong University",
+      "keywords": "Performance Computing ,Cloud Computing,Deep Learning, Network Design and Protocols,Cloud Computing Technologies, Services and Applications,Machine learning,Cloud Optimization and Automation,",
+      "scope": "The 5th International Conference on Cloud Computing, Performance Computing and Deep Learning (CCPCDL 2026) is an international forum focusing on the latest advances in cloud computing, high-performance computing, and deep learning. It aims to gather researchers, industry experts, and academics worldwide to share insights, foster collaboration, and drive innovation. The conference will emphasize scalable cloud architectures, virtualization, edge and fog computing, parallel and distributed systems, GPU/TPU acceleration, trustworthy AI, and advanced neural models. By enabling global academic exchange, CCPCDL 2026 seeks to shape the future of intelligent computing systems, promote responsible innovation, and contribute to building a more efficient and sustainable digital society.",
+      "callForPapers": "2026-07-13",
+      "url": "www.ccpcdl.org/",
+      "eventContact": "ccpcdl.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Nantong University, China, No. 9, Seyuan Road, Chongchuan District, Nantong City, Jiangsu Province, China, , , , Nantong, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

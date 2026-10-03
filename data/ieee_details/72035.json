@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4O/ZwY40x6EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72035,
+      "eventTitle": "2026 IEEE International Conference on Machine Learning and Applied Network Technologies (ICMLANT)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-11",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Don Bosco University; El Salvador Section",
+      "keywords": "Artificial Intellligence,Internet of Things,Deep Learning,Machine Learning,Signal processing,5G  6G Networks,Cyber Physical Systems,Industry 4.0,Smart Grids,",
+      "scope": "The 2026 IEEE ICMLANT aims to bring experts from industry, academia and research to exchange their views and experience towards Machine Learning and Network Technology. Machine intelligence, which is normally presented as artificial intelligence, refers to the intelligence exhibited by computers. The ICMLANT will attract industry practitioners, researchers and academia to hear industry experts and peers share best practices and lessons learned, latest research, new standards development initiatives, innovations, and first-hand experiences regarding prototyping and initial service offerings in Machine Learning. It will offers an outstanding opportunity to showcase your products and applications to provides an ideal platform for you to reach among the networking platform. It will allow authors to discuss their cutting edge research work, share the work progress, discuss the various problem which they are encountering in research studies.",
+      "callForPapers": "2026-10-12",
+      "url": "www.icmlant.com",
+      "eventContact": "manuel.cardona@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

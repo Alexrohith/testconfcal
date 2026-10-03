@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 36/uwY407KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72527,
+      "eventTitle": "2026 International Conference on Recent Progresses in Science, Engineering and Technology (ICRPSET)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-09",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Rajshahi",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh Section; Faculty of Engineering, University Of Rajshahi",
+      "keywords": "Electrical Engineering,Computer Engineering,Communication Engineering,Computer Science,Physical Science,Electrical Machine,Power System,Renewable Energy Systems,Industrial Electronics,Signal and Image Processing,Computer Vision,Machine andDeep Learning,Artificial Intelligence,Robotics ,Biomedical Engineering,Bioinformatics,Information Science,Computer Network and Cyber Security,Human Computer Interaction,Nano Technology,Embedded System,Materials Engineering,Plasma Science,Computational Biology,,",
+      "scope": "Electrical Machines and Drives; Power System and Smart Grid; Energy Engineering; Control System; Antennas and Propagation; VLSI Design and Application; Optoelectronics; Power and Industrial Electronics; Energy Storage and Conversion; Geosciences and Remote Sensing; Sensor Technologies and Applications; Plasma Science and Engineering; Instrumentation and Measurement; Microwave and RF Engineering; Nanotechnology, MEMS and NEMS; Oceanic Engineering; Signal and Image Processing; Communication and Networking; Information Systems; Cloud Computing and Data Science; Computer Vision; Machine and Deep Learning; Robotics and Automation; Virtual and Augmented Reality; Bioinformatics and Biomedical Engineering; Embedded Systems; Artificial Intelligence; Human?Computer Interaction; Cryptography and Network Security; Internet of Things (IoT); Materials Engineering; Magnetic Materials",
+      "callForPapers": "2026-07-20",
+      "url": "csa.ru.ac.bd/icrpset/2026/",
+      "eventContact": "golamrashed.ru@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Rajshahi, Faculty of Engineering Gallery, Room No. 133, Jamal Nazrul Islam Science Building, , , Rajshahi, , Bangladesh, 6205, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

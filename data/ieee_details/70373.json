@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uvCXx440iLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70373,
+      "eventTitle": "2026 IEEE 67th International Scientific Conference on Power and Electrical Engineering of Riga Technical University (RTUCON)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "about": "Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Riga",
+        "region": "",
+        "country": "Latvia"
+      },
+      "sponsors": "IEEE Industry Applications Society; Latvia Section; Latvia Section Joint Chapter IE/IA/PEL; Riga Technical University",
+      "keywords": "Electrical Engineering,Power Electronics,Power Engineering and Energy,Motion Control,Robotics and Mechatronics, Biomechatronics, Engineering Education,",
+      "scope": "RTUCON is a series of conferences giving an opportunity to scientists, engineers and manufacturers as well as to doctoral students from all over the world to meet and discuss recent development and their achievements in the areas of power engineering, electrical engineering and power electronics. 67th edition of the conference (RTUCON) adds to this list also topics of low current and control electronics and information technology, as well as mechatronics and bioelectronics.",
+      "callForPapers": "2026-08-28",
+      "url": "www.conference.rtu.lv/",
+      "eventContact": "Aleksandrs.Bubovics@rtu.lv",
+      "sponsorTypes": "1; 3; 5; 9",
+      "venues": "Riga Technical University - Conference Centre \"Domus Auditorialis\", Zund embarkment 8, Room 107, 108, 109, , , Riga, , Latvia, LV1048, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jqKFx440j74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73135,
+      "eventTitle": "2027 International Conference on Smart Learning Courses (SCME)",
+      "startDate": "2027-04-04",
+      "endDate": "2027-04-06",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Hebron",
+        "region": "",
+        "country": "Palestine"
+      },
+      "sponsors": "Palestine Subsection; Smart University College for Modern Education (Sume)",
+      "keywords": "smart Learning,elearning,metaverse,Mobile Learning,artificial intelligence learning,tools ,Cybersecurity,Innovation Technologies ,Multimedia ,",
+      "scope": "The 2027 International Conference on Smart Learning Courses (IEEE SUME 2027) is an international forum for researchers, educators, practitioners, and industry professionals to present and discuss recent advances in smart learning and educational technologies. The conference focuses on artificial intelligence in education, learning analytics, adaptive and personalized learning, digital transformation, immersive and metaverse-based learning environments, intelligent tutoring systems, and innovative pedagogical approaches. IEEE SUME 2027 aims to foster interdisciplinary collaboration and the exchange of ideas that advance technology-enhanced learning and support sustainable, inclusive, and future-ready education.",
+      "callForPapers": "2027-01-20",
+      "url": "sume.edu.ps/ieeescme2025",
+      "eventContact": "t.sowaity@sume.edu.ps",
+      "sponsorTypes": "3; 9",
+      "venues": "Sheikh Abdul Raouf Al Qasimi Conference Hall, Smart University College for Modern Education, Al-Haras Street, near Bank of Palestine, , , , Hebron, , Palestine, P7140787, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

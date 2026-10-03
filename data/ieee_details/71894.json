@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jqKnx440/78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71894,
+      "eventTitle": "2026 IEEE Conference on Pervasive and Intelligent Computing (PICom)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Melbourne",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Next Generation Pervasive AI,Intelligent Networks Middleware Applications,Pervasive Computing and Activity Affect Recognition,Next Generation Smart Environments,Edge  Intelligence Applications,",
+      "scope": "Pervasive and Intelligent Computing",
+      "callForPapers": "2026-06-30",
+      "url": "cyber-science.org/2026/picom/",
+      "eventContact": "fengling.han@rmit.edu.au",
+      "sponsorTypes": "1",
+      "venues": "Royal Melbourne Institute of Technology, 124 La Trobe Street, Victoria, , , Melbourne, , Australia, 3000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

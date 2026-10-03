@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1byRx4401rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72681,
+      "eventTitle": "2027 IEEE 7th International Conference on Image Processing, Applications and Systems (IPAS)",
+      "startDate": "2027-04-06",
+      "endDate": "2027-04-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Geoscience; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Castellon De La Plana",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Association BOussole de la Recherche Scientifique - ABORS Tunisia; France Section; France Section SP Chapter; Region 08 - Europe,Middle East,Africa; Spain Section; Spain Section SP/COM Joint Chapter; Tunisia Section; Tunisia Section SP Chapter",
+      "keywords": "Image Processing Theory and Methods,Image and Video Processing Theory,Image and video analysis and interpretation,Real Time Image Processing ,Categorization and Indexing,Content Based Image Retrieval,Low level image Processing & Image Segmentation,Large Scale Methods Motion and Tracking,Human Focused Analysis,3D Computer Vision,Vision for Robotics,Computer Vision for Virtual and Augmented reality,Ultrasound, mammograms, Magnetic Resonance Imaging, and multimodal medical imaging,Biologically Insp",
+      "scope": "The scope of Image Processing Applications is vast and highly specialized. Medical image processing remains a fundamental research pillar. Mechanical applications and precision measurement rely heavily on these systems. Robotics and autonomous systems use vision for navigation and interaction. Digital twins create virtual replicas of physical assets for simulation. Furthermore, vision technologies power smart city infrastructure. This includes automated waste management and traffic congestion optimization. These diverse fields demonstrate the broad reach of the conference. Industry is rapidly integrating Image Processing with AI-based solutions. Current research focuses on large-scale industrial deployment. These systems must meet complex real-world implementation criteria.  Edge AI deployment is a critical frontier. Modern hardware requires highly optimized solutions. Knowledge distillation techniques help compress complex models. Pruning methods further reduce computational demands.",
+      "callForPapers": "2026-11-10",
+      "url": "ipas.ieee.tn",
+      "eventContact": "dorra.sellami@enis.tn",
+      "sponsorTypes": "2; 3; 3; 3; 5; 5; 5; 9",
+      "venues": "Universitat Jaume I, Avenida de Vicent Sos Baynat, s/n , , , , Castelló de la Plana, Castelló, , Spain, 12006 , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

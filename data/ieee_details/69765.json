@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zcaGx440j7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69765,
+      "eventTitle": "2026 IEEE International Conference on Informatics, Industrial Electrical and Electronics (ICIIEE)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Shenyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Section; Jiangsu Ocean University",
+      "keywords": "Informatics,Industrial Electrical,Industrial Electronics,Internet of Things,Cloud Computing,Artificial Intelligence,Wireless Sensor Networks,Inteligent Control,Robotics,Image Processing,",
+      "scope": "ICIIEE 2026 seeks to provide a high-level forum for experts, researchers, professionals, innovators and practitioners in the field of informatics, industrial electrical and electronics from industry and academia to present and discuss the wide spectrum of original and novel researches and contributions together. Informatics, industrial electrical and electronics are hotspot topics in modern academic and scientific field. It is an especially new research direction, so novel and state-of-the-art researches and inventions related to informatics, industrial electrical and electronics emerge continuously. Besides, informatics, industrial electrical and electronics can be widely applied in many fields, such as computer and intelligent communication, digital Image and video processing, power engineering and systems, industrial automation and control system technology and so on.",
+      "callForPapers": "2026-07-31",
+      "url": "www.iciiee.org/",
+      "eventContact": "iciieeconf@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Grand Metropark North York Hotel Shenyang, 35 Tongze N St, Tai Yuan Jie Shang Quan, Heping District, , , , Shenyang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

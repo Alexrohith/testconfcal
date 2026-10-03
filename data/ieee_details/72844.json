@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: o8WLx440srsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72844,
+      "eventTitle": "2026 China Automation Congress (CAC)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chinese Automation Association - CAA; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Intelligent Automation Technology,Control Theory and System Science,Artificial Intelligence and Data Science,Intelligent Manufacturing and Systems Engineering,Intelligent Sensing and   Instrumentation,Intelligent System and Robot,Industrial Control System Information   Security,Smart Life and Future,",
+      "scope": "The 2026 China Automation Congress (CAC2025) will provide a platform for all scholars and technicians in automation and intelligent manufacturing from academy and industry to share ideas, and to present the latest scientific and technical advances.",
+      "callForPapers": "",
+      "url": "cac.org.cn",
+      "eventContact": "caa@ia.ac.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "No. 55,,  Yudong Road, Shunyi District, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

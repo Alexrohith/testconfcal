@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8ryex440p7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72622,
+      "eventTitle": "2026 6th International Conference on High Performance Computing, Big Data and Communication Engineering (ICHBC)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanchang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Jiangxi Institute of Technology",
+      "keywords": "High Performance Computing Algorithms and Applications,Big Data Computing,Parallel and Distributed Computing,Cloud and Edge Computing,Quantum Computing and Quantum Algorithms,Wireless and Mobile Communications,5G6G Communications and Network Intelligence,Quantum Communications and Quantum Cryptography,Big Data Analytics and Mining,Big Data-Driven Network Optimization,Big Data Applications in Internet of Things,",
+      "scope": "ICHBC 2026 will serve as a high-level international academic platform that brings together global researchers, engineers, and industry experts to share cutting-edge achievements, tackle key technical challenges, and advance academic-industrial integration. It will cover core themes including high-performance computing and emerging technologies, parallel and distributed computing, cloud and edge computing architectures, quantum computing and intelligent algorithms, 5G/6G mobile and optical communication systems, wireless network optimization and quantum communication technologies, as well as big data mining, distributed data analysis, edge-big data collaboration, and large-scale data governance. It will host high-quality keynotes and technical sessions, building a professional exchange platform to boost the innovative development of high-performance computing, big data, and modern communication engineering industries.",
+      "callForPapers": "2026-10-03",
+      "url": "www.hpcce.net/",
+      "eventContact": "aslina.ba@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Jiangxi University of Technology, No. 115 Ziyang Avenue, Yaohu University Park, Nanchang City, Jiangxi Province, China, , , , Nanchang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

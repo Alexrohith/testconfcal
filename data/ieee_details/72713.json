@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jumOx440zb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72713,
+      "eventTitle": "2026 40th Conference of Open Innovations Association (FRUCT)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Helsinki",
+        "region": "",
+        "country": "Finland"
+      },
+      "sponsors": "FRUCT; IEEE Communications Society",
+      "keywords": "Artificial Intelligence,Natural Language Processing,Big Data,Robotics,Internet of Things,Mobile Healthcare,Data Privacy,Computer Vision,Drones,Data Mining,Cybersecurity,Blockchains,Cloud Computing,Spatial Databases,Computer network reliability,Communication Technologies,Smart Systems,Location Based Services,Embedded Networks,Smart Spaces,Context-aware services,Video signal processing,",
+      "scope": "The FRUCT conference serves as an international multidisciplinary platform fostering collaboration between academia and industry in the domain of information and communication technologies and related fields. The conference is organized within the framework of the FRUCT open innovation community, which promotes joint research, knowledge exchange, and technology transfer. FRUCT conferences typically bring together participants from over 30 universities worldwide, along with industrial experts and practitioners from leading global technology companies such as Oracle, Samsung, Intel, Nokia, etc. The event provides a unique environment that integrates academic excellence with industrial relevance. A distinctive feature of the conference is its strong emphasis on student engagement, including opportunities to present ongoing research, receive feedback from international experts, and participate in collaborative project development.",
+      "callForPapers": "2026-09-07",
+      "url": "www.fruct.org/conference40",
+      "eventContact": "tatianat@fruct.org",
+      "sponsorTypes": "1; 9",
+      "venues": "FRUCT Meeting Area, Kissankellontie 20B , , , , Helsinki, , Finland, 00930, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

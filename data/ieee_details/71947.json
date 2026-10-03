@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rIaDx4406LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71947,
+      "eventTitle": "2026 22nd International Symposium on Biomedical Image Processing and Analysis (SIPAIM)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Lima",
+        "region": "",
+        "country": "Peru"
+      },
+      "sponsors": "IEEE Engineering Medicine and Biology Society; SIPAIM Society",
+      "keywords": "Medical Imaging, Artificial Intelligence, Biomedical Engineering, Deep Learning, Computer Vision, Signal Processing, Image Analysis,",
+      "scope": "The International Symposium on Medical Information Processing and Analysis (SIPAIM) focuses on advances in the processing, analysis, and interpretation of medical information, including medical imaging, biomedical signal processing, digital pathology, and e-health technologies. It brings together researchers and professionals from engineering, computer science, mathematics, and health sciences to discuss computational methods, machine learning approaches, and technological solutions for healthcare applications. The symposium promotes multidisciplinary collaboration and the development of innovative tools for medical data analysis, diagnosis support, and healthcare information systems.",
+      "callForPapers": "2026-09-03",
+      "url": "sipaim.org",
+      "eventContact": "jpgonzalez@unal.edu.co",
+      "sponsorTypes": "1; 9",
+      "venues": "Universidad San Ignacio de Loyola, Av La Fontana 750, La Molina Location, La Molina 15024, Peru, , , , , , Peru, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

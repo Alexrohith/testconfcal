@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hZXAwo4076kBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70519,
+      "eventTitle": "2026 International Conference on Intelligent Computing, Control & Communication (ICICCC)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-09",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "GREATER NOIDA",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Galgotias College of Engineering and Technology ; Uttar Pradesh Section",
+      "keywords": "Intelligent computing, Artificial intelligence,expert System,Machine Learning,Deep Leraning,Neural Networks,Data communication,Computer Networks,Wireless communication,5G Network,6G Network,fog computing,Cyber security,data security,Privacy preservation,Cryptography,Network Security,Blockchain,Data Analytics,Big Data Processing,Cloud Computing,Distributed System,Control system,Automation,Robotics,smart sensing,",
+      "scope": "The International Conference on Intelligent Computing, Control & Communication (ICICCC-2026) aims to unite researchers and professionals to explore advances in intelligent computing, secure systems, data-driven technologies, and modern communication networks. The conference covers next-generation data communication, networking architectures, AI and expert systems for intelligent automation, and emerging methods in machine learning and deep learning. It also focuses on data and system security, including cryptography, cybersecurity, blockchain, and resilient system design. The IoT and data analytics track highlights big data processing, cloud/edge intelligence, smart sensing, and IoT-enabled applications. ICICCC-2026 promotes interdisciplinary collaboration and provides a platform for innovative solutions that drive the development of smart, secure, and efficient technologies for future digital ecosystems.",
+      "callForPapers": "",
+      "url": "www.iciccc.in/",
+      "eventContact": "profvandna@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Galgotias College of Engineering  and Technology, Plot No 1, Knowledge Park II  , Greater Noida, Gautam Buddha Nagar-201310, U.P., , Greater Noida, , India, 201310, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pKOpx440hL0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68974,
+      "eventTitle": "2027 IEEE International Workshop on Multimedia Signal Processing (MMSP)",
+      "startDate": "2027-10-06",
+      "endDate": "2027-10-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Klagenfurt",
+        "region": "",
+        "country": "Austria"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Signal Processing,Multimedia,",
+      "scope": "Signal processing and multimedia.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "christian.timmerer@aau.at",
+      "sponsorTypes": "1",
+      "venues": "Das Seepark Wörthersee Resort, Universitätsstraße 104, , , , Klagenfurt, , Austria, 9020, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kIf+xo40y7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73428,
+      "eventTitle": "2026 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Sakhir",
+        "region": "",
+        "country": "Bahrain"
+      },
+      "sponsors": "Bahrain Section; College of Information Technology, University of Bahrain",
+      "keywords": "Smart Cities,Fintech,Networking,Big Data,Artificial Intellegance,Cybersecurity,Software Engineering,Cloud Computing,Internet of Things,Metaverse,Women in Tech,Informatics,Robotics,Computer Vision,Human Computer Interaction,",
+      "scope": "The College of Information Technology, University of Bahrain is organizing the 2026 International Conference on Innovation and Intelligence for Informatics, Computing, and Technologies (3ICT 2026). The aim of 3ICT 2026 is to provide a forum for the researchers and industry practitioners to exchange the latest fundamental advances in the state of the art and practice of Computing, Advanced Technologies, and Innovative Research. Present their latest research results and perspectives for future work in these areas of research.",
+      "callForPapers": "2026-09-01",
+      "url": "iiict.uob.edu.bh/3ict26/",
+      "eventContact": "iiict2018@uob.edu.bh",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Bahrain, E-learning Center, University of Bahrain, , , Sakhir, , Bahrain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

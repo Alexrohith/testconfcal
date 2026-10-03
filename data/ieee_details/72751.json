@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ioKRx44007sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72751,
+      "eventTitle": "2026 41st International Conference on Image and Vision Computing New Zealand (IVCNZ)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Dunedin",
+        "region": "",
+        "country": "New Zealand"
+      },
+      "sponsors": "New Zealand South Section; University of Otago",
+      "keywords": "Visual Computing,Computer Vision,Computer Graphics,Image Processing,",
+      "scope": "The conference has a broad scope within the field of Visual Computing, including both theoretical and applied work across Computer Vision, Comptuer Graphics, and Image Processing.",
+      "callForPapers": "2026-09-07",
+      "url": "ivcnz.github.io/",
+      "eventContact": "steven.mills@otago.ac.nz",
+      "sponsorTypes": "3; 9",
+      "venues": "School of Computing, University of Otago, PO Box 56, , , Dunedin, , New Zealand, 9054, ;St Margaret's College, 333 Leith Street, North Dunedin, , , Dunedin, , New Zealand, 9016, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

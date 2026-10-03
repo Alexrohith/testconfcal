@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3ZTbwY4036EBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68272,
+      "eventTitle": "2026 6th International Conference on Nanoelectronics Machine Learning Internet of Things & Computing Systems (NMIC)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "about": "Geoscience; Transportation",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "ISVE Ranchi; Kolkata Section",
+      "keywords": "Nanoelectronics,Machine Learnig,Internet of Things,Computing Systems,Devices,Circuits,VLSI Design,Embedded Systems,Embedded Intelligence,",
+      "scope": "dress by renowned Scientists, Professors and Industry persons from India and Abroad on topics related to theme of the Conference. Original theoretical, practical, experimental, simulations, development, application, measurement, and testing based papers are invited for presentation in the Conference. All submitted papers will go through rigorous plagiarism checking, language checking by expert’s reviewers. Details review comments will be shared to communicating authors in the form of Accepted, Accepted with changes, and rejected. Models will be displayed in front of judges and innovative working models will get the award and model details will be published in SCOPUS/ SCI series. It will covers the specific topics relevant to the society needs such as Nanoelectronics Machine Learning Internet of Things & Computing Systems",
+      "callForPapers": "2025-08-15",
+      "url": "isve.in/nmic-2026/",
+      "eventContact": "profvnath@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

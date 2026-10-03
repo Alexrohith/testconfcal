@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: t6ywx4406sABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72766,
+      "eventTitle": "2027 10th International Conference on Trends in Electronics and Informatics (ICOEI)",
+      "startDate": "2027-08-02",
+      "endDate": "2027-08-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas",
+      "location": {
+        "city": "Tirunelveli",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Electron Devices Society; SCAD College of Engineering and Technology",
+      "keywords": "VLSI Design,Embedded Systems,Control Systems,RF and Microwave Circuits,Analog and Digital Circuit Design,Integrated Circuit Design,",
+      "scope": "The 10th International Conference on Trends in Electronics and Informatics (ICOEI 2027) encourages seamless integration of electronics and informatics to enable innovations in various fields such as IoT, edge computing, and sustainable technologies. As technologies like human augmentation, digital twins, and advanced robotics gain prominence, the theme of 10th ICOEI 2027 will be \"Navigating the Frontiers: Unleashing the Potential of Electronics and Informatics\" with a focus on creating more efficient, secure, and human-centric systems, laying the foundation for a transformative era marked by intelligent connectivity, data-driven insights, and sustainable solutions.",
+      "callForPapers": "2027-05-07",
+      "url": "icoei.com/2027/",
+      "eventContact": "icoei2017@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "SCAD College of Engineering and Technology,, Cheranmahadevi, , , , , Tirunelveli, , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

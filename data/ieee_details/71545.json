@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6riJx440q74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71545,
+      "eventTitle": "2026 International Conference on Data Engineering and Enterprise System (ICDEES)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Malang",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Bina Nusantara University; Indonesia Section; Indonesia Section C Chapter",
+      "keywords": "Computer Science,Information systems,Artificial Intelligence,Decision Support System,Software engineering,Internet Computing,Human computer interaction,enterprise architecture,Data Engineering,Software agent,",
+      "scope": "1. DATABASES AND INFORMATION SYSTEMS INTEGRATION 2. ARTIFICIAL INTELLIGENCE AND DECISION SUPPORT SYSTEMS 3. INFORMATION SYSTEMS ANALYSIS AND SPECIFICATION 4. SOFTWARE AGENTS AND INTERNET COMPUTING 5. HUMAN-COMPUTER INTERACTION 6. ENTERPRISE ARCHITECTURE 7. DATA ENGINEERING 8. SOFTWARE ENGINEERING",
+      "callForPapers": "2026-08-15",
+      "url": "dcs.binus.ac.id/icdees",
+      "eventContact": "benfano@binus.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Binus University Malang, Araya Mansion No. 8-22, Genitri, Mangliawan, Kec. Pakis,, Kabupaten Malang, Jawa Timur, , Malang, , Indonesia, 65154, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

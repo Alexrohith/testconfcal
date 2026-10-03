@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7ozlwY40pKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73166,
+      "eventTitle": "2026 13th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET-SIP)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-01",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nagpur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "G.H.Raisoni College of Engineering, Nagpur, India ; GHR Labs & Research Center; Maharashtra Section; Malaysia Section",
+      "keywords": "Digital Signal Processing,6g Mobile Communication,5g Mobile Communication,Artificial intelligence,Machine Learning,Computing & IT,",
+      "scope": "The conference will bring international community of researchers, academicians & industrialists who are working in the field of signal & information processing & allied areas. The research contributions & deliberation in emerging trends in signal and information processing with application areas such as system modeling, networking & communication, VLSI & biomedical signal processing, audio / speech/ image/ multimedia / video/ music processing, DSP processors, Nano satellite, pattern recognition, intelligent systems, IoT, algorithms & soft computing techniques, aerospace, radiating systems will exhibited and the future directions will be focused. The conference will have key note address by eminent experts in the focused domain of emerging trends in signal and information processing & will have tutorial session in area of signal and information processing. The conference will witness oral, poster sessions & will exhibit the technologies by startup owner",
+      "callForPapers": "2026-07-01",
+      "url": "ghrce.raisoni.net/icetetsip-26/index.php",
+      "eventContact": "laxman.thakare@raisoni.net",
+      "sponsorTypes": "3; 3; 9; 9",
+      "venues": "G H Raisoni College of Engineering Nagpur, CRPF Gate no 3, Hingna Road Nagpur, , , Nagpur, , India, 440016, ;SEGi University, No 9, Jalan Teknologi, PJU 5, Kota Damansara, 47810 Petaling Jaya, Selangor, Darul Ehsan, Malaysia, , Kota Damansara, , Malaysia, 47810, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

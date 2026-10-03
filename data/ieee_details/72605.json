@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zsj4xo40proBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72605,
+      "eventTitle": "2026 International Conference on Artificial Intelligence Centric Systems, Services, and Applications (AISSA)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-10",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Al Ain University ; Lone Star Section",
+      "keywords": "Artificial Intelligence,Artificial Intelligence Systems,Artificial Intelligence Services,",
+      "scope": "The International Conference on Artificial Intelligence Centric Systems, Services, and Applications (AISSA 2026) aims to bring together leading researchers, academics, and practitioners from around the world to share their latest findings, innovations, and applications in Artificial Intelligence and intelligent systems. AISSA 2026 provides a premier interdisciplinary platform for presenting advances and exchanging insights on the theoretical foundations, cutting-edge technologies, and real-world implementations of AI. AISSA 2026 will feature keynote talks, technical paper sessions, workshops, and tutorials covering a wide range of AI topics. We invite submissions of high-quality research papers describing original and unpublished results in all areas of Artificial Intelligence Systems.",
+      "callForPapers": "2026-08-10",
+      "url": "emergingtechnet.org/AISSA2026/index.php",
+      "eventContact": "jararwehy@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn San Antonio, Riverwalk, , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

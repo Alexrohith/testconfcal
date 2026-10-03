@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: r8j+xo403roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71710,
+      "eventTitle": "2026 IEEE 8th International Conference on BioInspired Processing (BIP)",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "about": "Aerospace; Bioengineering; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Guápiles",
+        "region": "",
+        "country": "Costa Rica"
+      },
+      "sponsors": "Costa Rica Section; Costa Rica Section C Chapter; Costa Rica Section EMB Chapter",
+      "keywords": "bioinspired,biology computing,computational biology,artificial intelligence,",
+      "scope": "BioInspired Processing",
+      "callForPapers": "2026-07-31",
+      "url": "www.bipconference.org/",
+      "eventContact": "fabian.fallasmoya@ucr.ac.cr",
+      "sponsorTypes": "3; 5; 5",
+      "venues": "Recinto de Guápiles, Universidad de Costa Rica, Pococí, Limón, , , , Guápiles, , Costa Rica, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0/2Tx440774BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72076,
+      "eventTitle": "2027 World Conference on Autonomous Intelligent Systems & Robotics (WcAISR)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Gharuan",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Chandigarh University; IEEE Robotics and Automation Society",
+      "keywords": "Intelligent Robotics and Autonomous Systems, AI for Robotics and Cognitive Systems, Robotics in Healthcare and Assistive Technologies, Emerging Trends in Robotics and AI Applications,",
+      "scope": "The conference invites original/unpublished research contributions from researchers, academicians, developers and industry practitioners working in the broad domain of artificial intelligence, robotics, and autonomous systems. The areas of interest include, but are not limited to,   • AI-Driven Robotics and Intelligent Agents • Learning-Based Control and Adaptive Systems • Large Language Models (LLMs) • Autonomous Robots and Unmanned Systems • Embedded Intelligence and Smart Interfaces • Human–Robot Collaboration and Safe Robotics • Sensory Systems • Bio-Inspired and Soft Robotics • Retrieval-Augmented Generation (RAG), and AI Agents for Autonomous Decision Making • Simulation, Modeling, and Virtual Environments, • Robotics applications in healthcare • Industrial Automation and Smart Cities WcAISR-2027 aims to serve as a global platform for presenting and discussing transformative technologies that will shape the future of robotics and autonomous systems.",
+      "callForPapers": "2026-07-10",
+      "url": "www.cuchd.in/conference/wcaisr-2027/",
+      "eventContact": "gupta.meenu5@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "D1 Auditorium, South Block, Chandigarh University, Gharuan, Mohali, Punjab, Mohali, , India, 140413, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

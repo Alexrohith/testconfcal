@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vPvuwY408qIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71671,
+      "eventTitle": "2026 International Conference on Artificial Intelligence in Cyber and Crime Forensics (AI2CF)",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lahore",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Lahore Garrison University; Lahore Section; Lahore Section COM Chapter",
+      "keywords": "Artificial Intelligence  Cyber Security  Digital Forensics  Cyber Crime Investigation  Malware Analysis  IoT Security  IoT Forensics  Network Forensics  Mobile Device Forensics  Cloud Security  Blockchain Security  Threat Intelligence  Incident Response  Machine Learning for Security  Deep Learning Applications  Generative AI in Cybersecurity  Cyber Threat Hunting  Data Privacy & Protection  Secure Communication Systems  Critical Infrastructure Protection,",
+      "scope": "The International Conference on Artificial Intelligence for Cyber and Crime Forensics (AI2CF-2026) focuses on innovative research at the intersection of AI, cybersecurity, and digital forensics to address evolving cyber threats in modern digital ecosystems.  It covers machine learning for threat detection, malware analysis, IoT and cloud security, digital investigations, and the legal and ethical dimensions of AI-driven cybersecurity solutions.",
+      "callForPapers": "2026-05-15",
+      "url": "ai2cf.lgu.edu.pk",
+      "eventContact": "kausarnawaz6@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Lahore Garrison University, Main Campus, Sector C, DHA Phase-VI, Lahore, Punjab, Pakistan, , , , LAHORE, , Pakistan, 53200, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

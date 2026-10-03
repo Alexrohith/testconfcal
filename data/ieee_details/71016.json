@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qL2Gx440mL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71016,
+      "eventTitle": "2026 IEEE International Multi-Conference on Smart Systems & Green Process (IMC-SSGP)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "ZARZIS",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "Association Ibn Chabbat des Sciences; Ecole Nationale des Ingénieurs de Gabes; Ecole Supérieure en Sciences Appliquées de Tlemecen; Ecoles Doctorale: Sciences, Ingénierie et Société, Tunisia; IEEE Control Systems Society; IEEE Systems Council; Institut Superieur des Systemes Industriels de Gabès (ISSIG); Laboratoire de Recherche IREENA - Saint Nazaire; Laboratoire de recherche MACS; Libya CS/SP Chapter; Region 08 - Europe,Middle East,Africa; Tunisia Section; Tunisia Section PES Chapter; Universite de Gabes",
+      "keywords": "Automatic Control, Energy Management Systems, Green Process,Mechatronic Systems,Renewable Energy Systems,Artificial intelligence,Green products,Control, Robotics And Mechatronics,",
+      "scope": "AC : Automatic Control RA : Robotics & Automation AII : Artificial Intelligence & IoT SI : Signal & Image ACS : Advances in Communication Systems FS : Faulty Systems MSO : Modelling, Simulation & Optimization LNSA : Linear & Nonlinear System Analysis CPS : Complex Power Systems EMMS : Energy Management in Multisource Systems FCHEV : Fuel Cell and Hybrid Electrical Vehicle EHES : Energy Harvesting & Embedded Systems MD : Monitoring and Diagnosis GRE : Green & Renewable Energy WWTP : Waste-Water Treatment Process EEEE : Environmental Engineering & Energy Economy PCT : Pollution Control Technology ES-SE : Energy Storage - Sustainable Energy",
+      "callForPapers": "2026-07-30",
+      "url": "",
+      "eventContact": "assem.thabet@issig.rnu.tn",
+      "sponsorTypes": "1; 1; 2; 3; 5; 5; 9; 9; 9; 9; 9; 9; 9; 9",
+      "venues": "ZARZIS, , , , , ZARZIS, , Tunisia, 4173, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

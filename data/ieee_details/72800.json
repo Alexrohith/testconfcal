@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ltCFx440kb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72800,
+      "eventTitle": "2027 64th IEEE/ACM Design Automation Conference (DAC)",
+      "startDate": "2027-07-11",
+      "endDate": "2027-07-14",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "San Jose",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Design Automation  - ACM SIGDA; IEEE Council on Electronic Design Automation; IEEE Solid-State Circuits Society",
+      "keywords": "Electronic Design Automation, Artificial Intelligence, Chip Design, Computing Hardware, Hardware Security, Embedded Systems,",
+      "scope": "DAC is recognized as the global event for chips to systems. DAC offers outstanding training, education, exhibits and superb networking opportunities for designers, researchers, tool developers, and vendors. The conference is sponsored by the Association for Computing Machinery (ACM) and the Institute of Electrical and Electronics Engineers (IEEE) and is supported by ACM's Special Interest Group on Design Automation (SIGDA) and IEEE's Council on Electronic Design Automation (CEDA).  DAC is proud to be ranked A* in the latest ICORE (International CORE) conference rankings. The A* is the highest rating and reflects DAC’s reputation as a top-tier conference for chips-to-systems innovation across computer science and engineering.",
+      "callForPapers": "2026-11-11",
+      "url": "www.dac.com",
+      "eventContact": "dpan@ece.utexas.edu",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "San Jose Convention Center, , , , , San Jose, CA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

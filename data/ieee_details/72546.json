@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zKCfx440xr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72546,
+      "eventTitle": "2026 IEEE Annual Computer Security Applications Conference Workshops (ACSAC Workshops)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Los Angeles",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Applied Computer Security Associates (ACSA); IEEE Computer Society",
+      "keywords": "Cybersecurity,Privacy,Computer security,Network security,Collocated workshops,",
+      "scope": "ACSAC brings together leading researchers and practitioners, along with a diverse group of security professionals drawn from academia, industry, and government, gathered to present and discuss the latest cybersecurity results and topics. With peer reviewed technical papers, invited talks, panels, national interest discussions, and workshops, ACSAC continues its core mission of investigating practical solutions for computer and network security technologies. The collocated ACSAC workshops are on up to date topics that attendees usually rate to provide a useful and exciting forum for information technology professionals (e.g., standards developers, software developers, security engineers, security officers) to exchange ideas, concerns, and opinions.",
+      "callForPapers": "2026-09-15",
+      "url": "www.acsac.org",
+      "eventContact": "dbalenson@comcast.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Hilton Los Angeles/Universal City, 555 Universal Hollywood Drive, , , , Universal City, CA, USA, 91608, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

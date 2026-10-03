@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4e2Ex4408roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71700,
+      "eventTitle": "2027 International Conference on Smart Computing and Intelligent Business Technologies (SCIBT)",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-18",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Muscat",
+        "region": "",
+        "country": "Oman"
+      },
+      "sponsors": "Arab Open University, Oman; Oman Section",
+      "keywords": "Artificial Intelligence,Cybersecurity,IoT & Edge Computing,Intelligent Business Technologies,FinTech,Digital Transformation,Green & Sustainable Technologies,",
+      "scope": "IEEE–SCIBT 2027 focuses on smart computing technologies and intelligent business systems enabling digital transformation and sustainable innovation. The conference covers Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, FinTech, IoT, Cloud and Edge Computing, and Green Computing. It emphasizes scalable, secure, explainable, and energy-efficient computing systems supporting smart enterprises, governments, and digital societies. The event bridges research and industry applications, promoting interdisciplinary collaboration and real-world deployment of intelligent technologies.",
+      "callForPapers": "2026-07-15",
+      "url": "scibt2027.aou.edu.om/",
+      "eventContact": "abrar.m@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Arab Open University, , , , , Muscat, , Oman, 130, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

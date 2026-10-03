@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0LmMx440p7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71543,
+      "eventTitle": "2027 International Conference on Intelligent and Innovative Technologies in Computing, Electrical and Electronics (IITCEE)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "BNM Institute of Technology; Bangalore Section; Bangalore Section VT Chapter",
+      "keywords": "Intelligent Technologies, Innovative Technplogies, Electrical and Electronics, Electronics and Communication, Bioinformatics, Expert Systems, Data Engineering, DBMS, Bio Inspired Computing, Internet of Things, Electric Vehicular Technology, Power System ENgineering,Artificial Intelligence,Software Defined vehicles,Embedded Systems,Internet of things,Cyber security,",
+      "scope": "ICIITCEE 2027 focuses on addressing key challenges and emerging solutions in the domains of Intelligent and Innovative Technologies in Computing, Electrical, and Electronics Engineering. These fields are evolving rapidly, with advancements occurring on a day-to-day basis, making it challenging to disseminate knowledge effectively among all stakeholders, including researchers, academicians, students, industry professionals, and society at large. The objectives of the conference are to provide a common platform for stakeholders to connect, collaborate, and share ideas, innovations, and recent research findings in contemporary computing, electrical, and electronics domains. To strengthen collaboration between industry and academic institutions at regional, national, and global levels. To enable students and early-career researchers to interact with experts, facilitating learning, networking, and professional growth.To bridge the gap between academia and industry through interactions.",
+      "callForPapers": "2026-09-30",
+      "url": "iitcee2027.bnmit.in/",
+      "eventContact": "nsheshaprasad@bnmit.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "BNM Institute of Technology, 12th Main, 27th Cross, Banashankari II Stage, Bangalore, , Bangalore, , India, 560070, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

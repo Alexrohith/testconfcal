@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +vTfwY400qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72337,
+      "eventTitle": "2026 Integrating Information Technology for Strategic and Operational Excellence (IITSOE)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Bekasi",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Binus University; Indonesia Section; Indonesia Section C Chapter",
+      "keywords": "Information management,information system,artificial intelligence,machine learning,digital resilience and agility,",
+      "scope": "Digital Resilience and Agility in the Era of Uncertainty",
+      "callForPapers": "2026-05-30",
+      "url": "bbs.binus.ac.id/iitsoe",
+      "eventContact": "cindy.aurellia@binus.edu",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "BINUS Bekasi Campus, BINUS University, Lingkar Boulevar Street, Block WA No.1, Summarecon Bekasi, Marga Mulya., , , , Bekasi City, West Java, , Indonesia, 17142, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

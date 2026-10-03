@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ifHmwY40sqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73157,
+      "eventTitle": "2027 IEEE 3rd International Conference on Robotics and Technologies for Industrial Automation (ROBOTHIA)",
+      "startDate": "2027-04-17",
+      "endDate": "2027-04-17",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section IE/IA Joint Chapter",
+      "keywords": "Robotics,Industrial Automation,Control Systems,Cyber-Physical Systems,Internet of Things (IoT),Industry 4.0,Machine Learning,Artificial Intelligence,Computer Vision,Sensor Networks,Mechatronics,Biomechatronics,Human Machine Interaction,Autonomous Systems,Predictive Maintenance,Smart Manufacturing,",
+      "scope": "IEEE ROBOTHIA 2027 unites advancements in sensing, perception, signal processing, and communication to facilitate intelligent environmental awareness, together with innovations in energy storage, management, and renewable integration for optimised robotic systems. The conference examines real-time networking, digital twins, and data fusion in dispersed cyberphysical systems through the utilisation of IoT and edge computing. The subjects encompass control algorithms, circuit design, agile locomotion, dexterous manipulation, machine learning, computer vision, predictive maintenance, human-robot collaboration, wearable assistive devices, and stringent safety, compliance, and sustainability protocols. ROBOTHIA 2027 provides an interdisciplinary platform for advancing the future of robotics and industrial automation, encompassing smart factories, agricultural drones, healthcare robots, autonomous vehicles and other related fields.",
+      "callForPapers": "2026-10-31",
+      "url": "https://www.ihsanyassin.com/cms/conference.php?conf_short_name=robothia2027",
+      "eventContact": "norashikin.mthamrin@gmail.com",
+      "sponsorTypes": "5",
+      "venues": "ParkRoyal Collections, Jalan Sultan Ismail,, , , , Kuala Lumpur, , Malaysia, 50250, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v6iXx440jb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69923,
+      "eventTitle": "2026 22nd International Conference on Mechatronics - Mechatronika (ME)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Prague",
+        "region": "",
+        "country": "Czech Republic"
+      },
+      "sponsors": "Brno University of Technology - BUT; Czech Technical Univ in Prague; Czechoslovakia Section; Czechoslovakia Section IA/IE Joint Chapter; University of Defence - UoD; University of West Bohemia",
+      "keywords": "Mechatronics,Biomechatronics,Power electronics,Industrial applications,Robotics,Modeling and simulations,ICT,",
+      "scope": "The 22nd International Conference on Mechatronics - Mechatronika 2026 will be held during December 2 - 4, 2026, in Prague, Czech Republic. The program will consist of contributed papers. Depending on topic grouping, there will be no more than two parallel sessions. The conference themes will include, but are not limited to, the following areas: Modeling and Simulation, Robotics, Actuators and Control, Power Electronics, Information and Communication Technologies, Industrial Applications, Energy Harvesting, Sensors, Measurement and Diagnostics, Military Technologies, Biomechatronics, Industry 4.0, and Education.",
+      "callForPapers": "2026-05-30",
+      "url": "mechatronika.fel.cvut.cz/",
+      "eventContact": "hrad@fel.cvut.cz",
+      "sponsorTypes": "3; 5; 9; 9; 9; 9",
+      "venues": "Czech Technical University in Prague, Jugoslavskych partyzanu 1580/3, CZ-160 00 Prague 6 – Dejvice, , , Prague, , Czech Republic, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

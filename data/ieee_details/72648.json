@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 24XCwo40g6cBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72648,
+      "eventTitle": "2026 2nd International Conference on Frontiers Technology in Circuits and Systems (FTCS)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section Chongqing CAS Chapter; Chongqing Section; Chongqing University",
+      "keywords": "Integrated Circuits and Systems,Biomedical Electronics,Artificial Intelligence,Machine Learning,smart sensors,Internet to things,Biomedical Circuits,Neural Networks,AI Hardware,ARVR hardware,General Analog Circuits,Circuits and Systems for Smart Grid,Wearable and Implantable Devices,AI-accelerated IC Design,Circuits and Systems for Image Processing,Smart Systems for Automotive,",
+      "scope": "The FTCS 2026 conference aims to bring together researchers, engineers and practitioners from around the globe to explore the latest advancements and emerging trends in the field of circuits and systems. With a thematic focus spanning integrated circuits, biomedical electronics, smart sensors and artificial intelligence technologies, FTCS 2026 will serve as a nexus for the dissemination of pioneering research and the exploration of novel methodologies.  The conference will feature keynote speeches, technical sessions, and tutorials. We welcome original research contributions on next-generation IC design, energy-efficient architectures, intelligent sensor networks, and their applications in healthcare, automotive, and industrial systems.",
+      "callForPapers": "2026-07-24",
+      "url": "ic-ftcs.org/",
+      "eventContact": "annie89312@126.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Chongqing University, , , , , Chongqing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

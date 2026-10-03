@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uvnAwo40jKcBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72565,
+      "eventTitle": "2026 IEEE 7th International Conference on Computer Engineering and Intelligent Control (ICCEIC)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; South China University of Technology",
+      "keywords": "Computer Engineering,Artificial Intelligence,Machine Learning,Intelligent Computing,Big Data,Computer Vision,Image Recognition,VR and AR,Software Engineering,Network Engineering,Software-Defined Network,Computer Network Security,Data Security,Secure Communication Protocol,Intelligent Control Technology,Adaptive Control,Robust Control,Motion Control,Intelligent Control of Complex Systems,Automatic Control System Design,",
+      "scope": "ICCEIC 2026 aims to serve as a global platform for presenting, discussing, and advancing computer engineering and intelligent technologies. Encompassing key areas such as artificial intelligence, machine learning, intelligent computing, big data, computer vision, image recognition, VR and AR, software engineering, software-defined network, computer network security, data security, secure communication protocol, intelligent control technology, adaptive control, robust control, motion control, intelligent control of complex systems, and automatic control system design, this conference is dedicated to promoting worldwide cooperation among experts, researchers, and academics. Participants will benefit from exposure to groundbreaking research, opportunities to engage in in-depth discussions, and the chance to network, all aimed at driving innovation and scholarly success in these dynamic and evolving sectors.",
+      "callForPapers": "2026-08-01",
+      "url": "www.icceic.org/",
+      "eventContact": "icceic.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "South China University of Technology, No. 382, Waihuan East Road, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, 510006, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

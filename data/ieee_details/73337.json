@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zsCUx4402bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73337,
+      "eventTitle": "2027 4th International Conference on Intelligent Computing and Robotics (ICICR)",
+      "startDate": "2027-06-11",
+      "endDate": "2027-06-13",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": " University of Huddersfield; IEEE Robotics and Automation Society; University of Haute Alsace; Wuhan City Polytechnic; Xi'an University of Technology",
+      "keywords": "Computing Methodologies for Machine Intelligence,Machine Intelligence and Data Science,Robotics and Automation,Intelligent Control Systems,",
+      "scope": "New Computing Theories, Architectures, and Models Advanced Computing Equipment, Hardware and Software New Computing Paradigms New Computing Systems Computation-driven Machine Intelligence, Swarm Intelligence, etc. Machine and Deep Learning of Knowledge Trusted Computing and Privacy Computing Intelligent Understanding and Decomposition of Computing Tasks Cognitive Machine Intelligence Data Product Design Data, Text, and Web Analytics Pattern Recognition Modeling and Managing Large Data Systems Smart Services Computational Mechanism Design, Algorithmic Game Theory and Multi-agent Systems Robot Design, Development and Control AI in Robots AI and Robotics Technologies Sensor/Actuator Networks Adaptive Signal Processing and Control Robotics Modeling and Identification Mobile Robots and Intelligent Autonomous Systems Human-Machine Interfaces Distributed Control Systems Intelligent Fault Detection and Identification Soft Computing based Control Algorithms Evolutionary Computation and Control",
+      "callForPapers": "2027-02-28",
+      "url": "www.icrconf.com/",
+      "eventContact": "jsh.bjut@gmail.com",
+      "sponsorTypes": "1; 9; 9; 9; 9",
+      "venues": ", , , , , Wuhan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

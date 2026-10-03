@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4P+Ex44087oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73187,
+      "eventTitle": "2027 26th International Symposium INFOTEH-JAHORINA (INFOTEH)",
+      "startDate": "2027-03-17",
+      "endDate": "2027-03-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "East Sarajevo",
+        "region": "",
+        "country": "Bosnia and Herzegovina"
+      },
+      "sponsors": "Bosnia And Herzegovina Sec PEL/IA/IE Jt Chap; Bosnia and Herzegovina Section; IEEE Industry Applications Society; Serbia/Montenegro Section; University of East Sarajevo Faculty of Electrical Engineering",
+      "keywords": "information and communication technologies,electrical and computer engineering,control systems,Power Electronics,power engineering,Artificial intelligence,Software Engineering,",
+      "scope": "INFOTEH gathers the experts, scientists, engineers, researchers and students that deal with information technologies and their application in control, communication, production and electronic systems, power engineering and in other border areas.",
+      "callForPapers": "2026-12-15",
+      "url": "infoteh.etf.ues.rs.ba/indexe.php",
+      "eventContact": "danijel.mijic@etf.ues.rs.ba",
+      "sponsorTypes": "1; 3; 3; 5; 9",
+      "venues": "Jahorina, Olimpijska bb, , , , East Sarajevo, , Bosnia and Herzegovina, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

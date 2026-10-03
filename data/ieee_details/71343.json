@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: o8+vx4401b0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71343,
+      "eventTitle": "2026 IEEE 19th International Symposium on Embedded Multicore/Many-core Systems-on-Chip (MCSoC)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Adaptive Systems Laboratory; IEEE Computer Society",
+      "keywords": "Embedded Systems,System on chip,Neuromorphic ,Multi-core systems,Many-core architectures,Heterogeneous computing,Chiplet integration,3D integration,HWSW co-design,AIML hardware,Edge intelligence,Reconfigurable computing,Energy-efficient computing,IoT/CPS,",
+      "scope": "The IEEE MCSoC Forum is a leading international venue dedicated to advancing multi‑core, many‑core, and heterogeneous computing systems. Its scope spans architectures, design methodologies, and emerging technologies that shape next‑generation computing platforms. Topics include multi‑core and many‑core processors, heterogeneous and reconfigurable systems, System‑on‑Chip and Network‑on‑Chip, chiplet‑based and 3D/2.5D integration, hardware/software co‑design, design automation, AI and machine‑learning accelerators, neuromorphic and brain‑inspired architectures, edge and embedded intelligence, high‑performance and energy‑efficient computing, security, reliability, and applications in IoT and cyber‑physical systems. The Forum fosters collaboration across architecture, circuits, systems, and software communities.",
+      "callForPapers": "2026-04-30",
+      "url": "mcsoc-forum.org/",
+      "eventContact": "zwang@u-aizu.ac.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "Shanghai Jiao Tong University (Xuhui Campus), KoGuan School of Law, Huashan Road, Xuhui District, , , Shanghai, , Japan, 1954, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

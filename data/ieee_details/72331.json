@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1LvfwY40+qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72331,
+      "eventTitle": "2026 4th International Conference on Intelligent Control and Computing (IC&C)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Harbin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Engineering University, China; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Intelligent Systems and Control,Computer Systems and Technologies,Emerging Interdisciplinary Technologies,Artificial Intelligence and Machine Learning Algorithms,",
+      "scope": "The 4th International Conference on Intelligent Control and Computing (IC&C 2026) will be held in Harbin, China, from October 9 to 11, 2026. Focused on advancing theoretical and applied research in intelligent control and intelligent computing, the conference aims to bridge academia and industry, fostering interdisciplinary and international collaboration to address evolving challenges in the field. IC&C 2026 welcomes high-quality original contributions covering theory, algorithms, systems, and applications.  The conference serves as a premier platform for showcasing innovative projects, exchanging cutting-edge insights, and driving transformative research. We look forward to impactful contributions that advance the state of the art and inspire future directions.",
+      "callForPapers": "2026-05-15",
+      "url": "www.icicc.org/index.html",
+      "eventContact": "polyakova_marina@yahoo.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Harbin Engineering University, China, 145 Nantong Street, Nangang District, Harbin, Heilongjiang Province, 150001, P. R. China, , , , Harbin, , China, 150001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wfXswY404KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72597,
+      "eventTitle": "2026 IEEE 4th International Conference on Computer, Vision and Intelligent Technology (ICCVIT)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; University of Science and Technology Beijing",
+      "keywords": "Image Processing,3D Computer Vision,Object Detection and Recognition,Visualization,Artificial Intelligence,Human-Robots Interfaces,Machine Learning Technologies for Vision,Robot Design,Intelligent Control Theory and Applications,Autonomous Systems,High-Performance Computing,Mobile and Ubiquitous Computing,",
+      "scope": "ICCVIT 2026 aims to bring together researchers, academics, and industry professionals to present and discuss the innovations in computer vision and intelligent technologies. Topics of interest include image processing and analysis, 3D computer vision and motion tracking, pattern recognition, machine learning and AI for vision, visualization intelligence algorithm and so on.",
+      "callForPapers": "2026-10-15",
+      "url": "www.iccvit.net/",
+      "eventContact": "junwwanghbu@126.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Palace Garden Tai He Fu Hotel,  No. 5, Beiqing Road, Changping District, Beijing, China, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

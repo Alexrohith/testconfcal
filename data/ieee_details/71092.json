@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: p5SAx4408L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71092,
+      "eventTitle": "2026 4th International Conference on Intelligent Metaverse Technologies & Applications (iMETA)",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "OpenKnowledge Sharing Society; Spain Section",
+      "keywords": "Metaverse,Distributed Computing,Communication networks,Artificial intelligence,Web3,",
+      "scope": "iMETA conference aims to provide attendees with comprehensive understanding of the communication, computing, and system requirements of the metaverse. Through keynote speeches, panel discussions, and presentations, attendees will have the opportunity to engage with leading experts and learn about the latest developments and future trends in the field. The conference will also provide ample opportunities for networking, sharing knowledge, and collaborating with others in the metaverse community.",
+      "callForPapers": "2026-04-15",
+      "url": "imeta-conference.org/2026/",
+      "eventContact": "arobles@scc.uned.es",
+      "sponsorTypes": "3; 9",
+      "venues": "Novotel Barcelona City, Avenida Diagonal 201, Barcelona - España , , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

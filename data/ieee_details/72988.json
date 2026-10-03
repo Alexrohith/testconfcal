@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uc/vwY40/KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72988,
+      "eventTitle": "2027 6th International Informatics and Software Engineering Conference (IISEC)",
+      "startDate": "2027-01-28",
+      "endDate": "2027-01-30",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Ankara",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Atilim University; Informatics Association of Turkey (TBD); Ostim Technical University ; TED University ; Turkiye Section",
+      "keywords": "Informatics, Software Engineering,Computer Applications,Computer Science,Computer Networks,Computer Architecture,Computer Graphics,Computer Security,Computer Interfaces,Computer Science Education,Computer Society,Application Software,Embedded Software,Open Source Software,Software Testing,Software Architecture,Artificial Intelligence,Machine Learning,Deep Learning,Large Language Models,Natural Language Processing,Prompt Engineering,HCI,Software Quality,Generative AI,",
+      "scope": "IISEC provides a platform for researchers and experts from academia, industry, and government to share ideas and recent developments in the fields of informatics, computer science, data science, computer and software engineering.",
+      "callForPapers": "2026-11-29",
+      "url": "iisec.tbdakademi.org.tr/2027/",
+      "eventContact": "ali.yazici@atilim.edu.tr",
+      "sponsorTypes": "3; 9; 9; 9; 9",
+      "venues": "Conference Hall of the General Directorate of Forestry Building, Orman Genel Müdürlüğü Binası Konferans Salonu, Beştepe Mahallesi Söğütözü Caddesi No:8/1, Yenimahalle, , ANKARA, , Turkiye, 06560, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

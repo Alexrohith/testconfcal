@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tfvowY40v6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70581,
+      "eventTitle": "2026 14th International Conference in Software Engineering Research and Innovation (CONISOFT)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Zacatecas",
+        "region": "",
+        "country": "Mexico"
+      },
+      "sponsors": "Alarcos Research Group, Universidad de Castilla -La Mancha; Antonio José Camacho University Institution; Facultad de Ciencias Químicas e Ingeniería, Universidad Autónoma de Baja California; Facultad de Ingeniería, Universidad Autónoma de San Luis Potosí; IEEE Computer Society; Lappeenranta Lahti University of Technology; National College of Ireland; Red Mexicana de Ingeniería de Software; Unidad Académica de Ingeniería Eléctrica, Universidad Autónoma de Zacatecas; Universidad Nacional de Colombia ; Universidade Federal de Goiás; Universidade Federal do Rio de Janeiro; University of South Africa; École de Technologie Supérieure, University of Quebec",
+      "keywords": "Software Engineering,Requirements Engineering,Formal methods,Quantum Computing,Green Software Engineering,Sustainability,Human Computer-Interaction,Testing,Programming,Artificial Intelligence,Machine Learning,",
+      "scope": "To advance the state of the art of Software Engineering as discipline in theoretical concepts and experimental research, bringing together practitioners and researchers from academia, industry and government.",
+      "callForPapers": "2026-06-12",
+      "url": "conisoft.org/2026/",
+      "eventContact": "reyesjua@yahoo.com",
+      "sponsorTypes": "1; 9; 9; 9; 9; 9; 9; 9; 9; 9; 9; 9; 9; 9",
+      "venues": "Unidad Académica de Ingeniería Eléctrica, Universidad Autónoma de Zacatecas , Carretera Zacatecas-Guadalajara km. 6, Ejido La Escondida, , , Zacatecas, , Mexico, 98160, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

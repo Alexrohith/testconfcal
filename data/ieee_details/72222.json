@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8LeCx4405LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72222,
+      "eventTitle": "2026 IEEE International Conference on Data and Software Engineering (ICoDSE)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-23",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section C Chapter; School of Electrical Engineering and Informatics ITB",
+      "keywords": "ICoDSE,ICoDSE 2026,Software Engineering,Data Engineering,Artificial Intelligence,Data Mining,Big Data,Data Visualization,",
+      "scope": "ICoDSE (International Conference on Data and Software Engineering) is an international conference for researchers, practitioners, and professionals to share advances in data and software engineering, including big data, software development, and AI.  ICoDSE 2026, the 12th edition of the conference, will focus on Generative AI seen from the lens of practitioners and the body of software and data engineering. The conference will explore how generative AI and other AI technology enhances secure systems development through intelligent code generation, intelligent test automation, and synthetic data creation. It will also emphasize the importance of solid data and software engineering foundations & clean data pipelines, scalable architectures, and robust deployment practices in supporting AI applications for secure systems. This symbiotic relationship forms a cycle where generative AI advances of software/data engineering, and vice versa.",
+      "callForPapers": "2026-08-07",
+      "url": "icodse.org/",
+      "eventContact": "haning@staff.stei.itb.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Institut Teknologi Bandung, Jl. Ganesa No.10, Lb. Siliwangi, Kecamatan Coblong, Kota Bandung, Jawa Barat 40132, , , , Bandung, , Indonesia, 40132, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

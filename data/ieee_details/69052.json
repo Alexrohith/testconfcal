@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: obORx440x7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69052,
+      "eventTitle": "2026 Fifteenth International Conference on Image Processing Theory, Tools and Applications (IPTA)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-18",
+      "about": "Computing and Processing; Geoscience; Signal Processing and Analysis",
+      "location": {
+        "city": "Kolkata",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Jadavpur University; Kolkata Section; Kolkata Section C Chapter; Kolkata Section SP Chapter; Kolkata Section TEMS Chapter",
+      "keywords": "Image and Video Processing, Signal Processing, Image Acquisition,Image Formation,Computer Vision,Pattern Recognition,Data Analytics,Embedded Vision,Image Analysis,",
+      "scope": "IPTA 2026 aims to bring together international researchers, innovators, educators, and practitioners in the field of image processing and allied areas, to engage with high-quality educational content, share their achievements, exchange experiences, and discuss future directions in the field.",
+      "callForPapers": "2026-07-15",
+      "url": "ipta-conference.com/ipta26/",
+      "eventContact": "sayan.chatterjee@jadavpuruniversity.in",
+      "sponsorTypes": "3; 5; 5; 5; 9",
+      "venues": "Kolkata, 188 Raja S C Mallik Road, , , , Kolkata, , India, 700032, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

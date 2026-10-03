@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mqWsx440ssABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72161,
+      "eventTitle": "2027 IEEE 1st Jharkhand International Conference on Electrical Engineering, Signal Processing and Advanced Computing Technologies for Sustainable Development (JHICON)",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-03",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Jamshedpur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "ARKA Jain University STB; Kolkata Section",
+      "keywords": "Electrical Engineering,Signal Processing,computing ,",
+      "scope": "JHICON-2026 focuses on recent advances in electrical engineering, signal processing, and Advanced computing aims to achieve sustainable development. The conference covers smart grids, renewable energy systems, power electronics, and electric mobility, along with image, speech, biomedical, and wireless signal processing. It also addresses AI, machine learning, cybersecurity, and emerging digital technologies. Emphasis is placed on green computing, smart cities, environmental monitoring, and data-driven decision systems that promote energy efficiency and societal well-being. The event serves as a platform for researchers and industries to exchange ideas and collaborate on future-ready sustainable solutions",
+      "callForPapers": "2026-08-31",
+      "url": "ieee-aju.vercel.app/",
+      "eventContact": "dr.ashwini@arkajainuniversity.ac.in",
+      "sponsorTypes": "3; 5",
+      "venues": "Block-C, Conference Hall, ARKA JAIN UNIVERSITY, JAMSHEDPUR, JHARKHAND, 312/A, opposite. to KERALA PUBLIC SCHOOL,, Mohanpur, Gamharia, , Saraikela, Jamshedpur, , India, 832108, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

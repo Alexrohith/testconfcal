@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: kcCsx440mb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72893,
+      "eventTitle": "2027 Second International Conference on Signal, Systems, and Computing for Next-Gen Automation (ICSSCNA)",
+      "startDate": "2027-05-06",
+      "endDate": "2027-05-08",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Eluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Industry Applications Society; Ramachandra College of Engineering",
+      "keywords": "Signal Processing,Automation,Next-Gen Computing Architectures,Real-time embedded signal systems,Audio, image, and video signal processing,",
+      "scope": "The International Conference on Signal, Systems, and Computing for Next-Gen Automation (ICSSCNA) aims to serve as a premier platform for academic and industry professionals to present their latest research, innovations, and technological advancements in the convergence of signal processing, intelligent systems, and computing architectures driving next-generation automation. The conference addresses the transformative impact of AI/ML, IoT, edge computing, and cyber-physical systems on industrial automation, robotics, smart infrastructure, and beyond.",
+      "callForPapers": "2027-02-09",
+      "url": "icsscna.com/2027/",
+      "eventContact": "mohammed_rafi336@rcee.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Ramachandra College of Engineering , NH-16 Bypass Road , Vatluru , , , Eluru , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

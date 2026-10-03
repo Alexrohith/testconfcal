@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8YftwY404aIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72794,
+      "eventTitle": "2026 International Conference on Advanced Technologies and Interdisciplinary Innovation (ICAT2I)",
+      "startDate": "2026-12-24",
+      "endDate": "2026-12-25",
+      "about": "Components, Circuits, Devices and Systems; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "FES",
+        "region": "",
+        "country": "Morocco"
+      },
+      "sponsors": "IEEE Industry Applications Society; Sidi Mohamed Ben Abdellah University",
+      "keywords": "Power engineering and energy ,Mechanical and industrial engineering,Logistics and Supply Chain Management,Process engineering,Physics-Informed Scientific Machine Learning,Electrical engineering,Industry 4.0,Electric Mobility and Smart Charging Infrastructure,Robotics and mechatronics,Renewable energy Systems and storage,",
+      "scope": "The scope of the conference includes industrial application systems, electrical engineering, mechanical engineering, logistics, material science with a particular emphasis on the role of Artificial Intelligence in transforming theses domains.",
+      "callForPapers": "2026-09-30",
+      "url": "www.icat2i.com/",
+      "eventContact": "aziz.derouich@usmba.ac.ma",
+      "sponsorTypes": "1; 9",
+      "venues": "Higher School of Technology of Fez - Sidi Mohamed Ben Abdellah University, École Supérieure de Technologie BP 2427, Route d’Imouzzer, , , , Fez, , Morocco, 30000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

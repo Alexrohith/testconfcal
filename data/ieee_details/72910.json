@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jrvpwY40xKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72910,
+      "eventTitle": "2026 IEEE 8th International Conference on Sustainable Technologies For Industry 5.0 (STI)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Narayanganj",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh Section C Chapter",
+      "keywords": "Intelligent Computing,Cloud Computing,IoT,Secured System,Networking,Energy and Power,Robotics and Control,AI and Machine Learning,digital twin,energy optimisation,renewable energy,smart system,",
+      "scope": "IR5.0, Sustainability",
+      "callForPapers": "2026-07-15",
+      "url": "sti.green.edu.bd/",
+      "eventContact": "dean@fse.green.edu.bd",
+      "sponsorTypes": "5",
+      "venues": "Green University of Bangladesh, Purbachal American City, Kanchan, Rupganj, , , , Narayanganj, , Bangladesh, 1461, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

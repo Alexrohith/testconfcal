@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2Z/pwY40r6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71604,
+      "eventTitle": "2026 11th International Conference on Smart Structures and Systems (ICSSS)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; Saveetha Engineering College",
+      "keywords": "Biomems,Gyroscopes And Microelectromechanical (mems) Sensors,Nanoelectromechanical Systems (NEMS),consumer electronics,bio inspired robotics,active smart materials,smart antennas,Metamaterials,machine learning,quantum computing,Communications And Networking,material synthesis,",
+      "scope": "For electrical and electronics engineers and scientists in universities and research centres, utilities and industry to present their work and share information in the area of smart structures and systems.",
+      "callForPapers": "2026-08-07",
+      "url": "isss.saveetha.in",
+      "eventContact": "vanithasrec2016@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "SAVEETHA ENGINEERING COLLEGE, SAVEETHA NAGAR, THANDALAM, , , CHENNAI, , India, 602105, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

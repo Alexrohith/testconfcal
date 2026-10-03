@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5+2Zx440iLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70425,
+      "eventTitle": "2026 IEEE 5th International Conference on Signal Processing, Informatics, Communication and Energy Systems (SPICES)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kannur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Govt. College of Engineering Kannur; Kerala Section",
+      "keywords": "Signal Processing,Next Generation Communication Networks,Intelligent Computing,Cognitive Robotics,Advanced Analytics and AI Integration,Smart Energy Technologies,Instrumentation for Smart Systems,Power Electronics and Smart Grids,",
+      "scope": "Scope of the IEEE SPICES 2026 includes the following streams, but not limited to: Signal Processing Next Generation Communication Networks Intelligent Computing Cognitive Robotics Advanced Analytics and AI Integration Smart Energy Technologies Instrumentation for Smart Systems Power Electronics and Smart Grids",
+      "callForPapers": "2026-04-15",
+      "url": "gcek.ac.in/SPICES2026",
+      "eventContact": "anjalianandk89@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Government College of Engineering, Kannur, Parassinikadavu Post, Dharmasala, , , Kannur, , India, 670563, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

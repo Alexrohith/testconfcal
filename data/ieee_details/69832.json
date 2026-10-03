@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7dekx4405LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69832,
+      "eventTitle": "2026 IEEE/ACM Symposium on Edge Computing (SEC)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Santa Clara",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Mobile - ACM SIG MOBILE; IEEE Computer Society",
+      "keywords": "Edge computing,Cloud computing,Computer systems,",
+      "scope": "SEC takes a broad view of edge computing and solicits contributions from many fields of systems practice that embrace any aspect of edge computing.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "cqian12@ucsc.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Santa Clara University, 500 El Camino Real , , , , Santa Clara, CA, USA, 95053, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

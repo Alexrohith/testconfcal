@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: grurx440m70BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73206,
+      "eventTitle": "2027 6th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT)",
+      "startDate": "2027-04-16",
+      "endDate": "2027-04-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Mandya",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section SP Chapter; Mysore Subsection; PES College of Engineering, Mandya",
+      "keywords": "Elecronics,computer science,Electrical Engineering,Computing & IT,",
+      "scope": "The 6th International Conference on Emerging Research in Electronics, Computer Science and Technology (ICERECT) is organizing during 16th and 17th april 2027 at PES College of Engineering Mandya, Karnataka, India, and which aims to bring together researchers, academicians and industry practitioners from across the globe who are working to address contemporary challenges in science and engineering. The conference provides a dynamic platform for participants to present their innovative research, exchange knowledge and discuss emerging ideas, technologies and trends in this rapidly evolving and highly challenging field.",
+      "callForPapers": "2026-07-25",
+      "url": "https://icerect.in/",
+      "eventContact": "icerect@pesce.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "PES College of Engineering, Mandya, Karnataka, , , Mandya, , India, 571401, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

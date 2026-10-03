@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8dWOx440w7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70104,
+      "eventTitle": "2026 International Conference on Smart Systems and Technologies (SST)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Osijek",
+        "region": "",
+        "country": "Croatia"
+      },
+      "sponsors": "Croatia Section; Croatia Section C Chapter; Croatia Section COM Chapter; Croatia Section RL Chapter; Croatia Section SMC Chapter; Faculty of Electrical Engineering, Computer Science and Information Technology, J.J. Strossmayer University of Osijek; Region 08 - Europe,Middle East,Africa",
+      "keywords": "Affective Computing,Agriculture Automation,Artificial Intelligence,Big Data and Smart Systems,Biometrics and Smart Systems,Cloud Computing,Control Systems and Robotics,Cyber-Physical Systems,Embedded Computing,Green Communication,Green Computing,High Performance Computing,Image and Video Processing,Intelligent Power Systems and Environments,Intelligent Transportation Systems,Internet of Things,Microgrids,Mobile and Wireless Networks,Smart Antennas,Smart Grid,Smart Power SystSoftware Engineering",
+      "scope": "The conference will provide a platform for researchers and practitioners interested in the theory and practice of smart systems and technologies related to electrical engineering, communications, computer science and engineering, control systems, robotics, as well as interdisciplinary research and applications.",
+      "callForPapers": "2026-05-01",
+      "url": "sst-conference.org/",
+      "eventContact": "josip.balen@ferit.hr",
+      "sponsorTypes": "2; 3; 5; 5; 5; 5; 9",
+      "venues": "Hotel Osijek, Samacka 4, , , , Osijek, , Croatia, 31000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uNuux440vL0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74262,
+      "eventTitle": "2027 International Symposium on Signals, Circuits and Systems (ISSCS)",
+      "startDate": "2027-07-15",
+      "endDate": "2027-07-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Iasi",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Faculty of Electronics, Telecommunications and Information Technology; Romania Section CAS/CS Joint Chapter",
+      "keywords": "Linear and Nonlinear Circuits & Systems,Circuits and Systems for Communications,Power Electronic Circuits,Analog and Digital Signal Processing,Image and Video Processsing,VLSI Circuits and Systems,Artificial Intelligence Applications,Cyber Security,Industry Applications,",
+      "scope": "ISSCS 2027 aims at bringing together scientists and researchers from academia and industry to present and discuss some of their latest ideas and results in a hybrid conference.",
+      "callForPapers": "2027-04-05",
+      "url": "scs.etti.tuiasi.ro/isscs2027",
+      "eventContact": "lgoras@etti.tuiasi.ro",
+      "sponsorTypes": "5; 9",
+      "venues": "Faculty of Electronics, Telecommunications and Information Technology, Bd Carol I, 11A, , , , Iasi, , Romania, 700506, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

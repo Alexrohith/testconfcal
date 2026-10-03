@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hpH9xo404L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 54510,
+      "eventTitle": "2027 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "startDate": "2027-06-19",
+      "endDate": "2027-06-26",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Seattle",
+        "region": "Washington",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "Computer Vision,CVPR,Artificial Intelligence,",
+      "scope": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Washington State Convention Center, , , , , Seattle, WA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

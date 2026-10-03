@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0LrlwY40+qQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73096,
+      "eventTitle": "2026 4th International Conference on Ubiquitous Communication (Ucom)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-18",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Hong Kong",
+        "region": "",
+        "country": "Hong Kong"
+      },
+      "sponsors": "Hong Kong Polytechnic University - HKPU; Hong Kong Section; Xidian University",
+      "keywords": "Communication Theory and Techniques,Signal Processing & Image Processing,Communications And Networking,Optical Communication,Machine Learning & Optimization for Wireless Systems,Emerging Technologies, Standards, and Applications,",
+      "scope": "The School of Telecommunications Engineering of Xidian University initiates the International Conference on Ubiquitous Communication (Ucom), aiming to establish a broad communication platform to invite world-renowned experts and scholars to propose innovative insights, methodologies, architectures, theories, modeling approaches, and industry development visions for ubiquitous communication systems. This conference will result in high-quality academic papers to jointly promote the development of ubiquitous communication systems. The technical scope of the conference includes, but is not limited to, communication theory and techniques, signal processing and image processing, networking, optical communication, and emerging technologies, standards and applications in the field of ubiquitous communications. All teaching, research staff, and students engaged in the new theory of communication technology and its applications are welcome to attend.",
+      "callForPapers": "2026-08-10",
+      "url": "ucom.org.cn/index.html",
+      "eventContact": "llllilychen233@gmail.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "The Hong Kong Polytechnic University, , , , , Hong Kong, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

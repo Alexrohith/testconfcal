@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7ozBwo409KkBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70310,
+      "eventTitle": "2026 IEEE International Conference on Integrated Circuits, Technologies and Applications (ICTA)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Components, Circuits, Devices and Systems; Engineering Profession",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "Singapore Section SSC Chapter",
+      "keywords": "Analog Rf-cmos,Beyond Cmos,BiCMOS integrated circuits,CMOS,CMOS analog integrated circuits,CMOS digital integrated circuits,Cmos Integrated Circuits,CMOS technology,Cmos Image Sensors,3d Integrated Circuits,Active Circuits,Analog Circuits,Application-specific Integrated Circuit (asic),Nanoelectronics,artificial intelligence,machine learning,power management,Packaging And Assembly,chiplets,heterogeneous integration,device characterization and modelling,Electronic design automation,device and proc",
+      "scope": "This conference provides an international forum according to IEEE standard for the presentation and exchange of the latest technical achievements and cross-discipline fertilization of IC designs, technologies, and applications in our fast-changing society. This year’s theme is “Advancing IC with AI”. Topics include, but are not limited to, the following technical areas: RF Circuits and Wireless Systems, Analog and Mixed-Signal ICs, power management ICs, Digital ICs and Memory, Wireline ICs, Sensor ICs, Modeling, EDA and Testing, Device and Process Technologies, Packaging and Hybrid Integration, Emerging Semiconductor Materials and Devices, System and Applications, Intelligent Robots, and Artificial Intelligence/Machine Learning for ICs.",
+      "callForPapers": "2026-06-01",
+      "url": "www.ieee-icta.org",
+      "eventContact": "ewlgoh@ntu.edu.sg",
+      "sponsorTypes": "5",
+      "venues": "Grand Copthorne Waterfront Hotel, 392 Havelock Road Singapore 169663, , , , Singapore, , Singapore, 169663, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

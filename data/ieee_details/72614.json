@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yrykx44047wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72614,
+      "eventTitle": "2026 10th International Conference on Business and Information Management (ICBIM)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Rajamangala University of Technology in Tawan-ok, Thailand; Thailand Section; Thailand Section C Chapter",
+      "keywords": "Computer and Intelligent Systems,Software & Information Systems Engineering,Communication & Digital Platforms,Emerging Technologies in Digital Business Systems and Applications,",
+      "scope": "Welcome to ICBIM 2026, the 10th International Conference on Business and Information Management. Hosted by Rajamangala University of Technology Tawan-ok, it will be held November 20–22, 2026, at its Chakrabongse Bhuvanarth Campus in Bangkok, Thailand. This international forum gathers researchers, academics, industry practitioners and policy leaders to exchange ideas, present latest findings and promote interdisciplinary collaboration in business, information systems and digital technologies. Amid digital transformation, AI, machine learning, big data, cloud computing, blockchain and intelligent IoT are reshaping organizational operations. Focused on “From Digital to Value: Empowering Business Management via AI & Data Integration”, the conference covers AI systems, data analytics, digital platforms and AI-driven industrial transformation. Its program includes keynotes, paper presentations, panels and networking.",
+      "callForPapers": "2026-06-15",
+      "url": "www.icbim.org/index.html",
+      "eventContact": "guanghsuc@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Rajamangala University of Technology Tawan-ok, 58 Vibhavadi Rangsit Road, Ratchadaphisek Subdistrict, Din Daeng District, Bangkok 10400, Thailand, , , , Bangkok , , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

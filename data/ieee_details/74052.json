@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 74Sjx4402bwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74052,
+      "eventTitle": "2027 22nd International Conference on Evaluation of Novel Approaches to Software Engineering (ENASE)",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-22",
+      "about": "General Topics for Engineers",
+      "location": {
+        "city": "Rome",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Systems and Technologies of Information, Control  & Communication - INSTICC",
+      "keywords": "Component-Based Software Engineering, Software Development Methodologies, Application Integration Technologies, Software Change and Configuration Management, Requirements Engineering, Business Process Management and Engineering, Software Product Line Engineering, Architectural Design and Frameworks, Empirical Software Engineering, Software and Service Design,",
+      "scope": "The mission of ENASE (Evaluation of Novel Approaches to Software Engineering) is to be a prime international forum to discuss and publish research findings and IT industry experiences with relation to novel approaches to software engineering. The conference acknowledges evolution in systems and software thinking due to contemporary shifts of computing paradigms to AI-assisted coding, low-code/no-code platforms, cloud and edge computing, security and DevSecOps, IoT integration, and sustainable engineering. By publishing the latest research on novel approaches to software engineering and by evaluating their effectiveness for different applications against systems and software quality criteria, ENASE conferences advance knowledge and research in systems and software development",
+      "callForPapers": "2026-11-17",
+      "url": "enase.scitevents.org/",
+      "eventContact": "enase.secretariat@insticc.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Precise House Mantegna Roma, Vía Andrea Mantegna, , , , , Rome, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: mPDtwY406KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72596,
+      "eventTitle": "2027 Joint International Conference on Digital Arts, Media and Technology with ECTI Northern Section Conference on Electrical, Electronics, Computer and Telecommunication Engineering (ECTI DAMT & NCON)",
+      "startDate": "2027-05-12",
+      "endDate": "2027-05-15",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Hokkaido",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "ECTI Association; Sapporo Section; Thailand Section; Thailand Section SPS Chapter",
+      "keywords": "Digital Arts and Media,Knowledge and Innovative Management,Software Engineering,Spatial Computing,Artificial Intelligence and Machine Learning,Data Science and Technology,Digital Transformation,Devices, Circuits and Systems,Communication and Signal Processing,Electrical Power Systems and Power Electronics,IOT and Edge Computing,Cybersecurity,",
+      "scope": "Digital Arts and Media, Knowledge and Innovation, Management, Digital Transformation, Software Engineering, Spatial Computing, Devices, Circuits and Systems, Communication and Signal Processing, Control Engineering and Automation, Electrical Power Systems and Power Electronics, IOT and Edge Computing, Artificial intelligence and Machine Learning, Data Science and Technology, Cybersecurity",
+      "callForPapers": "2027-01-04",
+      "url": "icdamt.ict.up.ac.th/2027/index.php",
+      "eventContact": "krittika.ka@up.ac.th",
+      "sponsorTypes": "3; 3; 5; 9",
+      "venues": "Hokkaido, , , , , Chitose, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

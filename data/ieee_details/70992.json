@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xMDDwo40k6cBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70992,
+      "eventTitle": "2029 IEEE/ION Position, Location and Navigation Symposium (PLANS)",
+      "startDate": "2029-04-23",
+      "endDate": "2029-04-26",
+      "about": "Aerospace; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society; Institute of Navigation",
+      "keywords": "position,navigation,time,inertial navigation,machine learning,LEO PNT,integrity,Global Satellite Navigations Systems (GNSS),augmentation systems,mutisensor,sensor fusion,space navigation,quantum navigation,inertial sensors,signals of opportunity,MEMS-based Inertial sensors,interference, jamming and spoofing,radio navigation,indoor navigation,navigating in challenging environments,maritime navigation,Precise Positioning,radar, lidar-based nav, signal processing,antenna technology,smartphone local",
+      "scope": "This conference is jointly sponsored by the IEEE’s Aerospace and Electronics Systems Society (AESS), and The Institute of Navigation (ION) is the world’s premier non-profit professional society advancing the art and science of positioning, navigation, and timing (PNT). Topics being covered will include: Inertial Sensing and Technology; Global Navigation Satellite Systems (GNSS); Integrated, Collaborative, and Opportunistic Navigation; Applications to Automated, Semi-Autonomous, and Fully-Autonomous Systems. Technical papers from PLANS are peer reviewed, and will be published in IEEE Xplore following the conference.",
+      "callForPapers": "2028-10-13",
+      "url": "ion.org/plans",
+      "eventContact": "lbeaty@ion.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Westin Harbour Castle, 1 Harbour Square, , , , Toronto, ON, Canada, M5J 1A6, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

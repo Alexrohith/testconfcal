@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ycuKx440q7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73210,
+      "eventTitle": "2027 2nd International World Conference on Cutting Edge Science and Technology (WCCEST)",
+      "startDate": "2027-04-02",
+      "endDate": "2027-04-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Indore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section; Sage University, Indore",
+      "keywords": "Industrial Internet Of Things,Sustainable development,Cloud Computing,Artificial Intelligence,Cyber Security,Agriculture,Healthcare,Renewable Energy Systems,Digital Transformation,global addressing,Business Process Management,",
+      "scope": "An international conference provides a global platform for researchers, academicians, industry experts, and professionals to exchange knowledge and innovative ideas. It promotes interdisciplinary collaboration and discussion on emerging trends, challenges, and advancements in various fields. The conference facilitates networking opportunities and encourages partnerships among institutions and organizations worldwide. It supports the presentation and publication of high-quality research, contributing to scientific and technological development. The conference aims to foster academic excellence, innovation, and sustainable solutions to address global issues.",
+      "callForPapers": "2026-08-06",
+      "url": "www.sageuniversity.in/conference/",
+      "eventContact": "nitika.doohan@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Kalpvriksha Auditorium, Sage University Indore, au Bypass Road, Kalod Kartal, Indore, Madhya Pradesh , , , Indore, , India, 452020, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

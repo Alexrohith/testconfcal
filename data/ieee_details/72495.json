@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: x/+Gx440nL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72495,
+      "eventTitle": "2026 1st Conference on Advanced Technologies in Electrical, Electronics and Computing Engineering (ATEEC)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Diyarbakır",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Dicle University; Turkiye Section PEL Chapter",
+      "keywords": "Electrical Engineering,Computer Engineering,Software Engineering,Artificial Intelligence,Communication Technologies,Signal Processing,Smart Energy Systems,Computing Engineering,Power and Energy Systems,",
+      "scope": "The IEEE International Conference on Advanced Technologies in Electrical, Electronics and Computing Engineering (ATEEC 2026) aims to provide an international forum for researchers, academics, industry professionals, and students to present and discuss recent advances, innovative applications, and emerging trends in electrical engineering, electronics engineering, computer engineering, and software engineering. The conference covers, but is not limited to, power and energy systems, renewable energy technologies, smart grids, control and automation, communication systems, signal and image processing, embedded systems, artificial intelligence, machine learning, Internet of Things, cybersecurity, and advanced computing technologies. ATEEC 2026 also promotes interdisciplinary collaboration between academia and industry.",
+      "callForPapers": "2026-06-15",
+      "url": "https://www.dicle.edu.tr/tr/birimler/eebm2025/sayfalar/anasayfa-20180",
+      "eventContact": "heybet.kilic@dicle.edu.tr",
+      "sponsorTypes": "5; 9",
+      "venues": "Dicle University, Dicle University, Faculty of Engineering, Sur, Dicle University, Faculty of Engineering, Sur, Dicle University, Faculty of Engineering, Sur, Dicle University, Faculty of Engineering, Sur, DIYARBAKIR, , Turkiye, 21100, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

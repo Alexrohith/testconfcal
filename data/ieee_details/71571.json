@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zvSYx440gbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71571,
+      "eventTitle": "2026 4th International Conference on Integrated Systems in Medical Technologies (ISMT)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-03",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Erlangen",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "Friedrich-Alexander Universitat; Germany/Austria/Switzerland Section EMB Jt Chapter",
+      "keywords": "biomedical engineering,integrated systems,medical robotics,implantable biomedical devices,wearable sensors,electronic travel aids,Exoskeletons,assistive robotics,Biosensors,biomimetic actuators,micro and nanorobots,biohybrid systems,clinical workflow,regulatory affairs,quality management,digital twins,medical manufacturing,Usability Engineering,translational engineering,",
+      "scope": "Medical technologies form the backbone of modern healthcare. Innovations in diagnostics, therapy, and care are crucial to extending life expectancy and reducing suffering for billions worldwide. However, turning groundbreaking research into real-world applications requires more than just ingenuity; it demands seamless system integration, successful translation into products, and the establishment of robust clinical workflows. The IEEE ISMT 2026 is a premier platform where researchers, clinicians, founders, and industry leaders can present cutting-edge advancements and discuss the future of MedTech. By bringing together experts from the entire medical technology field — from bench to bedside — we strive to accelerate progress in this highly innovative field. Beyond inspiring keynotes from established scientists and industry leaders, ISMT 2026 is dedicated to fostering the next generation of innovators.",
+      "callForPapers": "2026-06-15",
+      "url": "faps.fau.de/ismt",
+      "eventContact": "jakob.schreiner@faps.fau.de",
+      "sponsorTypes": "5; 9",
+      "venues": "SHIFT-Innovation Center / d.hip, Henkestraße 127, , , , Erlangen, , Germany, 91052, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

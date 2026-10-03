@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lbaIx440m7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73662,
+      "eventTitle": "2027 IEEE 16th International Conference on Power Electronic Devices and Systems (PEDS)",
+      "startDate": "2027-08-25",
+      "endDate": "2027-08-27",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "Singapore Section IA/PEL Joint Chapter",
+      "keywords": "Power Electronics,Semiconductor devices,Magnetic devices,Circuits and systems| Electron devices,Artificial intelligence,Power systems,Power Devices,data center,EV drive,",
+      "scope": "Power Electronics, Device and Systems",
+      "callForPapers": "2027-01-08",
+      "url": "www.peds-ieee.org",
+      "eventContact": "aaroncai@ieee.org",
+      "sponsorTypes": "5",
+      "venues": "Newcastle Australia Institute of Higher Education, National Library Building, 100 Victoria Street, #13-01, , , , , Singapore, 188064, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

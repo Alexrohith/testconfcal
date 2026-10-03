@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0f2Yx440mr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72401,
+      "eventTitle": "2027 IEEE 10th International Conference on Industrial Cyber-Physical Systems (ICPS)",
+      "startDate": "2027-05-10",
+      "endDate": "2027-05-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Industrial Cyber-Physical Systems,Industry 4.0,Industry 5.0,AI-assisted Digital Transformation,Industrial AI,Smart Manufacturing,Industrial IoT,Automation,Cybersecurity,Edge Computing,Data Analytics,Bio-inspired Robotics,Cognitive Robotics,Smart Agriculture,Smart Grid,Smart Cities,",
+      "scope": "The 10th IEEE International Conference on Industrial Cyber-Physical Systems (ICPS 2027) focuses on cutting-edge research and applications in Industrial Cyber-Physical Systems, Industry 4.0, and AI-assisted Digital Transformation. The conference provides an international platform for academics, researchers, and industry professionals to share innovations, solutions, and experiences in areas such as Industrial IoT, automation, cybersecurity, smart manufacturing, and data-driven technologies.",
+      "callForPapers": "2026-12-20",
+      "url": "icps2027.ieee-ies.org/",
+      "eventContact": "jab@uninova.pt",
+      "sponsorTypes": "1",
+      "venues": "Hotel, , , , , Lisbon, , Portugal, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

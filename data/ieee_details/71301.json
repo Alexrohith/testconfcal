@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +t2Hx440oL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71301,
+      "eventTitle": "2026 1st International Conference on Deep Learning Innovations for Smart Humanized AI (DISHA)",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Jaipur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "CNR-Nanotec; Delhi Section; Manipal University, Jaipur; National Institute of Technology - Delhi; University of Calabria",
+      "keywords": "Deep Learning,Generative AI,Computer Vision,Autonomous Systems,Smart Content Creation,Natural Language Processing,Conversational AI,Artificial Intelligence,",
+      "scope": "DISHA 2026, themed “Generative Artificial Intelligence, Deep Learning and Internet of Things,” envisions a future where intelligent systems seamlessly integrate learning, perception, generation, and real-time sensing to enable autonomous, scalable, and human-centric digital ecosystems. The conference serves as a global forum for advances in deep learning architectures, generative AI and large language models, computer vision, natural language processing, and edge intelligence. Emphasis is placed on AI–IoT convergence, smart sensing, embedded intelligence, and semantic communication systems for real-time, secure, and energy-efficient operation. Application domains include smart healthcare, autonomous and robotic systems, intelligent networking, and smart content creation. The scope further emphasizes ethical, explainable, and trustworthy AI to ensure responsible innovation aligned with societal needs and sustainable digital transformation.",
+      "callForPapers": "2026-06-10",
+      "url": "www.disha2026.com/",
+      "eventContact": "renu.kumawat@jaipur.manipal.edu",
+      "sponsorTypes": "3; 9; 9; 9; 9",
+      "venues": "Manipal University Jaipur, Dehmi Kalan,, Off Jaipur Kishangarh Expressway, , Rajasthan, Jaipur, , India, 303007, ;National Institute of Technology Delhi, Plot No. FA7,Zone P1,, GT Karnal Road, Delhi, , , Delhi, , India, 110036, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

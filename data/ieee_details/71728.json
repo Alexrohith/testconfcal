@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jsyBx44077oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71728,
+      "eventTitle": "2026 6th International Conference on Educational Technology (ICET)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-26",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Education Society; South-Central Minzu University",
+      "keywords": "Inclusive Learning Environments,Artificial Intelligence in Education,Emerging Technologies in  Learning,Pedagogical Innovations with Technology,Data-Driven Decision-Making in  Education,Artificial Intelligence Enhanced Special Education,Intelligent Computing and Digital  Humanities for Civilizations,",
+      "scope": "In the rapidly evolving landscape of education, the integration of data intelligence and educational technology has emerged as a core driver of transformative change. ICET 2026 is committed to exploring and promoting the application of cutting-edge computer technologies to enhance learning efficiency and elevate educational outcomes.  We cordially invite you to participate actively by submitting your papers and abstracts or registering as a delegate. ICET 2026 offers a unique opportunity to engage in face-to-face exchanges with fellow enthusiasts in educational technology, gain frontier insights, and collectively shape the future of education.",
+      "callForPapers": "2026-05-20",
+      "url": "www.icet.org/index.html",
+      "eventContact": "qixiaobai@mails.ccnu.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "South-Central Minzu University, No.182-201 Minzu Boulevard, Hongshan District, , , , Wuhan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

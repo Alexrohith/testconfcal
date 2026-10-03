@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 08eCx440/70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71780,
+      "eventTitle": "2026 International Conference on Electrical Engineering and Informatics (ICELTICs)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Banda Aceh",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Syiah Kuala University ",
+      "keywords": "Informatics,computer science,artificial intelligence,data science,computer engineering,information systems and technologies,communications and computer,",
+      "scope": "Electrical Engineering and Informatics",
+      "callForPapers": "2026-07-25",
+      "url": "iceltics.usk.ac.id/",
+      "eventContact": "sriazizah07@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Faculty of Mathematics and Natural Science, Jl. Syech Abdur Rauf No.3, Kopelma Darussalam, , , , Banda Aceh, , Indonesia, 23111, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: mpimx440+b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72638,
+      "eventTitle": "2026 XVI Symposium on Computing Systems Engineering (SBESC)",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-27",
+      "about": "Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Salvador",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "Brazilian Computer Society - SBC; IEEE Industrial Electronics Society",
+      "keywords": "Real-Time Systems,Operating Systems,Embedded Systems,Cloud and Wireless Systems for Industrial Applications,Industrial Cyber-Physical Systems,Industrial Informatics,",
+      "scope": "Modern computing systems are becoming increasingly diversified. Nowadays we hear about Systems of Systems, Cyber-Physical Systems, Ubiquitous Systems and so on. Many of these systems are embedded, many are subject to real-time constraints and most of them run an operating system. In this context, the term Computing Systems Engineering comprehends techniques related to a safe, correct and deadline-compliant development methodology for these systems. The Brazilian Symposium of Computing Systems Engineering (SBESC) aims to establish contacts and instigate discussions about several topics related to the development of computing systems, fostering therefore the integration and dissemination of know-how among researchers, students and professionals of the field. The symposium's main tracks are : Operating Systems, Embedded Systems,Critical Systems or Real-time Systems",
+      "callForPapers": "2026-07-10",
+      "url": "sbesc.lisha.ufsc.br/sbesc2026/Home",
+      "eventContact": "ricardo@ufv.br",
+      "sponsorTypes": "1; 9",
+      "venues": "Reitoria do Instituto Federal da Bahia, Av. Araújo Pinho, nº39 - Canela - Salvador / BA - CEP: 40.110-150 , , , , Salvador, , Brazil, 40.110-150, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

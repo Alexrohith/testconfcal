@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: t+KDx440hb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72972,
+      "eventTitle": "2026 International Conference on Signal Processing, Computer Networks and Communications (SPCNC)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chongqing University; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Signal Processing,Computer Networks,Wireless Communications,Intelligent Systems,Artificial Intelligence,Cyber-Physical Systems,",
+      "scope": "SPCNC 2026 focuses on research and technological advancements in signal processing, computer networks, and communication systems within the broader domain of intelligent and interconnected systems. The conference addresses theoretical foundations, algorithm design, and system-level applications related to signal analysis and processing, wireless and mobile communications, next-generation networking technologies, network security, and intelligent communication systems. It emphasizes the integration of artificial intelligence, machine learning, and data-driven methodologies for enhancing communication efficiency, network intelligence, and system performance. By bringing together researchers and practitioners from academia and industry, SPCNC 2026 aims to foster interdisciplinary collaboration, promote innovative solutions, and advance the development of intelligent communication and networking technologies for emerging real-world applications.",
+      "callForPapers": "2026-09-20",
+      "url": "ww.icspcnc.org/",
+      "eventContact": "gtan212@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Chongqing University, No. 174, Shazheng Street, Shapingba District, Chongqing, China, , , , Chongqing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

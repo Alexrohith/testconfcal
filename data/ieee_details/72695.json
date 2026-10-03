@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2N2hx440zbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72695,
+      "eventTitle": "2026 6th International Conference on Communication Technology and Information Technology (ICCTIT)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Jiaotong University - BJTU; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Communication Technology,Network and Wireless Communication,Network Information Security,Information Technology,Data Science and Systems,",
+      "scope": "ICCTIT 2026 is a premier international conference focusing on communication technology and information technology. With a commitment to academic rigor and technological innovation, it provides a global platform for scholars, researchers, and industry practitioners to exchange knowledge and foster collaboration. The conference will highlight frontier advances in modern communication systems, intelligent information processing, and emerging technological breakthroughs across network infrastructure and practical applications. By bridging theory and practice, ICCTIT 2026 aims to accelerate scientific progress, promote impactful applications, and shape the evolution of information and communication technologies. Through interdisciplinary dialogue and international participation, it seeks to cultivate collaborations and inspire future leaders in these rapidly developing fields.",
+      "callForPapers": "2026-08-22",
+      "url": "www.ic-icctit.org/",
+      "eventContact": "icctit.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Beijing Jiaotong University, China, No.3 Shangyuancun, Haidian District, Beijing 100044, China, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

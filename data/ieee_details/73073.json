@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 35CIx440mbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73073,
+      "eventTitle": "2027 IEEE Emerging Technologies Reliability Roundtable (ETR-RT)",
+      "startDate": "2027-05-09",
+      "endDate": "2027-05-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Madrid",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Emerging Technologies Reliability,Emerging Technologies,Product Reliability,Telecommunication Network Reliability,Vehicular and wireless technologies,Artificial Intelligence,AI Reliability,",
+      "scope": "AI Driven Emerging Technologies Ecosystem Resilience, Sustainability, Security & Intelligence -  This roundtable convenes global leaders from industry and academia to shape the future of AI ecosystem infrastructure resilience, with special focus on emerging AI-driven paradigms: AI for network resilience, Agentic AI, Large Language Models, World Models, and their pivotal roles in domains such as autonomous vehicles, 6G networks, quantum computing/communications, and cross-sector innovation. Resilience in the modern AI ecosystem, including cellular and satellite networks, is no longer limited to uptime; it demands a holistic blend of reliability, performance, robustness, sustainability, security, quality, and safety. As AI penetrates everything we do and live, the new ecosystem redefines technical standards, e.g. beyond five nines reliability, only advanced, intelligent systems can anticipate, heal, and optimize at ultrafast speed and hyper scale with guaranteed quality and reliability.",
+      "callForPapers": "2026-12-30",
+      "url": "cqr.committees.comsoc.org/etr-roundtable-2027",
+      "eventContact": "ruleiting2@gmail.com",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Madrid, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

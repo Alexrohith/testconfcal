@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /L76xo40t7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73141,
+      "eventTitle": "2027 International Conference on Artificial Intelligence in Information and Communication (ICAIIC)",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Osaka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Communications Society; KICS-The Korean Institute of Communications and Information Sciences",
+      "keywords": "Communications,Networking and Broadcast, Computing and Processing, Artificial Intelligence, Signal Processing and Analysis,Devices and Systems, Robotics and Control Systems, Energy and Industry Applications,",
+      "scope": "We have witnessed fast developments of various artificial intelligence (AI) technologies, and many forms of information and communication systems with AI are becoming core parts of our daily lives. With the proliferation of future information, communication, and electronic devices, there is a fast growing interest in information and communication technology (ICT) with AI. The conference promotes their transfer into practical applications, for developing intelligent ICT systems and pursuing artificial intelligence applications for contents, platforms, networks and devices. The 9th International Conference on AI in Information and Communication (ICAIIC 2027) aims at addressing advances in research on ICT, covering topics ranging from ICT technology issues to emerging AI applications for ICT.",
+      "callForPapers": "2026-10-15",
+      "url": "icaiic.org/",
+      "eventContact": "kikim@cnu.ac.kr",
+      "sponsorTypes": "1; 9",
+      "venues": "Osaka University Nakanoshima Center, 4-3-53 Nakanoshima Kita-ku Osaka-city, , , , Osaka, , Japan, 530-0005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

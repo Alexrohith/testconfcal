@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: k7WFx440hrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73090,
+      "eventTitle": "2027 1st Dronacharya International Conference on Intelligent Computing and Emerging Technologies (DICON)",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers",
+      "location": {
+        "city": "GURUGRAM",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Dronacharya College of Engineering, Gurgaon",
+      "keywords": "ARTIFICIAL INTELLIGENCE,INTERNET OF THINGS,COMPUTATIONAL INTELLIGNECE,SENSOR NETWORKS,CYBER SECURITY,EMBEDDED SYSTEMS,SUSTAINABLE COMPUTING,CLOUD COMPUTING,",
+      "scope": "Empowering the Future through Intelligent and Sustainable computing",
+      "callForPapers": "",
+      "url": "www.dicon2027.com/",
+      "eventContact": "tamannasehgal81@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "DRONACHARYA COLLEGE OF ENGINEERING, KHENTAWAS, FARUKHNAGAR, WAZIRPUR ROAD, GURUGRAM, GURUGRAM, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

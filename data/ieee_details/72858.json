@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8oanx440/r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72858,
+      "eventTitle": "2026 34th International Symposium on Modelling, Analysis and Simulation of Computer and Telecommunication Systems (MASCOTS)",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Genova",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Computer Society; Institute of Theoretical and Applied Informatics, Polish Academy of Sciences; University of Genova; University of Pavia",
+      "keywords": "Performance Modelling,Algorithm design and analysis,System Analysis,System Simulation,Internet Systems,Communications Networks,",
+      "scope": "The design, analysis and performance evaluation of computer systems and networks",
+      "callForPapers": "2026-06-05",
+      "url": "mascots26.iitis.pl",
+      "eventContact": "seg@iitis.pl",
+      "sponsorTypes": "1; 9; 9; 9",
+      "venues": "Villa Giustiniani-Cambiaso, Polytechnic School, University of Genova, Via Montallegro, , Genova, , Italy, 16145, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

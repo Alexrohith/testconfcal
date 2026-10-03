@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: rNKox440icABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71837,
+      "eventTitle": "2027 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)",
+      "startDate": "2027-05-31",
+      "endDate": "2027-06-04",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Blockchain, Distributed Ledger, Bitcoin, Cryptocurrency, Smart Contract, Distributed Consensus, Toeknization, Decentralized Finance, Distributed Trust, Zero Knowledge,",
+      "scope": "ICBC 2027 is the eighth instalment of the IEEE Communications Society (ComSoc) sponsored conference on Blockchain and Cryptocurrencies. It will feature keynotes, tutorials, peer-reviewed technical paper presentations, posters and exhibitions from world-leading blockchain companies, research institutes and academia. ICBC is the primary forum for the technical exchange of the latest research and innovation, regulation, policies, standards, and applications in the exiting and emerging area of blockchain and cryptocurrencies.",
+      "callForPapers": "2026-12-02",
+      "url": "icbc2027.ieee-icbc.org/",
+      "eventContact": "vlogan@torontomu.ca",
+      "sponsorTypes": "1",
+      "venues": "Toronto Metropolitan University , Ted Rogers School of Management  , 55 Dundas Street West, , , Toronto, ON, Canada, M5B 2K3, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

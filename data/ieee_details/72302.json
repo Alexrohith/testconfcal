@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: v5WLx440nrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72302,
+      "eventTitle": "2028 IEEE Visualization and Visual Analytics (VIS)",
+      "startDate": "2028-10-22",
+      "endDate": "2028-10-27",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Seoul",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Data Visualization,Software Visualization,Cloud Visualization,Information Visualization,Visual Analytics,IEEE Transactions on Visualization and Computer Graphics,Visual perception,Visual Systems,Visual communication,Artificial Intelligence,,",
+      "scope": "IEEE VIS 2028 will be the year's premier forum for advances in theory, methods, and applications of visualization and visual analytics. The conference will convene an international community of researchers and practitioners from universities, government, and industry to exchange recent findings on the design and use of visualization tools.",
+      "callForPapers": "2028-03-24",
+      "url": "ieeevis.org",
+      "eventContact": "b.lee@yonsei.ac.kr",
+      "sponsorTypes": "1",
+      "venues": "Coex Center, 513, Yeongdong-daero, Gangnam-gu, , , Seoul, , Korea (South), 06164, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

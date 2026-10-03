@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1czBwo40+akBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71488,
+      "eventTitle": "2026 International Conference on Data Science, Mathematics, and Informatics (ICoDMI)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-07",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bogor",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; School of Data Science, Mathematics and Informatics (SSMI) - IPB University",
+      "keywords": "artificial intelligence,data science,computer science,Robotics,Computing & IT,signal processing,Software,Hardware,applied mathematics,applied statistics,mathematics engineering,mathematical optimization,statistical analysis,machine learning,Agricultural Engineering,Agricultural machinery,Agricultural Robots,Marine Engineering,Ocean Remote Sensing,Ocean Instrumentation,Big Data,Data models,Data Mining,Information Security,Information Technology,Bioinformatics,Human computer interaction,Computer V",
+      "scope": "The conference scope includes the following tracks, all of which fall within IEEE’s core technical domains: Components, Circuits, Devices & Systems: aligned with IEEE fields such as circuits and systems, electronics, and device technologies. Computing & Processing (Hardware/Software): aligned with computer engineering, embedded systems, high-performance computing, artificial intelligence applications, and software engineering. General Topics for Engineers (Mathematics, Science, and Engineering Applications): focused on applied mathematics and computational science supporting engineering systems. Robotics and Control Systems: aligned with control systems engineering, automation, intelligent systems, and mechatronics Signal Processing & Analysis: aligned with digital signal processing, image processing, communication systems, and data-driven signal analytics.",
+      "callForPapers": "2026-06-30",
+      "url": "conference-ssmi.ipb.ac.id",
+      "eventContact": "hafidlotulftm@apps.ipb.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , , Bogor, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

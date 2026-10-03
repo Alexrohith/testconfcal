@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: iPPCwo40hKoBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72645,
+      "eventTitle": "2027 International Conference on Green Technologies and Sustainable Solutions (GTSS)",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Gorakhpur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madan Mohan Malaviya Univ of Tech, Gorakhpur; Uttar Pradesh Section",
+      "keywords": "Intelligent Computing and Security,Networks and Smart Computing,Artificial Intelligence, Machine Learning & Data Science,Cloud Computing, Cybersecurity, and Blockchain,Disruptive Technologies,Emerging Technologies in Computer Science and Engineering,Smart Cities and Sustainable Urban Development,Drone Technology,Wireless Communication,RF & Microwave Engineering,VLSI Design & Nanoelectronics,Renewable Energy and Sustainable Power Systems,Smart Grids & Power Systems,Electric Vehicles & Sustainable",
+      "scope": "GTSS 2027 will explore the core aspects of sustainability, green engineering, renewable energy, and eco-friendly systems that align with the evolving dynamics of nature and human societies. The conference will focus on the development of intelligent and adaptive green technologies that enhance efficiency, minimize environmental impact, and provide long-term solutions for climate change mitigation and resource management.",
+      "callForPapers": "2026-07-04",
+      "url": "",
+      "eventContact": "ishikha.singh@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "MMMUT , Madan Mohan Malaviya University of Technology, , , , Gorakhpur, , India, 273010, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

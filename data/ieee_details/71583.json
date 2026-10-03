@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8/aIx440n7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71583,
+      "eventTitle": "2026 IEEE 67th International Scientific Conference on Information Technology and Management Science of Riga Technical University (ITMS)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Riga",
+        "region": "",
+        "country": "Latvia"
+      },
+      "sponsors": "Latvia Section; Latvia Section C Chapter; Riga Technical University",
+      "keywords": "Information Technology,Data Science and Processing,Management and Governance,Modelling and Simulation,Cybersecurity,Cloud Computing,Human Computer Interaction,Artificial Intelligence,Cyber-Physical Systems,Next Generation Computing,Digital Twins,Internet of Everything,",
+      "scope": "The conference aims at bringing together young scientists and researchers from information technologies and management sciences in an effort to promote and encourage crossfertilization of ideas and tools related but not limited to the general topics of the conference, such as Information Technology, Information Systems, Computer Technologies, Data Science and Processing, System Security and Control, Modelling and Simulation, Automatic Control, E-Commerce and E-Governance, Cloud Computing, Human Computer Interaction, Cyber-Physical Systems, Digital Twins, Intelligent Systems, internet of Everything.",
+      "callForPapers": "2026-07-30",
+      "url": "itms.rtu.lv/",
+      "eventContact": "marta.narigina@rtu.lv",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Riga Technical University, Zunda Krastmala 10, , , , Riga, , Latvia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

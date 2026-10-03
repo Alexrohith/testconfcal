@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 19CZx440h7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73293,
+      "eventTitle": "2027 International Conference on Radar, Antenna, Microwave, Electronics, and Telecommunications (ICRAMET)",
+      "startDate": "2027-06-09",
+      "endDate": "2027-06-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Research Center for Telecommunication, National Research and Innovation Agency",
+      "keywords": "Radar,Antenna,Microwaves,electronics,electronics material,Devices Components and Circuits,Wireless and wired communication,Signal and Image Processing,control system,Robotics,Mechatronics,",
+      "scope": "- Remote Sensing and Radar System - Antenna Devices and Technique - RF and Microwave Theory and Devices - Electronics Materials, Devices, Components, and Circuits - Wireless and Wired Communications - Signal and Image Processing Technique - Control System, Robotics, and Mechatronics",
+      "callForPapers": "2026-09-30",
+      "url": "https://conference.brin.go.id/icramet2027/",
+      "eventContact": "setiawan.ari3@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Research Center for Telecommunication, National Research and Innovation Agency, KST Samaun Samadikun BRIN, Bandung, , , , Bandung, , Indonesia, 40135, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: j5aXx4409LsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71972,
+      "eventTitle": "2026 International Conference on Informatics Engineering, Science & Technology (INCITEST)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-05",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section C Chapter; Universitas Komputer Indonesia",
+      "keywords": "Computing ,Bioengineering,Communications And Networking,Electrical Engineering,Robotics,Control System,",
+      "scope": "Coomunication, Networking & Broadcasting; Components, Circuits, Devices & Systems; Computing & Processing (Hardware/Software); General Topics for Engineers (Math, Science & Engineering); Robotics & Control Systems; Signal Processing & Analysis; Fields, Waves & Electromagnetics; Bioengineering; Engineering Profession",
+      "callForPapers": "2026-07-04",
+      "url": "incitest.unikom.ac.id/",
+      "eventContact": "poni.sukaesih@email.unikom.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Unikom campus 17th Floor Jl. Dipatiukur No.102-118, Jl. Dipati Ukur No. 102-118, , , , Bandung, , Indonesia, 40132, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

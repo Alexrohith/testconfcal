@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jLXcwY40vKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71015,
+      "eventTitle": "2027 3rd International Conference on Signal Processing, Communication, Power, and Embedded System (SCOPES)",
+      "startDate": "2027-02-04",
+      "endDate": "2027-02-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; Geoscience; Power, Energy and Industry Applications",
+      "location": {
+        "city": "paralakhemundi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Centurion University of Technology & Management",
+      "keywords": "signal processing,communication system,Emedded system,Machine learning,Deep learning,",
+      "scope": "The Conference SCPOES covers the full spectrum of theoretical and practical aspects of signal processing, communication engineering, power systems, quantum technology, and embedded systems. The conference focuses on intelligent communication systems, advanced hardware design, automatic knowledge acquisition and decision-support systems, evolving computational techniques, accessible user interfaces, and the application of artificial intelligence in areas such as computer vision and biosciences.  SCPOES is inherently interdisciplinary, bringing together researchers, academicians, and industry professionals to exchange ideas, discuss emerging challenges, and share knowledge across these domains. The conference provides an international forum for presenting innovative research and fostering collaboration.  Contributions addressing both theoretical developments and practical applications are invited, including but not limited to the above areas, with special emphasis on the integration",
+      "callForPapers": "2026-03-01",
+      "url": "scopes2027@cutm.ac.in",
+      "eventContact": "prabhat.patnaik@cutm.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Centurion University of Technology and Management, Paralakhemundi., Alluri Nagar, , R. Sitapur, Uppalada, Gajapati, , Paralakhemundi , , India, 761211, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

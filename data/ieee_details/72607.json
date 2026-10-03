@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jvOex440w78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72607,
+      "eventTitle": "2026 International Conference on Cybersecurity Systems, Technologies and Applications (CSTA)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-10",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Al Ain University ; Lone Star Section",
+      "keywords": "Cybersecurity Systems ,Cybersecurity Applications,Cybersecurity Technologies,",
+      "scope": "The International Conference on Cybersecurity Systems, Technologies and applications (CSTA 2026) aims to bring together leading researchers, academics, and practitioners from around the world to share their latest findings, innovations, and applications in Artificial Intelligence and intelligent systems. CSTA 2026 provides a premier interdisciplinary platform for presenting advances and exchanging insights on the theoretical foundations, cutting-edge technologies, and real-world implementations of AI. CSTA 2026 will feature keynote talks, technical paper sessions, workshops, and tutorials covering a wide range of AI topics.",
+      "callForPapers": "2026-08-15",
+      "url": "emergingtechnet.org/CSTA2026/index.php",
+      "eventContact": "jararwehy@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn San Antonio, Riverwalk, , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

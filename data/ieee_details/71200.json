@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5sDgwY40gKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71200,
+      "eventTitle": "2026 International Conference on Artificial Intelligence Models and Systems (iAIMS)",
+      "startDate": "2026-11-16",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Al Ain University ; Spain Section",
+      "keywords": "Artificial Intelligence,Models and Systems,Natural Language Processing (NLP),Generative AI,Computer Vision,Machine Learning,",
+      "scope": "The International Conference on Artificial Intelligence Models and Systems (AIMS 2026) is a lively and inclusive gathering where researchers, academics, and industry professionals from across the globe come together to explore the latest advancements in artificial intelligence and intelligent systems. As AI continues to reshape industries and push the boundaries of what’s possible, AIMS 2026 creates a welcoming space for innovation, collaboration, and the exchange of ideas.",
+      "callForPapers": "2026-04-15",
+      "url": "aims-conference.ai/2026/",
+      "eventContact": "mzaloqaily@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Novotel Barcelona City, Avenida Diagonal 201, Barcelona - España , , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

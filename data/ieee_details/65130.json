@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8debx440rL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65130,
+      "eventTitle": "2027 66th IEEE Conference on Decision and Control (CDC)",
+      "startDate": "2027-12-14",
+      "endDate": "2027-12-17",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Control Systems Society",
+      "keywords": "control,optimization,applied mathematics,automotive,intelligent control,systems biology,robotics,networks and communication systems,process control,aerospace,control theory,adaptive control,aerospace control,control systems analysis, control systems, fault diagnosis,fault-tolerant control,feedback control,motion control,network control systems,power systems,robust control,predictive control,game theory,",
+      "scope": "The CDC is recognized as the premier scientific and engineering conference dedicated to the advancement of the theory and practice of systems and control. The CDC annually brings together an international community of researchers and practitioners in the field of automatic control to discuss new research results, perspectives on future developments, and innovative applications relevant to decision making, automatic control, and related areas.",
+      "callForPapers": "2027-03-14",
+      "url": "cdc2027.ieeecss.org",
+      "eventContact": "hespanha@ece.ucsb.edu",
+      "sponsorTypes": "1",
+      "venues": "CCL - Lisbon Congress Centre, Praça das Industrias, 1, , , , Lisbon, , Portugal, 1300-307, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

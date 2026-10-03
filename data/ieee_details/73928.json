@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ibDmwY40gaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73928,
+      "eventTitle": "2027 11th International Conference on Inventive Systems and Control (ICISC)",
+      "startDate": "2027-07-15",
+      "endDate": "2027-07-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Coimbatore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Industry Applications Society; JCT College of Engineering and Technology",
+      "keywords": "Computer Vision, Intelligent Systems, Embedded Control Systems, Hybrid Intelligent Control Systems, Autonomous Systems, Industrial Machine Learning Applications,",
+      "scope": "The 2027 11th International Conference on Inventive Systems and Control (ICISC) aims to explore the transformative potential of intelligent systems and control technologies in the industrial sector. As data availability continues to increase and computing and storage capabilities of Information and Communication Technology (ICT) systems expand, technological advancements like Artificial Intelligence (AI), Machine Learning, Deep Learning, and Intelligent Control are profoundly influencing diverse industrial and engineering fields. From smart manufacturing to healthcare, energy, and transportation, these technologies are reshaping operational processes, optimizing efficiency, and driving automation in industry applications. This year's theme, \"Intelligent Systems and Control Technologies for Industry Applications,\" aims to spotlight advancements and practical applications of intelligent systems and control technologies across various industrial sectors.",
+      "callForPapers": "2027-04-09",
+      "url": "icoisc.org/2027/",
+      "eventContact": "chairicisc@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "JCT College of Engineering and Technology, Pichanur Road, Off NH 47 , , , Coimbatore, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

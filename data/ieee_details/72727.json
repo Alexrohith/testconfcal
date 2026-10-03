@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: p8eZx440k7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72727,
+      "eventTitle": "2027 IEEE Applied Sensing Conference (APSCON)",
+      "startDate": "2027-03-15",
+      "endDate": "2027-03-17",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Hyderabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Sensors Council",
+      "keywords": "IoT, Sensing,Quantum Sensors,Digital and connect Healthcare,Energy and Sustainability,Robotics,Security, Technologies for Dual use,Manufacturing and Automation,",
+      "scope": "IoT, Sensors and Sensing Technology",
+      "callForPapers": "",
+      "url": "2027.ieee-apscon.org/",
+      "eventContact": "sgoel@hyderabad.bits-pilani.ac.in",
+      "sponsorTypes": "1",
+      "venues": "BITS Pilani Hyderabad Campus, Jawahar Nagar, , Medchal District, , , Hyderabad, , India, 500078, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

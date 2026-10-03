@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9MDewY40yKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72481,
+      "eventTitle": "2027 IEEE MTT-S International Conference on Numerical Electromagnetic and Multiphysics Modeling and Optimization (NEMO)",
+      "startDate": "2027-07-07",
+      "endDate": "2027-07-09",
+      "about": "Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics",
+      "location": {
+        "city": "Torino",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Microwave Theory and Technology Society",
+      "keywords": "Computational Electromagnetics, Design Automation, Optimization Methods, Machine Learning Algorithms,",
+      "scope": "NEMO is an international venue dedicated to highlighting and exploring recent progress of numerical techniques for electromagnetic modeling, multiphysics simulation, and design optimization for RF, microwave and terahertz applications. The conference brings together scientists, engineers, and researchers from academia, research institutions, especially encouraging the application of numerical or multi-physics computational methods in unique ways for microwave component or system analysis.",
+      "callForPapers": "2027-02-21",
+      "url": "2027.nemo-ieee.org/",
+      "eventContact": "simona.donati@polito.it",
+      "sponsorTypes": "1",
+      "venues": "Politecnico di Torino, Corso Duca degli Abruzzi 24, , , , Torino, , Italy, 10129, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: k4Cax440lrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71333,
+      "eventTitle": "2026 10th International Conference on Automation, Control and Robots (ICACR)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Southeast University",
+      "keywords": "Genetic Algorithms,Evolutionary Computation and Control,Adaptive Signal Processing and  Control,Biologically-Inspired and Fusion Sensor, Image Processing,Management in Industry,Virtual and Augmented Reality in Robotics and Automation,",
+      "scope": "Prospective authors are invited to submit high-quality original research and technical contributions for presentations and posters at the conference. ICACR 2026 provides a forum for researchers and practitioners involved in different but related domains to confront research results and discuss key problems. The scope of ICACR 2026 includes the research and development fields of collaboration technologies and their applications to sensing, automation, control, and robotics. Application domains include, but are not limited to, intelligent control systems and optimization, signal processing, sensors, systems modeling and control, robotics and automation, industrial engineering, production and management, among others.",
+      "callForPapers": "2026-06-01",
+      "url": "www.icacr.org/",
+      "eventContact": "pingli@pmail.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn Nanjing Qinhuai South, No. 21 Mozhou East Road, Jiangning District, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

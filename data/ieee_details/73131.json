@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: j6rqwY40n6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73131,
+      "eventTitle": "2027 International Conference on AI, Security, Computing, and Networking (AISCN)",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Taichung",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "Asia University, Taiwan; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Artificial Intelligence,Machine Learning,Cyber Security,Intelligent Computing,Computer Networks,Communication Systems,Cyber-Physical Systems,Intelligent Systems,Data Analytics,Smart Infrastructure,",
+      "scope": "Artificial Intelligence, Cyber Security, Intelligent Computing, Communication Systems, and Computer Networks. The conference provides a multidisciplinary platform for researchers, academicians, industry professionals, and practitioners to present and discuss theoretical developments, practical applications, and emerging technologies in intelligent and secure digital ecosystems.  The scope includes, but is not limited to, machine learning, deep learning, generative AI, cyber-physical systems, intelligent systems, soft computing, cloud and edge computing, Internet of Things (IoT), blockchain, digital twins, network and information security, data analytics, communication technologies, 6G networks, autonomous systems, smart cities, smart healthcare, and system-of-systems engineering. The conference encourages innovative research that addresses the challenges of digital transformation, intelligent automation, secure communications, and resilient computing infrastructures.",
+      "callForPapers": "2026-07-15",
+      "url": "cyber-conf.com/aiscn2027/",
+      "eventContact": "vmeena1@ee.iitr.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Asia University, 500, Lioufeng Road, Wufeng District, , , Taichung, , Taiwan, 41354, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

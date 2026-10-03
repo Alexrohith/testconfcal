@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8/SRx440ybsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71673,
+      "eventTitle": "2026 16th International Conference on Information and Multimedia Technology (ICIMT)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Harbin Institute of Technology (Shenzhen)",
+      "keywords": "Information Technology,Cybersecurity and Data Privacy Challenges,Big Data Analytics and Decision Support Systems,Multimedia Technology,Deep Learning for Image and Video Processing,Computer Vision in Multimedia Applications,",
+      "scope": "The 2026 16th International Conference on Information and Multimedia Technology (ICIMT) will be held in Shenzhen, China on November 6-8, 2026 . The aim of ICIMT is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in Information and Multimedia Technology. This conference provides opportunities for the delegates to exchange new ideas and application experiences face to face, to establish business or research relations and to find global partners for future collaboration.",
+      "callForPapers": "2026-05-20",
+      "url": "www.icimt.org/",
+      "eventContact": "mengsu@fmail.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Harbin Institute of Technology, Harbin Institute of Technology Campus, Shenzhen University Town, Taoyuan Street, Nanshan District, Shenzhen, , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

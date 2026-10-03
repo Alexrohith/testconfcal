@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: 6O+Ux4403LsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70525,
+      "eventTitle": "2027 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "startDate": "2027-09-26",
+      "endDate": "2027-10-01",
+      "about": "Bioengineering; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Florence",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Robotics and Automation Society; Robotics Society of Japan - RSJ; The Society of Instrument and Control Engineers - SICE",
+      "keywords": "Human-Centric Robotics, Digital Transformation, Robotics for Sustainability,",
+      "scope": "Human-centric robotics development is a mandatory challenge for real deployment of cooperative, trustworthy and acceptable robotic solutions and services. Digital transformation will also involve robotics, favoring synergies with artificial intelligence and IOT and spreading their use in every daily life environments. Robotics for sustainability in today's world is a promising challenge to address climate change, enhance recycling, make manufacturing, mobility, food and daily life more and more.",
+      "callForPapers": "2027-03-01",
+      "url": "",
+      "eventContact": "benedetto.allotta@unifi.it",
+      "sponsorTypes": "1; 1; 9; 9",
+      "venues": "Fortezza da Basso, Viale Filippo Strozzi, , , , Florence, , Italy, 50129, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

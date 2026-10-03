@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5ZCwx4402r0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71833,
+      "eventTitle": "2026 IEEE Real-Time Systems Symposium (RTSS)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-11",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Yokohama",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Real-time Systems,Cyber-physical Systems,Scheduling,Autonomous Systems,Performance analysis,Hardware Software Co-design,Operating Systems,Embedded Computing,Embedded Systems,Embedded Software,",
+      "scope": "RTSS’26 welcomes high-quality submissions of original research papers related to both real-time systems theory and practice. Manuscripts may be submitted to either the real-time systems and foundations track (Track 1) or the design and applications track (Track 2). Track 1 focuses on the practical and theoretical foundations that enable predictable timing in computing systems. Track 2 focuses on real-time systems in a broader systems context, particularly emphasizing novel research on designs, implementations, and applications where real-time requirements are an integral part of a larger system or objective.",
+      "callForPapers": "2026-05-21",
+      "url": "2026.rtss.org",
+      "eventContact": "takuya@mail.saitama-u.ac.jp",
+      "sponsorTypes": "1",
+      "venues": "Yokohama Symphostage (West Tower), 5-1-2 Minatomirai, Nishi-ku, Kanagawa, , , Yokohama, , Japan, 220-0012, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

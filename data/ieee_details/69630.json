@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xtmGx440gbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69630,
+      "eventTitle": "2026 Joint 14th International Conference on Soft Computing and Intelligent Systems and 27th International Symposium on Advanced Intelligent Systems (SCIS&ISIS)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-05",
+      "about": "Bioengineering; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hachioji",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Japan Society for Fuzzy Theory and Intelligent Informatics - SOFT",
+      "keywords": "Artificial Intelligence,Awareness Computing,Bioinformatics,Human-Computer Interaction and Interface,Kansei Engineering,Multi-Agent Systems,Social Systems,Fuzzy systems,",
+      "scope": "The upcoming conference, SCIS&ISIS 2026, will present the latest state-of-the-art achievements, thought-provoking challenges, and potential future directions in soft computing and intelligent systems. Topics cover a wide range of these areas, such as artificial intelligence, fuzzy systems, awareness computing, bioinformatics, human-computer interaction, Kansei engineering, multi-agent systems, their real-world applications, and more. The full list of topics is available at the conference website.",
+      "callForPapers": "2026-07-03",
+      "url": "soft-cr.org/scis/2026/index.html",
+      "eventContact": "eri@tmu.ac.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "Tokyo Tama Mirai Messe, 3-19-2, Myojincho, Hachioji, Tokyo, , , , Hachioji, , Japan, 192-0046, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

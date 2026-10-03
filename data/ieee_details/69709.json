@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rY6fx440vLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69709,
+      "eventTitle": "2026 IEEE Annual Computer Security Applications Conference (ACSAC)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Los Angeles",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Applied Computer Security Associates (ACSA); IEEE Computer Society",
+      "keywords": "Cybersecurity,Computer security,Network security,Privacy,",
+      "scope": "The conference brings together leading researchers and practitioners, along with a diverse group of security professionals drawn from academia, industry, and government, gathered to present and discuss the latest cybersecurity results and topics. With peer reviewed technical papers, invited talks, panels, national interest discussions, and workshops, the conference continues its core mission of investigating practical solutions for computer and network security technologies.",
+      "callForPapers": "",
+      "url": "www.acsac.org",
+      "eventContact": "dbalenson@comcast.net",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , Los Angeles , CA, USA, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

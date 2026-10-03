@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4OWVx4409bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71834,
+      "eventTitle": "2026 23rd International Conference on Research and Education in Mechatronics (REM)",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-13",
+      "about": "Engineering Profession; Robotics and Control Systems",
+      "location": {
+        "city": "Eindhoven",
+        "region": "",
+        "country": "Netherlands"
+      },
+      "sponsors": "Deutsche Gesellschaft für Mechatronik e.V. ; Fontys University of Applied Sciences; IEEE Robotics and Automation Society",
+      "keywords": "Mechatronics, Motion, Education,Research And Development,Applied technologies,",
+      "scope": "The 2026 23rd International Conference on Research and Education in Mechatronics (REM) is an established international forum where researchers, educators and industry professionals converge to share knowledge, present original work and advance the field of mechatronics and smart systems. In 2026, the conference comes to Eindhoven, one of Europe's leading high-tech ecosystems, hosted by Fontys Technology. Whether you are presenting a paper or joining as a participant, IEEE Conference on Research & Education in Mechatronics offers two days of high-quality content, meaningful exchange and direct access to the Brainport innovation community.",
+      "callForPapers": "2026-07-01",
+      "url": "",
+      "eventContact": "e.najafi@fontys.nl",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Fontys University of Applied Sciences, de Rondom 1, , , , Eindhoven, , Netherlands, 5612AP, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

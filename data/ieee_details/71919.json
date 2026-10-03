@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rtqZx440n78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71919,
+      "eventTitle": "IECON 2027 - 53rd Annual Conference of the IEEE Industrial Electronics Society",
+      "startDate": "2027-10-14",
+      "endDate": "2027-10-17",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Industrial Electronics,Industrial Informatics,Control Engineering,Robotics,Industrial Automation,Data Acquisition,Signal Processing,Vision Sensors,Power Electronics,",
+      "scope": "The theory and applications of electronics, controls, communications, instrumentation, and computational intelligence to industrial and manufacturing systems and processes.",
+      "callForPapers": "2026-06-30",
+      "url": "",
+      "eventContact": "w.dai@sjtu.edu.cn",
+      "sponsorTypes": "1",
+      "venues": "Shanghai West Bund Exhibition and Conference Centre, , , , , Shanghai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

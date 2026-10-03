@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 58LZwY40xaEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68300,
+      "eventTitle": "2027 IEEE 37th International Workshop on Machine Learning for Signal Processing (MLSP)",
+      "startDate": "2027-09-13",
+      "endDate": "2027-09-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Uppsala",
+        "region": "",
+        "country": "Sweden"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Machine learning,Signal processing,Artificial intelligence,Deep learning,Image processing,Audio processing,Speech processing,",
+      "scope": "The workshop focuses on the intersection of machine learning and signal processing, including their related applications.",
+      "callForPapers": "2027-04-30",
+      "url": "2027.ieeemlsp.org",
+      "eventContact": "roland.hostettler@angstrom.uu.se",
+      "sponsorTypes": "1",
+      "venues": "Uppsala University Main Building, Biskopsgatan 3, , , , Uppsala, , Sweden, 75310, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

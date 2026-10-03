@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3qOIx440pL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74098,
+      "eventTitle": "2027 8th International Conference on Electronics and Sustainable Communication Systems (ICESC)",
+      "startDate": "2027-08-19",
+      "endDate": "2027-08-21",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Coimbatore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Hindustan Institute of Technology; IEEE Electron Devices Society",
+      "keywords": "Low-power electronics,Communication systems,Cloud computing,Network Systems,Internet of Things,Smart Electronics,Artificial Intelligence,Power Systems,",
+      "scope": "In this contemporary era of Informatics, electronics, and communication technologies it has always been critical to develop more sustainable electronics and communication systems to meet the increasing technological demands. To effectively maintain a sustainable environment and communication technologies, it is always required to meet the quality of service requirements of the emerging smart ICT applications. Nevertheless there are many challenges in reducing the energy consumption of the emerging digital electronics and wireless communication networks. In this perspective, this 8th International Conference on Electronics and Sustainable Communication Systems (ICESC 2027) held at Hindustan Institute of Technology, Coimbatore, India on 19-21, August 2027 brings together the state-of-the-art research works to propose novel architectures, models, and algorithms for solving the emerging challenges in almost all the areas of sustainable electronics and communication technologies.",
+      "callForPapers": "2027-05-18",
+      "url": "icescs.com/2027/",
+      "eventContact": "conficescs@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Hindusthan Institute of Technology, Othakkalmandapam (Post), Pollachi Main Road, , , Coimbatore, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

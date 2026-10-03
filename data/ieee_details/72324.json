@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0fT8xo40xboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72324,
+      "eventTitle": "2026 IEEE International Conference on Internet of Things and Intelligence Systems (IoTaIS)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section COM Chapter",
+      "keywords": "Industrial Internet Of Things,Electrical Vehicles And Intelligent Transportation,Artificial Intelligence,Intelligent Systems,Wireless Communications,Control, Robotics And Mechatronics,Control System Security,Smart Cities,embedded system,5 G,Ipv6,Smrt Transportation  Connected Car, Automotive  ntelligent Transportation  Highway, e-HeaIndustrial Internet Of Things,Electrical Vehicles And Intelligent Transportation,Artificial Intelligence,Intelligent Systems,Wireless Communications,Control, Robotic",
+      "scope": "Vertical Oriented Application Smart Transportation Smart healthcare and e-Health Smart Agriculture Smart Manufacturing Industrial IoT Smart Cities, Smart Home, Building Management and Operation Automation Smart Grid, Energy Management Computer and Devices Technologies Embedded Computer and System Software for IoT Storage and Data Management for IoT Computing for IoT Cloud and Fog Computing Edge and Mobile Computing Platform Based Computing Connectivity for IoT Legacy Networks 5G Networks IPv6, 6LoWPAN, RPL, 6TiSCH, W3C Network Coding D2d and M2M Communications High Band, Narrow Band Networks Software Defined Networks Sensor Network Massive IoT Application and Services Platforms and Framework Cyber-physical systems Big data and IoT Data Analytics Horizontal application development for IoT Service Experiences and Analysis Security and Privacy for Internet of Things Intelligence Systems Deep Learning Neural Networks Expert Systems Computational Intel Sensors and Actuators Interfaces",
+      "callForPapers": "2026-06-15",
+      "url": "iotais.org/",
+      "eventContact": "lailyadeo@telkomuniversity.ac.id",
+      "sponsorTypes": "5",
+      "venues": ", , , , , Bali, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

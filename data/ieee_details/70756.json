@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3MyJx440orsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70756,
+      "eventTitle": "2026 36th IEEE International Conference on Collaborative Advances in Software and COmputiNg (CASCON)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-12",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "Canada"
+      },
+      "sponsors": "CS-Can/Info-Can; IEEE Computer Society",
+      "keywords": "Software Systems,Software Engineering,Information Technology,Artificial Intelligence,Big Data,Cloud Computing,Cyber Physical Systems,Quantum Computing,Financial Technology,Distributed Computing,",
+      "scope": "CASCON is an international forum that brings together researchers, practitioners, and industry leaders to present and discuss applied research and practical innovations in computer science and software engineering, with a strong emphasis on industry and academia collaboration.",
+      "callForPapers": "2026-06-22",
+      "url": "conf.researchr.org/home/cascon-2026",
+      "eventContact": "snejati@uottawa.ca",
+      "sponsorTypes": "1; 9",
+      "venues": "Second Student Center - York University, 15 Library Lane, , , , Toronto, ON, Canada, M3J 3K8, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /ZuHx440lLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70917,
+      "eventTitle": "2026 International Conference on Low Carbon and Smart Energy (ICLCSE)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Industry Applications Society; South China University of Technology",
+      "keywords": "Green Energy,Low Carbon,Smart Grid,Smart Building,Artificial intelligence,Optimization  methods,Power systems, Integrated energy system,",
+      "scope": "With the acceleration of the global energy transition and the advancement of green and low-carbon development goals, the field of power and energy is facing unprecedented opportunities  and challenges. The large-scale integration of renewable energy, rapid development of new  energy storage technologies, digital transformation of power systems, and widespread adoption  of smart grid technologies are reshaping the industry landscape. Emerging technologies such  as distributed energy, virtual plant, microgrids, artificial intelligent & machine learning and  blockchain are becoming focal points of the field, driving the development of power systems  towards greater efficiency, intelligence, flexibility, and sustainability.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "jizhong.zhu@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

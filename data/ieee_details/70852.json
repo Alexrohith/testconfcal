@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6dusx440mr0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70852,
+      "eventTitle": "2026 IEEE 2nd International Conference on Advances in Signal Processing, Power, Communication and Computing (ASPCC)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Bhubaneswar Section CT Chapter; International Institute of IT - Bhubaneswar STB; International Institute of Information Technology - Bhubaneswar",
+      "keywords": "aspcc 2026,",
+      "scope": "ASPCC is a biennial research-oriented conference jointly conducted by the Department of Electronics & Telecommunication Engineering and Department of Electrical Engineering, along with IEEE Student Branch, IIIT Bhubaneswar. ASPCC 2026 technical program will include contributed papers and contributions from invited speakers. It will have pre-conference- tutorials, keynotes, plenary talks, technical sessions, special sessions, expert panels, and student research forum.",
+      "callForPapers": "2026-07-10",
+      "url": "www.aspcc2026.in",
+      "eventContact": "pradyut@iiit-bh.ac.in",
+      "sponsorTypes": "3; 5; 5; 5; 9",
+      "venues": "International Institute of Information Technology, Bhubaneswar (IIIT Bhubaneswar), At- Gothapatna, Po- Malipada, Bhubaneswar-751003, , Bhubaneswar, , India, 751003, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

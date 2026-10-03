@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nbnmwY40rKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73189,
+      "eventTitle": "2027 24th European Radar Conference (EuRAD)",
+      "startDate": "2027-10-06",
+      "endDate": "2027-10-08",
+      "about": "Aerospace; Fields, Waves and Electromagnetics; Geoscience; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Milan",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "European Microwave Association - EuMA; IEEE Aerospace and Electronic Systems Society; IEEE Antennas and Propagation Society; IEEE Microwave Theory and Technology Society",
+      "keywords": "Microwaves and millimeter waves,Passive and active microwave systems and components,Electromagnetic fields theory,Simulation and measurements,Antennas and propagation,Radar,Artificial intelligence,Machine learning,",
+      "scope": "The EuRAD is the major European event for the present status and the future trends in the field of radar research, technology, system design and applications. The conference is the ideal event to keep up to date with the latest achievements in the field of radar and to interact with international experts from industry and academia. The conference brings together researchers and radar developers from all over the world to stimulate development of new products and services. International experts will present keynote papers on topics of current importance and on the latest advances. Tailored short courses and workshops will complement the program.",
+      "callForPapers": "2027-04-02",
+      "url": "www.eumw.eu/conference/the-european-radar-conference-eurad/",
+      "eventContact": "matteo.oldoni@polimi.it",
+      "sponsorTypes": "1; 1; 1; 9",
+      "venues": "Allianz MiCo - Milano Convention Center, Piazzale Carlo Magno, 1, , , , Milan, , Italy, 20149, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

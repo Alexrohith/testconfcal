@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4dH3xo40qLoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72376,
+      "eventTitle": "2027 5th International Conference on Applied Artificial Intelligence and Computing (ICAAIC)",
+      "startDate": "2027-02-01",
+      "endDate": "2027-02-03",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Salem",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; R P Sarathy Institute of Technology",
+      "keywords": "Artificial Intelligence,Data Mining,Cognitive Computing,Neural Networks,Pattern Recognition,Social Network Analysis,",
+      "scope": "This conference intends to emphasize a research connection, therefore, the authors are invited to highlight the advantages of Information Technology (IT) in various domains. Innovative research ideas on how to solve problems using artificial intelligence, both in R&D and real-time applications are welcome. Papers describing the advanced prototypes, systems, methodologies, tools and techniques and general survey papers, which indicates future directions are also encouraged.",
+      "callForPapers": "2026-11-09",
+      "url": "icaaic.com/2027/",
+      "eventContact": "icaaic.contact@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "R P Sarathy Institute of Technology, Poosaripatty, Kadayampatty, , , Salem, , India, 636305, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

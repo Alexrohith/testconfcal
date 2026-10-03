@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zKHrwY40paUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71384,
+      "eventTitle": "2026 18th International Conference on Signal Processing Systems (ICSPS)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-26",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Xiamen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xiamen University - China",
+      "keywords": "Communication Signal Processing,Image and Video Processing,Signal Processing in  Biomedical Engineering,Machine Learning for Signal Processing,,Radar Signal  Processing,Underwater Acoustic Signal Processing Theory, Method, and System,Blind Signal  Processing,Array Signal Processing,",
+      "scope": "ICSPS 2026 will be held in Xiamen, China during October 23-26, 2026. Founded in 2009, ICSPS is a leading global event now in its 18th year. Through partnerships with top-tier universities like Nanyang Technological University, Auckland University of Technology, East China Normal University, and the University of Electronic Science and Technology of China, the conference has organized nearly 100 sessions on critical industry topics. These range from signal acquisition and communication engineering to advanced sensors and medical image processing, consistently addressing the most vital advancements in signal processing systems.",
+      "callForPapers": "2026-05-15",
+      "url": "www.icsps.org/",
+      "eventContact": "feiy@iiai.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Xiamen University, No. 422, Siming South Road, Xiamen, , , , Xiamen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

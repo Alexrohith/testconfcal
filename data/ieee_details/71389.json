@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mPTjwY40nqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71389,
+      "eventTitle": "2026 IEEE 5th International Conference on Automation, Robotics and Computer Engineering (ICARCE)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-17",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Hubei University of Chinese Medicine",
+      "keywords": "Autonomous Robots,Automatic Control,Robotics And Mechatronics,Robotics,Robotics And Robots,Automation,Autonomous Vehicles,Artificial Intelligence,Machine Intelligence,Machine Learning,Machine Control,Industrial Automation,Computational intelligence,Computational modeling,Computer aided manufacturing,",
+      "scope": "Robotics, machine vision, process automations, programmable logic controllers, motion control, computers for design and manufacture, artificial intelligence, machine learning, human-computer interaction, etc.",
+      "callForPapers": "",
+      "url": "www.icarce.com",
+      "eventContact": "icarce@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "ZMax carrey international hotel, 408 Gaoxin Avenue, High tech Development Zone, Hongshan District, , , , Wuhan, , China, 430000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

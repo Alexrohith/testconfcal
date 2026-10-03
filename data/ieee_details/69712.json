@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 09mFx440iLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69712,
+      "eventTitle": "2027 International Conference on Future Technologies for Smart Society (ICFTSS)",
+      "startDate": "2027-09-06",
+      "endDate": "2027-09-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Putrajaya",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section SMC Chapter; Universiti Tun Hussein Onn Malaysia",
+      "keywords": ",cybersecurity and privacy,artificial intelligence,data science,embedded systems,human and robots smart systems,",
+      "scope": "cybernetics, smart systems, science and engineering",
+      "callForPapers": "2027-04-01",
+      "url": "icftss.uthm.edu.my/",
+      "eventContact": "helmy@uthm.edu.my",
+      "sponsorTypes": "5; 9",
+      "venues": "Everly Hotel,, Jalan Alamanda 2,  Precinct 1, 62000 Putrajaya, Wilayah Persekutuan Putrajaya, , ,  Wilayah Persekutuan Putrajaya, , , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

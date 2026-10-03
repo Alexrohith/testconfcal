@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: koaPx440zr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71670,
+      "eventTitle": "2026 IEEE International Conference for Convergence in Engineering (ICCE)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kolkata",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Kolkata Section; Kolkata Section AP/MTT Joint Chapter",
+      "keywords": "Convergence in Engineering,Information science,Instrumentation Engineering,Biomedical Engineering and Health Sciences,Electrical Engineering,Electronics and Communication Engineering,Computer Science Engineering,Mechatronics,Geoscience and remote sensing,General Science,Technology Innovation And Sustainability,Engineering Management,Nanotechnology,Environmental Engineering,Smart Cities,Robotics and Automation,Con5G6G Communication,Artificial inteArtificial intelligence,",
+      "scope": "The International Conference on Convergence in Engineering (ICCE 2026) aims to provide a premier interdisciplinary platform for researchers, academicians, industry professionals, innovators, and students to present and discuss emerging trends, technologies, and research advancements across multiple domains of engineering. The conference focuses on the convergence of traditional engineering disciplines with modern digital technologies to address contemporary societal, industrial, and global challenges. ICCE 2026 will emphasize innovation, integration, and sustainable technological development by fostering collaboration between academia, industry, and research institutions. ICCE 2026 encourages original research contributions, practical implementations, case studies, industry innovations, and interdisciplinary research that demonstrate convergence across engineering domains. The conference will feature keynote lectures, invited talks, technical paper presentations, workshops, tutorials,",
+      "callForPapers": "2026-07-15",
+      "url": "www.icce.org.in",
+      "eventContact": "prof.amalk.ghosh@gmail.com",
+      "sponsorTypes": "3; 5",
+      "venues": "Netaji Subhash Engineering College, Netaji Subhash Engineering College, Technocity, Garia, , , Kolkata, , India, 700152, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

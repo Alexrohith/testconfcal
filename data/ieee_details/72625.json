@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0ovawY402qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72625,
+      "eventTitle": "2026 International Conference on Machine Learning and Embodied Intelligence (ICMLEI)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nanjing University of Aeronautics & Astronautics - NUAA",
+      "keywords": "Machine Learning,Embodied Intelligence,Robotics,Autonomous Systems,Computer Vision,Cyber-Physical Systems,",
+      "scope": "The 2026 International Conference on Machine Learning and Embodied Intelligence (ICMLEI 2026) focuses on advances in machine learning, embodied intelligence, and intelligent systems, with an emphasis on their integration in robotics and autonomous environments. The conference covers learning algorithms, multimodal perception, and embodied intelligence for intelligent agents operating in physical and virtual environments. It also addresses robotics, autonomous systems, and human-machine interaction, together with system-level methodologies for cyber-physical systems and intelligent control. ICMLEI 2026 aims to provide a platform for both theoretical research and engineering applications in machine learning-driven intelligent systems, including perception, decision-making, and real-world deployment of autonomous and embodied systems.",
+      "callForPapers": "2026-09-27",
+      "url": "www.icmlei.cn/",
+      "eventContact": "ymtangpb@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Nanjing University of Aeronautics and Astronautics, No. 29, General Road, Jiangning District, Nanjing City, Jiangsu Province, China, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

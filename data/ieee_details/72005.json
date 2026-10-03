@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9NOUx4402rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72005,
+      "eventTitle": "2027 IEEE World Haptics Conference (WHC)",
+      "startDate": "2027-07-12",
+      "endDate": "2027-07-15",
+      "about": "Bioengineering; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Boston",
+        "region": "Massachusetts",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Haptics (wearable Computing),IEEE Transactions on Haptics, Rehabilitation Robotics, Robotics,",
+      "scope": "The largest haptic conference held every two years. The audience is international",
+      "callForPapers": "",
+      "url": "2027.worldhaptics.org/",
+      "eventContact": "mziat@bentley.edu",
+      "sponsorTypes": "1",
+      "venues": "Hilton Boston Park Plaza, 50 Park Plaza, , , , Boston, MA, USA, 02116, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

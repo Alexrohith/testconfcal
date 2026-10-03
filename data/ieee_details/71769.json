@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xZr+xo405r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71769,
+      "eventTitle": "2026 10th Cyber Security in Networking Conference (CSNet)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Nicosia",
+        "region": "",
+        "country": "Cyprus"
+      },
+      "sponsors": "De Nouvelles Architectures Pour Les Communications - DNAC; IEEE Communications Society",
+      "keywords": "Cybersecurity,Communication and Networking ,Artificial Intelligence ,Cloud ,Blockchain,",
+      "scope": "CSNet 2026 will center around the “Cybersecurity and Resilient Networking for Emerging Systems in AI Era” theme, focusing on advancing security and resilience in emerging networks and digital systems. This encompasses addressing the evolving challenges and opportunities associated with protecting next-generation technologies and ensuring the security and privacy of increasingly interconnected infrastructures. As digital ecosystems continue to expand in scale and complexity, strengthening cybersecurity foundations is essential to safeguarding critical services and sustaining trust in modern information systems.",
+      "callForPapers": "2026-05-20",
+      "url": "csnet-conference.org/2026/",
+      "eventContact": "aziza.lounis@dnac.org",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Nicosia, , , , , , , Cyprus, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pPaLx440tbsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72568,
+      "eventTitle": "2026 IEEE North Karnataka  Subsection Flagship International Conference (NKCon)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Vijayapura",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; North Karnataka Subsection",
+      "keywords": "Artificial Intelligence,Data-Driven Systems,Next-Generation Communication,Networking Advanced Electrical Systems,Smart Power Technologies,Cyber-Physical Systems Robotic,Automation,Edge Computing Systems,Healthcare,Emerging Technologies,Transforming Engineering Education ,",
+      "scope": "The Conference aims to provide an active platform for researchers, scientist, engineers and students throughout the world to present their latest research findings, ideas , and applications in the fields of interest which fall under the scope of IEEE",
+      "callForPapers": "2026-07-15",
+      "url": "nkcon2026.ieeenkss.org/",
+      "eventContact": "ravishosamani@ieee.org",
+      "sponsorTypes": "3; 5",
+      "venues": "SECAB Institute of Engineering and Technology , Nauraspur ,  Bagalkot Road, , , Vijayapura, , India, 586109, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r+XgwY40g6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72569,
+      "eventTitle": "2026 3rd International Conference on Big Data Analytics and Artificial Intelligence Application (BDAIA)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Zhuhai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Zhuhai College of Science and Technology",
+      "keywords": "Big Data Analytics,Artificial Intelligence,Machine Learning,Distributed Computing,Intelligent Systems,",
+      "scope": "BDAIA 2026 focuses on the theory, algorithms, and systems of big data analytics and artificial intelligence, covering scalable and distributed data processing, data mining and real-time analytics, data security and visualization, as well as machine learning, natural language processing, computer vision, intelligent systems, and trustworthy AI, with an emphasis on technical rigor and practical applications.",
+      "callForPapers": "2026-08-14",
+      "url": "www.ic-bda.com/",
+      "eventContact": "bdaia_pc@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhuhai College of Science and Technology, No.8 Anji East Road, Jinwan District, Zhuhai City, Guangdong, China, , , , Zhuhai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

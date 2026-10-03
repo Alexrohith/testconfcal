@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: geqlx4403bwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73226,
+      "eventTitle": "2027 IEEE 47th International Conference on Distributed Computing Systems (ICDCS)",
+      "startDate": "2027-07-05",
+      "endDate": "2027-07-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Melbourne",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "AI ML and Distributed Systems,Algorithms and Theory for Distributed Computing and Scheduling,Big Data and Big Models,Blockchain,Cloud Computing and Data Centers,Distributed Applications,Crowdsourcing and Video Analytics,Edge Computing,Faulttolerance and Dependability,Security, Privacy, and Trust in Distributed Systems,",
+      "scope": "The 46th IEEE International Conference on Distributed Computing Systems (ICDCS) is a premier international forum for researchers and practitioners to present, discuss and exchange cutting edge ideas and latest findings on topics related to any aspects of distributed computing systems.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "xingliang.yuan@unimelb.edu.au",
+      "sponsorTypes": "1",
+      "venues": "Pullman Melbourne On The Park, 192 Wellington Parade, , , , , , Australia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

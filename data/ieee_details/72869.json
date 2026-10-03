@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h7OXx440hbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72869,
+      "eventTitle": "2026 International Conference on Mechatronics, Automation and Intelligent Control (MAIC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Liuzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangxi University of Science & Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Mechatronics,Automation,Intelligent Control,Robotics,Cyber-Physical Systems,",
+      "scope": "The 2026 6th International Conference on Mechatronics, Automation and Intelligent Control (MAIC 2026) will focus on the rapidly developing fields of mechatronics, automation technologies, and intelligent control systems. The conference highlights recent advances in robotics and autonomous systems, industrial automation, cyber-physical systems, intelligent sensing and control, embedded and real-time systems, as well as AI-enabled control and optimization methods. By bringing together researchers, engineers, and industry professionals from academia and industry, MAIC 2026 aims to promote international collaboration, exchange innovative research findings, and support the development of intelligent and automated systems for modern engineering applications.",
+      "callForPapers": "2026-09-27",
+      "url": "www.icmaic.org/",
+      "eventContact": "chxiy.pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Guangxi University of Science and Technology, China, No. 19 Guantang Avenue, Yufeng District, Liuzhou City, Guangxi, China, , , , Liuzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

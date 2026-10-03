@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3arrwY400KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70923,
+      "eventTitle": "2026 60th Asilomar Conference on Signals, Systems, and Computers",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-28",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Pacific Grove",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Signal Processing Society; SS&C Conference",
+      "keywords": "Signal Processing, Estimation and Detection, Array Processing, Digital Communications, Modulation Demodulation, Biomedical Signal Processing, Adaptive Signal Processing, Digital Signal Processing, Multiple Signal Classification, Millimeter Wave Communication, Machine Learning, Computer Architecture, Wireless Networks, Sensor Networks,",
+      "scope": "The Asilomar Conference provides an Informal Venue for Technical Exchange in the Areas of Signal Processing, Communication, System Theory, Biomedical Signal Processing, Array Processing, and Computer Architecture and Arithmetic.",
+      "callForPapers": "2026-05-01",
+      "url": "www.asilomarsscconf.org/",
+      "eventContact": "michael.b.matthews@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Asilomar Conference Grounds, 800 Asilomar Blvd, , , , Pacific Grove, CA, USA, 93950, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

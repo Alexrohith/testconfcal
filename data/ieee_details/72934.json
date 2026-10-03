@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yrmAx4402LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72934,
+      "eventTitle": "2026 4th International Conference on Signal Processing and Intelligent Computing (SPIC)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangdong University of Technology; Guangzhou Section; Shenyang Ligong University",
+      "keywords": "Signal Processing,Artificial Intelligence,Intelligent Computing,Communication Systems,ntelligent Systems,",
+      "scope": "SPIC 2026 focuses on advancing research and innovation in signal processing, artificial intelligence, intelligent computing, communication systems, and intelligent systems, with an emphasis on theoretical developments, algorithmic breakthroughs, and real-world engineering applications.",
+      "callForPapers": "2026-09-04",
+      "url": "www.ic-spic.com/",
+      "eventContact": "zgyang25@163.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Guangdong University of Technology, No. 100 Waihuan West Road, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou, China, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

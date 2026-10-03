@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +ZKTx4400bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73587,
+      "eventTitle": "2027 IEEE International Conference on Intelligent Systems, Smart and Green Technologies (ICISSGT)",
+      "startDate": "2027-11-27",
+      "endDate": "2027-11-28",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Visakhapatnam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Vizag Bay Section",
+      "keywords": "Generative AI,AI/ML,Data Science Engineering,Power Electronics,Healthcare,Social Networks,Search Engines,Signal and Image Processing,Antennas Communications,Defense applications ,Sustainable Development  Goals,Smart Cities and Villages,",
+      "scope": "The conference aims to bring together researchers, academicians, industry professionals, practitioners, students, and policymakers from academia, government, industry, and research organizations to exchange innovative ideas and recent advancements in Electrical Engineering, Electronics, Computer Engineering, Artificial Intelligence, Machine Learning, Information Technology, and related disciplines. With a focus on the United Nations Sustainable Development Goals (SDGs), the conference provides a platform for presenting high-quality research, fostering interdisciplinary collaboration, and promoting sustainable technological innovations. The technical program will include keynote and invited talks by eminent experts, along with technical paper presentations covering emerging areas such as Generative AI, Neural Networks, IoT, Data Analytics, Autonomous Systems, Smart Grid Technologies, Energy-Efficient Systems, AI-driven Healthcare, Smart Computing, and Educational Technologies.",
+      "callForPapers": "2027-09-01",
+      "url": "r10.ieee.org/vizagbay/icissgt-2028/",
+      "eventContact": "kvsriram@ieee.org",
+      "sponsorTypes": "3",
+      "venues": ", , , , Visakhapatnam , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

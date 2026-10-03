@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pLKgx440zr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73222,
+      "eventTitle": "2027 IEEE International Symposium on Technology and Society (ISTAS)",
+      "startDate": "2027-09-08",
+      "endDate": "2027-09-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Palaiseau",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; France Section C Chapter; IEEE Society on Social Implications of Technology",
+      "keywords": "Technology, Infrastructures, Communications, Automation, AI, Safety, Cybersecurity, Digital, Energy, IOT, Grid, Railway, Transportation, Healthcare, Industry, Critical, Ethics, Education, Sustainability, Software, Internet, Datacenters, Data, Privacy, Engineering, Inclusion, Materials, Law, Regulation, Standards, Interoperability, Legacy, Autonomy, Critical Infrastructure,Communications,Automation,Sustainability,Law,Security & Privacy, Internet Of Social Implications,",
+      "scope": "The main theme of the conference is Digital & AI Technologies for Critical Infrastructures: Legacy, Sustainability, Autonomy, Transformation. Other themes are those at the core of the SSIT Technical Activities, namely: Ethics and Human Values in Technology; Gender Engagement and Social Inclusion (with specific initiatives related to promotion of women in engineering, and promotion of socio-economic diversity and science vulgarization); Sustainability; Access to Technology and Socio-Technical Systems.",
+      "callForPapers": "2027-03-01",
+      "url": "attend.ieee.org/istas-2027",
+      "eventContact": "juan-antonio.cordero-fuertes@polytechnique.edu",
+      "sponsorTypes": "1; 3; 5",
+      "venues": "Bâtiment d'Enseignements Mutualisés (BEM), Avenue Fresnel, , , , Palaiseau, , France, 91120, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: oK+Hx440hbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71213,
+      "eventTitle": "2026 1st International Conference on Intelligent, Dependable, Emerging, Autonomous, and Sustainable Engineering Technology (IDEASET)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-02",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Sanaa",
+        "region": "",
+        "country": "Yemen"
+      },
+      "sponsors": "Egypt Section CAS Chapter; Egypt Section SEN Chapter; Sanaa University; Yemen Subsection",
+      "keywords": "Smart Cities, Autonomous Systems, Automation Industry 4.0, Sustainable Engineering Technologies, Emerging Technologies,  IoT, Artificial Intelligence, Networks, Cybersecurity,",
+      "scope": "The 1st International Conference on Intelligent, Dependable, Emerging, Autonomous, and Sustainable Engineering Technology (IDEASET-2026) invites researchers, academics, engineers, and practitioners from around the world to submit their original and unpublished research papers. The conference aims to provide an international forum for presenting and discussing the latest innovations, research outcomes, and practical solutions in intelligent and emerging engineering technologies.",
+      "callForPapers": "2026-06-30",
+      "url": "https://ideaset.eng.su.edu.ye",
+      "eventContact": "farouqakh@gmail.com",
+      "sponsorTypes": "5; 5; 5; 9",
+      "venues": "Faculty of Engineering, Sanaa University, , , , , Sanaa, , Yemen, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

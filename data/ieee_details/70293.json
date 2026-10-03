@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: g7b4xo40vL0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70293,
+      "eventTitle": "2026 IEEE International Conference on Artificial Intelligence & Green Energy (ICAIGE) and the Symposium on Smart, Sustainable, and Secure IoT (S4IoT)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-15",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Kuwait",
+        "region": "",
+        "country": "Kuwait"
+      },
+      "sponsors": "Association Tunisienne des Energies Renouvelables; IEEE Industrial Electronics Society; Italy Section IE Chapter; Kuwait College of Science and Technology; Kuwait Section; Lebanon Section; Tunisia Section; Tunisia Section CAS Chapter; Tunisia Section CIS Chapter; Tunisia Section IE Chapter; Tunisia Section RA Chapter; Tunisia Section RFID Chapter",
+      "keywords": "Artificial intelligence,Green Energy,Internet of Things,Renewable Energies,Power Electronics,Electric Vehicles,Embedded Systems,Electrical Engineering,Smart Materials,Smart Energy,Industrial Applications,Biomedical Engineering,",
+      "scope": "This conference provides a forum for researchers, academics, scientists and professionals worldwide on recent developments in the fields of Artificial Intelligence, Green Energy, IoT, and related applications.",
+      "callForPapers": "2026-05-31",
+      "url": "icaige.com/",
+      "eventContact": "belhajbrahimolfa@yahoo.fr",
+      "sponsorTypes": "1; 3; 3; 3; 5; 5; 5; 5; 5; 5; 9; 9",
+      "venues": "Kuwait College of Science and Technology, Doha District, Block 4, By Doha Spur Road,  Safat 13133, Kuwait , , , KUWAIT, , Kuwait, 27235, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

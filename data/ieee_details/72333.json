@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4NjvwY406KIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72333,
+      "eventTitle": "2027 International Conference on Emerging Smart Computing and Informatics (ESCI)",
+      "startDate": "2027-03-03",
+      "endDate": "2027-03-05",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "AISSMS Institute of Information Technology; Pune Section Chapter, SP01",
+      "keywords": "Smart Computing Machine Learning Biomedical Signal Processing Artificial Intelligence Data Science Data Analytics Wireless Communication Natural Language Processing Smart Innovations Distributed Computing Edge Computing Industry 5.0 Speech Processing Cyber Security Internet of Things (IoT) Web of Things (WoT) Deep Learning Swarm Intelligence Optimization Techniques Image and Video Compression Industrial and Manufacturing Applications Robotics Technology.,",
+      "scope": "This conference aims to provide a unified platform for advanced and multidisciplinary research in the design and development of smart computing and informatics systems. The conference focuses on emerging innovation paradigms in system knowledge, artificial intelligence, and sustainable technologies that can provide practical solutions to challenges in society, environment, industry, and healthcare. The scope of the conference extends to the development and deployment of emerging computational techniques, intelligent systems, knowledge transfer approaches, and optimization solutions across diverse disciplines of science, engineering, and technology. The conference will encourage collaboration among researchers, academicians, and industry professionals to exchange ideas and present cutting-edge research that contributes to the advancement of smart and sustainable technologies. Track 1: Smart Computing Track 2: Image and Signal Processing Track 3: IoT and Automation",
+      "callForPapers": "2026-12-15",
+      "url": "aissmsioitesci.edu.in/",
+      "eventContact": "kishor.wagh@aissmsioit.org",
+      "sponsorTypes": "5; 9",
+      "venues": "AISSMS Institute of Information Technology, Kennedy Road,, Near Shivaji Nagar, R.T.O.,, , , Pune, , India, 411001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

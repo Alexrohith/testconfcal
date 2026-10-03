@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hY3fwY40+KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72070,
+      "eventTitle": "2026 11th International Conference on Information Technology and Digital Applications (ICITDA)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Lombok/West Nusa Tenggara",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Department of Informatics, Universitas Islam Indonesia; Indonesia Section",
+      "keywords": "Artificial Intelligence,Big Data,Cybersecurity,Computer Vision,Computer Networks,Data Science,Internet Of Things,Medical Informatics,Deep Learning,Machine Learning,",
+      "scope": "Computing and Information Technology Artificial Intelligence and Machine Learning Cybersecurity and Privacy Data Science and Big Data Internet of Things (IoT) and Smart Systems Cloud Computing and Edge Computing Software Engineering and Applications Networking and Telecommunications Human-Computer Interaction Digital Transformation and Industry 4.0",
+      "callForPapers": "2026-04-30",
+      "url": "icitda.org",
+      "eventContact": "fathan@uii.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Universitas Bumigora, Jl. Ismail Marzuki No. 22, Cilinaya, Cakranegara District, Mataram City, , West Nusa Tenggara, , Indonesia, 55584, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

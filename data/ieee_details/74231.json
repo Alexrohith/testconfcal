@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4erbwY40z6EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74231,
+      "eventTitle": "2027 IEEE/CVF Winter Conference on Applications of Computer Vision Workshops (WACVW)",
+      "startDate": "2027-01-04",
+      "endDate": "2027-01-05",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Orlando",
+        "region": "Florida",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "WACV,WACVW,Computer Vision,Artificial Intelligence ,Visual Learning,Machine Learning,",
+      "scope": "The Winter Conference on Applications of Computer Vision is the premier international computer vision event comprising the main conference and several co-located workshops and tutorials. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+      "callForPapers": "",
+      "url": "wacv.thecvf.com/Conferences/2027/Workshops",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Hilton Orlando, Lake Buena Vista, , , , , , FL, USA, , ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

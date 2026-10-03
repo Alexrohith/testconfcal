@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 76//xo40670BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72056,
+      "eventTitle": "2026 International Symposium on iNnovative Informatics of Biskra (ISNIB)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-10",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Biskra",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Laboratoire de l'Informatique Intelligente of Mohamed Khider University of Biskra; Mohamed Khider University of Biskra",
+      "keywords": "Artificial Intelligence,Image and artificial life,Software Engineering,Computer Networks,Data mining and optimization,Parallel Computing and Systems,",
+      "scope": "Computer Sciences",
+      "callForPapers": "2026-08-10",
+      "url": "https://isnib.univ-biskra.dz/index.php#about",
+      "eventContact": "l.kahloul@univ-biskra.dz",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Biskra University, BP 145, , , , Biskra, , Algeria, 07000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

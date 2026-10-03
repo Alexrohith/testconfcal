@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yqmYx440/LsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70000,
+      "eventTitle": "2026 5th International Conference on Emerging Frontiers in Electrical and Electronic Technologies (ICEFEET)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-22",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Patna",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Kolkata Section; National Institute of Technology Patna; Patna Subsection",
+      "keywords": "Smart Grid,Power System Optimization,Power Electronics,Smart sensors, Robotics,",
+      "scope": "ICEFEET-2026 is the Fifth edition of the International Conference on Emerging Frontiers in Electrical and Electronic Technologies (ICEFEET-2026) at the Department of Electrical Engineering, National Institute of Technology Patna during 9-10th July 2026. This conference is to provide scientists, researchers, academicians, and industry personnel with a forum to deliberate, exchange ideas, and produce research collaborations for the technologies that have the potential to significantly impact the domains of Power systems, Power Converters, Control systems, Machine Drives, Embedded systems, Measurement, and Sensing technologies. This conference features plenary talks by eminent persons, paper & poster presentations, panel discussions, and opportunities for the industry. This will provide a platform for gaining knowledge and facilitate interaction among the participants.",
+      "callForPapers": "2025-12-15",
+      "url": "sites.google.com/nitp.ac.in/icefeet-2026/home",
+      "eventContact": "arunangshu.ghosh@nitp.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "NIT Patna, Ashok Rajpath, Patna, Bihar, , Patna, , India, 800005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

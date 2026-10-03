@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2amfx440x78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73914,
+      "eventTitle": "2027 Conference on Quantum Computing Systems and Applications (QCSA)",
+      "startDate": "2027-03-15",
+      "endDate": "2027-03-18",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Aqaba University of Technology; Lone Star Section",
+      "keywords": "Quantum Computing,Intelligent Quantum Systems,Quantum Communications,Quantum Cybersecurity,",
+      "scope": "The 2nd International Conference on Quantum Computing Systems and Applications (QCSA 2027) provides an international forum for researchers, practitioners, industry professionals, and technology leaders to present and discuss recent advances, emerging challenges, and innovative applications in quantum computing. The conference aims to bring together experts from academia and industry to exchange ideas, share research findings, and explore new directions in the design, implementation, and practical use of quantum computing systems.",
+      "callForPapers": "2026-11-20",
+      "url": "emergingtechnet.org/QCSA2027/index.php",
+      "eventContact": "aal-omari@ollusa.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn San Antonio, Riverwalk, , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

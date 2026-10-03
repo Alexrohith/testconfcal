@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wbLfwY400KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73778,
+      "eventTitle": "2027 4th International Conference on Artificial Intelligence and Power Engineering (AIPE)",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-28",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nanjing Tech University",
+      "keywords": "Machine Learning & Deep Learning,Reinforcement Learning & Decision Intelligence,AI-Powered Robotics & Autonomous Systems,Generative AI & Foundation Models,Power System Analysis, Stability, Control & Protection,Power System Relaying & Automation,",
+      "scope": "In order to provide a forum for accessing to the most up-to-date and authoritative knowledge from both industrial and academic worlds, sharing best practice in the field of artificial intelligence and power engineering, we're glad to organize the 2027 4th International Conference on Artificial Intelligence and Power Engineering (AIPE). It will be held at Nanjing, China during February 26 - February 28, 2027. AIPE2027 is sponsored by Nanjing Tech University, China. The aim and objective of AIPE is to present the latest research and results of scientists related to artificial intelligence and power engineering topics. The meeting will provide an opportunity to highlight recent developments and to identify emerging and future areas of growth in this exciting field.",
+      "callForPapers": "2026-10-10",
+      "url": "www.aipe.org/",
+      "eventContact": "wangt@isub.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Jinling Hotel Nanjing, No. 2 Hanzhong Road,Gulou District, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

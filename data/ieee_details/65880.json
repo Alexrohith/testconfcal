@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jvrmwY40h6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65880,
+      "eventTitle": "2027 IEEE Biomedical Circuits and Systems Conference (BioCAS)",
+      "startDate": "2027-10-14",
+      "endDate": "2027-10-16",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Oslo",
+        "region": "",
+        "country": "Norway"
+      },
+      "sponsors": "IEEE Circuits and Systems Society; IEEE Engineering Medicine and Biology Society; IEEE Solid-State Circuits Society",
+      "keywords": "Biosensor Devices and Interface Circuits,Body Area-sensor Network and Wireless Health Monitoring,Implantable and Wearable Health Devices and Systems,Bio-Inspired and Neuromorphic Circuits and Systems,Artificial Intelligence of Things (AIoT) for Healthcare,Bio- signal Recording, Processing, and Machine Learning,Human-Machine Interfaces,Medical Information Systems and Bioinformatics,",
+      "scope": "BioCAS 2024 is a IEEE CASS flagship conference and a premier international forum for presenting interdisciplinary research and development activities at the crossroads of medicine, life sciences, physical sciences and engineering that shape tomorrow's medical devices and healthcare systems. This conference brings together members of our communities to broaden their knowledge in emerging areas of research at the interface of life sciences and circuits and systems engineering.",
+      "callForPapers": "2027-05-07",
+      "url": "2027.ieee-biocas.org",
+      "eventContact": "hafliger@ifi.uio.no",
+      "sponsorTypes": "1; 1; 1",
+      "venues": "Thon Hotel Storo, Vitaminveien 23, , , , Oslo, , Norway, 0485, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

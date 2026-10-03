@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6+r5xo40wLoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72000,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Technological Solutions (ICAITech)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-18",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Palembang",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; University of Sriwijaya-Computer Science Faculty",
+      "keywords": "Artificial Intelligence,Computer engineering,Control, Robotics And Mechatronics,Bioinformatics,Network Engineering,Informatics,Information system,",
+      "scope": "Robotics & Control Systems General Topics for Engineers (Math, Science & Engineering) Computing & Processing (Hardware/Software) Components, Circuits, Devices & Systems Communication, Networking & Broadcasting Bioengineering",
+      "callForPapers": "2026-05-20",
+      "url": "icaitech.org/",
+      "eventContact": "sarifah@unsri.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Hotel Excelton, , , , , Palembang, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

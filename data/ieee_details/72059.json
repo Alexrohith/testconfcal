@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3azgwY407KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72059,
+      "eventTitle": "2026 International Conference on Computer Science, Artificial Intelligence and Digital Media Technology (ICADT)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Communication University of Zhejiang; Nanjing Section",
+      "keywords": "AI & Machine Learning,Digital Media Technology & Applications,Intelligent Media Computing,Computer Science & Systems,",
+      "scope": "The 2026 International Conference on Computer Science, Artificial Intelligence and Digital Media Technology (ICADT 2026) focuses on the latest advances in artificial intelligence, machine learning, digital media technology, intelligent media computing, and computer science systems. The conference highlights research progress across AI and machine learning, digital media technologies and applications, intelligent media computing, and computer science systems. It aims to promote the integration of AI models, media technologies, and computing infrastructures, and to support innovative applications across diverse intelligent environments. ICADT 2026 provides an interdisciplinary platform for researchers, engineers, and practitioners to share recent developments, discuss emerging challenges, and explore future directions in AI, digital media, and computer science technologies.",
+      "callForPapers": "2026-08-28",
+      "url": "www.icadt.org/",
+      "eventContact": "icadt.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Communication University of Zhejiang, No. 998 Xueyuan Street, Baiyang Subdistrict, Qiantang District, Hangzhou, Zhejiang Province, China, 310018, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

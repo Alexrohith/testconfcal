@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7er8xo40370BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73128,
+      "eventTitle": "2027 6th International Conference on Computing and Machine Intelligence (ICMI)",
+      "startDate": "2027-05-01",
+      "endDate": "2027-05-02",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Mount Pleasant",
+        "region": "Michigan",
+        "country": "USA"
+      },
+      "sponsors": "Istinye University, Turkey; Northeast Michigan Section",
+      "keywords": "Artificial Intelligence and Applications,Computer Vision and Applications ,Big Data and IoT ,Industry 4.0 Applications ,Networking and Security,Software Engineering,",
+      "scope": "Welcomes papers on broad aspects of AI and Applied Sciences that constitute advances in the overall field including, but not limited to, cognition and AI, automated reasoning and inference, case-based reasoning, commonsense reasoning, computer vision, constraint processing, ethical AI, heuristic search, human interfaces, intelligent robotics, knowledge representation, machine learning, multi-agent systems, natural language processing, planning and action, and reasoning under uncertainty.",
+      "callForPapers": "2026-12-15",
+      "url": "https://icmiconf.com",
+      "eventContact": "dr.alaa85@yahoo.com",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Central Michigan, 1200 S. Franklin St., Mount Pleasant, MI 48859, USA, , , , Mount Pleasant, MI, USA, 48859, ;",
+      "region": "Region04-Central USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

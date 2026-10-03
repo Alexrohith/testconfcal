@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 97v8xo40270BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74158,
+      "eventTitle": "2027 International Conference on Meteorological Automation and Artificial Intelligence (ICMAAI)",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Geoscience; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangdong Polytechnic Normal University; Guangzhou Section",
+      "keywords": "Intelligent Meteorological Observation and Sensing,AI Driven Weather Modeling and Prediction,Meteorological Data Analytics and Signal Processing,Remote Sensing and Intelligent Environmental Monitoring,",
+      "scope": "ICMAAI 2027 provides an international forum for research and technological development in meteorological automation and artificial intelligence. The conference focuses on intelligent methods, systems, and applications for meteorological observation, sensing, data acquisition, analysis, modeling, prediction, and decision support. Topics of interest include automated weather observation, remote sensing and intelligent data processing, meteorological big data analytics, machine learning and deep learning for weather and climate applications, intelligent forecasting, data assimilation, smart sensing, and Internet of Things technologies. Contributions addressing intelligent systems, computational methods, automation technologies, and emerging applications in weather services, environmental monitoring, disaster warning, and climate related studies are also welcomed.",
+      "callForPapers": "2027-03-06",
+      "url": "www.ic-maai.com/",
+      "eventContact": "icmaai.conf@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Guangdong Polytechnic Normal University, No. 293 Zhongshan Avenue West, Tianhe District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, 510665, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: j9L4xo40v70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71795,
+      "eventTitle": "2026 IEEE 18th International Conference on Humanoid, Nanotechnology, Information Technology, Communication and Control, Environment, and Management (HNICEM)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-07",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Tacloban City",
+        "region": "",
+        "country": "Philippines"
+      },
+      "sponsors": "Republic Of Philippines Section RA Chapter; Republic of Philippines Section CIS Chapter",
+      "keywords": "artificial intelligence,computational intelligence,robotics and automation,digital production,smart agriculture,engineering management,information technology,nanotechnology and semiconductor,control systems,environmental engineering,Education,Mechatronics,biomedical engineering,Manufacturing,communications engineering,",
+      "scope": "Papers are solicited in all research areas including, but not limited to: Biomedical Robotics and Health Technologies, Computer Science, Data Science, and Algorithms, Computer Vision, Artificial Intelligence and Intelligent Systems, Education, Media, Knowledge and Business Platforms, Environment, Energy, Transportation and Infrastructure, Nanotechnology, Manufacturing and Industrial Processes, Plant, Agriculture, Farming, and Food, Sensor Networks, Signals, and Communication Technologies",
+      "callForPapers": "2026-07-01",
+      "url": "https://www.hnicem.org/",
+      "eventContact": "ronnie.concepcion@dlsu.edu.ph",
+      "sponsorTypes": "5; 5",
+      "venues": "Summit Hotel , , , , , Tacloban City, , Philippines, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: u/3jwY40iaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72704,
+      "eventTitle": "2026 IEEE 22nd International Conference on Intelligent Computer Communication and Processing (ICCP)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-24",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Cluj-Napoca",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Romania Section C Chapter",
+      "keywords": "Intelligent systems,Deep Learning,Deep Learning Based Computer Vision,Perception Applications,Planning and Navigation,Trusted Artificial Intelligence,Machine Learning,Knowledge Representation,Reasoning Systems,Natural Language Understanding,Autonomous Systems,Intelligent Distributed Computing and Networking,Multidisciplinary Topics and Applications,",
+      "scope": "The main scope of the conference is to provide an international forum and discussions on advances in the field of Intelligent Computer Communication and Processing. The main topics will be Artificial Intelligence, Computer Vision, Autonomous Systems and Advanced Driving Assistance, Distributed Computing and Networking",
+      "callForPapers": "2026-07-15",
+      "url": "iccp.ro/",
+      "eventContact": "Voichita.Baraian@cs.utcluj.ro",
+      "sponsorTypes": "5",
+      "venues": "DoubleTree by Hilton , 9-13 Sindicatelor Street, 400029, , , Cluj-Napoca, , Romania, 400029, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

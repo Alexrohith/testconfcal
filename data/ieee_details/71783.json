@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rbrBwo40/6YBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71783,
+      "eventTitle": "2026 IEEE International Conference on Green Energy and Smart Systems (GESS)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-03",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Long Beach",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Coastal Los Angeles Section SYSC Chapter; IEEE Power & Energy Society; IEEE Systems Council",
+      "keywords": "Machine Learning, Intelligent Transportation Systems, Electric Vehicle, Zero-emission Vehicle, Next-generation Communication and Signal Processing, Smart GridCityBuildingCampus, Energy storage, Robot and Control Systems, BiomedicalNeural Engineering Systems,Solar Power Systems,Unmanned Ariel Vehicle,Cellular Vehicle-to-Everything,Internet-of-Things,Data-driven Intrusion Detection and Optimization,",
+      "scope": "The proposed conference intends to bring together researchers and practitioners from relevant fields to present and disseminate ongoing research for smart systems and green energy technology. The focus of this year would be on the application of machine learning and data science in smart systems and green energy technology.",
+      "callForPapers": "2026-06-30",
+      "url": "site.ieee.org/clas-sysc/call-for-papers/",
+      "eventContact": "duc.tran@csulb.edu",
+      "sponsorTypes": "1; 1; 5",
+      "venues": "The Pointe, Pyramid, CSULB, 1250 Bellflower Blvd., , , , Long Beach, CA, USA, 90840, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

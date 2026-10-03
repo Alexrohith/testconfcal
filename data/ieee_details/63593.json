@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1vaNx440vrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 63593,
+      "eventTitle": "2026 IEEE International Conference on Systems, Man, and Cybernetics (SMC)",
+      "startDate": "2026-10-04",
+      "endDate": "2026-10-07",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bellevue",
+        "region": "Washington",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "System,HUman MAchine system,Cybernetics,Artificial Intelligence,Real-time system,speech processing,image processing,robotics,industrial applications,optimization,human-computer interactions,service systems and organization,socion-technical systems design,Adaptive computing expert and knowledge basedintelligent communications,Pattern recognition,soft computing,Enviromental Systems and risk analysis,Big Data and analytics,Discret and cyberneticssysteSystems, systemshuman machine systems,systems sc",
+      "scope": "(1) System Science and Cybernetics: Conflict Resolution Control of Uncertain Systems Discrete Event Systems Environmental Systems and Risk Analysis Industrial Applications Information Assurance Optimization Robotics and Manufacturing Automation Service Systems and Organization  (2) Human-Machine System: Enterprise-wide Business Computing Human-Computer Interaction Human Interaction with Complex Systems Manual Control Social-technical Systems Design Brain Computer Interface Speech Processing  (3) Cybernetics: Adaptive Computing Systems Computational Intelligence Expert and Knowledge Based Systems Intelligent Communications Knowledge Acquisition in Intelligent Systems Pattern Recognition Soft Computing",
+      "callForPapers": "",
+      "url": "www.ieeesmc2026.org",
+      "eventContact": "yan.wan@uta.edu",
+      "sponsorTypes": "1",
+      "venues": "Hyatt Regency Bellevue , 900 Bellevue Way, , , , Bellevue, WA, USA, 98004 , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

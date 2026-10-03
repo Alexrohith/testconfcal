@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sZGSx440474BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72824,
+      "eventTitle": "2026 International Conference on Electrical, Electronics, and Intelligent Systems (ICEEIS)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-27",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Ho Chi Minh City",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Ho Chi Minh City University of Technology and Engineering-HCMUTE; IEEE Systems, Man, and Cybernetics Society; Vietnam Section SMC Chapter",
+      "keywords": "AI Computer Vision and Intelligent Systems,Intelligent Control Robotics and Automation,Mechatronic Systems and Advanced Mechanical Engineering,Renewable Energy Smart Grid and Hydrogen Technologies,Embedded Intelligence IC Design and IoT Systems,Next-Generation Wireless Communications (5G/6G),Power Electronics,",
+      "scope": "The aim of the conference is to provide an international forum for researchers and professionals to share recent advances and foster collaboration in electrical, electronics, and intelligent systems.",
+      "callForPapers": "2026-07-01",
+      "url": "iceeis2026.hcmute.edu.vn/",
+      "eventContact": "thientd@hcmute.edu.vn",
+      "sponsorTypes": "1; 5; 9",
+      "venues": "Ho Chi Minh City University of Technology and Engineering, No.1, Vo Van Ngan Street, Thu Duc Ward, , , , Ho Chi Minh City, , Vietnam, 70000000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

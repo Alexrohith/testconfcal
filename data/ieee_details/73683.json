@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7PaFx440+roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73683,
+      "eventTitle": "2027 IEEE International Automated Vehicle Validation Conference (IAVVC)",
+      "startDate": "2027-04-13",
+      "endDate": "2027-04-15",
+      "about": "General Topics for Engineers; Transportation",
+      "location": {
+        "city": "London",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "IEEE Instrumentation and Measurement Society",
+      "keywords": "Artificial intelligence,Automation,Autonomous Vehicles,Connected Cooperative and Automated Transportation ,Processing and Instrumentation,High Performance Computing (in-vehicle, cloud, fog),Cybersecurity ,Vehicles , Advances in Sensors signal, Computational and Artificial Intelligence , Virtual Homologation, Shared Mobility: from Technology to Business , Dependable, Practices Recommendations,Virtual Homologation Validation and Test Connected Automated,,",
+      "scope": "The conference addresses in particular the interaction between vehicle and infrastructure through connectivity to support automation and electrification of transportation. Mobility is delivered through digital services which requires major updates in regulatory frameworks and standards. Research and innovation in artificial intelligence, sensor technologies, edge computing, quantum computing and embedded systems enable and ecosystem of OEM's, suppliers, tech companies and start-up's to implement software-defined transportation based on scalable system architectures and to leverage new business models through digital transformation at the vehicle as well as the infrastructure level.",
+      "callForPapers": "2026-10-15",
+      "url": "",
+      "eventContact": "cdyer@conferencecatalysts.com",
+      "sponsorTypes": "1",
+      "venues": "Imperial College of London, Dyson School of Design Engineering, Imperial College Rd, South Kensington, , , London, , United Kingdom, SW7 2DB, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

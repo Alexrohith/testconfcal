@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +cT5xo40rroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73880,
+      "eventTitle": "2027 6th International Conference on Electronics Technology and Artificial Intelligence (ETAI)",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-07",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Harbin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Institute of Information Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Intelligent Electronics and Embedded Systems,Artificial Intelligence and Computational Intelligence,Signal Processing and Computer Vision,AI Enabled Electronic Systems and Intelligent Applications,",
+      "scope": "ETAI 2027 provides an international forum for research and innovation in intelligent systems, electronic information technologies, and artificial intelligence. The conference welcomes studies on computational intelligence, machine learning, neural networks, fuzzy systems, computer vision, signal and image processing, intelligent control, robotics, and autonomous systems. Particular attention is given to the integration of intelligent methods with sensing, information processing, decision making, optimization, and system modeling. Contributions addressing human machine interaction, cyber physical systems, intelligent manufacturing, smart transportation, and other emerging intelligent applications are also encouraged. The conference aims to promote advances in intelligent technologies and their integration into complex systems and practical applications.",
+      "callForPapers": "2026-12-19",
+      "url": "https://www.ic-etai.org/",
+      "eventContact": "msaberi.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Harbin Institute of Information Technology, No. 9, University City, Binxi Economic and Technological Development Zone, Harbin City, Heilongjiang Province, China, , , , Harbin, , China, 150431, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iJPZwY40w6EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72745,
+      "eventTitle": "2027 2nd International Conference on Advances in Artificial Intelligence and Machine Learning (AAIML)",
+      "startDate": "2027-03-29",
+      "endDate": "2027-03-31",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Nanjing University - NJU",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Machine intelligence,Man-machine Systems,Data Intelligence,Brain Machine Interface,",
+      "scope": "The conference calls for high-quality, original research papers in the theory and practice of Artificial Intelligence and Machine Learning, including Innovations in Machine Learning Algorithms, Future Trends and Research Directions in AI, Integrating AI with Emerging Technologies, and Applications of AI and Machine Learning Across Industries.",
+      "callForPapers": "2026-10-10",
+      "url": "aaiml.net/index.html",
+      "eventContact": "aaiml_conf@163.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Nihon University, , , , , , , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

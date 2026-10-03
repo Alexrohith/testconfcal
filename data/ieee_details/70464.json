@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 9,Rid: wcqUx4406bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70464,
+      "eventTitle": "2026 IEEE International Conference on Intelligence and Safety for Robotics/Safety of Industrial Automated Systems (ISR/SIAS)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Osaka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; Nippon Electric Control Technology Industries Association (NECA)",
+      "keywords": "Health and Safety, Active And Passive Safety Systems, Human-Robot Interaction, Robotics,Human Centered, Human In The Loop,",
+      "scope": "Humans and robot systems now coexist in various fields, from transportation to personal assistance. For robots to operate autonomously and safely in human environments, they must accurately recognize and respond to people and surroundings. Intelligence and safety are thus essential and must be integrated. The idea of safety has evolved from simply preventing accidents to promoting human health, productivity, and satisfaction—connecting safety with well-being. This new perspective views safety not only as protection from harm but also as a means to enhance quality of life. Accordingly, research and development now focus on technologies that link safety to well-being. The IEEE ISR brings together global experts to discuss intelligent and safe robot systems, share new research and future perspectives, and promote social implementation that advances safety, security, and human well-being in human–robot coexistence.",
+      "callForPapers": "2026-07-01",
+      "url": "unit.aist.go.jp/ircwb/isrsias2026",
+      "eventContact": "tamio.tanikawa@aist.go.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "INTEX OSAKA, Osaka, Japan, 1-5-102 Nanko-Kita, Suminoe-Ku, , , , Osaka, , Japan, 559-0034, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4L7+xo40570BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71787,
+      "eventTitle": "2026 9th International Conference on Signal Processing and Information Security (ICSPIS)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Dubai",
+        "region": "",
+        "country": "United Arab Emirates"
+      },
+      "sponsors": "United Arab Emirates Section; University of Dubai",
+      "keywords": "signal processin,information security,artificial intelligence,",
+      "scope": "The 2026 9th International Conference on Signal Processing & Information Security (ICSPIS) focuses on advancements in intelligent signal processing and information security. It provides a platform for researchers worldwide to present their work in these fields.",
+      "callForPapers": "2026-05-04",
+      "url": "icspis.com/",
+      "eventContact": "hhadam@ud.ac.ae",
+      "sponsorTypes": "3; 9",
+      "venues": "Palace Downtown, Sheikh Mohammed Bin Rashid Boulevard, , , , Dubai, , United Arab Emirates, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

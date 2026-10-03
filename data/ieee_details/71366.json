@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 342Yx440+rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71366,
+      "eventTitle": "2026 IEEE Conference on Telepresence",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-14",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bristol",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "Future Directions Committee",
+      "keywords": "Telepresence,Telerobotics,teleoperation,computer interface,Control, Robotics And Mechatronics,Human computer interaction,Human Computer Interface,Human Factors,",
+      "scope": "Third annual conference on telepresence providing a stimulating forum for researchers, educators, and practitioners to learn, share knowledge, report the most recent innovations and developments, and exchange ideas and advances in all aspects of telepresence systems and applications, telerobotics, human-machine interfaces, learning from humans, and autonomy.",
+      "callForPapers": "2026-06-12",
+      "url": "https://conf.telepresence.ieee.org",
+      "eventContact": "d.magnoni@ieee.org",
+      "sponsorTypes": "6",
+      "venues": "UWE Bristol - Frenchay Campus, Long Down Avenue, Stoke Gifford, , , , Bristol, , United Kingdom, BS34 8QZ, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

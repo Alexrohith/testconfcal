@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 787bwY40t6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71759,
+      "eventTitle": "2026 13th International Conference on Soft Computing & Machine Intelligence (ISCMI)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Vienna",
+        "region": "",
+        "country": "Austria"
+      },
+      "sponsors": "Austria Section; India International Congress on Computational Intelligence",
+      "keywords": "Artificial Intelligence and Machine Learning,Data Mining and Knowledge Discovery,Intelligent Control and Robotics,Probabilistic Reasoning and Uncertainty,Computer Vision and Information Retrieval,",
+      "scope": "Welcome to the 2026 13th International Conference on Soft Computing & Machine Intelligence (ISCMI). ISCMI has Achieved the Milestone of Covering EACH OF THE 6 INHABITED CONTINENTS OF THIS PLANET. ISCMI 2026 is organized by India International Congress on Computational Intelligence(IICCI), and technically co-sponsored by IEEE Austria Section. The Conference will be held in Vienna, Austria during November 18-20, 2026. The main objective of ISCMI 2026 is to present the latest research and results of scientists related to Soft Computing & Machine Intelligence topics. This conference provides opportunities for the delegates to exchange new ideas face-to-face, to establish business or research relations as well as to find global partners for future collaborations. We hope that the conference results will lead to significant contributions to the knowledge in these evolving scientific fields.",
+      "callForPapers": "2026-06-10",
+      "url": "www.iscmi.us/",
+      "eventContact": "sophietsang@iicci.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Hotel Mercure Wien Westbahnhof, Felberstraße 4, Rudolfsheim, Vienna, Austria, , , , Vienna, , Austria, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3aKZx440kbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72175,
+      "eventTitle": "2026 17th Asia Conference on Mechanical and Aerospace Engineering (ACMAE)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Aerospace",
+      "location": {
+        "city": "Phuket",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society; King Mongkut's Institute of Technology Ladkrabang",
+      "keywords": "Aerospace Communications,Fluid Dynamics and Aerodynamics,Additive Manufacturing in Aerospace,Aeroelasticity and Structural Dynamics,Autonomous Systems and Robotics,Energy Harvesting and Sustainable Design,",
+      "scope": "2026 17th Asia Conference on Mechanical and Aerospace Engineering (ACMAE), the sister conference of ICMAE, will be held in Phuket, Thailand during December 2-4, 2026. ACMAE 2026 is sponsored by Science and Engineering Insitutute and King Mongkut‘s Institute of Technology Ladkrabang, Thailand, patrons with Harbin Engineering University, Beijing Institute of Technology and Department of Aeronautical and Aviation Engineering (AAE) of The Hong Kong Polytechnic University (PolyU) and The International Space University, France. The technological innovation advances at an ever dramatic pace, we believe that face-to-face communication is of great essential. With a solid reputation, ACMAE is where you will meet and network with engineering leaders, business innovators, researchers, academics and policy makers from across the globe.",
+      "callForPapers": "2026-07-15",
+      "url": "www.acmae.com/",
+      "eventContact": "yawterong@sie.sg",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , , , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

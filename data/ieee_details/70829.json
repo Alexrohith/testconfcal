@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 74iHx440nb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70829,
+      "eventTitle": "2026 IEEE 18th International Scientific Conference on Informatics (Informatics)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Nuclear Engineering; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Poprad",
+        "region": "",
+        "country": "Slovakia"
+      },
+      "sponsors": "Hungary Section; Hungary Section IE/RA Joint Chapter; Hungary Section SMC Chapter; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Computer Architectures,Computer Networks,Theoretical Informatics,Programming Languages,Software Engineering,Distributed Systems,Artificial Intelligence,Knowledge Management,Applied Informatics and Simulation,",
+      "scope": "2026 18th International Scientific Conference on Informatics is a biennial international forum which gives room for scientists, experts in computer science and professionals in new emerging fields of informatics to present original research results, to share experiences and to exchange ideas about transferring theoretical concepts into real life. The conference provides a unique opportunity for establishing and maintaining professional relationships of widely recognized scientists between each other in specific areas of computer science.",
+      "callForPapers": "2026-09-19",
+      "url": "informatics.kpi.fei.tuke.sk/",
+      "eventContact": "szakal@uni-obuda.hu",
+      "sponsorTypes": "1; 3; 5; 5",
+      "venues": "Tatra Hotel, Karpatská 3273/7, , , , Poprad, , Slovakia, 05801, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

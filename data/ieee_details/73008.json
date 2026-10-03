@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uOycx440qbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73008,
+      "eventTitle": "2027 23rd Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-07",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Internet of Things, Wireless Networking, Wireless Sensing, Wireless Sensor Networks, Mobile Sensor Networks,",
+      "scope": "The 23rd annual IEEE International Conference on Sensing, Communication, and Networking will provide a unique forum to exchange innovative research ideas, recent results, and share experiences among researchers and practitioners in wireless and mobile-networking communications. This conference aims to serve as the reference exhibit for state-of-the-art research supported by implementation and insights gained on all scales of experimental systems, network architectures, components, and protocols",
+      "callForPapers": "",
+      "url": "secon2027.ieee-secon.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , , Portugal, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5Kf7xo40zLoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73913,
+      "eventTitle": "2027 Conference on Federated Learning and Distributed Intelligence (FLDI)",
+      "startDate": "2027-03-15",
+      "endDate": "2027-03-18",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "San Antonio",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Aqaba University of Technology; Lone Star Section",
+      "keywords": "Federated Learning,Distributed Intelligence,Artificial Intelligence,Large Language Models,Generative AI,",
+      "scope": "FLDI 2026 provides a premier interdisciplinary platform for presenting advances and exchanging insights on the theoretical foundations, cutting-edge technologies, and real-world implementations of AI. FLDI 2026 will feature keynote talks, technical paper sessions, workshops, and tutorials covering a wide range of AI topics. We invite submissions of high-quality research papers describing original and unpublished results in all areas of Artificial Intelligence Systems.",
+      "callForPapers": "2026-11-20",
+      "url": "emergingtechnet.org/FLDI2027/index.php",
+      "eventContact": "izzat.alsmadi@tamusa.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Holiday Inn San Antonio, Riverwalk , , , , , San Antonio, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

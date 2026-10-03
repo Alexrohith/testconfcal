@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: rISgx440y78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72634,
+      "eventTitle": "2026 International Conference on Power, Electronics and Intelligent Systems (PEIS)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Institute of Technology, China; Nanjing Section",
+      "keywords": "High-efficiency Power Electronics and Intelligent Equipment,Renewable Energy Systems,New Energy Power Generation System,Power System Cybersecurity,Insulation in Hybrid ACDC Grids,",
+      "scope": "2026 International Conference on Power Energy, Electronics and Intelligent Systems(PElS) will be held in Nanjing, China during November 6-8, 2026. Sponsored by Nanjing Institute of Technology, co-hosted by Jiangsu Society for Electrical Engineering and Jiangsu Renewable Energy Society, patroned by Guangxi University, China, Universiti Teknologi Malaysia, Malaysia, Sunway University, Malaysia. This conference will convene global experts, scholars, and engineers to explore the integration of power electronics with AI and IT—a key driver in reshaping modern energy and industrial systems. The forum aims to foster discussions on new theories and technologies, promote interdisciplinary collaboration, and accelerate the translation of innovations into practical solutions for building a clean, low-carbon, safe, and efficient energy future.",
+      "callForPapers": "2026-07-10",
+      "url": "www.peis.org/",
+      "eventContact": "caids@yaang.cn",
+      "sponsorTypes": "3; 9",
+      "venues": "Crowne Plaza Nanjing Jiangning, 9 Jiahu E Rd Jiangning District, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2sSjx4406r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73677,
+      "eventTitle": "2027 35th International Requirements Engineering Conference (RE)",
+      "startDate": "2027-08-23",
+      "endDate": "2027-08-27",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Milan",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Requirements Engineering, Software Requirements,",
+      "scope": "The IEEE International Requirements Engineering Conference (RE) is the premier international forum for research and practice in requirements engineering: the elicitation, analysis, specification, validation, prioritisation, management and evolution of requirements for software-intensive systems. It covers foundations and methods, requirements for safety-critical, self-adaptive and AI-based systems, AI and data-driven support for requirements work, and the legal, ethical, security and sustainability concerns shaping them.",
+      "callForPapers": "",
+      "url": "conf.researchr.org/home/RE-2027",
+      "eventContact": "luciano.baresi@polimi.it",
+      "sponsorTypes": "1",
+      "venues": "Trifoglio Building - Politecnico di Milano, Via Edoardo Bonardi, , , , Milan, , Italy, 20133, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mNGcx440mbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71312,
+      "eventTitle": "2026 5th International Conference on Embedded & Distributed Systems (EDiS)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Oran",
+        "region": "",
+        "country": "Algeria"
+      },
+      "sponsors": "Algeria Section; Algeria Section CIS Chapter; Algeria Section SYS Chapter; University of Oran 1 Ahmed Ben Bella",
+      "keywords": "Distributed Parallel Architecture,Embedded system,Smart City,Artificiel intelligence ,Internet of  things,,",
+      "scope": "EDiS'2026 is a conference dedicated to the exploration and advancement of IoT, embedded  systems, AI, and ML technologies. It aims to address the challenges of developing intelligent, efficient, secure,  flexible, and energy-efficient integrated systems across sectors like agriculture, cities, health, and energy. EDiS'2026 will take place in hybrid mode (on-site and online participation) and will span three  days. It consists of a set of plenary lectures led by specialists in their field of interest, and oral communications and  poster sessions. The main focuses covered by the conference include:",
+      "callForPapers": "2026-06-01",
+      "url": "univ-oran1.dz/edis/edis26/",
+      "eventContact": "benyamina.hassen@univ-oran1.dz",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Unversity Oran1  Ahmed Ben Bella, BP1524 El M'Naour , , , , Oran, , Algeria, 31000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

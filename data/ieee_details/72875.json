@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vMmpx440h70BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72875,
+      "eventTitle": "ICASSP 2030 - 2030 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)",
+      "startDate": "2030-05-26",
+      "endDate": "2030-05-31",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Speech and Audio Processing, Acoustics, Signal Processing,Image Processing.,",
+      "scope": "World's largest and most comprehensive technical conference on signal processing and its applications. Topics include but are not limited to: Audio and Acoustic Signal Processing Quantum Signal Processing Biomedical Signal and Image Processing Remote Sensing and Signal Processing Compressive Sensing Sampling, and Dictionary Learning Sensor Array &Multichannel Signal Processing Design and Implementation of Signal Processing Signal Processing for Big Data Financial Signal Processing Speech Processing Graph Theory and Signal Processing Signal Processing for Communication and Networking Image, Video and Multidimensional Signal Processing for Cyber Security Industrial Signal Processing Signal Processing for Education Information Forensics and Security, Signal Processing for Smart Systems Internet of Things & RFID Signal Processing Implementation Machine Learning for Signal Processing Signal Processing Theory and Methods Multimedia Signal Processing Spoken language processing",
+      "callForPapers": "2029-10-08",
+      "url": "ieeeicassp.org/",
+      "eventContact": "n.allen@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "International Convention Centre Sydney, , , , , , , Australia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

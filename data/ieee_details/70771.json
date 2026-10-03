@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: voLAwo4086YBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70771,
+      "eventTitle": "2026 International Conference on Localization and GNSS (ICL-GNSS)",
+      "startDate": "2026-10-06",
+      "endDate": "2026-10-08",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Geoscience; Signal Processing and Analysis",
+      "location": {
+        "city": "Rome",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society; Tampere University",
+      "keywords": "Global Satellite Navigations Systems (GNSS),Wireless Sensing,Wireless,Navigation,5G ,6G ,Global Positioning Systems (GPS),Low Earth Orbit (leo),Satellite navigation systems,GALILEO,Inertial navigation,Simultaneous localization and mapping,Radar,Ladar/lidar,Indoor Navigation,Seamless positioning,LEO-PNT,Signal Processing,Machine Learning,",
+      "scope": "Reliable navigation and positioning are becoming essential in applications for IoT in industry and logistic applications, in smart city environments, for safety-critical purposes, in public services and consumer products to guarantee transparent, efficient and reliable workflows. A robust localization solution, which will be available continuously is needed regardless outdoor and indoor, and on different platforms. ICL-GNSS addresses the latest research on wireless and satellite-based positioning techniques to provide reliable and accurate position information with low latency. The emphasis is on the design of mass-market navigation receivers and related tools and methodologies, but also many kinds of sensing devices, wireless systems with localization capabilities, and location-aware applications are within the scope of ICL-GNSS.",
+      "callForPapers": "2026-04-26",
+      "url": "events.tuni.fi/icl-gnss/",
+      "eventContact": "jari.nurmi@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Rome, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

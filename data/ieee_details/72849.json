@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7ebtwY40vKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72849,
+      "eventTitle": "2027 IEEE 2nd International Conference on Smart Sustainable Systems for Computer and Engineering Applications (3SCEA)",
+      "startDate": "2027-04-20",
+      "endDate": "2027-04-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "ِAlexandria",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Universite Francaise d'Egypte",
+      "keywords": "Artificial intelligence, Computer applications, Cybersecurity, Data Privacy, Blockchain, Internet of Things, Edge Computing, Fog Computing, Cloud Computing, machine learning, Autonomous systems, Robotics, Quantum Computing, Sustainable Engineering, Smart Systems, Mathematical Modeling, Computational Modeling, Smart Applications, Sustainability,",
+      "scope": "The 3SCEA 2027 conference brings together thought leaders, scientists, engineers, practitioners, researchers, industry professionals, and policymakers to present their latest research results and discuss novel technologies that are transforming industries and communities in a sustainable direction. The conference highlights advancements in all areas of artificial intelligence and machine learning, Internet of Things (IoT) for smart infrastructure, edge, fog and cloud computing, quantum, green computing and energy-efficient technologies, cybersecurity, data privacy and blockchain, autonomous systems and robotics, renewable energy systems and smart grids, and sustainable engineering",
+      "callForPapers": "2027-01-31",
+      "url": "https://ufe.edu.eg/3scea2027/",
+      "eventContact": "yara.maher@ufe.edu.eg",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , , Alexandria, , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

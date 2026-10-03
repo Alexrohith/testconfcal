@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: g9uSx440z7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66401,
+      "eventTitle": "2026 IEEE Conference on Generative AI for Secure Systems (GAISS)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Austin",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "University of Houston-Victoria STB",
+      "keywords": "Generative AI,Cybersecurity,Generative AI Ethics,AI in Cyber Defense,AI-driven Security Solutions,",
+      "scope": "The IEEE Conference on Generative AI for Secure Systems (GAISS) is a premier forum dedicated to advancing research and innovation at the intersection of generative AI and cybersecurity. This conference brings together leading academics, industry professionals, and government agencies to discuss the transformative potential of generative AI in building, securing, and defending modern systems against evolving cyber threats.",
+      "callForPapers": "2026-07-30",
+      "url": "gaiss.info/",
+      "eventContact": "dr.pandey@ieee.org",
+      "sponsorTypes": "5",
+      "venues": "The University of Texas at Austin, 2515 Speedway, , , , Austin, TX, USA, 78712, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

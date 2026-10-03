@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: x6Gmx44077wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70549,
+      "eventTitle": "2026 IEEE Conference on Network Function Virtualization and Software-Defined Networking (NFV-SDN)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Network Function Virtualisation,Software Defined Networking,Communication Networks,Cloud Networking,Cloud Computing,Network Performance,Network Security,Network Management,Network Reliability,Network programmability,NFV,ISDN,Programmability,",
+      "scope": "IEEE NFV-SDN conference will focus on the foundation, design, verification, operation, security, and evolution of virtualized network functions (VNFs) and the advances in the NFV concept.",
+      "callForPapers": "2026-06-15",
+      "url": "nfvsdn2026.ieee-nfvsdn.org/",
+      "eventContact": "e.gaerlan@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Tokyo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

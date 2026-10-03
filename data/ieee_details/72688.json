@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 582jx44037wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72688,
+      "eventTitle": "2027 24th International Joint Conference on Computer Science and Software Engineering (JCSSE)",
+      "startDate": "2027-06-16",
+      "endDate": "2027-06-18",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Chiang Rai",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Mae Fah Luang University; Thailand Section; Thailand Section C Chapter",
+      "keywords": "Computer Science,Software Engineering,Information Technology,IEEE,",
+      "scope": "Agricultural and Industrial Informatics Artificial Intelligence, and Agentic AI Blockchain and Smart Contract Cloud and Grid Computing Computer Educational Technology Computer Networks and Communications Computer Security and Cryptography Database, Data Management and Data Mining Health, Wellness and Bioinformatics Human Computer/Machine Interaction Image Processing and Computer Vision Internet of Things and Embedded Systems Knowledge Representation and Management Machine Learning and Intelligent Systems Natural Language Processing Ontology and Semantic Web Pervasive and Mobile Computing Physical AI and Intelligent Robotic Quantum Computing and Algorithms Software Engineering and Software Development Sustainable Computing",
+      "callForPapers": "2027-02-26",
+      "url": "jcsse2027.mfu.ac.th/",
+      "eventContact": "waralak@mfu.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Mae Fah Luang University, 333 Moo 1, Thasud, Muang, , Chiang Rai, , Thailand, 57100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

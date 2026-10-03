@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l7aSx440zbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72250,
+      "eventTitle": "2026 International Conference on Computer Science and Intelligent Systems (ICCSIS)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Shaoxing City",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Zhejiang University of Science and Technology",
+      "keywords": "Deep Learning Control,Natural Language Processing Control,Distributed Intelligent Systems,Intelligent System Security, Intelligent Robotic Systems,",
+      "scope": "ICCSIS 2026 provides a distinguished international platform for advancing research in computational intelligence and autonomous system technologies. The conference scope encompasses theoretical foundations and practical methodologies spanning machine learning, intelligent control, distributed computing, and cyber-physical system integration. We welcome contributions addressing novel algorithms, system architectures, optimization strategies, and their deployment across industrial automation, robotics, smart infrastructure, and data-intensive applications. The program emphasizes interdisciplinary approaches that bridge computer science innovations with intelligent system engineering, fostering collaboration among researchers and practitioners working toward robust, scalable, and secure intelligent technologies for real-world challenges.",
+      "callForPapers": "2026-08-29",
+      "url": "www.iccsis.org/",
+      "eventContact": "kamarul.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Zhejiang University-Xinchang Joint Innovation Center, Xinchang High-Tech Intelligent Manufacturing Technology Park, , , , Shaoxing City, , China, 312500, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

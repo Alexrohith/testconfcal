@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8dSrx440j70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65183,
+      "eventTitle": "2030 IEEE 20th International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET)",
+      "startDate": "2030-02-19",
+      "endDate": "2030-02-22",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Lviv",
+        "region": "",
+        "country": "Ukraine"
+      },
+      "sponsors": "Lviv Polytechnic National University - LPNU; Ukraine Section; Ukraine Section (West) AP/ED/MTT/EP/SSC Joint Chapter; Ukraine Section COM Chapter; Ukraine Section EMB Chapter; Ukraine Section NANO Chapter; Ukraine Section PHO Chapter; Ukraine Section SP/AES Joint Chapter",
+      "keywords": "Signal Processing,Aerospace and Electronic Systems,Micro- and Nanoelectronics,Computer Science,Biomedical Engineering,Communication,Computational Intelligence,Antennas,Microwave Technology,",
+      "scope": "IEEE International Conference on Advanced Trends in Radioelectronics, Telecommunications and Computer Engineering (TCSET) is a part of IEEE Lviv Polytechnic Winter Week and one of major scientific event for IEEE community of the Lviv Polytechnic National University. IEEE TCSET focused on Signal Processing, Communication, Networking and Broadcast Technologies, Computational Intelligence, Aerospace and Electronic Systems, Photonics, Micro- and Nanoelectronics, Computer Science, Biomedical Engineering and Antennas, Microwave Technology and Electromagnetic Compatibility.",
+      "callForPapers": "2029-11-04",
+      "url": "tcset.ieee.org.ua/",
+      "eventContact": "secretary@ieee.org.ua",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5; 5; 9",
+      "venues": "Lviv Polytechnic National University, , , , , Lviv, , Ukraine, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

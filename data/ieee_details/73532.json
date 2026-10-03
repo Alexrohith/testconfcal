@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: htWKx440tb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73532,
+      "eventTitle": "2027 International Conference on Vision for Interdisciplinary Science, Technology, and Applications (BVUCON)",
+      "startDate": "2027-06-24",
+      "endDate": "2027-06-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bharati Vidyapeeth (Deemed to be University) College of Engineering Pune; Pune Section",
+      "keywords": "Interdisciplinary Research, Sustainable Development Goals, Artificial Intelligence, Data Science, Biomedical Engineering, Renewable Energy, Smart Cities, Intelligent Infrastructure, Environmental Sustainability, Internet of Things, Healthcare Technologies, Digital Transformation, Biotechnology,",
+      "scope": "The BVUCON is an international conference on vision for interdisciplinary science, technology, and applications, bringing together researchers, academicians, industry professionals, innovators, policymakers, and students to present and share their cutting-edge research, emerging technologies, and innovative solutions that contribute to sustainable development through interdisciplinary collaboration. The conference welcomes original research papers, review articles, industrial case studies, and application-oriented contributions in the fields of science, engineering, technology, healthcare, management, environmental sciences, and allied disciplines. Six multidisciplinary tracks will make up the conference: Artificial Intelligence and Intelligent Systems; Smart Infrastructure and Advanced Manufacturing; Renewable Energy and Environmental Sustainability; AI in Healthcare; Innovation in Education and Society; and Emerging Technologies and Interdisciplinary Applications.",
+      "callForPapers": "2026-10-20",
+      "url": "bvucon.com/",
+      "eventContact": "rbjadhav@bvucoep.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Bharati Vidyapeeth (Deemed to be University)  College of Engineering, Dhankawadi, Katraj, Pune-Satara Road, Katraj, , Pune, Maharashtra, , India, 411043, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

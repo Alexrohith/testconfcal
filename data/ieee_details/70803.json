@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: paH3xo40proBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70803,
+      "eventTitle": "2026 International Conference on Artificial Intelligence for a Digital and Sustainable Transition (AIDIST)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Tunis",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "La Fresque -QTCM; Tunisia Section; Tunisia Section CIS Chapter; Tunisian Forum for Education",
+      "keywords": "Artificial Intelligence,Resilience Economy,Electronic Healthcare,Industry 4.0,Artificial Intelligence theory,Artificial Intelligence applications,",
+      "scope": "Artificial Intelligence and Sustainable Transition",
+      "callForPapers": "2026-06-15",
+      "url": "forumtunisieneducation.org/artificial-intelligence-conference/",
+      "eventContact": "amel.borgi1@gmail.com",
+      "sponsorTypes": "3; 5; 9; 9",
+      "venues": "Verdi Tunis Beach Resort, Gammarth, , , , , , Tunisia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

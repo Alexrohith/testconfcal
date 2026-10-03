@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xs38xo403b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73456,
+      "eventTitle": "2027 International Conference for Artificial Intelligence, Applications, Innovation and Ethics (AI2E)",
+      "startDate": "2027-11-09",
+      "endDate": "2027-11-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Muscat",
+        "region": "",
+        "country": "Oman"
+      },
+      "sponsors": "Oman Section; Sultan Qaboos University",
+      "keywords": "AI ,AI applications,AI Innovation,AI Ethics,",
+      "scope": "The International Conference on Artificial Intelligence: Applications, Innovation and Ethics (AI²E-2027) provides an interdisciplinary forum for researchers, academics, industry professionals, policymakers, and practitioners to present and discuss recent advances in Artificial Intelligence. The conference covers emerging AI technologies, innovative AI-driven applications, and the ethical, social, and regulatory aspects of AI adoption. It promotes collaboration between academia, industry, and government to accelerate responsible AI research and real-world deployment in areas including education, healthcare, industry, digital economy, sustainable development, and other AI-enabled domains.",
+      "callForPapers": "2027-04-30",
+      "url": "conferences.squ.edu.om/ai2e27",
+      "eventContact": "abhossen@squ.edu.om",
+      "sponsorTypes": "3; 9",
+      "venues": "Sultan Qaboos University, Conference Hall, Lecture Theater 1, Knowledge Hall, , Muscat, , Oman, 123, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

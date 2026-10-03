@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pOSNx440rrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73237,
+      "eventTitle": "2027 8th International Conference on Advancements in Computational Sciences (ICACS)",
+      "startDate": "2027-02-02",
+      "endDate": "2027-02-03",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lahore",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter; University of Lahore",
+      "keywords": "Software Engineering,Artificial Intelligence,Security & Privacy,Computational Modeling,Computer Aided Software Engineering,Multimedia Computing,Database System,Human Computer Interaction,Model Driven Software Engineering,Ad Hoc Networks,Adhoc Wireless Networks,5g Mobile Communication,Computer Vision,Data Science,Knowledge Based Systems,Evolutionary Robotics,Cyber Security,Cloud Computing,Edge Computing,Robotics and Automation Society,Digital Twins,Remote Sensing,Geospatial Intelligence,Earth Obs",
+      "scope": "The International Conference on Advancements in Computational Sciences (ICACS'27) is the Eighth International Conference, a joint effort by the Faculty of Information Technology, The University of Lahore (UOL) and IEEE Lahore Section. The goal of ICACS'27 is to provide an opportunity for all aspiring researchers, academia representatives, students, industrialists, scientists, professionals, policymakers, investors, and other parties to disseminate their novel ideas and latest research findings in the general areas of Computer Science and Information Technology.",
+      "callForPapers": "2026-09-25",
+      "url": "sites.uol.edu.pk/icacs27/",
+      "eventContact": "erum.mehmood@cs.uol.edu.pk",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "The University of Lahore, 1-KM Defence Road, Lahore, Pakistan, , , , Lahore, , Pakistan, 54000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

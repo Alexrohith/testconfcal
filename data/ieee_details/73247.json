@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: y6/iwY40/6EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73247,
+      "eventTitle": "2027 International Conference on Data Science and Engineering (ICDSE)",
+      "startDate": "2027-07-22",
+      "endDate": "2027-07-24",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Cochin",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Department of Computer Science, CUSAT; Kerala Section",
+      "keywords": "Data Science,Artificial Intelligence,Health Informatics,Biomedical Applications,Machine learning,Agentic AI,",
+      "scope": "Agentic AI for Public Health and Wellness",
+      "callForPapers": "2027-03-31",
+      "url": "icdse.cusat.ac.in",
+      "eventContact": "san@cusat.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Seminar Complex, Cochin University of Science and Technology, Kalamasserry, , , Cochin, , India, 682022, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

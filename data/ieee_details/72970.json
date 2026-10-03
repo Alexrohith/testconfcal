@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jLjhwY404aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72970,
+      "eventTitle": "2026 6th International Conference on Electronic Communication, Computer Science and Technology (ECCST)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xidian University",
+      "keywords": "Computer Science,Machine Learning,Circuits and Systems,Mixed Signal Circuits,Information and Communication System,Wireless Communications,",
+      "scope": "The 2026 6th International Conference on Electronic Communication, Computer Science and Technology (ECCST 2026) is dedicated to advancing research and innovation in electronic communication, computer science, and emerging intelligent technologies. The conference provides an international platform for academic exchange and interdisciplinary collaboration, fostering dialogue among scholars, researchers, engineers, and industry professionals. ECCST 2026 will cover a broad range of topics, including electronic communication systems, computer science and engineering, artificial intelligence, cybersecurity, intelligent networks, and next-generation computing technologies. By promoting scientific discovery and technological applications, the conference aims to support the development of advanced digital solutions and cultivate future leaders in electronic communication and computer science.",
+      "callForPapers": "2026-09-29",
+      "url": "www.eccst.org/",
+      "eventContact": "eccst.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xidian University, China, No.2 Taibai South Road, Yanta District, Xi’an, Shaanxi Province, China, , , , Xi’an, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

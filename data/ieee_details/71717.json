@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +Jajx4403LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71717,
+      "eventTitle": "2026 4th International Conference on Software Engineering and Information Technology (ICoSEIT)",
+      "startDate": "2026-10-07",
+      "endDate": "2026-10-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Telkom University",
+      "keywords": "Software Engineering,Information Technology,",
+      "scope": "This ICoSEIT's theme is Navigating the Questionable Future for Software Engineering and Information Technology. ICoSEIT welcomes information communication and technology-related scope with prospective contributions to the academicians and industry.",
+      "callForPapers": "2026-06-29",
+      "url": "icoseit.telkomuniversity.ac.id",
+      "eventContact": "aazmuhammad@telkomuniversity.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Telkom University, Telkom University Landmark Tower, 16th Floor, 1 Telekomunikasi Street, Sukapura, Dayeuh Kolot District., , , , Bandung, , Indonesia, 40257, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

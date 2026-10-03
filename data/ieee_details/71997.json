@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s5TuwY406qIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71997,
+      "eventTitle": "2028 IEEE 39th International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC)",
+      "startDate": "2028-09-04",
+      "endDate": "2028-09-07",
+      "about": "Communication, Networking and Broadcast Technologies; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Communications Society; Nanjing University of Posts and Telecommunications",
+      "keywords": "Wireless Communications,Communication Networks, Indoor Radio Communications, Satellite Communications,Wireless Propagation Modeling,Machine Learning for 6G,6G Technologies and Networks,Integrated Communications and Sensing,AI-Native Communications,Edge Computing,Gigabit Wireless Networks,",
+      "scope": "PIMRC is one ComSoc's portfolio conferences in mobile and wireless communications",
+      "callForPapers": "2028-03-17",
+      "url": "pimrc2028.ieee-pimrc.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Jinling Hotel, 2 Hanzhong Road, , , , Nanjing, , China, 210005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l7Chx440vrwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72977,
+      "eventTitle": "2026 IEEE Conference on Visual Analytics Science and Technology (VAST)",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-08",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Boston",
+        "region": "Massachusetts",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Data Visualization,Information Visualization,",
+      "scope": "The VAST Challenge is a long-running contest to encourage advances in visual analytics and adjacent fields.  Each year, a  fictional background story and related synthetic data are presented to participants who are challenged with story-relevant analytical tasks.",
+      "callForPapers": "2026-07-17",
+      "url": "vast-challenge.github.io/2026/index.html",
+      "eventContact": "joseph.cottam@pnnl.gov",
+      "sponsorTypes": "1",
+      "venues": "The Westin Copley Place, 10 Huntington Ave, , , , Boston, MA, USA, 02116, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: usj6xo40xroBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70721,
+      "eventTitle": "2026 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chemnitz",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "CeRICT scrl Regional Center Information Communication Technology; Germany Section; IEEE Instrumentation and Measurement Society; Italy Section IM Chapter; Italy Section SEN Chapter; Italy Section WIE Affinity Group",
+      "keywords": "Metrology, Extended Reality, Artificial Intelligence, Neural Engineering,",
+      "scope": "The 2026 IEEE International Conference on Metrology for eXtended Reality, Artificial Intelligence and Neural Engineering (MetroXRAINE)- will be an international event mainly aimed at creating a synergy between experts in eXtended Reality, Brain-Computer Interface, and Artificial Intelligence, with special attention to the Measurement. The conference will be a unique opportunity for discussion among scientists, technologists, and companies on very specific sectors in order to increase the visibility and the scientific impact for the participants. The organizing formula will be original owing to the emphasis on the interaction between the participants to exchange ideas and material useful for their research activities.",
+      "callForPapers": "2026-03-13",
+      "url": "metroxraine.org/",
+      "eventContact": "antonio.esposito9@unina.it",
+      "sponsorTypes": "1; 3; 5; 5; 5; 9",
+      "venues": "Chemnitz, , , , , , , Germany, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

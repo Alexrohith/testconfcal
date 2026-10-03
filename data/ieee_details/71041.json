@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wKKdx440rbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71041,
+      "eventTitle": "2026 IEEE 23rd International Conference on Mobile Ad-Hoc and Smart Systems (MASS)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Hong Kong",
+        "region": "",
+        "country": "Hong Kong"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "mobile ad hoc network,smart system,sensor network,wireless communication,internet of things,physical systems,smart cities,smart healthcare,smart manufacturing,cloud computing,edge computing,",
+      "scope": "IEEE MASS 2026 is a premier annual forum for sharing original, novel ideas in mobile ad-hoc networks (MANETs) and smart systems, defined broadly. As wireless ad-hoc networks continue to evolve and specialize into a number of application scenarios and environments, and sensor-based systems and technologies increasingly permeate our everyday life and become the inner fabric of the Internet of Things (IoT) and cyber-physical systems (CPS), the unfolding of smart environments such as smart cities, smart farming, smart healthcare, and smart manufacturing, to name a few, demand integrated solutions that can make intelligent use of both cloud and edge systems, while applying machine learning and artificial intelligence tools to handle their growing complexity and to leverage the vast amount of available data.",
+      "callForPapers": "",
+      "url": "mass-conf.github.io/2026/",
+      "eventContact": "shuhuiyang@pnw.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Hongkong, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

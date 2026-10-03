@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tZ2Wx440hL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72363,
+      "eventTitle": "2026 8th International Symposium on Robotics and Intelligent Manufacturing Technology (ISRIMT)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Changzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hohai University; Nanjing Section",
+      "keywords": "Soft Robotics,Digital Twin,Human-Robot Collaboration,Embodied Intelligence,",
+      "scope": "The 2026 8th International Symposium on Robotics & Intelligent Manufacturing Technology (ISRIMT 2026) solicits original research contributions spanning the theoretical foundations and practical implementations of intelligent robotic systems and advanced manufacturing paradigms. The symposium particularly welcomes manuscripts addressing intelligent perception and decision making, autonomous robotic manipulation, human robot collaborative frameworks, digital twin driven production optimization, and embodied intelligence in industrial contexts. Submissions should emphasize algorithmic innovation, system intelligence, and data driven methodologies rather than conventional mechanical design or fabrication processes. Interdisciplinary approaches integrating artificial intelligence with automation technologies are strongly encouraged.",
+      "callForPapers": "2026-08-09",
+      "url": "www.isrimt.org/",
+      "eventContact": "pekar.pub@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Hohai University, No. 1915, Hehai Avenue, Jintan District, Changzhou City, Jiangsu Province, China, , , , Changzhou, , China, 213200, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: iezrwY4016IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71644,
+      "eventTitle": "2026 15th International Conference on System Modeling & Advancement in Research Trends (SMART)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Moradabad, Uttar Pradesh",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Teerthanker Mahaveer University; Uttar Pradesh Section",
+      "keywords": "Emerging Technologies ,IOT & Wireless Communication,Data Governance,Risk and Compliance,Industry 5.0,Education 5.0,Information Security & Engineering,Digital Image Processing,Biomedical Engineering and Healthcare Technologies,Governance Risk and Compliance,Artificial intelligence and Machine Learning,Data Science and visualization,",
+      "scope": "The main objective of SMART 2026 is to provide platform to the Researchers, Engineers and Scholars in the field of Computer Science and Information Technology to disseminate their latest research results and to exchange views on the future research directions in these areas. The conference focuses on the study and exchange of academic achievements of international researchers which serves as academic discussion communication platform which is beneficial for research in the field of computer science aiming to stimulate researchers in their work",
+      "callForPapers": "2026-10-04",
+      "url": "www.smart2026.tmu.ac.in/",
+      "eventContact": "rohila.computers@tmu.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "University Auditorium, Teerthanker Mahaveer University, Delhi Road Moradabad, , , Moradabad, , India, 244001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

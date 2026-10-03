@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: voOYx440ibwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69869,
+      "eventTitle": "2026 3rd International Conference on Recent Trends in Microelectronics, Automation, Computing and Communications Systems (ICMACC)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hyderabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Hyderabad Section; VNR Vignana Jyothi Institute of Engineering and Technology",
+      "keywords": "Data Science Engineering,Computational Intelligence and Computing,,Communications And Networking,Sensors and Mobile Networking,Cicuits and Systems,Robotics and automation,",
+      "scope": "The scope of this Conference is aimed to raise and disseminate awareness about upcoming research areas, issues, and success stories in various aspects of VLSI, IoT, Communication, Automation, Signal Processing, Biomedical Engineering, and Computing applications.",
+      "callForPapers": "2026-05-30",
+      "url": "icmacc.org/",
+      "eventContact": "padmasai_y@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology(VNRVJIET), Vignana Jyothi Nagar, Pragathi Nagar, Nizampet (S.O), Telangana , , , Hyderabad, , India,  500090, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

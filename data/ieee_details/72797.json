@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: voebx440qL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72797,
+      "eventTitle": "2026 21st International Conference on Emerging Technologies (ICET)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Topi",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Ghulam Ishaq Khan Institute of Engineering, Science and Technology, Pakistan; Islamabad Section",
+      "keywords": "AI,Internet Of Things,smart systems,communication ,Antennas,Power grid,Cyber Security,Control, Robotics And Mechatronics,circuits ,NLP,Quantum Communication,Electromagnetic Metamaterials,emerging technologies,data science,Open wireless architecture,Radio frequency,",
+      "scope": "ICET‑2026 covers emerging technologies in engineering and computing, including AI, IoT, communication systems, cybersecurity, robotics, and smart sustainable systems, with a focus on innovative, interdisciplinary solutions.",
+      "callForPapers": "2026-09-07",
+      "url": "giki.edu.pk/icet-conference-2026/",
+      "eventContact": "sethione@hotmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Ghulam Ishaq Khan Institute of Engineering Sciences and Technology, Tarbela Road, District Swabi, Khyber Pakhtoon Khwa, Topi, 23640, , , , Topi, , Pakistan, 23640, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

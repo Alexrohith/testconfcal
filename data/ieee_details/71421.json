@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: q93Awo408akBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71421,
+      "eventTitle": "2026 International Conference of Granular-Ball Computing (ICGBC)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chongqing University of Posts and Telecommunications; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Granular Ball Computational Models,Granular Ball Clustering Algorithms,Feature Extraction Based on Granular Balls,Optimization Algorithms in Granular Ball Computing,Granular Ball Neural Networks,Granular Ball-Based Machine Learning,Granular Ball Data Mining Techniques,Granular Ball Analysis for Big Data,Granular Ball Image Processing,Granular Ball Computing & Quantum Computing,",
+      "scope": "ICGBC 2026 will serve as an authoritative international academic forum dedicated to the innovation, integration, and practical application of granular-ball computing theory. It will convene researchers, engineers, and industry experts worldwide to share cutting-edge achievements, address cross-domain technical challenges, and foster stronger academia-industry collaboration. The conference will encompass granular-ball driven rough sets, granular-ball fuzzy sets, granular-ball clustering, granular-ball classifiers, granular-ball three-way decisions, granular-ball optimization algorithms, granular-ball neural networks, granular-ball graph learning, granular-ball image processing, granular-ball quantum computing, and other granular-ball techniques within machine learning, data mining, and deep learning. ICGBC 2026 will feature keynote speeches and technical sessions, inviting global professionals to contribute their expertise and drive technological advancement in granular-ball computing.",
+      "callForPapers": "2026-08-01",
+      "url": "www.icgbc.org/",
+      "eventContact": "icgbc-pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Chongqing University of Posts and Telecommunications, No. 2 Chongwen Road, Nan'an District, Chongqing City, China, , , , Chongqing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

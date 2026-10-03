@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: n+rqwY40uKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71326,
+      "eventTitle": "2027 IEEE 17th Annual Computing and Communication Workshop and Conference (CCWC)",
+      "startDate": "2027-01-04",
+      "endDate": "2027-01-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Las Vegas",
+        "region": "Nevada",
+        "country": "USA"
+      },
+      "sponsors": "IEEE USA Washington, DC; Institute of Engineering & Management (IEM) - Kolkata; Region 01- Northeastern USA; Region 02 - Eastern USA; Society for Makers, Artists, Researchers and Technologists; University of Engineering & Management, Kolkata  ",
+      "keywords": "Algorithms and Theory,Artificial Intelligence and Machine Learning,Big Data,Data Management and Analytics,Cloud Computing and Data Center Systems,Computer Architecture and VLSI,Cryptography and Applied mathematics,Mobile and Wireless Computing,NLP and Machine Translation,Robotics and Machine Vision,Security Trust and Privacy,RFID Networks and Protocols,Sensor Network and Embedded Systems,",
+      "scope": "The conference mainly has scope on the issues, trends, and developments in Electronics and Communication. It aims to bring together scholars from different disciplinary backgrounds to emphasize dissemination of ongoing research in the fields of Internet of Things, Machine Learning, Artificial Intelligence, communication, Cloud Computing, Robotics and Crytography.",
+      "callForPapers": "2026-11-06",
+      "url": "",
+      "eventContact": "rajashree.paul@uem.edu.in",
+      "sponsorTypes": "2; 2; 6; 9; 9; 9",
+      "venues": "University of Nevada, Las Vegas, 4505 S Maryland Pkwy, , , , Las Vegas, NV, USA, 89154, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

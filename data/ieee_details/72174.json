@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: k6Cix440xLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72174,
+      "eventTitle": "2026 International Conference on Intelligent Information and Computing Technologies in Engineering (ICIICTE)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "B G Nagara,Mandya",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Adichunchanagiri University; Bangalore Section; Bangalore Section CIS Chapter; Mysore Subsection",
+      "keywords": "Neural Networks,Data Mining,Communications And  Networking,AI and ML,Cyber Security,Bigdata Analytics,Data Science,Vlsi Design and  Applications,Embedded System Design,Antenna and Microwave Engineering,RF  Communication and 5G6G Networks,Wireless Communication and Networks,Image Video and  Signal Processing,IOT and Edge Computing,Renewable  Energy,Construction Technology and Sustaniable Development,Intelligent Information and Communication Systems,Computing, Electronics, and Embedded Technologie",
+      "scope": "Electronics and Communication Networks, Power System Stability, Networking & Broadcasting, Wireless sensor networks and ad hoc networks, cryptography,AR/VR/MR and immersive technologies Smart city,Intelligent robotics and automation Quantum computing fundamentals Bioinformatics and computational biology Computing & Processing (Hardware/Software), Information Technology, Electronics and Communication, Information Technology, Science, Robotics,  Signal Processing, Components, Circuits, Devices & Systems",
+      "callForPapers": "2026-07-31",
+      "url": "www.bgsitcon.com",
+      "eventContact": "deepakr@bgsit.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "BGS INSTITUTE OF TECHNOLOGY ( BGSIT ),Adichunchanagiri University,, Bengaluru Hassan National Highway (NH-75), , B.G Nagara, , Nagamangala Taluk,, Mandya District, Karnataka 571448, B G Nagara, Mandya, , India, 571448, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

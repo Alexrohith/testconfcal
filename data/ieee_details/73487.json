@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /9LtwY400KIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73487,
+      "eventTitle": "2027 15th International Symposium on Digital Forensics and Security (ISDFS)",
+      "startDate": "2027-03-25",
+      "endDate": "2027-03-26",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "San Jose",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Association of Software and Cyber Security, Turkey; IEEE Education Society; San Jose State University",
+      "keywords": "Digital Forensics,Cybersecurity,Information Security,Artificial Intelligence,Machine Learning,Cyber Defense,Digital Evidence,Network Security,Computer Security,Privacy,Blockchain,Internet of Things,Cyber Crime,Data Security,Secure Computing,Digital Trust,Incident Response,Security Analytics,Security Analytics,Biometrics,Security Analytics,",
+      "scope": "The International Symposium on Digital Forensics and Security (ISDFS) is an international forum that brings together researchers, practitioners, industry experts, and policymakers working in digital forensics, cybersecurity, information assurance, artificial intelligence applications in security, privacy, and emerging technologies. The symposium promotes interdisciplinary research and collaboration by presenting original scientific contributions, innovative methodologies, and practical solutions addressing current and future challenges in digital security and cyber resilience.",
+      "callForPapers": "2027-01-31",
+      "url": "www.isdfs.org/2027/",
+      "eventContact": "asaf-varol@utc.edu",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "San José State University, One Washington Square, , , , San Jose, CA, USA, 95192, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

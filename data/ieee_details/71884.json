@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nb6Zx440nb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71884,
+      "eventTitle": "2027 International Conference on Electronics and Renewable Systems (ICEARS)",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-24",
+      "about": "Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Tuticorin",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Electron Devices Society; St. Mother Theresa Engineering College",
+      "keywords": "MicroNano Electronics,Hybrid Energy Systems,Intelligent Robotics and Autonomous Systems,Smart Grid Interconnection,Renewable energy Resources,Power Electronic Converters,",
+      "scope": "The conference theme is \"Smart Electronics and renewable energy systems for sustainable development\". The Conference primarily focuses on the state-of-the-art technologies, methods, strategies, and challenges faced by Smart Electronics systems, Electric Drives, Smart Grids, Renewable Energy resources, micro-grids and the interconnection to modern power systems and also the operation of the smart grid models for a smarter and more user and environmentfriendly electronics and energy systems. Focus areas of the conferences are smart electronic converters and control systems, Smart Grid, Renewable energy Resources, Distributed networking and Interconnection, Electric vehicles, Energy storage & charging models, Power Quality, Microgrid & Smart grid, Energy policies & Standards, Power electronic models and other related technologies and applications for further development in the broad area of smart electronics and renewable energy systems.",
+      "callForPapers": "2026-10-03",
+      "url": "icears.com/2027/",
+      "eventContact": "icears.con@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "St. Mother Theresa Engineering College, Mudivaithanendal Post , Vagaikulam, Tuticorin (Thoothukudi) , , , , India, 628 102, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 56uZx440krwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72113,
+      "eventTitle": "2026 6th IEEE International Conference on Applied Electromagnetics, Signal Processing, & Communication (AESPC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section AP/MTT Jt. Chapter; Bhubaneswar Section C Chapter; Kalinga Institute of Industrial Technology Student Branch",
+      "keywords": "Applied Electromagnetics,,Signal Processing and Communication,VLSI and Embedded Systems,Advanced Computing,Robotics & Automation,AI/ML in Electromagnetics,AIML in Electromagnetics,",
+      "scope": "This International Conference on Applied Electromagnetics, Signal Processing & Communication (AESPC-2026), is dedicated to advanced research in the areas of microwave  as well as antenna engineering, signal processing and communication. The conference aims at  bringing together the researchers, scientists, engineers and research scholars from all areas of  engineering and technology, to provide an international forum to exchange their ideas, foster  collaboration, practical developments experiences and cover new grounds. The conference will  feature invited talks by eminent researchers from around the world, technical paper sessions,  poster sessions, demos, tutorials and workshop, AI/ML",
+      "callForPapers": "2026-04-15",
+      "url": "aespc.kiit.ac.in",
+      "eventContact": "sudhakarsahu@yahoo.co.uk",
+      "sponsorTypes": "3; 5; 5; 5",
+      "venues": "School of Electronics Engineering, Kalinga Institute of Industrial Technology(KIIT) Deemed to be University, Bhubaneswar, Campus-12, KIIT University, , , Bhubaneswar, , India, 751024, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

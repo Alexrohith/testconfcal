@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: yrePx440yLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74145,
+      "eventTitle": "2027 8th International Conference in Electronic Engineering & Information Technology (EEITE)",
+      "startDate": "2027-06-02",
+      "endDate": "2027-06-04",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Chania",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "Department of Electronic Engineering- Hellenic Mediterranean University; Greece Section",
+      "keywords": "Electronic Engineering,Deep Technologies,Innovation & Enterpreneurship,STEAM Education,Emerging Technologies in Engineering,5G and 6G Wireless Networks,Artificial Intelligence (AI) and Applications,Microwave, Millimeter wave and Terahertz Communications,Photonics & Optical Communications,Textile, Wearable and Smart Antennas,Robotics and Applications,Plasma Technology,Remote Sensing and Applications,Internet of Things (IoT) and Applications,Cybersecurity,Functional Materials,",
+      "scope": "The aim of the EEITE conference is to bring together scientists from relevant fields of electronics to share and discuss their knowledge and experience in a scientific framework.",
+      "callForPapers": "2027-01-31",
+      "url": "eeite.hmu.gr/",
+      "eventContact": "abaklezos@hmu.gr",
+      "sponsorTypes": "3; 9",
+      "venues": "Hellenic Mediterranean University - Department of Electronics Engineering , Romanou 3 , , , , Chania, , Greece, 73133, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

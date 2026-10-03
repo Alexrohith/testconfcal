@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: xd7lwY40p6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71980,
+      "eventTitle": "2027 11th International Conference on Signal Processing and Communication (ICSC)",
+      "startDate": "2027-01-14",
+      "endDate": "2027-01-16",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Jaypee Institute of Information Technology (JIIT); Uttar Pradesh Section",
+      "keywords": "Signal Processing,Communication,VLSI and Embedded Systems,Intelligent Computing and Machine Learning,Sustainable Energy Systems,Intelligent Robotics,Human-Centric Assistive Technologies,",
+      "scope": "This conference serves as a platform to showcase recent advancements and explore emerging and future growth areas across diverse technical and scientific domains. It encourages researchers to develop innovative and efficient techniques. Renowned keynote speakers, with extensive expertise in various fields, inspire participants to further advance research in signal processing and communication engineering. With contributions from numerous experts, the conference helps address future challenges in areas such as Communication, Signal Processing, VLSI and Embedded Systems, Intelligent Computing and Machine Learning, Sustainable Energy Systems, Human-Centric Assistive Technologies, and Intelligent Robotics. We therefore invite leading researchers, engineers, and scientists to submit their work to ICSC 2027 and share their valuable insights with the global scientific community.",
+      "callForPapers": "",
+      "url": "www.jiit.ac.in/jiit/ICSC/",
+      "eventContact": "pankajkumar.yadav@mail.jiit.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Jaypee Institute of Information Technology, A-10, Sector 62, Noida, , , , Noida, , India, 201309, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

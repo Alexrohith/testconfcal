@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: q6Wvx4404MABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72377,
+      "eventTitle": "2026 IEEE International Conference on Smart Systems and Power Management (IC2SPM)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-27",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Beirut",
+        "region": "",
+        "country": "Lebanon"
+      },
+      "sponsors": "Lebanon Section; Lebanon Section C Chapter; Lebanon Section EMB Chapter; Lebanon Section IE/PE/CAS/PEL Jt. Chapter",
+      "keywords": "Power management,Power Electronics,Analog circuit design,Low power systems,Circuits and Systems,Biomedical circuits and systems,Analog circuit design,Digital signal processing,IoT Circuits,Reconfigurable systems,CAD tools,Emerging technology,AI and Neural Networks circuits,Smart Power Systems,Smart Grid,Renewable Energy Systems,Energy Conversion,Wireless transfer of power,Memristor circuits and systems,Control Systems,IEEE Transactions on Very Large Scale Integration - VLSI,Electrical Vehicul,",
+      "scope": "The 3rd International Conference on Smart Systems and Power Management (IC2SPM), organized by IEEE Joint Chapter IE/PE3/CAS/PE Lebanon, will be hosted Hybrid by the University of Saint-Joseph in Beirut, Lebanon. IC2SPM is an international forum for engineers, scientists, and researchers to present their state-of-the-art work in smart systems and power management. It also provides engineers with an opportunity to interact and share their experiences in industry and technology applications. The conference will run for two days. Submitted papers will be peer reviewed.",
+      "callForPapers": "2026-08-29",
+      "url": "lreee.org/ic2spm2026/",
+      "eventContact": "akassem@ndu.edu.lb",
+      "sponsorTypes": "3; 5; 5; 5",
+      "venues": "Faculty of Engineering, Universite Saint-Joseph, Beirut, , , Beirut, , Lebanon, 00000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

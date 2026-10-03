@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2Ob/xo407b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71295,
+      "eventTitle": "2026 6th International Conference on Biomedical Engineering (IBIOMED)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Bioengineering; Fields, Waves and Electromagnetics; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lombok",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Department of Electrical and Information Engineering, Universitas Gadjah Mada; Indonesia Section",
+      "keywords": "image processing,signal processing,artificial intelligence in medicine,health informatics,Bioinformatics,",
+      "scope": "Signal Processing & Analysis, Robotics & Control Systems, General Topics for Engineers (Math, Science & Engineering), Fields, Waves & Electromagnetics, Bioengineering",
+      "callForPapers": "2026-05-22",
+      "url": "ibiomed.ugm.ac.id/",
+      "eventContact": "jnteti@ugm.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Merumatta Senggigi Lombok, Jalan Pantai Senggigi, Senggigi, Kec. Batu Layar, , , Kabupaten Lombok Barat, , Indonesia, 83355, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

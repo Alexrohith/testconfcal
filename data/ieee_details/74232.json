@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: v6b/xo404boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74232,
+      "eventTitle": "2027 51st IEEE Annual Computers, Software, and Applications Conference (COMPSAC)",
+      "startDate": "2027-07-13",
+      "endDate": "2027-07-16",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "COMPSAC,Software Engineering,Artificial intelligence,Biomedical engineering,",
+      "scope": "The 51st IEEE International Conference on Computers, Software, and Applications (COMPSAC 2027) will be held in Tokyo, Japan, from July 13–16, 2027, bringing together researchers, practitioners, educators, industry leaders, and policymakers from around the world to explore the future of computing. Under the theme “Trusted Agentic Ecosystems Engineering for Autonomous Intelligence,” COMPSAC 2027 will examine the technologies, methodologies, and engineering practices needed to build intelligent systems that are secure, reliable, transparent, and worthy of society’s trust. As autonomous agents become increasingly integrated across cloud, edge, cyber-physical, healthcare, and industrial environments, the conference will provide a premier international forum for presenting cutting-edge research, exchanging innovative ideas, fostering interdisciplinary collaboration, and discussing the challenges and opportunities that will shape the next generation of autonomous computing.",
+      "callForPapers": "",
+      "url": "ieeecompsac.computer.org/2027/",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Tokyo, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

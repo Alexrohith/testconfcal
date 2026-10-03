@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kZzdwY40wKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72705,
+      "eventTitle": "2026 2nd International Conference on Intelligent Control and Computing Science (ICICCS)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nantong",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nantong Institute of Technology",
+      "keywords": "Intelligent Control Systems,Machine Learning & Deep Learning,Cybersecurity & Data Mining,Autonomous Robotics,High-Performance Computing,",
+      "scope": "The 2nd International Conference on Intelligent Control and Computing Science (ICICCS 2026) welcomes original research contributions spanning intelligent control systems and computing science. The conference invites submissions on intelligent control methodologies, including adaptive and reinforcement learning strategies, distributed and robust control architectures, intelligent prediction systems, and autonomous navigation technologies. In the domain of computing science, the conference seeks advances in machine learning and deep learning models, high-performance and cloud computing, data mining and big data analytics, cybersecurity frameworks, computer vision, natural language processing, and quantum computing. Interdisciplinary works that integrate control theory with computational intelligence are particularly encouraged. All submissions will undergo rigorous peer review to ensure scientific quality and originality.",
+      "callForPapers": "2026-08-29",
+      "url": "www.iciccs.org/",
+      "eventContact": "pavelloskot@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Nantong Institute of Technology, No. 211 Yongxing Road, Chongchuan District, Nantong City, Jiangsu Province, China, , , , Nantong, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

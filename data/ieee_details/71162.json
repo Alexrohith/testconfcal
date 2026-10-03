@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: udXnwY40t6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71162,
+      "eventTitle": "2026 9th International Conference on Data Science and Information Technology (DSIT)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Taicang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Society for Applied Computing ; Nanjing Section; Xi'an Jiaotong-Liverpool University",
+      "keywords": "Data Science,Information Technology,DSIT 2026,big data,data mining,Data and Information Technology,Databases,Natural Language Processing,Data Management,Parallel and Distributed Data Computing,Database Management,Graph Mining,Machine Learning and Its Applications,Deep Learning and Applications,Data and Information Visualization,",
+      "scope": "DSIT 2026 welcomes relevant paper submissions from researchers in academia, industry, and government, such as students, engineers, practitioners, scientists, and policy makers. We welcome paper submissions with original technical and scientific research results in Data Science and Information Technology topics.",
+      "callForPapers": "2026-09-25",
+      "url": "www.dsit2026.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Xi'an Jiaotong-Liverpool University, China (Taicang Campus), No. 111, Taicang Avenue, Taicang City, Suzhou City, Jiangsu Province, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

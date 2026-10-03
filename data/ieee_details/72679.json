@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qPj+xo404LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72679,
+      "eventTitle": "2027 41st International Conference on Information Networking (ICOIN)",
+      "startDate": "2027-01-13",
+      "endDate": "2027-01-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Nha Trang",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "IEEE Computer Society; KICS-The Korean Institute of Communications and Information Sciences; Korean Institute of Information Scientists and Engineers - KIISE",
+      "keywords": "Communications,Internet,Wireless ,Cybersecurity,Artificial intelligence ,",
+      "scope": "Advances in computer communication, wireless/mobile networks, and converged networks from both theoretical and practical perspectives.",
+      "callForPapers": "2026-09-18",
+      "url": "icoin.org/",
+      "eventContact": "davidchoi@soongsil.ac.kr",
+      "sponsorTypes": "1; 9; 9",
+      "venues": ", Nha Trang, , Vietnam, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

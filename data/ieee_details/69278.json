@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h/qUx4407bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69278,
+      "eventTitle": "2027 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM)",
+      "startDate": "2027-06-29",
+      "endDate": "2027-07-02",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Calgary",
+        "region": "Alberta",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Robotics and Automation Society",
+      "keywords": "Mechatronics,Control,Sensor,Actuators,Robotics,Automation,",
+      "scope": "The IEEE International Conference on Advanced Intelligent Mechatronics (AIM) is the flagship conference of IEEE/ASME Transactions on Mechatronics. It is co-sponsored by Institute of Electrical and Electronics Engineers (IEEE), IEEE Robotics and Automation Society (RAS), IEEE Industrial Electronics Society (IES). AIM 2024 will bring together an international community of experts to discuss the state-of-the-art for new research results, perspectives of future developments, and innovative applications relevant to mechatronic systems, sensing and actuating devices, robotics, control, manufacturing, and automation.",
+      "callForPapers": "2027-03-02",
+      "url": "",
+      "eventContact": "qzzou@soe.rutgers.edu",
+      "sponsorTypes": "1; 1",
+      "venues": ", , , , , Calgary, AB, Canada, , ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

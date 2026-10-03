@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: u8qqx440lL0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73699,
+      "eventTitle": "2027 International Conference on Intelligence Computing Communication, and Sustainable Technologies (IC2ST)",
+      "startDate": "2027-07-30",
+      "endDate": "2027-07-31",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Atria Institute Technology; Bangalore Section; Bangalore Section SP Chapter",
+      "keywords": "Computational intelligence,Communications Technology,Technology Innovation And Sustainability,computing technologies,Intelligence Computing & AI,Signal Image Multimedia Processing,Quantum Computing and Quantum Information,Cyber security and Cryptography,Wireless Sensor Networks,Electronics and engineering,",
+      "scope": "The International Conference on Intelligence, Communication, Computing and Sustainable Technologies (IC2ST-27) aims to provide a premier interdisciplinary platform for researchers, academicians, industry professionals, and students to present and discuss innovations in intelligent systems, advanced communication technologies, computing paradigms, and sustainable engineering solutions. The conference focuses on the integration of Artificial Intelligence, next-generation communication networks, computational intelligence, and green technologies to address real-world challenges aligned with sustainable development goals. IC2ST-27 seeks high-quality original research contributions that demonstrate theoretical advancements, practical implementations, and innovative applications contributing to technological sustainability.",
+      "callForPapers": "2027-03-31",
+      "url": "atria-lime.vercel.app/",
+      "eventContact": "vnpprasuna@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Atria Institute of Technology, ASKB Campus, , 1st Main Rd, Ags Colony, Anand Nagar, Hebbal, Karnataka, Bangaluru, , India, 560024, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

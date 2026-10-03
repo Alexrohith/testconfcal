@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /8ecx440p7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73505,
+      "eventTitle": "2026 IEEE Advanced Topics In Wireless Course Series (ATW)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-30",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "New York",
+        "region": "New York",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "internet of things,Wireless Communications,5G wireless,Wireless cellular systems,O-RAN,",
+      "scope": "This three-course series is designed for engineers and technical professionals who want to understand the technologies, architectures, and industry trends shaping the evolution of modern mobile communications systems.",
+      "callForPapers": "",
+      "url": "www.comsoc.org/advanced-topics-wireless-course-series",
+      "eventContact": "t.mcnally@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "IEEE Communications Society Offices, Latimer Conference Rooms, 3 Park Avenue, 17th Floor, , , New York, NY, USA, 10016 , ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

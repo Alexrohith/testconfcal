@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gJPhwY409qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71930,
+      "eventTitle": "2026 International Conference on Intelligent and Secure Engineering Solutions (CISES)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "GL Bajaj Institute of technology and Management, Greater Noida; IEEE Computational Intelligence Society",
+      "keywords": "Intelligent Computations and Communication ,Sustainable Engineering Solutions,AI Driven Business Process,Machine learning,soft computing,",
+      "scope": "CISES2026 focuses on cutting-edge research in area such as artificial intelligence, machine learning, data analytics, Internet of Things (IoT), cybersecurity, blockchain technologies, smart computing, cloud and edge computing, and secure communication system. Emphasis is placed on intelligent methodology that enhance system performance, reliability, and scalability, and scalability, along with security mechanisms that ensure data privacy, integrity, and resilience against evolving cyber threats.",
+      "callForPapers": "2026-08-31",
+      "url": "www.glbitm.org/cises2026/index.html",
+      "eventContact": "madhu14nov@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "GL Bajaj Institute of Technology and Management, Plot no 2, Knowledge park-III, Greater Noida, Gautam Budh Nagar, , Greater Noida, , India, 201306, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nd3hwY40jKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72621,
+      "eventTitle": "2027 2nd International Conference on Artificial Intelligence and Emerging Technologies (ICAIET)",
+      "startDate": "2027-01-13",
+      "endDate": "2027-01-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; XIM University",
+      "keywords": "Artificial Intelligence,Internet of Things,CVIP,Cyber Security,Blockchain,Artificial intelligence,Machine learning,",
+      "scope": "The International Conference on Artificial Intelligence and Emerging Technologies (ICAIET) focuses on recent advancements and innovations in Artificial Intelligence (AI) and its allied domains. The conference covers key areas such as Machine Learning, Data Science, Computer Vision and Image Processing (CVIP), and Natural Language Processing (NLP). It also includes emerging technologies like the Internet of Things (IoT), Cyber-Physical Systems, Blockchain Technology, Network Security and Privacy, and Cloud and Distributed Computing. The conference aims to address real-world challenges through AI-driven solutions in areas such as healthcare, smart cities, finance, education, and sustainable development, promoting interdisciplinary research and collaboration between academia and industry.",
+      "callForPapers": "",
+      "url": "www.icaiet.co.in/",
+      "eventContact": "devendra.yadav2091@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "XIM University, Plot No: 12(A), Nijigada Kurki  Harirajpur – 752050, , , , Bhubaneswar, , India, 752050, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

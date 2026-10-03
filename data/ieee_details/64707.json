@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: mLyix4403r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 64707,
+      "eventTitle": "2028 IEEE/ACM 50th International Conference on Software Engineering (ICSE)",
+      "startDate": "2028-04-30",
+      "endDate": "2028-05-06",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Waikoloa",
+        "region": "Hawaii",
+        "country": "USA"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Software Engineering  - ACM SIGSOFT; IEEE Computer Society",
+      "keywords": "software engineering,",
+      "scope": "ICSE provides a forum where researchers, practitioners, and educators gather together to present and discuss research results, innovations, trends, experiences and issues in the field of software engineering.",
+      "callForPapers": "2027-07-26",
+      "url": "Conf.researchr.org/home/icse-2028",
+      "eventContact": "kazman@hawaii.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hilton Waikoloa Village, 69-425 Waikōloa Beach Dr, , , , Waikoloa Village, HI, USA, 96738, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9avswY40x6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72784,
+      "eventTitle": "2026 Horizons of Information Technology and Engineering (HITE)",
+      "startDate": "2026-12-10",
+      "endDate": "2026-12-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Lahore",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Islamabad Lahore Karachi Jt. Section RA Chapter; Lahore Section; Lahore Section GRS Chapter; University of Central Punjab - UCP",
+      "keywords": "Computer Science,Software Engineering,Data Science,Smart Grids,Business Analytics,Artificial Intelligence,Communications and Networks,Power Systems and Energy,Control Systems,Signal Processing and Communication,Electronics and VLSI Design,Machine Learning,Computer Vision,Robotics,Geoscience and remote sensing,",
+      "scope": "The HITE conference garners significant acclaim and interest for its comprehensive exploration of innovative and cutting-edge technologies and research fields. It spans a wide range of topics related to emerging technologies across various domains, making it appealing to a diverse audience. The conference features multiple tracks, among other elements, and its scope extends beyond these specified areas.  Artificial Intelligence Software Engineering Robotics and Intelligent Systems Geoscience and Remote Sensing Blockchain Platforms and Services Data Science, Analysis, and Big Data Metaverse Computing, Communication and Applications Cyber Security, Network and Distributed Systems Power and Energy Systems Electronic Devices, Circuits, and Communication Systems",
+      "callForPapers": "2026-07-31",
+      "url": "hite.ucp.edu.pk/",
+      "eventContact": "stsbukhari@gmail.com",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "University of Central Punjab, Avenue 1, Khayaban-e-Jinnah Road, Johar Town, Lahore, Punjab, , , Lahore, , Pakistan, 54590, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

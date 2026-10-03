@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: p5zkwY40iqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70383,
+      "eventTitle": "2026 IEEE 20th International Conference on Application of Information and Communication Technologies (AICT)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Baku",
+        "region": "",
+        "country": "Azerbaijan"
+      },
+      "sponsors": "ADA University; Azerbaijan COM/C Joint Chapter",
+      "keywords": "Information and Communication Technologies,,Data Mining and Analysis,Big Data and Data Engineering,Machine Learning,Cyber Security,High Performance Computing,Communication,Network and Hardware,",
+      "scope": "Big Data Management and Application Data Mining and Data Engineering High Performance Computing and Machine Learning Cyber Security Issues Latest Trends in ICT Application, Communication, network and hardware, ICT in Business Administration, Governance, Finance and Economy ICT in Education, Humanities, Social Sciences and Research",
+      "callForPapers": "2026-05-31",
+      "url": "www.aict.info/2026",
+      "eventContact": "aadamov@ieee.org",
+      "sponsorTypes": "5; 9",
+      "venues": "ADA University, Ahmadbey Aghaoghlu str. 61, , , , Baku, , Azerbaijan, AZ1008, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

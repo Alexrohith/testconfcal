@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 3,Rid: uK2Ux44057sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 64212,
+      "eventTitle": "2027 IEEE International Conference on Robotics and Automation (ICRA)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-28",
+      "about": "Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Seoul",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Additive Manufacturing Aerial Robotics Agent-Based Systems Agricultural Automation AI Reasoning Methods Assembly Automation at Micro-Nano Scales Automation in Life Sciences: Biotechnology, Pharmaceutical and Health Care Automation Technologies for Smart Cities Autonomous Agents Autonomous Vehicle Navigation Behaviour-Based Systems Biological Cell Manipulation Biologically-Inspired Robots Biomimetics Brain Machine Interface Building Automation Calibration and Identification Cellular and Modular R",
+      "scope": "ICRA covers all fields of robotics and automation and is the main conference of Robotics and Automation Society",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "l.lelong@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "COEX , 513 Yeongdong-daero, Gangnam-gu, , , , Seoul, , Korea (South), , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

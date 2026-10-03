@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3ZbpwY40mKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71024,
+      "eventTitle": "2026 Sixth International Symposium on 3D Power Electronics Integration and Manufacturing (3D-PEIM)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-19",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Power, Energy and Industry Applications; Transportation",
+      "location": {
+        "city": "Tempe",
+        "region": "Arizona",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Electronics Packaging Society; Power Sources Manufacturers Association",
+      "keywords": "Vertical power delivery,Backside power delivery,Energy harvesting,Artificial intelligence,Machine learning,Multiphysics design,Novel packaging and manufacturing,Novel materials for modules and converters,Passive components,Liquid cooling integration,",
+      "scope": "Technologies for enabling 3D Manufacturing of Integrated Power Electronics, Characterization and Modeling advancements for manufacturing and design, Development of new enabling Passive Components, Interconnects, Materials, and Thermal Management technologies, System and Board-level Module Integration and Packaging",
+      "callForPapers": "2026-06-01",
+      "url": "",
+      "eventContact": "Robina.Sayed@asu.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Arizona State University, Memorial Union, , , , Tempe, AZ, USA, 85281-0000, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

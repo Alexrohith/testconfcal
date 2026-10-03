@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: u4ipx44087wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73561,
+      "eventTitle": "2026 7th New Power System International Forum - Power System and New Energy Technology Innovation Forum (NPSIF)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Qionghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Boao New Power System Association; IEEE Power & Energy Society",
+      "keywords": "New Power System Planning,New Data-Driven Power System Dispatching Control,Smart Microgrids and Microgrid Clusters,Intelligent Power and Energy Systems,Digital Grid Technology and Application,Intelligent Power Sensors,Energy Blockchain,New Power System Source, Grid, Load and Storage Multi-dimensional Interaction,Virtual Power Plant,Scale Development of New Energy Storage,Intelligent Energy Measurement Technology,Electricity Communication Technology,",
+      "scope": "NPSIF 2026 will be an international forum on technological innovation in new power systems and new energy industries. It will focus on topics such as new power system planning, data-driven dispatch and control, smart microgrids, intelligent power and energy systems, digital grid technologies, intelligent sensors, energy blockchain, source-grid-load-storage interaction, virtual power plants, new energy storage, smart metering, and power communication. The conference will also cover flexible grid interconnection, stability optimization, demand response, vehicle-grid interaction, electric-carbon monitoring, communication security, and carbon-electricity applications. Through interdisciplinary exchange, NPSIF 2026 aims to promote the low-carbon, digital, and intelligent transformation of modern power systems.",
+      "callForPapers": "2026-10-10",
+      "url": "www.npsif.net/",
+      "eventContact": "npsif.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Boao New Power System Association, Smart Interactive Exhibition Hall of Southern Power Grid in Dongyu Island Boao Town, , , , Qionghai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0NShx4402L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73305,
+      "eventTitle": "2026 International Conference on Ubiquitous Computing and Communications (IUCC)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Exeter",
+        "region": "",
+        "country": "United Kingdom"
+      },
+      "sponsors": "United Kingdom & Ireland Section C Chapter; University of Exeter",
+      "keywords": "Ubiquitous Computing and Communications,Computer and Information Technology,Data Science and Computational Intelligence,Internet of Intelligence,",
+      "scope": "Ubiquitous Computing and Communications is a revolutionary paradigm that aims to provide pervasive and reliable computing solutions and communication services anytime and anywhere. This emerging technology is built upon the rapid research and development advances in a wide range of key areas including wireless and sensor networks, mobile and distributed computing, embedded systems, agent technologies, autonomic communication, and information security. The conference offers an important international platform and brings together the scientists, engineers, researchers, and students from academy and industry to share their latest work, exchange experiences and discuss the state-of-the-art challenges of ubiquitous computing and communications technologies, systems and applications.",
+      "callForPapers": "2026-07-10",
+      "url": "https://hpcn.exeter.ac.uk/iucc2026/",
+      "eventContact": "j.hu@exeter.ac.uk",
+      "sponsorTypes": "5; 9",
+      "venues": "Exeter Rougemont hotel by Sunday, Queen St, , , , Exeter , , United Kingdom, EX4 3SP, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

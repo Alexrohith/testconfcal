@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2eOax440jbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73497,
+      "eventTitle": "2029 IEEE Conference on Control Technology and Applications (CCTA)",
+      "startDate": "2029-08-20",
+      "endDate": "2029-08-22",
+      "about": "Aerospace; Bioengineering; Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Seoul",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Control Systems Society",
+      "keywords": "Control systems,Model predictive control,Optimal control and optimization,Automotive systems,Aerospace systems,Marine systems,Biomedical engineering,Manufacturing,Mechatronics,Robotics and automation,Autonomous systems,Energy and power systems,Cyber Physical Systems,",
+      "scope": "CCTA is one of the premier annual conferences sponsored by the IEEE Control Systems Society, focusing on the advancement of control technology and control applications. Application areas of interest include, but are not limited to: automotive systems, aerospace systems, marine systems, biomedical engineering, manufacturing, mechatronics, robotics, automation, energy and power systems, environment, networks, cyber-physical systems, and machine-learning-based control. The conference features plenary speeches, regular and poster presentations, tutorials, invited sessions, and industry exhibits.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "hyun.jaesang@yonsei.ac.kr",
+      "sponsorTypes": "1",
+      "venues": "Seoul Dragon City, Cheongpa Ro 20 Gil 95, Yongsan Gu, , , , Seoul, , Korea (South), 04372, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

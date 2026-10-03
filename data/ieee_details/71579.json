@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: n6PZwY40qqQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71579,
+      "eventTitle": "2026 8th International Conference on Cybernetics, Cognition and Machine Learning Applications (ICCCMLA)",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Hamburg",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "Germany Section; Vignans Institute of Management and Technology for Women, Hyderabad India",
+      "keywords": "Intelligent computing,Cybernetics,Machine learning,",
+      "scope": "Intelligent Computing, Machine learning, Communication technologies. Focused panels will discuss Commercial applications of these technologies in Banking, Healthcare, Insurance, Information management, and Defense sectors",
+      "callForPapers": "2026-06-30",
+      "url": "www.intdatacon.com/",
+      "eventContact": "vinitkumargunjan@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "NORDAKADEMIE Hamburg School , , , , , Hamburg, , Germany, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

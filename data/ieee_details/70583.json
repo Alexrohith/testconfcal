@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0fuhx4400bwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70583,
+      "eventTitle": "2027 IEEE 3rd International Conference on Innovations in High Speed Communication and Signal Processing (IHCSP)",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-11",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bhopal",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhya Pradesh Section; Maulana Azad National Institute of Technology Bhopal",
+      "keywords": "IHCSP,IEEE International Conference,Communication Systems,Signal Processing,Circuits and Systems,Data Science and Applications,",
+      "scope": "The International Conference on Innovations in High-Speed Communication, Signal Processing, Circuits, and Systems with AI and Applications aims to bring together researchers, industry experts, and innovators to explore emerging trends in advanced communication technologies, intelligent signal processing, and next-generation electronic systems. The conference covers 5G/6G networks, IoT connectivity, optical and wireless communication, adaptive and AI-driven signal processing, VLSI design, embedded systems, and high-performance circuits. Emphasis is placed on real-time processing, automation, smart devices, and application-oriented solutions across healthcare, transportation, robotics, and smart infrastructure. The event fosters collaboration and showcases impactful innovations shaping future intelligent systems.",
+      "callForPapers": "2026-02-01",
+      "url": "ihcsp.in",
+      "eventContact": "manishkashyap.iiit@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "MaulanaAzad National Institute of Technology, ECE Department, MANIT Campus, Link Road No. 03, Near Mata Mandir, Bhopal, , India, 462003, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

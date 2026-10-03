@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vKaKx440s74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72813,
+      "eventTitle": "2026 22nd International Conference on Mobility, Sensing and Networking (MSN)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "City University of Hong Kong - CityU; Hong Kong Polytechnic University - HKPU; IEEE Computer Society",
+      "keywords": "Mobile Sensor Networks,Computer Networks,Edge Computing,Wireless Sensing,Digital twin,Security & Privacy,Blockchain,Artificial Intelligence,Big Data,Internet of Things,AIoT,Crowdsensing,Cloud Computing,Crowd Sensing,",
+      "scope": "MSN 2026 provides a forum for academic researchers and industry practitioners to exchange new research ideas, present their progress, and identify future directions in the field of mobility, sensing and networking. The conference solicits submissions from all research areas related to mobility, sensing and networking, as well as their corresponding systems and applications. Topics of interests are covered by the tracks: (1) Mobile & Wireless Sensing and Networking; (2) Edge Computing, IoT and Digital Twins; (3) Security, Privacy, Trust, and Blockchain; (4) Big Data and AI; (5) Smart Cities, Metaverse and Applications; (6) AIoT, Crowd Sensing & Computing; and (7) Agentic Systems and LLM for Mobility, Sensing, and Networking.",
+      "callForPapers": "2026-08-20",
+      "url": "msn2026.top/",
+      "eventContact": "carmen.au@polyu.edu.hk",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Grand New Century Hotel Ningbo, No. 666, Shounan Middle Road, Yinzhou District, , , , Ningbo, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

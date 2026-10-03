@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zZCUx4401rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74057,
+      "eventTitle": "2030 IEEE International Conference on Robotics and Automation (ICRA)",
+      "startDate": "2030-05-13",
+      "endDate": "2030-05-17",
+      "about": "Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Pharmaceutical and Health Care Automation Technologies for Smart Cities Autonomous Agents Autonomous Vehicle Navigation Behaviour-Based Systems Biological Cell Manipulation Biologically-Inspired Robots Biomimetics Brain Machine Interface Building Automation Calibration and Identification Cellular and Modular RRobotics,Automation,Soft Robotics,Additive Manufacturing,Aerial Robotics,Agent-Based Systems,Agricultural Automation,AI Reasoning Methods,Assembly Automation at Micro-Nano Scales,",
+      "scope": "ICRA covers all fields of robotics and automation and is the main conference of Robotics and Automation Society",
+      "callForPapers": "2029-09-15",
+      "url": "2030.ieee-icra.org",
+      "eventContact": "l.lelong@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "QUEEN SIRIKIT NATIONAL CONVENTION CENTER:, , , , , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

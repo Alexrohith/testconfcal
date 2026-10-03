@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: mZ3/xo400roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72407,
+      "eventTitle": "2027 International Conference on Emerging Innovations in Quantum, Computing, Communications and AI Applications (ICQCCA)",
+      "startDate": "2027-06-03",
+      "endDate": "2027-06-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Photonics and Electrooptics",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section COM Chapter; Bangalore Section PHO Chapter; Sri Sairam College of Engineering",
+      "keywords": "Quantum, Computing,Communications,Artificial Intelligence Applications,",
+      "scope": "Explore quantum computing improvements in AI applications Discuss emerging quantum communication protocols Foster interdisciplinary collaboration",
+      "callForPapers": "2027-01-27",
+      "url": "www.qakas.com/index.html",
+      "eventContact": "hosannaprincye@gmail.com",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Sri Sairam College of Engineering, Sri SaiLeo Nagar, gundanahalli, Anekal, Bangalore, Bangalore , , India, 562106, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

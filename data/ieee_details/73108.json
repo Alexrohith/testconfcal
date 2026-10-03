@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /67dwY402KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73108,
+      "eventTitle": "2026 3rd Beyond Technology Summit on Informatics International Conference (BTS-I2C)",
+      "startDate": "2026-12-19",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jember",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Universitas Muhammadiyah Jember",
+      "keywords": "Artificial Intelligence,Data Science,Data Mining,Big Data,Machine Learning,Computer Science,Signal Processing,Deep Learning,",
+      "scope": "Computing and Processing, Robotics and Internet of Things, Signal Processing and Analysis, Communication, Networking and Broadcasting",
+      "callForPapers": "2026-09-18",
+      "url": "bts.unmuhjember.ac.id/",
+      "eventContact": "hardian@unmuhjember.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "Universitas Muhammadiyah Jember, , , , , Jember, East Java, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

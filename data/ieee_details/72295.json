@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2/atx440q70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72295,
+      "eventTitle": "2026 International Conference on Communication and Smart Devices (ICCoSD)",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-18",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Ranchi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Birla Institute of Technology - Mesra, Ranchi, India; Kolkata Section",
+      "keywords": "Advanced Communication Systems,5G and Beyond,Smart Intelligence & IoT,AI and Signal Processing,Sensors and Devices,",
+      "scope": "This premier conference brings together researchers, academics, and industry professionals to discuss the latest research and development related to communication systems and smart device technologies.",
+      "callForPapers": "2026-06-30",
+      "url": "iccosd.vercel.app/",
+      "eventContact": "sanjeet@bitmesra.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "BIRLA INSTITUTE OF TECHNOLOGY MESRA, MESRA, RANCHI, , , , RANCHI, , India, 835215, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

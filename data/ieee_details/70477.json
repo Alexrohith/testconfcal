@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kpCZx440kLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70477,
+      "eventTitle": "2026 24th International Conference on ICT and Knowledge Engineering (ICT&KE)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Siam University; Thailand Section; Thailand Section C Chapter",
+      "keywords": "ICT,Knowledge Engineering,knowledge management,Process Mining,Decision Support  System,Big Data,Data Science,Data Mining,Image Processing,Robotics,Blockchain,",
+      "scope": "The 2026 International Conference on ICT and Knowledge Engineering provides an  international forum that brings together those activities involved in areas of interest to the  ICT/Knowledge Systems and other related fields.",
+      "callForPapers": "2026-06-30",
+      "url": "www.ict-ke.org/",
+      "eventContact": "parham@siam.edu",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Siam University, 38 Phetkasem Road, Phasi-Charoen  , , , , Bangkok, , Thailand, 10160, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

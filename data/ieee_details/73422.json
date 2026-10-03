@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ksPmwY40gqUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73422,
+      "eventTitle": "2027 IEEE International Symposium on Mixed and Augmented Reality (ISMAR)",
+      "startDate": "2027-10-11",
+      "endDate": "2027-10-15",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kobe",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Computer Society; Virtual Reality Society of Japan",
+      "keywords": "Augmented Reality,Mixed Reality,Virtual Reality,X Reality,Artificial intelligence,Machine learning,Display technologies,Human-computer interaction,",
+      "scope": "IEEE ISMAR is the premier international conference on Augmented Reality (AR), Mixed Reality (MR), and related immersive technologies, including Virtual Reality (VR). It brings together researchers and practitioners from academia and industry to present advances in fundamental technologies, interactive systems, human-centered design, real-world applications. The conference welcomes contributions on computer vision, tracking and localization, sensing, display and optical technologies, rendering, AI and machine learning, human-computer interaction, perception and cognition, user experience, collaborative and telepresence systems, content creation, and spatial computing. ISMAR also covers applications in healthcare, education, manufacturing, architecture, entertainment, cultural heritage, robotics, and other domains. Submissions should demonstrate a clear and significant contribution to AR, MR, VR, or extended reality (XR) technologies, systems, experiences, or their practical deployment.",
+      "callForPapers": "",
+      "url": "www.ieeeismar.net/2027/",
+      "eventContact": "daisuke.iwai@sys.es.osaka-u.ac.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "Kobe International Conference Center, 6-9-1 Minatojima-nakamachi, Chuo-ku, , , Kobe, , Japan, 650-0046, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

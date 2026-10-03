@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jMCux4400cABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73696,
+      "eventTitle": "2027 ICEENG International Conference for Innovations in Electronics, EM-Waves, and Communications (IEEC)",
+      "startDate": "2027-04-19",
+      "endDate": "2027-04-22",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; Geoscience; Photonics and Electrooptics; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Cairo",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Egypt Section AP Chapter; Egypt Section CAS Chapter; Egypt Section COM Chapter; Egypt Section MTT Chapter; Military Technical College",
+      "keywords": "Electronics Packaging,Electromagnetics,Microwave theory and techniques,Antennas,Communication systems,Signal analysis,Signal processing,Biomedical engineering,Navigation,Remote sensing,Aerospace and electronic systems,RF circuit,Solid state circuits,Data communication,Network Engineering,Photonics,Wireless Communications,",
+      "scope": "Electronics, Electromagnetics, Communications, RF Circuits, Signal Processing, Biomedical Engineering, Electron Devices, Antennas, Microwave Theory, Photonics, Navigation, Remote Sensing, Vehicular and wireless technologies",
+      "callForPapers": "2026-12-15",
+      "url": "ieec.conferences.ekb.eg",
+      "eventContact": "tamer_nabiel@mtc.edu.eg",
+      "sponsorTypes": "3; 5; 5; 5; 5; 9",
+      "venues": "Military Technical College, Kobery Elkoba, , , , Cairo, , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

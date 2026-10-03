@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zabawY40yaEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72598,
+      "eventTitle": "2026 IEEE International Conference on Machine Learning and Artificial Intelligence Applications (MLAIA)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanning",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Nanning Normal University",
+      "keywords": "Machine Learning,Algorithms and Models,Natural language processing,Artificial Intelligence Application,Knowledge Representation and Reasoning,AI and Human-Computer Interaction,",
+      "scope": "MLAIA is dedicated to the theoretical foundations of machine learning algorithms and their transformative applications within healthcare, industry, and optical systems. The conference explores the critical synergy between innovative AI models, ethical frameworks, and the strategic integration of intelligent systems into real-world environments.",
+      "callForPapers": "2026-10-10",
+      "url": "www.mlaia.org/",
+      "eventContact": "jingfengnnnuedu@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Wanda Vista Nanning, No. 118 Dongge Road, Qingxiu District, Nanning City, Guangxi Province, China, , , , Nanning, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

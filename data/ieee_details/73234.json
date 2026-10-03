@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tsz7xo40170BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73234,
+      "eventTitle": "2027 3rd International Conference on Computational Intelligence, Communication Technology and Networking (CICTN)",
+      "startDate": "2027-04-08",
+      "endDate": "2027-04-09",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Ghaziabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "ABES Engineering College, Ghaziabad; Uttar Pradesh Section",
+      "keywords": "Computational Intelligence,Communication and Networking,Cloud Computing,Computational  and artificial intelligence,signal processing,",
+      "scope": "The conference on Computational Intelligence, Communication Technology, and Networking  aims to bring together researchers, practitioners, and industry experts to discuss the latest  advancements and innovations in these interrelated fields. The scope includes cutting-edge  research in artificial intelligence, machine learning, data science, and evolutionary computation,  along with the development and optimization of wireless communications, network security, and  multimedia processing. Additionally, the conference explores emerging areas such as IoT,  blockchain, and cyber-physical systems, providing a platform for the exchange of ideas and  collaboration on the future directions of computational intelligence and communication  technologies.",
+      "callForPapers": "2026-09-30",
+      "url": "cictn.abes.ac.in/",
+      "eventContact": "anil.dubey@abes.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "ABES Engineering College, 19th KM Stone, NH-09, Ghaziabad, , , Ghaziabad, , India, 201009, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

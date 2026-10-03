@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +Ir/xo406r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73546,
+      "eventTitle": "2027 International Conference on Electrical, Communication, and Computing Technologies (iCONECCT)",
+      "startDate": "2027-02-06",
+      "endDate": "2027-02-07",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gwalior",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madhav Institute of Technology; Madhya Pradesh Section; National Institute of Technology, Uttarakhand",
+      "keywords": "Electrical ,Electronics ,Computing ,Communication ,Artificial intelligence ,",
+      "scope": "This conference will serve as a vibrant forum for presenting pioneering research, exploring the latest technological advancements, and discussing innovative solutions in the fields of electrical engineering, electronics, and computing technologies. iCONECCT-2027 aims to facilitate cross disciplinary collaboration and the exchange of ideas that will drive the future of these dynamic and interrelated fields.",
+      "callForPapers": "2026-09-01",
+      "url": "iconeect.mitsgwalior.in/",
+      "eventContact": "rathore.puja@mitsgwalior.in",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Madhav Institute of Technology & Science, Gwalior (M.P.), INDIA (Deemed University), Gola ka Mandir, Gwalior - 474005 , Madhya Pradesh, India , , , Gwalior, , India, 474005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

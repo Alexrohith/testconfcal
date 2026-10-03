@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sJbowY40kKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69727,
+      "eventTitle": "2027 7th International Conference on Electrical, Computer and Energy Technologies (ICECET)",
+      "startDate": "2027-07-09",
+      "endDate": "2027-07-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Seoul",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "Istanbul Medipol University; Seoul Section",
+      "keywords": "Adaptive Control,Artificial Intelligence,Deep Learning,Machine Learning,Energy Storage Systems,Energy Conservation,Energy Management Systems,Cybersecurity,Big Data,Data Security,Data Science,Renewable Energy Systems,Internet Of Things,Control Engineering,Control Systems,Computer science,",
+      "scope": "The 7th International Conference on Electrical, Computer and Energy Technologies (ICECET) is  a multidisciplinary, peer-reviewed international conference that provides a forum for the  exchange of latest technical information, the dissemination of the high-quality research results,  the presentation of the new developments in the area, and the debate and shaping of future  directions and priorities. ICECET aims to bring together leading academic scientists,  researchers and research scholars to exchange and share their experiences and research  results on all aspects of Electrical, Computer and Energy Technologies.",
+      "callForPapers": "2027-01-12",
+      "url": "www.icecet.com/2027/",
+      "eventContact": "emrearslan@aksaray.edu.tr",
+      "sponsorTypes": "3; 9",
+      "venues": "South Korea, , , , , Seoul, , Korea (South), , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

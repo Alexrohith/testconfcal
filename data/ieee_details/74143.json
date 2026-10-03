@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2OeKx440rLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74143,
+      "eventTitle": "2027 International Conference on Modern Learning and Educational Technology (MLET)",
+      "startDate": "2027-08-08",
+      "endDate": "2027-08-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Osaka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Education Society; Osaka University",
+      "keywords": "Artificial Intelligence and Data-Enhanced Learning,Immersive and Interactive Learning Environments,Innovative Pedagogy and Digital Learning Design,Equity Inclusion and Accessible Educational Technology, Systems Leadership and the Future of Learning Ecosystems,",
+      "scope": "MLET 2027 is a premier global forum established in response to the rapid transformation of education. It addresses the critical integration of advanced technologies-such as artificial intelligence, immersive media, and data analytics-into learning environments, while also examining evolving pedagogical models like personalized and hybrid learning. The conference aims to tackle contemporary challenges, including educational equity, digital inclusion, and lifelong learning, by bringing together educators, researchers, technologists, and policymakers to share research, exchange innovative practices, and collaboratively shape the future of education.",
+      "callForPapers": "2027-03-05",
+      "url": "www.mlet.net/",
+      "eventContact": "huyy@tccc.net",
+      "sponsorTypes": "1; 9",
+      "venues": "The University of Osaka, Japan, 1-1 Yamadaoka, Suita,Osaka 565-0871 Japan, , , ,  Osaka, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

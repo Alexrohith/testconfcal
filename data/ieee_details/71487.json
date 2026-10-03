@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sd3ZwY40raQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71487,
+      "eventTitle": "2026 IEEE International Conference on Future Machine Learning and Data Science (FMLDS)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-23",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Kobe",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Global Circle for Scientific, Technological and Management Research; New South Wales Section",
+      "keywords": "Future Machine Learning Advancements of Machine Learning Data Science and Big Data Data Classification and Regression Pattern Recognition Computer Graphics Motion and Tracking Bioinformatics and Biomedical Image Analysis Cyber Security and Privacy for Big Data Knowledge Discovery, Integration and Transformation Social Media,Advancements of Machine Learning,Future Machine Learning,Data Science and Big Data,Data Classification and Regression,Pattern Recognition,Computer Graphics,",
+      "scope": "FMLDS2026 will bring international experts in Future Machine Learning Technologies, Artificial Intelligence, Computer Vision, Machine Learning Applications in Engineering and Data Science. It will feature keynote addresses from prominent world industry and academic leaders in Machine Learning and Data Science. It will span a wide spectrum of areas within Machine Learning and Data Science research, providing a platform for established and emerging researchers as well as industry practitioners to exchange insights and innovative ideas. The conference will be conducted in a hybrid format, accommodating both in-person and virtual participation.",
+      "callForPapers": "2026-05-31",
+      "url": "fmlds.org/2026/",
+      "eventContact": "rezaul.bashar2016@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Univerity of Hyogo, , , , , Kobe, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

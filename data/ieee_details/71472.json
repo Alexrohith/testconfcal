@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l+HpwY40sqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71472,
+      "eventTitle": "2026 IEEE 20th International Conference on Industrial and Information Systems (ICIIS)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gwalior",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "ABV-Indian Institute of Information Technology and Management, Gwalior, India; Madhya Pradesh Section",
+      "keywords": "Information and Industrial Systems,Control, Robotics And Mechatronics,Internet Of Things,Signal and Image Processing,Embedded Systems,Artificial Intelligence,Machine Learning,Cyber Security,Power Systems,",
+      "scope": "ICIIS 2026 covers a wide range of engineering disciplines, with added focus on sustainability and trustworthiness. The conference is being organised to function as a platform for dissemination of recent high-quality research work. It covers the wide domain of Computer Science, Electronics, and Electrical Engineering and will provide a means to exchange innovative ideas and recent advances among researchers from academia and industry.",
+      "callForPapers": "2026-07-31",
+      "url": "iciis2026.iiitm.ac.in/",
+      "eventContact": "kvarya@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "ABV-Indian Institute of Information Technology and Management Gwalior, Morena Link Road,, , , , Gwalior, , India, 474015, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

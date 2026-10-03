@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zozjwY40haIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73804,
+      "eventTitle": "2027 International Conference on Artificial Intelligence in Education and Smart Campus (AIESC)",
+      "startDate": "2027-04-02",
+      "endDate": "2027-04-04",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Beijing University of Posts and Telecommunications; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Generative AI, Foundation Models and Intelligent Learning Systems,Human-Centered AI and Human-Machine Systems in Education,Intelligent Adaptive Learning, Cognitive Systems and Personalized Education,Educational Data Intelligence, Machine Learning and Intelligent Decision-Making,Smart Campus Systems, IoT and Intelligent Infrastructure,Digital Twins, Embodied AI and Cyber-Physical Learning Environments,Campus Intelligent Management and Security Technology,Trustworthy AI, Cybernetics, Security and",
+      "scope": "The conference calls for high-quality, original research papers in the theory and practice of artificial intelligence and human-centric intelligent systems for education and smart campus, including machine learning and deep learning, generative AI and foundation models, educational data analytics, human-AI interaction, intelligent tutoring and adaptive learning systems, knowledge representation, cyber-physical systems, IoT-enabled smart campus solutions, and their applications in education and society. The conference also solicits contributions addressing frontier research challenges, emerging technologies, and innovative methodologies that advance intelligent, trustworthy, and human-centered AI-enabled education environments.",
+      "callForPapers": "2026-10-20",
+      "url": "www.aiesc.tech/",
+      "eventContact": "aiesc.conference@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Musashino University Ariake Campus, 3-3-3 Ariake, Koto-ku, Tokyo, 135-8181, Japan, , , , Tokyo, , Japan, 135-8181, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

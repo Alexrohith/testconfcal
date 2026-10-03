@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wr3vwY405aIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71280,
+      "eventTitle": "2026 IEEE Pune Section International Conference (PuneCon)",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-19",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pune Section",
+      "keywords": "Intelligent systems,Secure systems,human centric systems,Trust ,Privacy,Cyber phisical systems,Distributed Systems,Federated Learning,Immersive Technology,Sustainable technologies,Ethical technology,Cyber Security,Edge Computing,Blockchain,Digital Tween,Technology enhanced Eductaion,Quantum Computing,Virtual and Augmented Reality,AI hardware technology,GPU Compiler Optimization,Internet of Things,Cryptography,Machine Learning,Robotics,",
+      "scope": "The scope of the conference includes Domains/Tracks in the following key areas but not limited to only these areas. The sessions are based on following fields and tracks, 1. Intelligent Systems 2. Secure Systems 3. Human Centric Systems 4. Distributed, Edge and Cloud Computing 5. Cyber Physical Systems 6. Life Sciences 7. Indian Knowledge System and Technology integration. 8. Computer Vision and Machine Learning, 9. Electric vehicles, 10. Medical Signal Processing",
+      "callForPapers": "2026-05-10",
+      "url": "punecon.ieeepunesection.org",
+      "eventContact": "abhikhurape@gmail.com",
+      "sponsorTypes": "3",
+      "venues": "DES Pune University, 182, Mukunddas Lohia Academic Complex, Agarkar Road, Shivajinagar, Pune, Pune, , India, 411004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l8iIx440i7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71386,
+      "eventTitle": "2026 27th International Arab Conference on Information Technology (ACIT)",
+      "startDate": "2026-12-08",
+      "endDate": "2026-12-10",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sousse",
+        "region": "",
+        "country": "Tunisia"
+      },
+      "sponsors": "National Engineering School of Sousse; Tunisia Section; Tunisia Section BIO Chapter; Tunisian Association of Technology and Sustainable Development",
+      "keywords": "Artificial Intelligence, High Performance Computing, Computer Networks and the Internet, Cybersecurity, Business Intelligence, Bioinformatics, Mobile and Ubiquitous Computing, Data Science and Applications, Information Systems and Decision Support Systems,Human Computer Interaction, IT in all sectors and industries (Healthcare, Education, Telecommunications, Engineering), Digital Transformation, Digital Twins, Computer Vision,Artificial Intelligence High Performance Computing Computer Networks a",
+      "scope": "The 27th International Arab Conference on Information Technology (ACIT'2026) will be hosted by the National Engineering School of Sousse (ENISo), University of Sousse, and will serve as a leading forum for researchers, engineers, and practitioners to present their latest findings, innovative ideas, and applications across all areas of information technology. The conference will feature peer reviewed paper presentations, keynote lectures by distinguished experts, and may include tutorials and special sessions addressing current challenges and emerging trends in computing and software industries. As the official scientific conference of the Colleges of Computing and Information Society, stemming from the Association of Arab Universities, ACIT 2026 continues its mission of fostering collaboration and advancing IT research in the Arab region and beyond.",
+      "callForPapers": "2026-09-01",
+      "url": "acit2k.org/ACIT/index.php/about-acit2026",
+      "eventContact": "alidouik@gmail.com",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "ECOLE NATIONALE D'INGENIEURS DE SOPUSSE, BP 264, SOUSSE ERRIADH, , , , SOUSSE, , Tunisia, 4023, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

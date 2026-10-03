@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +I3pwY40raIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71774,
+      "eventTitle": "2026 8th International Conference on Mechatronics, Robotics and Automation (ICMRA)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Components, Circuits, Devices and Systems; Robotics and Control Systems",
+      "location": {
+        "city": "Suzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Suzhou University of Science and Technology",
+      "keywords": "Mechatronics Systems and Design, Actuators and Sensors,Mobile Robots and Unmanned  Systems, Cognitive Robotics and Machine Learning, Automation in Manufacturing and  Production, Control and Optimization of Complex Systems,Medical and Healthcare Robotics,Education and Training in Robotics and Mechatronics,",
+      "scope": "2026 8th International Conference on Mechatronics, Robotics and Automation (ICMRA) will be held in Suzhou, China during November 13-15, 2026. It's sponsored by Suzhou University of Science and Technology, hosted by School of Electronic & Information Engineering, Suzhou University of Science and Technology, China. ICMRA is a three-day event comprising of keynote speeches by both leading researchers and industrial experts, focused symposiums, technical oral presentations and updates by industrial presenters. The conference covers a wide range of topics, including intelligent robotics, mechatronics design, automation systems, and intelligent control, providing a platform for researchers and practitioners to exchange ideas and foster collaborations.",
+      "callForPapers": "2026-07-01",
+      "url": "www.icmra.org/",
+      "eventContact": "shiliu@stmails.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Suzhou University of Science and Technology, No. 1701, Binhe Road, Huqiu District, Suzhou City, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

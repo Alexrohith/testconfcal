@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: noCqx440ir0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68290,
+      "eventTitle": "2026 IEEE Spoken Language Technology Workshop (SLT)",
+      "startDate": "2026-12-13",
+      "endDate": "2026-12-16",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Palermo",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Automatic speech recognition,Conversationalmulti-speaker ASR,Far-field speech processing,Speaker and language recognition,Spoken language understanding,Spoken dialog systems,Low resourcemultilingual,Language processing,Spoken document retrieval,Speech-to-speech translation,Text-to-speech systems,Speech for Healthcare Technologies,Privacy-preserving speech recognition,Privacy in Voice Biometrics and Speaker Identification,Robustness of speech technologies against malicious activities,Emotion reco",
+      "scope": "Spoken Language Technology (SLT) is key to human progress—enhancing communication, boosting innovation, and enabling natural human-machine interaction. It improves accessibility, productivity, and emotional engagement. Recent deep learning advances have made once-futuristic SLT applications a reality. Surveys from ASRU workshops (1997–2021) show a shift from pessimism to optimism in SLT's potential. SLT is transforming education and healthcare—detecting conditions like Parkinson’s and aiding telemedicine with voice interfaces. It personalizes learning and helps students with disabilities or in remote areas. As SLT becomes pervasive, privacy is vital, given it can reveal emotions and health. The proposed IEEE SLT 2026 aims to push research boundaries under the theme: Social Wellbeing in the Digital Privacy Era, reflecting SLT’s critical role in modern society.",
+      "callForPapers": "2026-05-15",
+      "url": "",
+      "eventContact": "siniscalchi77.19@gmail.com",
+      "sponsorTypes": "1",
+      "venues": "Saracen Sands Hotel & Congress Centre, Via Libertà, 128/A, , , , Isola delle Femmine (PA), , Italy, 90040, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

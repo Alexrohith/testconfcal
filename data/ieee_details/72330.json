@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /vWGx440grsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72330,
+      "eventTitle": "2026 International Conference on Computer, Internet of Things and Smart City (CIoTSC)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Mianyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; Southwest University of Science and Technology, China",
+      "keywords": "Artificial Intelligence,Software Engineering,Natural Language Processing,Distributed  System,Sensor Networks,IoT Application,Wireless Communication,Intelligent  Transportation,Remote Sensing Monitoring,",
+      "scope": "It focuses on key areas such as smart city technologies, intelligent transportation, cloud  computing, data security, privacy protection, and advanced computing techniques like virtual  reality, computer vision, and natural language processing. The conference aims to promote  innovation in intelligent systems, communication technologies, and urban infrastructure, driving  the development of secure, efficient, and sustainable solutions for the future",
+      "callForPapers": "2026-09-05",
+      "url": "www.ciotsc.org/",
+      "eventContact": "jxl_edu@126.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Mianyang Fulin Taohuadao Hotel, No. 1 Sanjiang West Road North Section, Economic and Technological Development Zone, Distrik Fucheng, 621000 Mianyang, Sichuan, China, , , , Mianyang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

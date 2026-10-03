@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vM2gx440uLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71692,
+      "eventTitle": "2026 International Conference on Data Science and Edge Computing (ICDSEC)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Ningbo",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Changsha Normal University; IEEE Computer Society; University of Nottingham Ningbo China",
+      "keywords": "Data Science ,Edge Computing,",
+      "scope": "The 2nd International Conference on Data Science and Edge Computing (ICDSEC2026) invites researchers, practitioners, and industry leaders to submit original research papers, case studies, and visionary perspectives at the intersection of data-driven innovation and edge computing technologies. ICDSEC2026 aims to provide a forum to bring researchers, academics and practitioners together to exchange ideas and discuss the latest research results on various aspects of Data Science, Edge Computing and other related fields. The focus of the conference is to establish an effective platform for institutions and industries to exchange ideas and introduce the work of scientists, engineers, educators and students from all over the world. This conference is a close integration of academia and industry. Our goal is to foster the exchange of knowledge and innovative ideas in Data Science and Edge Computing.",
+      "callForPapers": "2026-09-01",
+      "url": "www.icdsec.com/2026/index.asp",
+      "eventContact": "pushpendu.kar@gmail.com",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "University of Nottingham Ningbo, 199 Taikang East Road, Ningbo, China, , , , Ningbo, , China, 315100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

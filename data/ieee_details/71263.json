@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5reqx440hL0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71263,
+      "eventTitle": "2027 International Conference on Nano-Devices, Emerging Materials for Advanced Computing (ICNDEMAC)",
+      "startDate": "2027-02-26",
+      "endDate": "2027-02-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nandyal, Andhra Pradesh",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Hyderabad Section COM Chapter; Hyderabad Section SP Chapter; IEEE Hyderabad Section; Santhiram Engineering College",
+      "keywords": "Nanoelectronics,Nanomaterials,Nanotube devices,Communication and Signal Processing Systems,AI for signal Processing,Communication Networks,",
+      "scope": "ICNDEMAC is an international research conference that aims to promote knowledge in the fields of electronics, communications, and related cutting-edge technologies. The conference is centered on original research contributions in the fields of nano-materials for advanced devices, nano-electronics, communication networks, AI-based signal and image processing. The conference is a platform for academicians, researchers, and professionals to share new research findings, exchange ideas, and promote collaboration that leads to innovation in the theoretical and practical domains of modern electronic and communication engineering.",
+      "callForPapers": "2026-07-20",
+      "url": "icndemac.com/srec/",
+      "eventContact": "praveen.ece@srecnandyal.edu.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Santhiram Engineering College (Autonomous), Main Block - Seminar Hall, NH-40, Neravada, X-Roads, Nandyal, Andhra Pradesh, Nandyal, , India, 518501, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

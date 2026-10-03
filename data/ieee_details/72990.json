@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: raztwY40z6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72990,
+      "eventTitle": "2027 6th International Conference on Innovative Practices in Technology and Management (ICIPTM)",
+      "startDate": "2027-02-22",
+      "endDate": "2027-02-23",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Amity University, Noida; Uttar Pradesh Section",
+      "keywords": "Artificial Intelligence,Machine Learning,Technology Innovation And Sustainability,green technology,Brand Management,Computer network management,Contract Management,Healthcare Information Management,Information And Data Management,Project Management,Service Management,Agricultural Engineering,Biomedical Engineering,Industrial Engineering,Predictive Analytics,,",
+      "scope": "The conference provides a multidisciplinary platform for researchers, academicians, industry experts, and practitioners to exchange ideas and present innovations in engineering, technology, computation, automation, information systems, operations, and knowledge management. It promotes interdisciplinary collaboration, knowledge sharing, and industry? academia partnerships, fostering practical solutions and emerging research that address contemporary technological, analytical and societal challenges.",
+      "callForPapers": "2027-01-11",
+      "url": "amity.edu/iciptm2027/Default.asp",
+      "eventContact": "pverma2@amity.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Amity University, Sector -125, Noida, , , Noida, , India, 201313, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

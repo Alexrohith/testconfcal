@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: t8znwY40oqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72501,
+      "eventTitle": "2026 IEEE 9th International Conference on Electronic Information and Communication Technology (ICEICT)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-23",
+      "about": "Communication, Networking and Broadcast Technologies; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Foshan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Foshan University; Harbin Section",
+      "keywords": "Communication,wireless communication,Internet of things,Signal Processing,Information Technology,Microwave Technology, Antennas,Emc Measurements,Microelectronic Devices ,Computer Science,Pattern recognition,Artificial intelligence,Machine learning,deep learning,Magnetic materials, Sensors,Electrical Engineering,Automatic Control,",
+      "scope": "2026 IEEE 9th International Conference on Electronic Information and Communication Technology (ICEICT 2026) will be held in Foshan, China on November 20-23, 2026.  ICEICT 2026 is sponsored by Foshan University and IEEE Harbin Section. The ICEICT conferences have been successfully held for eight times since 2016. They were held by Harbin Institute of Technology in Harbin in 2016, Harbin Engineering University in Harbin in 2019, Shenzhen University in Shenzhen in 2020, Xi'an Jiaotong University in August in 2021, Anhui University in August in 2022, Qingdao University in Qingdao in 2023, Northwestern Polytechnical University in Xi’an in 2024 and Harbin Institute of Technology (Weihai) in Weihai in 2025 respectively. All accepted papers of the ICEICT have been indexed by EI Compendex and published in IEEE Xplore, respectively.",
+      "callForPapers": "2026-09-20",
+      "url": "http://www.iceict.org/",
+      "eventContact": "hit@vip.163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Crowne Plaza Foshan, 118, Fenjiang Middle Road, Chancheng District , , , , Foshan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

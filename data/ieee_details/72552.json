@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0r2Nx440vLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72552,
+      "eventTitle": "2026 International Conference on Metaverse Computing, Networking and Applications (MetaCom)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-09",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Communications Society; Kanazawa University",
+      "keywords": "Metaverse,Metacomputing,Large Language Model,meta applications,Networking,meta architecture,Blockchain,web 3.0,Cybersecurity,data security,Network Security,,Trust Management, Trust,Data Privacy,Security & Privacy,Immersive service,digital twin,Holographic applications,AR VR XR,Resource allocation,cloud computing,edge intelligence,Fog computing,B5G6G,Ultra-lowtime communications,Cyber physical system,Artificial intelligence,Federated learning,Mobile computing,Sensing and Semantic computing,",
+      "scope": "MetaCom 2026 provides a forum for academic researchers and industry practitioners to present research progresses, exchange new ideas, and identify future directions in the field of Computing, Networking, and Applications for Metaverse. Metaverse is one of the key enablers for the future society, which is envisioned to bring a new revolution to digital world. For Metaverse, physical world will be seamlessly integrated with cyber world through digitizing physical objects to create digital twins, which poses numerous challenges on human-machine interfaces, ultra-low latency, extremely high resource demands, low traffic, reliability and trustworthiness. To realize this vision, it becomes indispensable for the convergence of computing, networking and applications for Metaverse in a wide range of domains including industry, finance, medical care, smart cities, entertainment, education, and agriculture.",
+      "callForPapers": "",
+      "url": "www.ieee-metacom.org/2026/",
+      "eventContact": "liruidong@ieee.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Xi'an Jiao Tong University, No. 28 Xianning West Road, Beilin District, Xi'an City, Shaanxi Province, , , , Xi'an City, , China, 710049, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

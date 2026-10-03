@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5MKMx440wb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71411,
+      "eventTitle": "2027 34th Southern African Universities Power Engineering Conference (SAUPEC)",
+      "startDate": "2027-01-27",
+      "endDate": "2027-01-28",
+      "about": "Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Johannesburg",
+        "region": "",
+        "country": "South Africa"
+      },
+      "sponsors": "South Africa Institute of Electrical Engineers; South Africa Section",
+      "keywords": "renewable energy, power engineering, electrical machine, electrical drives, power system, high voltage dc, electric propulsion, power electronics, artificial intelligence, automation, energy markets, transactive energy, energy modelling, sustainable development, smart grids, mechatronic systems,",
+      "scope": "Power Systems and Smart Grids, Machine Drives, Advanced Electronics and Materials, Artificial Intellegence, Automation, Cyber-Physical Systems, Power Electronics, Industry 4.0, Renewable Energy, Industry Applications, Robotics, Control Systems and Electricity Markets",
+      "callForPapers": "2026-10-12",
+      "url": "https://www.saiee.org.za/displaycustomlink.aspx?name=SAUPEC2027",
+      "eventContact": "geyerg@saiee.org.za",
+      "sponsorTypes": "3; 9",
+      "venues": "UNISA , Florida Campus, 28 Pioneer Avenue, Florida Park, Roodepoort, Johannesburg, , South Africa, 1709, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

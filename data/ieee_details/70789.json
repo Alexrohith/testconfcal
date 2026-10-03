@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8KySx4402rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70789,
+      "eventTitle": "2026 International Conference on Asian Language Processing (IALP)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Chinese and Oriental Languages Information Processing Society; Guangzhou Section SP/COM-Shenzhen Jt. Chapter; Singapore Section SMC Chapter",
+      "keywords": "Asian Language,Natural Language Processing,Speech Processing,Lingusitics,Language Education,Language Resource,",
+      "scope": "The International Conference on Asian Language Processing (IALP) is the flagship conference of the Chinese and Oriental Languages Information Processing Society (COLIPS). The conference aims to advance the science and technology of all the aspects of Asian Language Processing by providing a forum for researchers in the different fields of language study to meet. The topics of the conference covers Natural Language Processing, Spoken Language Processing, Computational Linguistics, Language Education, etc.",
+      "callForPapers": "2026-07-15",
+      "url": "www.colips.org/conferences/ialp2026/wp/",
+      "eventContact": "luyf@a-star.edu.sg",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": ", , , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

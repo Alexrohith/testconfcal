@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ivGHx440l7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72176,
+      "eventTitle": "2027 New Paradigms in Electronics & information Technology (PEIT)",
+      "startDate": "2027-03-23",
+      "endDate": "2027-03-25",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Cairo",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Electronics Research Institute, Egypt",
+      "keywords": "Electronics Engineering Information,Signal Processing ,Communication Systems, Information Technology,Artificial Intelligence,Power Electronics,Renewable Energy Systems, Microelectronics,RF and Microwave Engineering,",
+      "scope": "The 6th International Conference on New Paradigms in Electronics and Information Technology (PEIT 2026) aims to provide a comprehensive platform for researchers, scientists, and industry professionals to present and discuss the latest advancements, emerging trends, and innovative applications in the fields of electronics and information technology.  The conference focuses on both theoretical developments and practical implementations across a wide range of topics, including but not limited to power electronics, renewable energy systems, microelectronics, RF and microwave engineering, communication systems, signal processing, computer engineering, and information technology.  PEIT 2026 also emphasizes interdisciplinary research that integrates artificial intelligence, data science, and intelligent systems with modern electronic and communication technologies to address real-world engineering challenges. The conference seeks to bridge the gap between academia and industry by fostering co",
+      "callForPapers": "2026-10-01",
+      "url": "peit.eri.sci.eg/",
+      "eventContact": "mayada@eri.sci.eg",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , ,  Cairo, , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

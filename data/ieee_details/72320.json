@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tumex440wr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72320,
+      "eventTitle": "2026 International Conference on Cybersecurity Systems (CCSS)",
+      "startDate": "2026-10-27",
+      "endDate": "2026-10-30",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "Al Ain University ; France Section; France Section C Chapter",
+      "keywords": "Cybersecurity,Autonomous Systems,Network Security,Cloud and Edge Security,AI and Cybersecurity,",
+      "scope": "The International Conference on Cybersecurity Systems (CSS 2026) is a lively and inclusive gathering where researchers, academics, and industry professionals from across the globe come together to explore the latest advancements in Cybersecurity Systems and intelligent systems. Cybersecurity Systems received a lot of attention as AI continues to reshape industries and push the boundaries of what’s possible. CSS 2026 creates a welcoming space for innovation, collaboration, and the exchange of ideas in the Cybersecurity domain.  CSS 2026 serves as a premier platform for researchers, academics, and industry professionals to converge and explore the latest advancements, challenges, and applications in the dynamic fields of Cybersecurity Models and Systems. The conference provides a collaborative environment for the exchange of ideas, fostering innovation and promoting interdisciplinary research at the intersection of these transformative domains.",
+      "callForPapers": "2026-06-30",
+      "url": "css-conference.org/2026/index.php",
+      "eventContact": "siba.haidar@esiea.fr",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "École supérieure d'informatique, électronique, automatique (ESIEA) , , , , , Paris, , France, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

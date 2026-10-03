@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zoqvx44038ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72392,
+      "eventTitle": "2027 9th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE)",
+      "startDate": "2027-04-07",
+      "endDate": "2027-04-09",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Nuclear Engineering; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Moscow",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "American University of Sharjah - AUS; Arab Academy for Science and Technology Cairo STB; College of Engineering & Technology, Arab Academy University (AASTMT), Heliopolis Campus, Cairo, Egypt; Egypt Section PEL Chapter; IEEE Industry Applications Society; Moscow Power Engineering Institute; Moscow Power Engineering Institute STB",
+      "keywords": "Power, Energy,Power Engineering,Radio Electronics,Intelligent robots,Electric Transportation,Renewable energy sources,Control Systems,Communication,Signal Processing,Mechanical Engineering,Medical Engineering,Engineering Management,Electrical Engineering,Water-Energy & sustainability,Power Quality,",
+      "scope": "The 2027 9th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE) is an international forum for the exchange of ideas, novelty, and information in the fields of electrical power and energy engineering, signal processing, computer engineering, nuclear engineering, and mechanical engineering, among others. REEPE conference topics include nuclear and mechanical applications, voltage regulation for electricity networks up to 1150 kV, techniques for enhancing dynamic stability in power systems, soft computing applications in power systems, methods for testing overhead power line support, methods for regulating electrical energy, monitoring power quality, and assessing how modern electrical appliances affect the electricity supply system. Further, research interests include Industrial design, Water-Energy and Sustainability, engineering Management, Medical Devices and Diagnostic Engineering, and evaluating the efficiency of power plants.",
+      "callForPapers": "",
+      "url": "reepe.mpei.ru/IEEE/Pages/default.aspx",
+      "eventContact": "Zubkovais@mpei.ru",
+      "sponsorTypes": "1; 5; 5; 5; 9; 9; 9",
+      "venues": "College of Engineering & Technology, Arab Academy University (AASTMT), Heliopolis Campus, Gamal Mokhtar Hall, El Moushir Ahmed Ismail St., Sheraton Al Matar, College of Engineering and Technology, Heliopolis Campus, AASTMT, , , , Cairo, , Egypt, 11757, ;Energy, Water and Sustainable Environment Research Center, American University of Sharjah, AUS, University City Sharjah, , , , Sharjah, , United Arab Emirates, P.O. 26666, ;Moscow power engineering institute, National Research University, 17 Krasnokazarmennaya St., , , , Moscow, , Russia, 111250, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

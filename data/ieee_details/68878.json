@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 55Ovx440xb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68878,
+      "eventTitle": "2028 IEEE-NPSS Real Time Conference (RT)",
+      "startDate": "2028-05-27",
+      "endDate": "2028-06-02",
+      "about": "Computing and Processing; Nuclear Engineering; Signal Processing and Analysis",
+      "location": {
+        "city": "Sherbrooke",
+        "region": "Quebec",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Nuclear and Plasma Sciences Society",
+      "keywords": "Emerging Technologies,New Standards,Data Acquisition,Upgrades,Feedback on Experience,Real Time Safety and Security,Control Monitoring Test And Real Time Diagnostics Systems,Trigger Systems,Real Time System Architectures,Intelligent Signal Processing,Fast Data Transfer Links and Networks,Front End Electronics and Fast Digitizers,Processing Farms,Real Time Simulation,Edge AI,",
+      "scope": "RT2028 is a multidisciplinary conference devoted to the latest developments on real time techniques in the fields of plasma and nuclear fusion, particle physics, nuclear physics and astrophysics, space science, accelerators, medical physics, nuclear power instrumentation and other radiation instrumentation.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "marc-andre.tetrault@usherbrooke.ca",
+      "sponsorTypes": "1",
+      "venues": "Delta Hotels by Marriott, 2685 rue King Ouest, , , , Sherbrooke, QC, Canada, J1L1C1, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

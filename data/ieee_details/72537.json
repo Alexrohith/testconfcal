@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nfjhwY40jqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72537,
+      "eventTitle": "2027 International Conference on Artificial Intelligence and Applied Intelligent Systems (AIAIS)",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-24",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hong Kong",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "City University of Hong Kong - CityU; Hong Kong Section",
+      "keywords": "Artificial Intelligence,Intelligent Systems,Computational Intelligence,Machine Learning,Data Mining,Computer Vision ,Pattern Recognition,Intelligent Control,",
+      "scope": "The conference calls for high-quality, original research papers in the theory and practice of Artificial Intelligence and Applied Intelligent Systems, including AI Algorithms and Computational Intelligence; Data Analytics, Perception, and Intelligent Processing; Intelligent Systems, Control, and Engineering Applications; Trustworthy, Secure, and Emerging AI Systems",
+      "callForPapers": "",
+      "url": "www.aiais.site/",
+      "eventContact": "aiais_info@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "City University of Hong Kong, , , , , , , Hong Kong, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

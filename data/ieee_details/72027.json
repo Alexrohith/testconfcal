@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1ZaGx440/LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72027,
+      "eventTitle": "2026 International Conference on Cognitive and Intelligent Technology (ICCIT)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Nanjing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Nanjing University of Information Science and Technology - NUIST",
+      "keywords": "Artificial Intelligence and Societal Impact,Ethical Challenges in Intelligent Systems,AI-Human Collaboration and Collective Intelligence,Robotics Autonomous Systems and Intelligent Automation,Intelligent Technologies for Smart Cities and IoT,",
+      "scope": "ICCIT promises to be an exciting platform for discussing the latest trends and innovations in Cognitive and Intelligent Technology. This conference will bring together thought leaders, industry experts, and researchers to explore pivotal topics such as build systems that emulate human-like adaptability, insight, and interaction-driving forward intelligent innovation that empowers, rather than replaces, human thinking. Additionally, the conference can provide networking opportunities, fostering collaborations that could lead to groundbreaking projects. By addressing both the advantages and challenges posed by rapid technological advancements.",
+      "callForPapers": "2026-07-25",
+      "url": "www.iccit.org/",
+      "eventContact": "xinyuwangxywa@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Nanjing University of Information Science and Technology, China, No.219, Ningliu Road, Nanjing, Jiangsu, China, , , , Nanjing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

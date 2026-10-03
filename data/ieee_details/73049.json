@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5crhwY40+aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73049,
+      "eventTitle": "2027 4th International Conference on Power Electronics and Artificial Intelligence (PEAI)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-10",
+      "about": "Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Shanghai University of Electric Power",
+      "keywords": "Artificial Intelligence,Power Electronics,Computational Intelligence,Cyber-Physical Systems,Intelligent Control,Machine Learning,",
+      "scope": "The 2027 4th International Conference on Power Electronics and Artificial Intelligence (PEAI 2027) focuses on cutting-edge research and technological innovations in power electronics, artificial intelligence, and intelligent energy systems. The conference explores the integration of intelligent control, machine learning, computational intelligence, cyber-physical systems, and smart energy technologies to enhance the efficiency, reliability, and sustainability of modern power and industrial infrastructures. PEAI 2027 aims to provide an international forum for researchers, engineers, and industry professionals to exchange innovative theories, methodologies, and practical applications that address emerging challenges in intelligent power conversion, automation, energy management, and next-generation intelligent systems.",
+      "callForPapers": "2026-10-23",
+      "url": "www.icpeai.org/",
+      "eventContact": "shlwang_pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Shanghai University of Electric Power, No. 1851, Huchenghuan Road, Pudong New Area, Shanghai, China, , , , Shanghai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

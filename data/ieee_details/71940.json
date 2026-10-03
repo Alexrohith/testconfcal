@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hZbfwY405KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71940,
+      "eventTitle": "2026 International Conference on Intelligent Computing and Artificial Intelligence (ICICAI)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-05",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Jabalpur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gyan Ganga Institute of Technology and Sciences, Jabalpur; Madhya Pradesh Section",
+      "keywords": "Intelligent computing,Artificial Intelligence (AI),Machine Learning,Deep Learning,Computational Intelligence,Data Science,Predictive Analytics,Cognitive Computing,",
+      "scope": "The International Conference on Intelligent Computing and Artificial Intelligence (ICICAI-2026), organized by the Department of Computer Science and Engineering at GGITS, Jabalpur, and sponsored by IEEE Madhya Pradesh Section, focuses on advancements in intelligent computing and AI. The conference covers emerging areas such as machine learning, deep learning, and robotics, while promoting interdisciplinary collaboration to address real-world challenges. Discussions will include theoretical foundations, algorithms, and applications across sectors like healthcare and agriculture, with an emphasis on ethics and responsible AI use. It features keynote talks, technical sessions, and networking opportunities to foster innovation and impactful research.",
+      "callForPapers": "2026-10-03",
+      "url": "ggits.org/icicai",
+      "eventContact": "ashish.mish2009@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Gyan Ganga Institute of Technology and Sciences, Bargi Hills, Tilwaraghat Road, , , Jabalpur, , India, 482003, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: g+mfx440yr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72389,
+      "eventTitle": "2027 IEEE PES Innovative Smart Grid Technologies - Asia (ISGT Asia)",
+      "startDate": "2027-09-15",
+      "endDate": "2027-09-17",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Power & Energy Society; PES Thailand Section Chapter, PE31",
+      "keywords": "Cybersecurity and Data PrivacyCybersecurity and Data Privacy in Smart Grids,power system digitalization,renewable integration,DERs,microgrids & VPPs,energy storage,grid flexibility & resilience,power electronics & converters,EVs & charging,AI/ML in power systems,big data & digital twins,IoT for energy,cybersecurity & data privacy,monitoring protection & control,electricity markets & trading,energy policy & planning,low-carbon/net-zero systems,integrated energy systems & smart cities,",
+      "scope": "The IEEE PES Innovative Smart Grid Technologies (ISGT) Asia conference focuses on cutting-edge research, development, and deployment of smart grid technologies across the Asia-Pacific region. It provides a platform for academia, industry, and policymakers to exchange knowledge on advanced power systems, digitalization, and sustainable energy solutions.  Key topics include, but are not limited to, smart grid planning and operation, renewable energy integration, distributed energy resources, power electronics and control, grid resilience and reliability, energy storage systems, electric vehicles, and AI/IoT applications in power and energy systems. The conference also emphasizes policy, market design, and regulatory frameworks supporting the transition toward low-carbon and intelligent energy systems.",
+      "callForPapers": "2027-07-02",
+      "url": "www.isgt-asia-2027.org/",
+      "eventContact": "jirawadee99@ieee.org",
+      "sponsorTypes": "1; 5",
+      "venues": "Centara Grand & Bangkok Convention Centre at Centralworld, , , , , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

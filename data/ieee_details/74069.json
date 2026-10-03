@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nt6Kx440nLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74069,
+      "eventTitle": "2027 10th International Conference on Circuit, Power & Computing Technologies (ICCPCT)",
+      "startDate": "2027-08-05",
+      "endDate": "2027-08-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kollam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Baselios Mathews II College of Engineering; Kerala Section",
+      "keywords": "Cloud Computing,Artificial Intelligence,Expert Systems,Communication Systems,Medical Electronics,Digital Image Processing,VLSIEmbedded Systems,Soft Computing Applications in Power Systems,Green and Renewable energy technology,",
+      "scope": "The Conference theme is Recent Innovations, Current Advancements and Challenges in power and computing technologies",
+      "callForPapers": "2027-04-15",
+      "url": "www.iccpct.in",
+      "eventContact": "padmasuresh77@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Baselios Mathews II College of Engineering, , , , , Kollam, , India, 690250, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

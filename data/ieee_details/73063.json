@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1Neex440uLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73063,
+      "eventTitle": "2027 7th International Conference on Emerging Systems and Intelligent Computing (ESIC)",
+      "startDate": "2027-05-14",
+      "endDate": "2027-05-16",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Consumer Technology Society; UCSI University",
+      "keywords": "Big Data Analytics.,Data Visualization.,Internet of Things (IoT).,Smart Cities,Cybersecurity.,AI in Security and Defence.,Security for Mobile Computing.,Big Data and Healthcare.,Medical Image Processing and Techniques.,Digital Transformation and Social Impact.,Intelligent Information Systems.,Technology in Society.,Ubiquitous Computing in Learning.,Wearable Technologies in Learning.,Metamodelling Techniques.,Software Architecture and Design.,Smart Devices.,Intelligent Devices and Environments.,",
+      "scope": "The International Conference on Emerging Systems and Intelligent Computing (ESIC) provides a premier platform for researchers, academicians, industry professionals, and practitioners to present and discuss recent advances in intelligent computing and emerging technologies. The conference focuses on artificial intelligence, machine learning, data science, cloud and edge computing, cybersecurity, Internet of Things, smart systems, robotics, intelligent networks, computational intelligence, and sustainable digital technologies. ESIC promotes interdisciplinary research, innovative solutions, and industry-academia collaboration to address real-world challenges and foster the development of next-generation intelligent systems and computing paradigms.",
+      "callForPapers": "2027-01-15",
+      "url": "icesic.com/",
+      "eventContact": "hrudayakumar@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "UCSI University, UCSI Heights, 1, Jln UCSI, Taman Connaught,, Wilayah Persekutuan, , , Kuala Lumpur, , Malaysia, 56000 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

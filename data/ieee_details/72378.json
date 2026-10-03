@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /tCwx4404L0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72378,
+      "eventTitle": "2026 IEEE Smart City USA Conference (SMU)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Plano",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Smart Cities Community",
+      "keywords": "Smart City,Smart Mobility,Intelligent Transportation,IoT Connectivity,Embedded Systems,Edge Computing,Artifical Intelligence,Big Data,Sustainable Energy,Smart Grids,Digital Twins,Urban Infrastructure,Citizen Engagement,",
+      "scope": "Smart City USA 2026 is a premier one-day conference uniting government officials, industry leaders, and technical experts to collaborate on smart city topics, including innovative urban solutions, development insights, and practical use cases. This conference categorizes its content across six technical tracks: Smart Mobility & Transportation, IoT & Edge Computing, AI & Big Data in Urban Environments, Sustainable Energy, Smart Urban Infrastructure, and Smart Government. The event focuses on urban innovations that advance the UN Sustainable Development Goals (SDGs) in mobility, digital transformation, energy, infrastructure, and governance. All submissions will be evaluated by domain experts for their technical depth, innovation, and contribution to at least one SDG, ensuring that speakers and participants address measurable societal outcomes.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "tomtaoran@aliyun.com",
+      "sponsorTypes": "6",
+      "venues": "Collin College - Plano Campus Conference Center, 2800 E Spring Creek Parkway, Building AA, , , Plano, TX, USA, 75074, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

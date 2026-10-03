@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gresx440p70BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72523,
+      "eventTitle": "2026 8th International Conference on Intelligent Control, Measurement and Signal Processing (ICMSP)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Industrial Electronics Society; IEEE Systems, Man, and Cybernetics Society; Xi'an Shiyou University",
+      "keywords": "Intelligent Control and Automation Technologies,Network-Based Control Systems and Applications,Fuzzy-Neural Network Control,Remote Intelligent Control,Laser Measurement Technologies,High-precision Optoelectronic Instrument,Digital Signal Filtering,Adaptive Signal Processing,Signal Denoising Technologies,Oilfield Intelligent Management Systems,Digital Oilfield Construction,Oilfield Intelligent Inspection,",
+      "scope": "With the rapid advancement and deep integration of intelligent control, precision measurement, and signal processing technologies in the oil and gas industry, ICMSP 2026 will offer a high-level academic platform for global scholars and engineers to share cutting-edge research, tackle engineering challenges, and enhance international cooperation. The conference will focus on intelligent control and automation technologies, network-based control systems and applications, fuzzy-neural network control, remote intelligent control, laser measurement technology, high-precision optoelectronic instruments, digital signal filtering, adaptive signal processing, signal denoising technology, oilfield intelligent management systems, digital oilfield construction, and oilfield intelligent inspection. It will promote the translation of research results into industrial applications, facilitate participant exchanges, and drive continuous innovation and practical progress of related technologies.",
+      "callForPapers": "2026-08-08",
+      "url": "www.icmsp.net/",
+      "eventContact": "icmsp-pc@outlook.com",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "China National Convention Center, No.7 Tianchen East Road, Chaoyang District, Beijing, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hqzcwY40u6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71147,
+      "eventTitle": "2026 IEEE Signal Processing in Medicine and Biology Symposium (SPMB)",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-05",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Philadelphia Section; Temple University",
+      "keywords": "signal processing,machine learning,deep learning,big data,bioengineering,bioinfomatics,",
+      "scope": "The Philadelphia Section of the IEEE invites you to participate in a single-day symposium designed to promote synergy between the healthcare industries and signal processing researchers.",
+      "callForPapers": "2025-07-01",
+      "url": "www.ieeespmb.org/2026/",
+      "eventContact": "joseph.picone@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

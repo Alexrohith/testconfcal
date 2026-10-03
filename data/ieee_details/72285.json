@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kuzfwY40/KEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72285,
+      "eventTitle": "2026 5th Workshop on Electronics Communication Engineering (WECE)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; University of Electronic Science and Technology of China",
+      "keywords": "Advanced VLSI Systems,Machine Learning and Artificial Intelligence,Computer and Intelligent  Communication,Network Security,",
+      "scope": "WECE 2026 focuses on a broad range of topics, including but not limited to wireless communications, signal processing, electronic systems, communication networks, integrated circuits, intelligent communication technologies, and emerging applications. The workshop seeks to promote the exchange of innovative ideas, practical experiences, and research findings, while fostering interdisciplinary collaboration between academia and industry. The conference will provide participants with valuable opportunities to engage in face-to-face discussions, establish academic and industrial partnerships, and explore possibilities for future international cooperation. Through keynote speeches, invited talks, and technical sessions, WECE 2026 aims to contribute to the advancement of electronics and communication engineering and its applications in modern society.",
+      "callForPapers": "2026-04-25",
+      "url": "www.wece.org/",
+      "eventContact": "liujinhua@ieee-ccss.org",
+      "sponsorTypes": "3; 9",
+      "venues": "University of Electronic Science and Technology of China (UESTC), No. 2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

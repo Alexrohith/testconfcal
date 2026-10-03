@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: l4Ohx4400r8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72551,
+      "eventTitle": "2026 International Conference on Digital Transformation and Intelligent Society (DTISO)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Al Ain University ; Gulf University for Science and Technology; Spain Section; Universidad Politecnica De Valencia - Spain",
+      "keywords": "Digital Transformation ,Intelligent Society,Big Data and Data Analytics ,",
+      "scope": "The International Conference on Digital Transformation and Intelligent Society (DTIS) invites researchers, practitioners, and industry experts to submit their original and high-quality contributions addressing the challenges and opportunities of digital transformation in shaping an intelligent society. DTIS aims to provide a premier platform for discussing innovative ideas, recent advances, and emerging trends in digital technologies and their impact on society, industry, and governance. The conference seeks to bridge the gap between academia and industry by fostering collaboration and knowledge exchange.",
+      "callForPapers": "2026-07-21",
+      "url": "dtis-conference.org/2026/",
+      "eventContact": "yaser.amd@gmail.com",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Novotel Barcelona City Hotel, , , , , Barcelona , , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

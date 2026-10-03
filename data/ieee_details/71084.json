@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qcKWx4407rsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71084,
+      "eventTitle": "2026 International Workshop on Metrology for the Sea; Learning to Measure Sea Health Parameters (MetroSea)",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "ŠIBENIK",
+        "region": "",
+        "country": "Croatia"
+      },
+      "sponsors": "Bulgaria Section; Bulgaria Section WIE Affinity Group; CeRICT scrl Regional Center Information Communication Technology; Croatia Section; Croatia Section RA Chapter; France Section; IEEE Instrumentation and Measurement Society; IEEE Oceanic Engineering Society; Italy Section; Italy Section IM Chapter; Italy Section OE Chapter; Italy Section SEN Chapter; Region 08 - Europe,Middle East,Africa; Slovenia Section",
+      "keywords": "sea measurements,Sensors,Ocean Remote Sensing,Ocean Instrumentation,Oceans,Oceanographic Techniques,Environmental Engineering,Marine Engineering,Submarine,Geology,",
+      "scope": "MetroSea conference will be broad in scope covering all areas concerning research in measurements and instrumentation field. With the breadth of topics covered, this conference seeks to attract diverse participation and collaboration from academia, industry, and government agencies that will promote marine science and technologies interests with opportunities to increase technical depth and breadth as well as networking with peers. In a world where technology is rapidly changing, collaborations and multidisciplinary work is the only way to solve research challenges and foster the next generation of scientific discovery.",
+      "callForPapers": "2026-05-10",
+      "url": "metrosea.org",
+      "eventContact": "daponte@unisannio.it",
+      "sponsorTypes": "1; 1; 2; 3; 3; 3; 3; 3; 5; 5; 5; 5; 5; 9",
+      "venues": "Amadria Park Hotel Ivan, , , , , Šibenik, , Croatia, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

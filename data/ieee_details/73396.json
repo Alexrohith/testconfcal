@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: taGkx4404rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73396,
+      "eventTitle": "2027 IEEE International Conference on Electro Information Technology (eIT)",
+      "startDate": "2027-05-20",
+      "endDate": "2027-05-22",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Edwardsville",
+        "region": "Illinois",
+        "country": "USA"
+      },
+      "sponsors": "Region 04 - Central USA",
+      "keywords": "Electrical and Computer Engineering,Computer Science,Biomedical Engineering,Power engineering and energy,Software Enginnering,Intelligent Transportation Systems,Engineering Education,",
+      "scope": "The 2027 IEEE International Conference on Electro/Information Technology (EIT), sponsored by IEEE Region 4 in cooperation with Region 5, will be hosted by the Southern Illinois University Edwardsville (SIUE). It will provide a premier forum for advancing research and innovation in electrical, computer, and information technologies.",
+      "callForPapers": "2027-02-15",
+      "url": "eit.r4.ieee.org",
+      "eventContact": "hossein.mousavinezhad@ieee.org",
+      "sponsorTypes": "2",
+      "venues": "Southern Illinois University Edwardsville, , , , , Edwardsville, IL, USA, 62026, ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

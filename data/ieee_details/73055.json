@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 7,Rid: /Nv6xo40yboBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73055,
+      "eventTitle": "2026 International Conference on Artificial Intelligence, Blockchain, Cloud Computing, and Data Analytics (ICoABCD)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-02",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "DIY Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; PERKUMPULAN AKADEMISI DAN SAINTIS INDONESIA (ASASI)",
+      "keywords": "Artificial Intelligence,Blockchain,Cloud Computing,Data Analytics,,",
+      "scope": "Communication, Networking & Broadcasting",
+      "callForPapers": "2026-10-01",
+      "url": "icoabcd.asasi.or.id/",
+      "eventContact": "ismankrn@telkomuniversity.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "EASTPARC HOTEL Yogyakarta , Laksda Adisucipto Km 6,5 Seturan , , , , Yogyakarta, , Indonesia, 55281, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

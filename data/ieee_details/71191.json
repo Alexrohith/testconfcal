@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +t77xo40zroBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71191,
+      "eventTitle": "2026 International Conference on Converging Intelligence (CICON)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Gandhinagar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gujarat Section; Karnavati University ",
+      "keywords": "Computer Technology,Communication Engineering,Design & Innovation,Artificial Intelligence ,IoT and Emerging Trends,",
+      "scope": "Next-Gen Design and Technology for a Sustainable Future",
+      "callForPapers": "2026-03-31",
+      "url": "ieeecicon.karnavatiuniversity.edu.in/",
+      "eventContact": "kusumaggarwal02@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Block D, UIT, Karnavati University, , , , , Gandhinagar, , India, 382422, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

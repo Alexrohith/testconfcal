@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: sN+Px440y7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73352,
+      "eventTitle": "2027 IEEE Electric Aircraft Technologies Symposium (EATS)",
+      "startDate": "2027-07-07",
+      "endDate": "2027-07-09",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Transportation",
+      "location": {
+        "city": "Montreal",
+        "region": "Quebec",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Transportation Electrification Council",
+      "keywords": "electric aircraft,advanced propulsion systems & architectures,Batteries,fuel cells,Electric machines & drives,Electric Power Management & Distribution,Superconducting & Cryogenic Systems and Components,High Voltage Considerations,Aircraft Design & Development,Systems integration,AAM,digital engineering,Artificial Intelligence,Advanced Manufacturing,avionics & control,system dynamics & control,operations,Power & Thermal Systems Integration,Certification standards and regulations,Sustainable aviat",
+      "scope": "Electric Aircraft Technologies",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "l.riello@ieee.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , Montreal, QC, Canada, , ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

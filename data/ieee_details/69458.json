@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4/uPx440vLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69458,
+      "eventTitle": "2027 Energy Conversion Congress & Expo Europe (ECCE Europe)",
+      "startDate": "2027-08-30",
+      "endDate": "2027-09-02",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Aachen",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "European Center for Power Electronics - ECPE; Germany Section IE/IA/PEL Jt Chapter; IEEE Power Electronics Society; RWTH Aachen University ",
+      "keywords": "Power Electronics ,Power Converter,Power semiconductor devices,Passive components,Components, packaging, and manufacturing technology,Supervision and control of power electronic converters,Artificial intelligence for power electronic applications and drives,Electricla drives,Power electronics for flexible grids,E-mobility and propulsion systems,Power supplies and industry application s of power electronics,On-board and off-board charging,Reliability of power converters,Re",
+      "scope": "Power electronic converters and drives",
+      "callForPapers": "2027-02-22",
+      "url": "www.ecce-europe.org",
+      "eventContact": "pck@vestas.com",
+      "sponsorTypes": "1; 5; 9; 9",
+      "venues": "Eurogress Aachen, Monheimsallee 48, 52062 Aachen, , , Aachen, , Germany, 52062 Aachen, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

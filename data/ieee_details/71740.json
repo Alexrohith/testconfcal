@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4KGex440tbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71740,
+      "eventTitle": "2026 4th IEEE International Conference on Industrial Electronics: Developments & Applications (ICIDeA)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section IE Chapter",
+      "keywords": "Industrial Electronics,Power and energy,Electric Vehicle,Converters and control,Cyber Physical Systems,AI and fuzzy,Internet of Things,Power System operation and control,Power Electronics and Drives,Electric Transportation,Renewable energy systems and integration,Signal processing applications,Biomedical Electronics,Linear and non-linear Control system,Special Electric Machines,Drone TechnologSemiconductor ,Smartgrid,Microgrids,Power Quality,Digital Twin,Responsible AI i",
+      "scope": "The conference aims to bring together leading academic researchers and research scholars to exchange and share their experiences and research results on all aspects of Industrial Electronic developments and applications. It will also provide an interdisciplinary platform for researchers, practitioners and educators to present and discuss the most recent innovations, trends and concerns as well as practical challenges encountered and solutions adopted in the fields of Industrial Electronics applications such as electric vehicle, charging infra, energy sector, smart transport, AI applications, cyber security, control systems, robotics and drone technology, electronics & instrumentation, agricultural machinery sector, AI applications, defense and allied areas etc.",
+      "callForPapers": "2026-03-15",
+      "url": "https://icidea.kiit.ac.in/",
+      "eventContact": "ranjeeta.patelfel@kiit.ac.in",
+      "sponsorTypes": "3; 5",
+      "venues": "Kalinga Institute of Industrial Technology Deemed to be University, Bhubaneswar, Patia, Bhubaneswar, Odisha, , Bhubaneswar, , India, 751024, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

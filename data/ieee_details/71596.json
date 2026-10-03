@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kZeYx440k78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71596,
+      "eventTitle": "2026 30th International Computer Science and Engineering Conference (ICSEC)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hua Hin, Prachuap Khiri Khan",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Kasetsart University; Thailand Section; Thailand Section C Chapter",
+      "keywords": "Computer Science,Computer Engineering,Information Technology,Robotics and Intelligent Systems,VLSI and Chip Design,Internet of Things (IoT),",
+      "scope": "Computer Science, Computer Engineering, Information Technology, Robotics and Intelligent Systems, VLSI and Chip Design, Internet of Things (IoT) and Their Applications",
+      "callForPapers": "2026-08-31",
+      "url": "cpe.eng.kps.ku.ac.th/ICSEC2026/",
+      "eventContact": "thitipong.s@ku.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Princess Chulabhorn International Convention Centre,  The kaset Hotel, 9/1 Soi Moo Baan Suan Son, Nong Kae, , , , Hua Hin, Prachuap Khiri Khan, , Thailand, 77110, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

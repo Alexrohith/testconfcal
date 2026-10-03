@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: oPSjx44007wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71214,
+      "eventTitle": "2027 IEEE International Conference on Software Testing, Verification and Validation (ICST)",
+      "startDate": "2027-05-16",
+      "endDate": "2027-05-20",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "San Sebastian",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Software Testing,",
+      "scope": "ICST serves as a premier platform uniting researchers, scientists, engineers, and practitioners worldwide to showcase their cutting-edge research findings, innovative ideas, and practical applications in the domain of Software Testing, Verification, and Validation.",
+      "callForPapers": "",
+      "url": "conf.researchr.org/home/icst-2027",
+      "eventContact": "aarrieta@mondragon.edu",
+      "sponsorTypes": "1",
+      "venues": "San Sebastian, Kursaal Exhibition Center, Palacio Miramar, Hotel Barcelo Costa Vasca, , San Sebastian, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

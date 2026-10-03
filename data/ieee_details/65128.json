@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 76L9xo4017oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 65128,
+      "eventTitle": "2031 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "startDate": "2031-06-08",
+      "endDate": "2031-06-12",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Salt Lake City",
+        "region": "Utah",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "Computer Vision,Artificial Intelligence,CVPR,Computer applications,",
+      "scope": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Salt Palace Convention Center, , , , , Salt Lake City, UT, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: i7HnwY40oKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72855,
+      "eventTitle": "2026 4th International Conference on Advances in Computation, Communication and Information Technology (ICAICCIT)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Faridabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Manav Rachna International Institute Of Research And Studies",
+      "keywords": "Artificial Intelligence , Machine Learning, Deep learning, Generative AI, Large Languge Model, Cloud Computing, Cyber Security, 5G, Networking and Communication, Big data Anaytics ,Parallel computing , Optimization ,Computational intelligence , Robotics, Visualization & Communication ,",
+      "scope": "As observed in current status and future trends, the fourth industrial revolution is humanity's most recent advancement. The cornerstones of Industry 4.0 are Artificial Intelligence, Machine Learning, Big Data, Cloud Computing, Communication and Information Technology. These pillars embrace the ability to make their own decisions through Machine Learning, as well as to collect data in real-time, to be analysed and saved into the Cloud. They also allow for the use of pillars like the Internet of every Thing, Augmented Reality, Cyber Security, Cloud Computing, and finally 5G Networks under 4 themes Artificial Intelligence, Machine Learning & Data Science, Computational Intelligence, Information Technology, Big Data Analytics & Visualization and Communication The Fourth Industrial Revolution (Industry 4.0) represents the latest transformation in human civilization, redefining the way industries, businesses, and societies operate in the digital era. It is driven by cutting-edge technologie",
+      "callForPapers": "2026-06-10",
+      "url": "icaiccit-2026.vercel.app/",
+      "eventContact": "poonamtanwar.set@mriu.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Manav Rachna International Institute of research and Studies, Plot A, Manav Rachna Campus Rd, Gadakhor Basti Village,, Sector 43, , Faridabad, , India, 121004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

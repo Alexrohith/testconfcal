@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2++rx440kb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71809,
+      "eventTitle": "2026 11th International Conference on Communication, Image and Signal Processing (CCISP)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-22",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Hefei",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Asia Pacific Institute of Science and Engineering (APISE); Hefei University of Technology; Nanjing Section; Sichuan University",
+      "keywords": "Communication technologies,Image Processing,Signal Processing,6G Technologies,AI applications in Communications,",
+      "scope": "The scope of CCISP 2026 falls into all fields of communication engineering, communication technologies, image processing and signal processing.",
+      "callForPapers": "2026-07-20",
+      "url": "www.ccisp.org/",
+      "eventContact": "williamlaw@apise.org",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": ", , , , , Hefei, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

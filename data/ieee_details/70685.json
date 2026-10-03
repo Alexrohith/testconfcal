@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rs7Cwo40m6cBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70685,
+      "eventTitle": "2026 Indian Conference on Advances in Electrical, Computers, and Communications (IConAECC)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Tiruchirappalli",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "MAM College of Engineering and Technology; Madras Section",
+      "keywords": "Cloud Computing,Blockchain Technologies,Computer Vision and Pattern Recognition, Privacy and Data Protection,Artificial Intelligence and Machine Learning,Mobile Computing and Vehicle Communications,Wireless Communications and Signal Processing,Green Computing, Communications, and Networking,Image Processing, Optical, and Grid Networking,Antenna Engineering,Electric transportation technology, e-mobility, and applications,AI, ML, Cyber Security, and IOT Applications to Sustainable Energy, Power Ge",
+      "scope": "The theme of IConAECC 2026 is \"Innovations for Sustainable Development.\" The conference aims to serve as a platform for researchers, academia, and industry to share knowledge across various disciplines in Electrical, Communication, and Computer Science. Additionally, IConAECC 2026 will provide a forum for world-class researchers to come together and share their research achievements, ideas, and progress in addressing future challenges in these fields.",
+      "callForPapers": "2026-10-30",
+      "url": "icacce2026.aconf.org/",
+      "eventContact": "a.mary_beula@usssociety.org",
+      "sponsorTypes": "3; 9",
+      "venues": "M.A.M. College of Engineering and Technology , Siruganur, Tiruchirappalli , , , , , , India,  621 105, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

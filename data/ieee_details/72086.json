@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h46Cx440/L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72086,
+      "eventTitle": "2026 Second International Conference on Energy Science and Interdisciplinary-Study (ICESI)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Power, Energy and Industry Applications; Transportation",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; South China University of Technology",
+      "keywords": "Smart energy,Energy Science,Interdisciplinary-study,Artificial intelligence,Optimization  methods,Power systems,",
+      "scope": "With the acceleration of the global energy transition and the advancement of green and low-carbon development goals, the field of power and energy is facing unprecedented opportunities and challenges. The large-scale integration of renewable energy, rapid development of new energy storage technologies, digital transformation of power systems, and widespread adoption of smart grid technologies are reshaping the industry landscape. Emerging technologies such as distributed energy, virtual plant, microgrids, artificial intelligent & machine learning and blockchain are becoming focal points of the field, driving the development of power systems towards greater efficiency, intelligence, flexibility, and sustainability.",
+      "callForPapers": "",
+      "url": "www.ch-zdxs.com/icesi2026/",
+      "eventContact": "jizhong.zhu@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

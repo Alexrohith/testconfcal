@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0anfwY405qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70408,
+      "eventTitle": "2027 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE)",
+      "startDate": "2027-07-10",
+      "endDate": "2027-07-13",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sydney",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computational Intelligence Society",
+      "keywords": "Fuzzy Logic,Fuzzy neural networks,Computational and artificial intelligence,Machine Learning,Fuzzy decision analysis,Brain Computer Interface,Deep Learning,Pattern Recognition,",
+      "scope": "Annual IEEE International Conference on Fuzzy Systems, well known as FUZZ-IEEE, is one of the premier international conferences in the field of fuzzy sets and systems.",
+      "callForPapers": "2027-01-15",
+      "url": "https://attend.ieee.org/fuzz-2027/",
+      "eventContact": "avinashsingh@outlook.com",
+      "sponsorTypes": "1",
+      "venues": ", , , , Sydney, , Australia, 2007, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

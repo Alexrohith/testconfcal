@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tMTowY40vKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72430,
+      "eventTitle": "2027 1st International Conference in Modeling, Applied Sciences, Technology & Engineering Renovation (MASTER)",
+      "startDate": "2027-01-27",
+      "endDate": "2027-01-28",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Giza",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Nile University",
+      "keywords": "Artificial Intelligence, Machine Learning, Intelligent Systems, Deep Neural Networks, Data Science, Big Data Analytics, Data-Driven Modeling, Emerging Technologies, Interdisciplinary Applications, Mathematical Modeling,Artificial Intelligence,Machine Learning,Intelligent Systems,Deep Neural Networks,Data Science,Big Data Analytics,Data-Driven Modeling,Emerging Technologies,Interdisciplinary Applications,Mathematical Modeling,Quantum Computing,",
+      "scope": "MASTER 2027 is designed as a high-impact interdisciplinary conference dedicated to advancing theoretical foundations, computational methodologies, and practical applications across modeling, applied mathematics, artificial intelligence, data science, and next-generation engineering systems. As modern scientific and engineering challenges grow increasingly complex, the integration of modeling, intelligent computation, and engineering innovation has become essential for sustainable technological progress.",
+      "callForPapers": "2026-11-15",
+      "url": "master2027.nu.edu.eg/",
+      "eventContact": "hali@nu.edu.eg",
+      "sponsorTypes": "3; 9",
+      "venues": "Nile University, 26th of July Corridor – Sheikh Zayed – Giza, , , , , , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

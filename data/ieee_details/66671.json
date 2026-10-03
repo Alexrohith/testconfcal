@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9uiMx440ubsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66671,
+      "eventTitle": "2027 IEEE PES Grid Edge Technologies Conference & Exposition (Grid Edge)",
+      "startDate": "2027-04-19",
+      "endDate": "2027-04-22",
+      "about": "Communication, Networking and Broadcast Technologies; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Salt Lake City",
+        "region": "Utah",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Power & Energy Society",
+      "keywords": "Grid Edge, Energy Storage, Photovoltaics, Distributed Energy, Internet of Things, Alternative Energy Interface, Renewable Energy Resources, Renewable Energy Systems, Cyber Security, Telecommunications, Intelligent Monitoring, Wireless Communications and Advanced Metering Infrastructure, Artificial Intelligence,",
+      "scope": "Grid Edge Technologies and Applications (EVs, DERs, BESS, IoT)- Cyber and Physical Security Systems (Intelligent Monitoring and Outage Management)-Smart Sensing, Communication, and Control in Energy Systems; - Wireless Communications and Advanced Metering Infrastructure; -Energy Management Systems (with applications to buildings and home automation); - Interdependent Energy Infrastructures (with applications to gas, water, transportation, and more).",
+      "callForPapers": "",
+      "url": "pes-gridedge.org",
+      "eventContact": "kathy.heilman@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Salt Palace Convention Center, 90 South West Temple, , , , Salt Lake City, UT, USA, 84101, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

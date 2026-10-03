@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: x+DbwY4046EBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70811,
+      "eventTitle": "2026 IEEE 5th International Conference on Computer Vision and Machine Intelligence (CVMI)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "COEP Technological University; Pune Section; Uttar Pradesh Section SP Chapter",
+      "keywords": "Computer Vision,Deep Learning,Machine Intelligence,Machine Learning,Artificial intelligence,Artificial neural networks,Biomedical Applications,Biometrics,Explainable AI,Robotic Intelligence,Human Computer Interaction,Brain Computer Interaction,Hardware Realization of Intelligent Systems,Robustness of Intelligent Systems,Datasets and Evaluation,Image EnhancementSuper Resolution  Restoration,Remote sensing, MultispectralHyperspectral image Processing,Visual Sensor Hardware,Other Computer Vision Ap",
+      "scope": "Biometrics, Forensics, Content protection Face, Iris, Emotion, Sign Language and Gesture Recognition Image/video processing for Autonomous Vehicles 3D image/video processing Image Enhancement/Super Resolution / Restoration Action and Event Detection/Recognition Motion and Tracking Medical Image and Video Analysis Image/ Video Retrieval Vision based Human GAIT Analysis Document and Synthetic Visual Processing Remote sensing, Multispectral/Hyperspectral image Processing Datasets and Evaluation Segmentation and Shape Representation Image/Video Scene Understanding Image/Video Security Human Computer Interaction Visual Sensor Hardware Document Image Analysis Compressed Image/Video Analytics Other Computer Vision Applications Machine Learning Deep Learning Computational Intelligence Optimization Techniques Explainable AI Fairness, Accountability, Privacy, Transparency and Ethics Brain Computer Interaction Hand-sensor based Intelligence Robotic Intelligence Light-weight Intelligent Systems",
+      "callForPapers": "",
+      "url": "cvmi2026.coeptech.ac.in/",
+      "eventContact": "ppb.extc@coeptech.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "COEP Technological University, Wellesley Rd, Shivajinagar, Maharashtra, , , Pune, , India, 411005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

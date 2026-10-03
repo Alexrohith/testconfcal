@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: woeUx4405bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71773,
+      "eventTitle": "2026 IEEE International Symposium on Safety Security Rescue Robotics (SSRR)",
+      "startDate": "2026-11-02",
+      "endDate": "2026-11-04",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Incheon",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Rescue Robots, Security, Public Safety, Field Robots, Security Robotics, Safety Robotics,",
+      "scope": "The 2026 IEEE International Symposium on Safety, Security, and Rescue Robotics (SSRR) covers design and implementation of robotics, automation, intelligent machines, systems and devices that can contribute to civilian safety.",
+      "callForPapers": "2026-06-19",
+      "url": "www.ssrr-ieee.org/",
+      "eventContact": "yg.cho@inha.ac.kr",
+      "sponsorTypes": "1",
+      "venues": "Inha University, 100 Inha-ro, Michuhol-gu, , , , Incheon, , Korea (South), 22212, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oICux440ur0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67745,
+      "eventTitle": "2027 International Interdisciplinary PhD Workshop (IIPhDW)",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-07",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Wismar",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "Germany Section; Hochschule Wismar, Faculty of Engineering, Germany",
+      "keywords": "Automation,Civil Engineering,Communications and Signal Processing,Mechanical and Production Engineering,Education and Training,Engineering Profession,",
+      "scope": "Automation, Civil Engineering, Communications and Signal Processing, Mechanical and Production Engineering, Education and Training, Engineering Profession",
+      "callForPapers": "2026-11-30",
+      "url": "www.hs-wismar.de/iiphdw/iiphdw-2027",
+      "eventContact": "andreas.ahrens@hs-wismar.de",
+      "sponsorTypes": "3; 9",
+      "venues": "Hochschule Wismar, Wismar University, Faculty of Engineering, Philipp-Mueller Straße 14, , Wismar, , Germany, 23966, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

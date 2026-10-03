@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 27ujx4406L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71074,
+      "eventTitle": "2026 IEEE 7th International Women in Technology Conference (WINTECHCON)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-19",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Signal Processing and Analysis",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section CAS Chapter; Bangalore Section WIE Affinity Group",
+      "keywords": "Wintechon Women in Engineering Conference with Hardware & Software engineering track,",
+      "scope": "Annual Women Technical Conference Focus on semiconductor/ Software & System Technology",
+      "callForPapers": "2026-03-06",
+      "url": "www.wintechcon.com",
+      "eventContact": "nbishnoi@marvell.com",
+      "sponsorTypes": "3; 5; 5",
+      "venues": "Raddison Blu (May change), Bengaluru, Outer Ring Road, , , Bengaluru, , India, 560037, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

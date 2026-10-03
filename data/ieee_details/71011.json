@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: p8HdwY402aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71011,
+      "eventTitle": "2027 1st International Conference on AI in Healthcare (AIHC)",
+      "startDate": "2027-01-23",
+      "endDate": "2027-01-24",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Hyderabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Hyderabad Section; Symbiosis Institute of Technology, Hyderabad",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Healthcare Informatics,Medical Image Analysis,Health Informatics,",
+      "scope": "The 2027 1st International Conference on AI in Healthcare (AIHC) provides an interdisciplinary forum for researchers, academicians, industry professionals, and healthcare practitioners to present and discuss advances in AI- and ML-driven healthcare technologies. The conference focuses on intelligent methods for healthcare diagnostics, treatment planning, monitoring, preventive care, and decision support.  The scope includes machine learning, deep learning, biomedical signal processing, medical image analysis, healthcare informatics, clinical decision support systems, Internet of Medical Things (IoMT), wearable health technologies, and privacy-preserving AI. A distinctive feature of the conference is the AI–AYUSH initiative, which promotes the integration of traditional healthcare and wellness systems such as Ayurveda, Yoga, and holistic medicine with modern AI techniques.",
+      "callForPapers": "2026-03-31",
+      "url": "conferencesithyd2026.vercel.app/",
+      "eventContact": "ramasubbareddy@sithydsiu.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Symbiosis Institute of Technology, Hyderabad, Survey No. 292, Off Bengaluru Highway, Near ORR Exit 2, Modallaguda, Nandigama Mandal, Rangareddy District, Telangana, Hyderabad, , India, 509217, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

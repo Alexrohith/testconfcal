@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: z9upx440iL0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73149,
+      "eventTitle": "2027 IEEE International Conference on Image Processing Workshops (ICIPW)",
+      "startDate": "2027-11-29",
+      "endDate": "2027-12-03",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "image processing,ICIP,video processing,signal processing,image analysis,image communication,",
+      "scope": "The IEEE International Conference on Image Processing (ICIP), sponsored by the IEEE Signal  Processing Society, is the premier forum for the presentation of technological advances and  research results in the fields of theoretical, experimental, and applied image and video  processing.",
+      "callForPapers": "",
+      "url": "2027.ieeeicip.org",
+      "eventContact": "n.allen@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Sands Expo and Convention Centre, , , , , , , Singapore, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

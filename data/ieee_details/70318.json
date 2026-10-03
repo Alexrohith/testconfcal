@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3YOXx440grwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70318,
+      "eventTitle": "2026 IEEE International Conference on Intelligent Systems and Interdisciplinary Applications (ISAIA)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-10",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Montclair",
+        "region": "New Jersey",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Antennas and Propagation Society; IEEE Photonics Society; North Jersey Section",
+      "keywords": "AI and Robotics,Communication and Networks,Cybersecurity,Signal Processing,System Control,",
+      "scope": "Human-Centered Intelligent Systems for Human Wellbeing Advancement",
+      "callForPapers": "2026-04-20",
+      "url": "",
+      "eventContact": "wangw@montclair.edu",
+      "sponsorTypes": "1; 1; 3",
+      "venues": "Montclair State University, 1 Normal Ave, , , , Montclair, NJ, USA, 07043, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

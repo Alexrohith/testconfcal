@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: goiwx440zL0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72577,
+      "eventTitle": "2027 25th IEEE Interregional NEWCAS Conference (NEWCAS)",
+      "startDate": "2027-06-20",
+      "endDate": "2027-06-23",
+      "about": "Components, Circuits, Devices and Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Cork",
+        "region": "",
+        "country": "Ireland"
+      },
+      "sponsors": "IEEE Circuits and Systems Society",
+      "keywords": "Analogmixed-signal circuits,Biomedical circuits and systems,Digital circuits and systems,Communications,Communications circuits and systems,RF & microwave circuits,CAD and design tools,Test and verification,Energy harvesting and power management,Low-power low-voltage designs,Microsystems and Embedded systems,Neural networks and neuromorphic circuits,Sensory circuits and systems,Imaging and image sensors,",
+      "scope": "The IEEE Interregional NEWCAS Conference is the IEEE Regions 1-8 interregional flagship conference and networking forum for worldwide engineers and researchers in the field of circuits and systems. The conference offers a perfect  pportunity to meet scientific and industrial experts, to listen, learn, and discuss the most recent scientific and industrial developments and advancements. It is a perfect opportunity for Ph.D. candidates to show the progress of their scientific work in front of the conference either as a lecture or poster presentation.",
+      "callForPapers": "2027-01-31",
+      "url": "ieee-newcas.org",
+      "eventContact": "cdyer@conferencecatalysts.com",
+      "sponsorTypes": "1",
+      "venues": "University College Cork, , , , , Cork, , Ireland, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

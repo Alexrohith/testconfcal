@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rqCgx440xLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69013,
+      "eventTitle": "2026 4th International Conference on Energy Transition in the Mediterranean Area (SyNERGY MED)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Istanbul",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "IEEE Power & Energy Society; Kadir Has University",
+      "keywords": "power systems,renewable energy,Smart grid technologies and applications,Grid integration of renewable energy sources,Low-carbon buildings and communities: renewables, HVAC systems and energy efficiency,Novel energy conversion and energy storage,Policy, regulation, and financing,Cybersecurity and data management,Community engagement adhering to social science and humanity principles,",
+      "scope": "SyNERGY MED is a multidisciplinary conference focusing on the energy transition in the Mediterranean region. It welcomes research on:  Renewable energy technologies and integration  Smart grid architectures and energy storage systems  Cybersecurity, data analytics, and digital infrastructures (e.g., for SCADA and microgrids)  Policies, regulations, and financing mechanisms advancing low-carbon energy deployment  Socio-economic impacts of smart energy systems, energy-efficient buildings, and sustainable communities",
+      "callForPapers": "2026-01-01",
+      "url": "synergymed2026.khas.edu.tr/",
+      "eventContact": "oguzhan.ceylan@khas.edu.tr",
+      "sponsorTypes": "1; 9",
+      "venues": "Kadir Has University, Cibali, Kadir Has Cd., Fatih, , , Istanbul, , Turkiye, 34083, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

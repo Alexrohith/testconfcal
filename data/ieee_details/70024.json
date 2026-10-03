@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lb7cwY400qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70024,
+      "eventTitle": "2026 IEEE 10th International Conference on Adaptive Science and Technology (ICAST)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-24",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Accra",
+        "region": "",
+        "country": "Ghana"
+      },
+      "sponsors": "Ghana Section; Ghana Section Joint Chapter, COM19/C16; Ghana Section WIE Affinity Group",
+      "keywords": "Technology,Science,Engineering,Artificial Intelligence,Machine learning,",
+      "scope": "The scope includes but is not limited to Computational Intelligence, Communication Networks, Engineering and Technology for Development, Power and Energy Systems, Cloud Computing and IoT, Electrical and Electronic Systems, and Control and Automation.",
+      "callForPapers": "2026-04-30",
+      "url": "Under development",
+      "eventContact": "ezzy2win@hotmail.com",
+      "sponsorTypes": "3; 5; 5",
+      "venues": "Academic City University, P.O. Box AD 421, , , , Accra, , Ghana, 233, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

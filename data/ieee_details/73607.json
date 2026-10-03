@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zciSx4403bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73607,
+      "eventTitle": "2027 7th International Conference on Neural Networks, Information and Communication Engineering (NNICE)",
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-31",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Dongguan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Great Bay University; Guangzhou Section",
+      "keywords": "AI and Neural Networks,Convolutional Neural Networks,Graph Neural Networks,Reinforcement Learning and Meta-Learning,Natural Language Processing,Information Fusion and Data Mining,Semantic Information Processing and Visualization,Big Data Analytics and Data Integration,5G6G Mobile Communication Technology,Satellite and Fiber Optic Communication,Quantum Communication and IoT Communication,Digital Signal Processing,Image and Video Signal Processing,Weak Signal Detection and Enhancement,",
+      "scope": "NNICE 2027 will serve as an international forum for cutting-edge research on neural networks, information engineering, and communication systems. Its research spectrum will cover AI and neural networks, convolutional neural networks, graph neural networks, reinforcement learning and meta-learning, natural language processing, information fusion and data mining, semantic information processing and visualization, big data analytics and data integration, 5G/6G mobile communication technology, satellite and fiber optic communication, quantum communication and iot communication, digital signal processing, and weak signal detection and enhancement for image, video, audio and radar signals. Keynote speeches, interactive activities and workshops will be held to enable participants to access the latest research achievements, conduct in-depth academic exchanges and build academic connections, which will boost technological innovation and academic progress across these thriving research areas.",
+      "callForPapers": "2026-11-14",
+      "url": "www.icnnice.com/",
+      "eventContact": "nnice.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Great Bay University, No. 16, Daxue Road, Songshan Lake High-Tech Industrial Development Zone, Dongguan City, Guangdong Province, China, , , , Dongguan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

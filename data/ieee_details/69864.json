@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yvrewY4046EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69864,
+      "eventTitle": "2026 IEEE International Conference on Emerging Trends in Engineering, Sciences and Technology (ICES&T)",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bahawalpur",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Bahawalpur Subsection; Lahore Section COM Chapter",
+      "keywords": "Artificial Intelligence (AI),Machine Learning (ML),Deep Learning,Data Science & Analytics,Computer Vision,Natural Language Processing (NLP),AI for Health care Intelligent Automation, Robotics & AI Integration,Predictive Analytics,Smart Systems,Internet of Things (IoT) with AI,Cybersecurity with Machine Learning,",
+      "scope": "The 2026 IEEE International Conference on Emerging Trends in Engineering, Sciences and Technology (ICES&T) is a dynamic platform that brings together pioneering minds in electrical and electronics engineering, computer science, and interdisciplinary technologies. Taking place in Bahawalpur, Pakistan from November 10–12, the conference focuses on cutting-edge trends including Artificial Intelligence (AI), Machine Learning (ML), and Data-Driven Innovation. ICES&T-2026 promotes a collaborative ecosystem for researchers, industry leaders, and students to share transformative ideas, impactful research, and real-world applications. With a growing emphasis on intelligent systems, the conference invites contributions that leverage AI and ML to solve complex problems in automation, healthcare, security, energy, and beyond. The event also encourages graduate and PhD students to engage with the research community, offering dedicated sessions and awards for outstanding student contributions",
+      "callForPapers": "2026-08-01",
+      "url": "",
+      "eventContact": "uzc007@gmail.com",
+      "sponsorTypes": "5; 5",
+      "venues": "Main Auditorium, Baghdad ul Jadeed Campus, , The Islamia University of Bahawalpur, , , Bahawalpur, , Pakistan, 63100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

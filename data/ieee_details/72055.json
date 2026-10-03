@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6pXlwY40kKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72055,
+      "eventTitle": "2026 8th International Conference on Control and Robotics (ICCR)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Beijing Institute of Control Robotics and Intelligent Technology; IEEE Robotics and Automation Society",
+      "keywords": "System Design and Analysis,Control Theory and Applications, Computational Intelligence and  Intelligent Control,3D simulation and mathematical modeling of robots,Machine learning and  artificial intelligence,",
+      "scope": "Smart robotics combines diverse concepts and techniques to create devices, manipulators, and autonomous systems that serve various human communities - from manufacturing to medical and remote manipulators in complex environments. Control technologies are essential to these systems, enabling robot creators to develop effective strategies to meet their goals. This conference is a great opportunity to engage with world-class experts and young researchers, tackle multidisciplinary challenges, and participate in mentoring opportunities.",
+      "callForPapers": "2026-07-15",
+      "url": "www.iccr.net/",
+      "eventContact": "lile@pmail.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Hosei University, 2 Chome-17-1 Fujimi, Chiyoda City, Tokyo, , , , , , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: su/hwY40jaIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73170,
+      "eventTitle": "2027 2nd International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-23",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section CIS Chapter; Manipal Institute of Technology Bengaluru (MIT)",
+      "keywords": "quantum computing,Advance Computing,quantum cryptography,Quantum Algorithms and Quantum Machine Learning,",
+      "scope": "2nd International Conference on Next-Gen Quantum and Advanced Computing: Algorithms, Security, and Beyond (NQComp-2026) provides a premier forum for researchers, academicians, industry experts, and practitioners to present and discuss innovations in quantum and advanced computing. The conference covers theoretical foundations, emerging technologies, and practical applications in quantum algorithms, quantum machine learning, quantum communication, quantum information processing, post-quantum cryptography, quantum security, and fault-tolerant computing. It also welcomes contributions in artificial intelligence, machine learning, high-performance computing, cloud and distributed systems, cybersecurity, data analytics, optimization, blockchain, IoT, and intelligent systems. NQComp-2026 promotes interdisciplinary collaboration and knowledge exchange to advance secure, scalable, and efficient computing solutions for healthcare, finance, smart cities, industry, & other real-world applications",
+      "callForPapers": "2026-09-30",
+      "url": "conference.manipal.edu/nqcomp2026/index.html",
+      "eventContact": "shaleenbhatnagar@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Manipal Institute of Technology, BSF Campus,, Manchenahalli, , Govindapura, Yelahanka, Bengaluru, Karnataka , , India, 560064, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

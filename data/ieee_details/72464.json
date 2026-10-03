@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: oJaCx4404roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72464,
+      "eventTitle": "2026 6th International Conference on Electronic Information Engineering and Computer Science (EIECS)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Dongguan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Dongguan University of Technology; Guangzhou Section",
+      "keywords": "Electronic Information Engineering,Computer Science,Signal processing,Circuit and system,Artificial intelligence,Cloud computing,",
+      "scope": "EIECS 2026 is an international academic forum focusing on advances in electronic information engineering and computer science. With the theme of \"bringing together global wisdom in scientific innovation to promote high-quality development\", it provides a high-level platform for global scholars, researchers and industry practitioners to exchange ideas, present innovations and explore interdisciplinary developments. EIECS 2026 addresses emerging trends and challenges in related fields, including signal processing, wireless networks, artificial intelligence, machine learning, computer systems and intelligent engineering applications. By fostering academic dialogue and cross-domain collaboration, the conference promotes global scientific innovation, enhances Sino-foreign academic cooperation, connects top academic resources at home and abroad, transforms research results into industrial solutions, and gathers talents, technologies and capital to drive high-quality development.",
+      "callForPapers": "2026-08-01",
+      "url": "www.eiecs.org/",
+      "eventContact": "Kelum.Gamage-pub@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Dongguan University of Technology, China, No.1, Daxue Road, Songshan Lake District, Dongguan, Guangdong, P.R. China, , , , Dongguan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

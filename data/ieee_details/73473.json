@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ra3Dwo40j6cBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73473,
+      "eventTitle": "2027 IEEE FutureGrid Conference and Expo (FutureGrid)",
+      "startDate": "2027-10-04",
+      "endDate": "2027-10-06",
+      "about": "Power, Energy and Industry Applications",
+      "location": {
+        "city": "Denver",
+        "region": "Colorado",
+        "country": "USA"
+      },
+      "sponsors": "Denver Section; IEEE Industrial Electronics Society; IEEE Industry Applications Society; IEEE Power & Energy Society; IEEE Power Electronics Society; Region 05 - Southwestern USA",
+      "keywords": "Smart Grid Future Grid Power Electronics Renewable Energy Energy Storage Electrification Grid Modernization Microgrids Artificial Intelligence Machine Learning Grid Resilience Power Systems Electric Transportation Electric Vehicles Hydrogen Energy Distributed Energy Resources Wide Bandgap Semiconductors Industrial Applications Digital Twin Cybersecurity Grid Automation Power Conversion Energy Management HVDC DC Grids Sustainability Resilient Infrastructure Intelligent Energy Systems Power Qualit",
+      "scope": "The IEEE FutureGrid Conference & Expo is an international forum for researchers, industry professionals, utilities, manufacturers, policymakers, and students to present and discuss advances in future electric energy systems. The conference covers power systems, power electronics, industrial applications, renewable energy integration, electrification, energy storage, distributed energy resources, microgrids, HVDC and DC grids, artificial intelligence and machine learning for energy systems, digitalization, grid resilience, cybersecurity, power quality, advanced power conversion technologies, transportation electrification, and sustainable energy infrastructure. The conference promotes collaboration among academia, industry, utilities, and government to accelerate innovation and deployment of next-generation energy technologies.",
+      "callForPapers": "2027-03-15",
+      "url": "",
+      "eventContact": "beikomid@msu.edu",
+      "sponsorTypes": "1; 1; 1; 1; 2; 3",
+      "venues": ", , , , , Denver area, CO, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

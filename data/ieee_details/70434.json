@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6Puex440rLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70434,
+      "eventTitle": "2026 International Conference on Communications, Computing, Cybersecurity, and Informatics (CCCI)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Shanghai",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Communications Society; Tongji University",
+      "keywords": "Networking systems,Information Technology,Security Systems,Computer Systems,Telecommunication Systems,",
+      "scope": "THE 2026 INTERNATIONAL CONFERENCE ON COMMUNICATIONS, COMPUTING, CYBERSECURITY, AND INFORMATICS, CCCI 2026, IS AN INTERNATIONAL FORUM FOR SCIENTISTS, ENGINEERS, AND PRACTITIONERS TO PRESENT THEIR LATEST RESEARCH AND DEVELOPMENT RESULTS IN ALL AREAS OF COMMUNICATIONS, COMPUTING, CYBERSECURITY AND INFORMATICS, CCCI. THE CONFERENCE WILL LAST FOR THREE DAYS ANDFEATURE TUTORIALS, TECHNICAL PAPER PRESENTATIONS, AND DISTINGUISHED KEYNOTE SPEECHES.",
+      "callForPapers": "2026-07-10",
+      "url": "ccci.udg.edu/2026/",
+      "eventContact": "guoyu@ustb.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "Tongji University, 1239 Siping Road, Shanghai, P.R. China, , , , Shanghai, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

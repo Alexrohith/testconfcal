@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jPeSx4406b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71243,
+      "eventTitle": "2026 IEEE International Conference on AI Video Technology and Applications (AIVTA)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "HeFei,AnHui",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "American-European Media Association (AEMA); China Council",
+      "keywords": "Generative AI,AI Content Production,Virtual Production,Smart Cinematography,AI Video Editing,Post-production Automation,Super Resolution,Visual Effects,Immersive Media,Interactive Storytelling,AI Ethics,Blockchain for Copyright,Deepfake Detection,Data Privacy,Metaverse,AI in Film,Talent Development,AI Scriptwriting,AI-Driven Design,XR (Extended Reality),Camera Automation,Semantic Video Understanding,Emotion-based Editing,Neural Rendering,Distributed Rendering,Dynamic Storylines,Content Security,",
+      "scope": "The **International Conference on AI Video Technology and Applications (AIVTA 2026)** focuses on the cutting-edge intersection of artificial intelligence and video technology. It covers a broad range of topics from AI-driven video production and editing, generative AI for creative content, and immersive media applications, to advanced computer vision, visual effects, and real-time virtual production. The conference highlights innovations in AI models, machine learning algorithms, and smart cinematography, with an emphasis on their impact across entertainment, media, and industry applications.",
+      "callForPapers": "2026-06-01",
+      "url": "aivta.org/",
+      "eventContact": "wangyubo@aivta.org",
+      "sponsorTypes": "4; 9",
+      "venues": "Jie Yang, Zhongshe Creative Industry Park, No. 129 Tiandu Road, Economic Development Zone, , , , Hefei,Anhui, , China, , ;Zhongshe Creative Industry Park, No. 129, Tiandu Road, Economic and Technological Development Zone, , , , Hefei City, Anhui Province, China., , China, 230601, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lNfCwo40gqoBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72978,
+      "eventTitle": "2026 Conference on Digital Economy and Fintech Innovation (DEFI)",
+      "startDate": "2026-12-30",
+      "endDate": "2026-12-30",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Danang",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "King Mongkut’s University of Technology North Bangkok; Vietnam Section CAS Chapter; Vietnam-Korea University of Information and Communication Technology (VKU)",
+      "keywords": "Digital Economy Trends and Financial Strategies,Blockchain Technology in Finance,Internet of Things (IoT) in Financial Transactions,Artificial Intelligence and Machine Learning in Risk Assessment,High-Frequency Trading and Algorithmic Finance,Cybersecurity in Banking and Financial Institutions,Big Data Analytics for Market Insights,Digital Identity and Know Your Customer (KYC) Solutions,Digital Transformation,Quantum Computing and Financial Modeling,Economic Impacts of Technological Advancements",
+      "scope": "The International Conference on Digital Economy and Fintech Innovation - DEFI2026 is an international event focused on the digital economy, fintech, and related fields, organized by Vietnam-Korea University of Information and Communication Technology (VKU) and and Asean Consortium for Innovation and Research (ACIR). The conference aims to provide a platform for global researchers and professionals to discuss advancements in finance technology, digital economy trends, financial strategies, and policy considerations. DEFI 2026 will foster valuable exchanges and stimulate new research on key issues in technology in finance, digital finance and fintech, encouraging innovative solutions to current challenges. The event will take place in Da Nang, Vietnam, in December 2026, attracting scholars, industry experts, policymakers worldwide. We believe publishing the DEFI 2026 conference proceedings in IEEE will contribute to the advancement of knowledge in digital economy and fintech.",
+      "callForPapers": "2026-07-30",
+      "url": "defi.vku.udn.vn/",
+      "eventContact": "nhnminh@vku.udn.vn",
+      "sponsorTypes": "5; 9; 9",
+      "venues": "The University of Danang, Vietnam-Korea University of Information and Communication Technology, 470 Tran Dai Nghia Road, Ngu Hanh Son Ward, , , , Danang, , Vietnam, 550000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

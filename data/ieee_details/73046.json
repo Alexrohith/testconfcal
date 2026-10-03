@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1teTx4401LsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73046,
+      "eventTitle": "2027 IEEE International Conference on Advanced Robotics and its Social Impacts (ARSO)",
+      "startDate": "2027-03-13",
+      "endDate": "2027-03-15",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Mountain View",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Robotics and Automation Society",
+      "keywords": "Cognitive Robotics, Robotics and Automation, Social Implications of Technology,",
+      "scope": "To discuss relevant research about social impacts of robotics. The conference encourages interdisciplinary contributions from any field of robotics.",
+      "callForPapers": "2026-12-01",
+      "url": "ieee-arso.org",
+      "eventContact": "emeld@cs.stanford.edu",
+      "sponsorTypes": "1",
+      "venues": "Hyatt Centric Mountain View, 409 San Antonio Rd, , , , Mountain View, CA, USA, 94040, ;Stanford Robotics Center, 350 Jane Stanford Way Stanford, , , , Palo Alto, CA, USA, 94305, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

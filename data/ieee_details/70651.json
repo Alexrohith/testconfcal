@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: /5/jwY40m6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70651,
+      "eventTitle": "2026 International Conference on Electrical and Computer Engineering Researches (ICECER)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Instituto Politecnico Nacional - Mexico; Istanbul Topkapi University; Turkiye Section",
+      "keywords": "Adaptive Control,Automation,Electric machines,Control Engineering,Robotics,Mechatronics,Electric Vehicles,Energy Harvesting,Smart grids,Artificial Intelligence,Deep Learning,Machine Learning,Internet Of Things,Computer science,",
+      "scope": "This annual event serves as a platform for the exchange of cutting-edge research findings, innovative ideas, and technological advancements in a wide range of topics, including but not limited to power systems, control systems, communications, signal processing, computer  networks, and artificial intelligence. ICECER provides a unique opportunity for participants to engage in collaborative discussions, share their expertise, and explore the latest trends and challenges shaping the future of electrical and computer engineering researches on an international scale. With keynote speakers, paper presentations, and interactive sessions, ICECER fosters a dynamic and inclusive environment, encouraging interdisciplinary collaboration and fostering the growth of the global electrical and computer engineering community",
+      "callForPapers": "2026-06-29",
+      "url": "www.icecer.com/",
+      "eventContact": "emrearslan@aksaray.edu.tr",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

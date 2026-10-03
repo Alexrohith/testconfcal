@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sZCbx440nrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72349,
+      "eventTitle": "2027 IEEE South Asia Power Electronics Conference (SAPEC)",
+      "startDate": "2027-06-03",
+      "endDate": "2027-06-05",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Mumbai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Power Electronics Society; Indian Institute of Technology, Bombay - IIT Bombay",
+      "keywords": "power electronics application,Large-scale renewable energy plants,Power supplies for data centers, telecom,Energy storage systems,grid-supporting power converters,Automation,consumer electronics,electrical vehicles, railways,fast charging infrastructure,industrial drives,Robotics and automation,process control,",
+      "scope": "The conference focuses on advancements in power electronics with an emphasis on applied research, industrial solutions, and real-world implementations. It addresses key areas including renewable energy systems, electric vehicle traction and charging infrastructure, transportation electrification (railways and metros), data centre and telecom power systems, wide bandgap device technologies, power electronics design, manufacturing, packaging, and reliability, as well as grid compliance, standards, and regulations. Additional focus is placed on AI-enabled diagnostics, predictive maintenance, digital twins, and scalable, cost-effective solutions for emerging markets. Dedicated industry sessions will highlight real-world deployment challenges, field failure analysis, reliability concerns, and certification and regulatory requirements, including industrial power converters and motor drives.",
+      "callForPapers": "2027-01-31",
+      "url": "www.sapec.org/",
+      "eventContact": "sa@ee.iitb.ac.in",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , , , India, , ;Victor Menezes Convention Centre, Indian Institute of Technology Bombay, IIT Area, Powai, , Mumbai, , India, 400076, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

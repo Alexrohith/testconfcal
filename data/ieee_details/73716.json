@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: oOOvx440yb0BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73716,
+      "eventTitle": "2028 IEEE 34th Real-Time and Embedded Technology and Applications Symposium (RTAS)",
+      "startDate": "2028-05-16",
+      "endDate": "2028-05-19",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Real-time systems,Embedded Systems,",
+      "scope": "Cyber-physical systems, Internet of Things",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "arvinde@ntu.edu.sg",
+      "sponsorTypes": "1",
+      "venues": "Marina Bay Sands Expo and Convention Centre, 10 Bayfront Avenue, , , , , , Singapore, 018956, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

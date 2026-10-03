@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: w+CJx440k7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71976,
+      "eventTitle": "2026 17th IFIP Wireless and Mobile Networking Conference (WMNC)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-27",
+      "about": "Communication, Networking and Broadcast Technologies; Fields, Waves and Electromagnetics; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Enschede",
+        "region": "",
+        "country": "Netherlands"
+      },
+      "sponsors": "IEEE Communications Society; International Federation for Information Processing - IFIP",
+      "keywords": "5g wireless,wireless and mobile communications and networks,5G and beyond,Drones,Ad hoc networks,Unmanned Aerial Vehicles,Connected Vehicles,Information analysis,Resource management,Artificial Intelligence,Low-power networks,",
+      "scope": "WMNC Technical Program Committee invites authors to submit manuscripts with original research results that have not been previously published, or that are not currently under review by another conference or journal. The following contributions are welcome: Research papers reporting on new trends and developments; application papers reporting on academia developments of technologies, products, services, systems and solutions; performance evaluation and experimentation papers; industry practice papers. Submissions will be judged based on originality, significance, clarity, relevance, and correctness. All submitted papers will be subject to peer reviews by Technical Program Committee members and other experts in the field.",
+      "callForPapers": "2026-07-15",
+      "url": "www.utwente.nl/en/wmnc2026/",
+      "eventContact": "a.chiumento@utwente.nl",
+      "sponsorTypes": "1; 9",
+      "venues": "University of Twente , Drienerlolaan 5, , , , Enschede, , Netherlands, 7522NB, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

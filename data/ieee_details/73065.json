@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6caNx440rLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73065,
+      "eventTitle": "2026 36th International Conference on Computer Theory and Applications (ICCTA)",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Alexandria",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Alexandria Subsection; Arab Academy for Science, Technology and Maritime Transport (AASTMT); Computer Scientific Society (CSS)",
+      "keywords": "Artificial Intelligence and Intelligent Systems - Computer Architecture & Parallel Processing ? Computer Control Applications and Mechatronics ? Computer Applications ? Computer Networks and Communications ? Cybersecurity ? Database and Decision Support Systems ? Business Intelligence ? Gamification ? Bioinformatics ? Data Visualization ? E-Business and E-Learning ? Computer Vision ? Natural Language Processing ? Internet of Things ? Cloud Computing ? Quantum Computing ? Information Technology i",
+      "scope": "The 36th International Conference on Computer Theory and Applications (ICCTA 2026) will be organized by the Arab Academy for Science, Technology & Maritime Transport (AASTMT) in cooperation with the Computer Scientific Society (CSS) with technical co-sponsorship by IEEE Alexandria subsection. The purpose of ICCTA 2026 is to serve as a multi-disciplinary forum for the exchange of information on research, development, and applications of all topics related to computer theory and its applications. ICCTA 2026 provides opportunities for researchers, specialists and vendors of Information Technology to get together and exchange ideas and expertise. ICCTA 2026 will be organized as a hybrid conference allowing physical and virtual attendance and participation.",
+      "callForPapers": "2026-09-01",
+      "url": "https://iccta.aast.edu",
+      "eventContact": "hamid@aast.edu",
+      "sponsorTypes": "5; 9; 9",
+      "venues": "Arab Academy for Science, Technology, and Maritime Transport, P.O. Box 1029, , , , Alexandria, , Egypt, 21154, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

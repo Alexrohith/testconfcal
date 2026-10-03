@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: 5KP+xo40zLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 64421,
+      "eventTitle": "2026 IEEE Asia Pacific Conference on Circuits and Systems (APCCAS)",
+      "startDate": "2026-10-25",
+      "endDate": "2026-10-28",
+      "about": "Components, Circuits, Devices and Systems",
+      "location": {
+        "city": "Fukuoka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Fukuoka Section CAS Chapter; IEEE Circuits and Systems Society; Kansai Section CAS Chapter; Shikoku Section CAS Chapter; Tokyo/HR/NG/SP/SE/SD Jt Sec CAS Chap",
+      "keywords": "Circuits and Systems,Artificial Intelligence,Internet of Things,",
+      "scope": "Towards Creative-AI from Silicon-Sea-Belt",
+      "callForPapers": "2024-05-01",
+      "url": "",
+      "eventContact": "nishio@ee.tokushima-u.ac.jp",
+      "sponsorTypes": "1; 5; 5; 5; 5",
+      "venues": "ACROS Fukuoka, 1-1-1 Tenjin, Chuo-ku, , , , Fukuoka, , Japan, 810-0001, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

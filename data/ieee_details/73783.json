@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vOyvx4402L0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73783,
+      "eventTitle": "2027 IEEE 33rd Real-Time and Embedded Technology and Applications Symposium (RTAS)",
+      "startDate": "2027-05-17",
+      "endDate": "2027-05-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Boulder",
+        "region": "Colorado",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "realtime systems,embedded systems,systems and architectures,foundations,,",
+      "scope": "The conference focuses on research of an empirical nature pertaining to systems, architecture and applications for time-sensitive or embedded systems. It also includes on fundamental models, techniques, methods, and analyses that are applicable to time-sensitive systems to solve specific problems.",
+      "callForPapers": "",
+      "url": "2027.rtas.org/",
+      "eventContact": "Saber.Jafarpour@colorado.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Boulder, CO, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: k4WCx4408roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72030,
+      "eventTitle": "2026 Medical Technologies Congress (TIPTEKNO)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-17",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gaziantep",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Biomedical and Clinical Association of Turkey; Turkiye Section EMB Chapter",
+      "keywords": "Biomedical Engineering,Clinical Engineering,Biomedical Signal and Image Processing,Biomaterials,Biomechanics,Tissue Engineering,Artificial Intelligence,",
+      "scope": "TIPTEKNO annual conferences, organized since 2010, bring together users, medical device manufacturers, researchers, managers and public representatives working in the field of medical technologies. It aims to share the results of recent scientific research on the fields of biomedical engineering and clinical engineering, and propose solutions to problems in medical device and healthcare sectors.",
+      "callForPapers": "2026-08-31",
+      "url": "tiptekno.net/",
+      "eventContact": "levent.eren@ieu.edu.tr",
+      "sponsorTypes": "5; 9",
+      "venues": "The Green Park Hotel, Hacıbaba, Alibey Sk. No:1, Şehitkamil, , , Gaziantep, , Turkiye, 27500 , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

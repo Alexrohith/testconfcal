@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: w9PgwY4076EBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72795,
+      "eventTitle": "2026 IEEE International Conference for Women in Computing (InCoWoCo)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-20",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pune Section; Pune Section E Chapter; Pune Section WIE Affinity Group; Symbiosis Institute of Computer Studies and Research, Symbiosis International (Deemed University)",
+      "keywords": "Computer Science,Artificial Intelligence,Machine Learning,Data Science,Electrical Engineering,Electronics Engineering,Communication Systems ,Instrumentation ,",
+      "scope": "2026 IEEE International Conference for Women in Computing (INCOWOCO 2026) is a global series sponsored by IEEE Education Society of IEEE Pune section and IEEE Pune section. The series starting in the year 2024, is to provide a common platform for researchers, especially women, from across the world to deliberate on broad understanding of computing concepts and its technical and business practices in the world of technological advancements. Women are paving their way and marking their presence in almost all tech fields. Since the beginning, women have carved a niche for themselves in the fields of Computers too. Be it the first computer programmer, compiler designer to application developers we have inspiring role models. Yet their achievements are very few when compared to male counterparts.",
+      "callForPapers": "2026-08-20",
+      "url": "incowoco.com/index.php",
+      "eventContact": "shilpa.mujumdar@sicsr.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Symbiosis Institute of Computer Studies and Research, 1st Floor, Atur Centre, Gokhale Cross Road, Model Colony, , Pune, , India, 411016, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

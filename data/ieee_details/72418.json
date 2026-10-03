@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7eX+xo40z7oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72418,
+      "eventTitle": "2026 Conference on Computer Sciences and Informatics Conference (ICSIC)",
+      "startDate": "2026-11-24",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Amman",
+        "region": "",
+        "country": "Jordan"
+      },
+      "sponsors": "Amman Arab University; Jordan Section",
+      "keywords": "software engineering ,Artificial Intelligence,Computer security,",
+      "scope": "The International Computer Sciences and Informatics Conference (ICSIC 2026) is an annual conference devoted to the presentation of the most recent results in theory, methodology, and applications of Computer Science and Information Technology. The conference looks for significant contributions to all major fields of the Computer Science and Information Technology in theoretical and practical aspects. The aim of the conference is to be a premier venue for researchers and practitioners from both academia as well as industry to meet and share knowledge and cutting-edge development in the field.",
+      "callForPapers": "2026-10-19",
+      "url": "https://icsic.aau.edu.jo/",
+      "eventContact": "o.husain@aau.edu.jo",
+      "sponsorTypes": "3; 9",
+      "venues": "amman, jordan street , mobus, , , amman, , Jordan, 11953, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

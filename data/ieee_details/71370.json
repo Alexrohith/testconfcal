@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 2,Rid: y/uBx4404boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71370,
+      "eventTitle": "2026 IEEE International Conference on Computing (ICOCO)",
+      "startDate": "2026-10-12",
+      "endDate": "2026-10-14",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Langkawi, Kedah",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section C Chapter",
+      "keywords": "Mutimedia Computing,Cybersecurity,Open Systems,Big Data,Wireless Sensors,E-learning,Artificial Intelligence,",
+      "scope": "ICOCO  the conference series organized by the IEEE Computer Society Malaysia serves as an international forum for researchers, practitioners, and industry participants to present and exchange research ideas, technologies, and applications spanning computing, information technology, and informatics. Across these editions, ICOCO is structured around six consolidated tracks: (1) e-Learning, e-Management and e-Services, (2) Graphic and Interactive Media, (3) Open Systems, (4) Big Data Analytics, (5) Networking and Information Security, and (6) Wireless, Ad Hoc and Sensor Networks, covering both foundational and applied research across contemporary computing domains.",
+      "callForPapers": "2026-06-30",
+      "url": "https://ieeecomputer.my/icoco2026/",
+      "eventContact": "hazli@uniten.edu.my",
+      "sponsorTypes": "5",
+      "venues": "Parkroya Langkawi, Lot 60199, Pantai Tengah Pulau Langkawi, Bandar Padang Matsirat, Kedah, Padang Mat Sirat, , Malaysia, 07000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

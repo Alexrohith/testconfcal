@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zKz4xo40sboBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73697,
+      "eventTitle": "2027 ICEENG International Conference for Innovations in Intelligent Computing and Cybersecurity (IICC)",
+      "startDate": "2027-04-19",
+      "endDate": "2027-04-22",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Cairo",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Egypt Section CIS Chapter; Military Technical College",
+      "keywords": "Cybersecurity,Artificial intelligence,Software engineering,Embedded Systems,Data Mining,computer vision,Cloud Computing,",
+      "scope": "Artificial Intelligence, Computer Vision, Software Engineering, Embedded Computing, Data Mining, Cybersecurity, Cloud computing, Autonomous systems, E-lLearning, cloud computing",
+      "callForPapers": "2026-12-15",
+      "url": "iicc.conferences.ekb.eg/",
+      "eventContact": "k.metwally@mtc.edu.eg",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Military Technical College, Kobery Elkoba, , , , Cairo, , Egypt, 11865, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

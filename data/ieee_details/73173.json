@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7+KFx440kr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73173,
+      "eventTitle": "2028 IEEE 31st International Conference on Intelligent Transportation Systems (ITSC)",
+      "startDate": "2028-09-12",
+      "endDate": "2028-09-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Tokyo",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Intelligent Transportation Systems Society",
+      "keywords": "Intelligent Transportation Systems,Vehicle-to-everything,Autonomous Driving,Urban planning,Control, Robotics And Mechatronics,Artificial Intelligence,",
+      "scope": "Intelligent Transportation Systems",
+      "callForPapers": "2028-02-15",
+      "url": "eee-itsc.org/2028/",
+      "eventContact": "guyanlei@hiroshima-u.ac.jp",
+      "sponsorTypes": "1",
+      "venues": "TAKANAWA GATEWAY Convention Center, THE LINKPILLAR 1 SOUTH B2F/B1F/6F, 2-21-2 Takanawa, Minato-ku, , , , Tokyo, , Japan, 108-0074, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

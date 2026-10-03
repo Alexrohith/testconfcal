@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3+LfwY406KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72169,
+      "eventTitle": "2026 2nd International Conference on Electrical, Control and Artificial Intelligence (ICOECAI)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangdong University of Technology; Guangzhou Section",
+      "keywords": "Electrical Engineering,Control and Artificial Intelligence,Power Electronics, Systems, Telecommunication and Applications,Cooperative Control ,Machine learning ,",
+      "scope": "The 2026 2nd International Conference on Electrical, Control, and Artificial Intelligence (ICOECAI 2026) is an international academic forum focusing on advances in electrical engineering, control technologies, and AI-driven intelligent systems. The conference aims to provide a high-level platform for global scholars, researchers, and industry practitioners to exchange ideas, present innovations, and explore interdisciplinary developments. ICOECAI 2026 will address emerging trends and challenges across modern power and energy systems, automation and control theory,  machine learning, and intelligent engineering applications. By fostering academic dialogue and cross-domain collaboration, the conference seeks to promote scientific progress, support practical technological innovation, and contribute to the development of efficient, intelligent, and sustainable engineering systems.",
+      "callForPapers": "2026-08-08",
+      "url": "www.icoecai.com/",
+      "eventContact": "mjamil-pub@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Guangdong University of Technology, China, No. 100 Waihuan Xi Road, Guangzhou Higher Education Mega Center, Panyu District, Guangzhou, Guangdong Province, China, , , , Guangzhou, , China, 510006, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

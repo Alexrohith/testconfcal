@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: w/zBwo40/KkBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72061,
+      "eventTitle": "2026 Conference on Intelligent Technologies, Integrated Systems & Modern Applications (CITISMA)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "DKI Jakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Bina Nusantara University; Indonesia Section; Indonesia Section C Chapter",
+      "keywords": "Artificial Intelligence (AI) and Machine Learning Applications,Data Science Big Data Analytics and Intelligent Decision Support,Internet of Things (IoT) Smart Systems and Cyber-Physical Systems,Cybersecurity Privacy and Digital Trust,Cloud Edge Computing and Next-Generation Networks (5G/6G-ready systems),Industry 4.0 / 5.0 Smart Manufacturing and Digital Transformation,Robotics Automation Computer Vision and Intelligent Sensing,Smart Healthcare Assistive Technologies and Human-Centred Computing,",
+      "scope": "The Conference on Intelligent Technologies, Integrated Systems & Modern Applications (CITISMA) focuses on advancing research and practical innovations in intelligent technologies, integrated and cyber-physical systems, and modern applications, including artificial intelligence, data science, Internet of Things (IoT), smart systems, robotics, smart healthcare, next-generation networks, and sustainable digital technologies.",
+      "callForPapers": "2026-07-10",
+      "url": "citisma.org/",
+      "eventContact": "danielhbarat@binus.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": ", , , , DKI Jakarta, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

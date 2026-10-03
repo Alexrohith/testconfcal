@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: iqvZwY40q6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72663,
+      "eventTitle": "2027 IEEE Conference on Secure and Trustworthy Machine Learning (SaTML)",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Reykjavik",
+        "region": "",
+        "country": "Iceland"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "machine learning,Cybersecurity,Privacy,Security,",
+      "scope": "The conference brings together researchers and practitioners from academia and industry to discuss the security and trustworthiness of machine learning. Conference topics include: - Novel attacks and defenses for machine learning - Security and privacy in learning-based systems - Forensic analysis and interpretability - Trusted data curation and management - Verification and certification of learning models - Privacy and fairness in machine learning",
+      "callForPapers": "2026-09-30",
+      "url": "satml.org",
+      "eventContact": "giovannia@ru.is",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , , Iceland, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

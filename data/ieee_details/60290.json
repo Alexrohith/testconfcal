@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wbSbx440oLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 60290,
+      "eventTitle": "2026 65th IEEE Conference on Decision and Control (CDC)",
+      "startDate": "2026-12-15",
+      "endDate": "2026-12-18",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Honolulu",
+        "region": "Hawaii",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Control Systems Society",
+      "keywords": "control,optimization,applied mathematics,automotive,intelligent control,systems biology,robotics,networks and communication systems ,process control,aerospace,Control,Control theory,Adaptive Control,Aerospace Control,Control system analysis,Control Systems,Distributed control,Fault Diagnosis And Fault-tolerant Control,Feedback control,Motion Control,Networked control systems,Power system control,Robust Control,Predictive Control,Robot control,,",
+      "scope": "The CDC is recognized as the premier scientific and engineering conference dedicated to the advancement of the theory and practice of systems and control. The CDC annually brings together an international community of researchers and practitioners in the field of automatic control to discuss new research results, perspectives on future developments, and innovative applications relevant to decision making, automatic control, and related areas.",
+      "callForPapers": "2026-03-15",
+      "url": "cdc2026.ieeecss.org (not operational yet)",
+      "eventContact": "cortes@ucsd.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , Waikoloa Village, HI, USA, 96738, ;HILTON HAWAIIAN VILLAGE WAIKIKI BEACH RESORT, 2005 Kalia Road, , , , Honolulu, HI, USA, 96815 , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

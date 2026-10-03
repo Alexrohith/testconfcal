@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8bODx440g74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72506,
+      "eventTitle": "2026 2nd International Conference on Computer Sciences, Engineering, and Technology Innovation (ICoCSETI)",
+      "startDate": "2026-11-21",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indraprasta PGRI University Jakarta",
+      "keywords": "Computer Science,Electrical Engineering,Computer Engineering,Artificial Intelligence,Data Science,Computing & IT,",
+      "scope": "Computer Science and Engineering",
+      "callForPapers": "2026-07-31",
+      "url": "https://icocseti.unindra.ac.id/",
+      "eventContact": "wayan.parwati@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Universitas Indraprasta PGRI Jakarta, , , , , Jakarta, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

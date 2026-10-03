@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1daAx4402boBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73514,
+      "eventTitle": "2026 6th International Conference on Educational Communications and Technology (ICTAECT)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-02",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Pattaya",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Thailand Section; Thailand Section E Chapter; The Thai Association for Educational Communications and Technology (ThaiAECT)",
+      "keywords": "Educational Technology,Communication Technology,Artificial Intelligence,Education,Computer Supported Learning,",
+      "scope": "The conference focuses on  1. Technological Issues in Education  • Technology-Enhanced Learning  • AR / VR / MR / XR / Metaverse in Immersive Learning  • Online Learning, e-Learning, Distance Learning  • Mobile learning: Phones, Tablets, Apps for education  • Blended Learning, Hybrid and HyFlex Learning  • Online/Virtual Laboratories  • Classroom and Laboratory: Integration Managed Learning Environments (MLEs)  • Learning Management Systems (LMS)  • MOOC and SPOC  • Smart Classroom and Teaching Environment  • Industry and Business Innovation  • Cloud Computing  • ICT skills and competencies among teachers  • ICT enhanced language teaching and learning  2. AI for ALL and SDGs  • AI for Inclusive and Equitable Education  • AI-Enhanced Teaching and Learning Innovations  • AI in Educational Communications and Digital Media  • AI for Learning Analytics and Smart Assessment  • AI for Workforce Development and Lifelong Learning  • AI and Sustainability in Education  • AI and Ethical, Policy,",
+      "callForPapers": "2026-08-31",
+      "url": "https://ictaect.org/",
+      "eventContact": "panita.w@fte.kmutnb.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Grande Centre Point Pattaya, 456 Moo.6 Na Kluea, Bang Lamung, , , , , Pattaya, Chonburi, , Thailand, 20150, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

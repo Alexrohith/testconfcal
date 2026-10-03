@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4OGmx44047wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72514,
+      "eventTitle": "2027 IEEE 52nd IEEE Conference on Local Computer Networks (LCN)",
+      "startDate": "2027-10-19",
+      "endDate": "2027-10-21",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Daytona Beach",
+        "region": "Florida",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "local computer networks,",
+      "scope": "Theoretical and practical aspects of computer networking",
+      "callForPapers": "2027-04-16",
+      "url": "www.ieeelcn.org/",
+      "eventContact": "matthias.wuebbeling@cs.uni-bonn.de",
+      "sponsorTypes": "1",
+      "venues": "The Shores, 2637 South Atlantic Avenue, , , ,  Daytona Beach Shores, FL, USA, 32118, ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

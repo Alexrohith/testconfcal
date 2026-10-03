@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gaehx4401L8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73632,
+      "eventTitle": "2027 15th International Symposium on Advanced Topics in Electrical Engineering (ATEE)",
+      "startDate": "2027-03-25",
+      "endDate": "2027-03-27",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bucharest",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Alumni ELTH Association; Faculty of Electrical Engineering - Politehnica University of Bucharest; National University of Science and Technology Politehnica Bucharest; Romania Section; Romania Section EMB Chapter; Romania Section EMC Chapter; Romania Section PE Chapter",
+      "keywords": "Electromagnetic Circuits and Systems,Electrical Machines and Drives,Materials and Technologies for Electrical Engineering,Power Electronics and Converters,Biomedical engineering,Electromagnetic Compatibility,Power Systems and Energy Conversion,Industry Applications,Design and Informatics,Measurements and Data Acquisition,Metrology,Safety and Reliability,Education in Electromagnetic Fields,Electromagnetic Fields,Artifical Intelligence in Electrical Engineering,",
+      "scope": "ATEE is the forum that stimulates the active and effective exchange of information between researchers in various areas of theoretical and applied electrical engineering",
+      "callForPapers": "2027-02-26",
+      "url": "atee.upb.ro/atee2027/",
+      "eventContact": "catalina.lazaroiu@upb.ro",
+      "sponsorTypes": "3; 5; 5; 5; 9; 9; 9",
+      "venues": "National University of Science and Technology POLITEHNICA Bucharest, The University Library, 313, Splaiul Independentei, District 6, , , Bucharest, , Romania, 060042, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

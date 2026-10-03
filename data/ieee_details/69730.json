@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qp7mwY40/6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69730,
+      "eventTitle": "2027 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-27",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Toronto",
+        "region": "Ontario",
+        "country": "Canada"
+      },
+      "sponsors": "Canadian Atlantic Section; Hamilton Section; Kingston Section; London Section (Canada); Region 07 - Canada; Toronto Section; Windsor Section",
+      "keywords": "Communication and Networking,Control Systems and Robotics,Computer and Software Engineering,Power Electronics and Energy Systems,Signal and Multimedia Processing,Machine Learning, Artificial Intelligence,",
+      "scope": "CCECE provides a forum for the presentation of electrical and computer engineering research and development from Canada and around the world.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "l5zhao@torontomu.ca",
+      "sponsorTypes": "2; 3; 3; 3; 3; 3; 3",
+      "venues": "Toronto Metropolitan University, 245 Church Street, , , , Toronto, ON, Canada, M5B 2K3, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: laCjx440zbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71935,
+      "eventTitle": "2026 International Symposium on Accreditation of Engineering and Computing Education (ICACIT)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Engineering Profession; General Topics for Engineers",
+      "location": {
+        "city": "Santiago de Chile",
+        "region": "",
+        "country": "Chile"
+      },
+      "sponsors": "IEEE Education Society; Institute for Quality and Accreditation of Computing, Engineering and Technology Programs",
+      "keywords": "Accreditation,Education,Continuing education,engineering ,Biomedical Electronics,computing education,engineering education,technical education,quality  assurance and accreditation,teaching in engineering,Digital Transformation in Higher Education,Digital ExperCertification &  Accreditation,Edtech,acreditation,Capstone Project,Engineering electronic,IEEE Software,STEM ,",
+      "scope": "We invite professionals from academy, industry and government to share their contributions, knowledge and experiences in the areas of accreditation of engineering and computing education, quality assurance, teaching and learning, and related areas",
+      "callForPapers": "2026-06-30",
+      "url": "https://icacit.org.pe/symposium/",
+      "eventContact": "symposium@icacit.org.pe",
+      "sponsorTypes": "1; 9",
+      "venues": "Pontificia Universidad Católica de Chile, Av. Vicuña Mackenna 4860, Región Metropolitana, Chile, , , , Santiago de Chile, , Chile, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

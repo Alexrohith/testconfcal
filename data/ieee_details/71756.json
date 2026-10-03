@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: guWpx440lMABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71756,
+      "eventTitle": "2027 Third International Conference on Signal and Information Processing (ICoNSIP)",
+      "startDate": "2027-02-13",
+      "endDate": "2027-02-15",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "COEP Technological University; Pune Section; Pune Section Chapter, SP01; Pune Section VT Chapter",
+      "keywords": "Signal Processing, AI, Signal integrity, Quantum Computing, Smart Communication, Medtech,  Automotive, 5G6G, Advances in Electronic Manufacturing, VLSI, Semiconductor design,  Sustainable development, Women in engineering, New education policy,",
+      "scope": "The conference will cover foundational and emerging areas in: Digital & Statistical Signal  Processing, Quantum communication, photonics & computation, Microwave/antenna systems &  communication technologies, Sensors, IoT & Cyber Physical Systems, Semiconductor designing, Manufacturing in Electronics, Automotive and E-Vehicle technology, Medical  technology, Sustainable development, Women in engineering, and the New Education Paradigm",
+      "callForPapers": "2026-05-31",
+      "url": "iconsip2027.com",
+      "eventContact": "aak.extc@coep.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "COEP Technological University, formerly College of Engineering Pune, Wellesley Road,, , ,  Shivajinagar,, Pune, , India, 411005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

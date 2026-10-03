@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: s5+Xx440g7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69293,
+      "eventTitle": "2026 IEEE 44th Central America and Panama Convention (CONCAPAN XLIV)",
+      "startDate": "2026-11-11",
+      "endDate": "2026-11-13",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guatemala",
+        "region": "",
+        "country": "Guatemala"
+      },
+      "sponsors": "Guatemala Section",
+      "keywords": "COMPUTER ,POWER e,Internet telephony,Biomedical communication,Energy,Robotics,",
+      "scope": "NEW TECHNOLOGY INDUSTRY 4.0",
+      "callForPapers": "2026-07-01",
+      "url": "",
+      "eventContact": "e.rosales@ieee.org",
+      "sponsorTypes": "3",
+      "venues": "HOTEL WESTING CAMINO REAL, Avenida La Reforma, Cdad. de Guatemala 01010, , , , Guatemala, , Guatemala, 0101, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

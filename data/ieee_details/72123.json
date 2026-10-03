@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lPrkwY40j6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72123,
+      "eventTitle": "2026 6th International Conference on Robotics, Automation and Intelligent Control (ICRAIC)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Xi'an Jiaotong University; Xian Section",
+      "keywords": "Robtics,Automation,Control Theory,Intelligent Control,Machine Learning,Computer Vision,Information Fusion,Modeling & Simulation,Embedded Systems ,Precision Motion Control,",
+      "scope": "ICRAIC 2026 focues on robotics, automation and intelligent control, addressing perception, decision-making and system integration for advanced intelligent system. It covers both theoretical foundations and real-world applications, supporting the development of autonomous and reliable technologies across industrial and complex environments.",
+      "callForPapers": "2026-09-25",
+      "url": "www.icraic.org/",
+      "eventContact": "hhq_icraic@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Xi'an Guangcheng Hotel , Laodong South Road Middle Section, Lianhu District, Xi'an, Shaanxi, 710000, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

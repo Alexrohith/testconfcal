@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1Zuux440r70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72153,
+      "eventTitle": "2026 5th IEEE Industrial Electronics Society Annual On-Line Conference (ONCON)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "IEEE Industrial Electronics Society",
+      "keywords": "Industrial Electronics,Autonomous Vehicles,unmanned system,Mechatronics,Automatic Control,Acoustic signal processing,Marine Engineering,Cyber-physical Systems,",
+      "scope": "Industrial Electronics, Cyber-physical systems, and mechatronics",
+      "callForPapers": "2026-10-15",
+      "url": "https://iesoncon.com/",
+      "eventContact": "mingxi.liu@utah.edu",
+      "sponsorTypes": "1",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

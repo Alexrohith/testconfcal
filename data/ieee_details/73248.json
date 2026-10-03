@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zKyEx44077oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73248,
+      "eventTitle": "2026 International Conference on Intelligent Manufacturing, Robotics and Automation (IMRA)",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-27",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Ma'anshan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Anhui University of Technology; Nanjing Section",
+      "keywords": "Intelligent Manufacturing,Robotics and Automation,Industrial Internet of Things (IIoT),Artificial Intelligence,Cyber-Physical Systems,",
+      "scope": "IMRA 2026 focuses on intelligent manufacturing, robotics, automation, and artificial intelligence, emphasizing their integration with industrial IoT, cyber-physical systems, and data-driven technologies to advance next-generation smart industry.",
+      "callForPapers": "2026-09-25",
+      "url": "www.icimra.com/",
+      "eventContact": "icimra@126.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Anhui University of Technology, China, No.1530 Maxiang Road, Ma'anshan City, Anhui Procince, China, , , , Ma'anshan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

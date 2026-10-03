@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5onhwY40h6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70897,
+      "eventTitle": "2026 International Conference on Big Data Analytics in Bioinformatics (DABCon)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-04",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Kolkata",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Kolkata Section; NIT - Narula Institute of Technology",
+      "keywords": "Industry 5.0,big data,Machine learning,Bioinformatics,Artificial Intelligence,Data mining,Genomics,",
+      "scope": "The purpose of the conference DABCon-2026 is to gather pioneering academicians and industry experts in the fields of Bioinformatics, Computational Biology, Artificial Intelligence, Machine Learning, Deep Learning and any other emerging technologies. The conference aims to bring together leading academicians, scientists, research scholars, professionals, decisionmakers and industrial practitioners to share and present their original research contributions.",
+      "callForPapers": "2026-07-30",
+      "url": "www.nit.ac.in/dabcon/",
+      "eventContact": "paprighosh06@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Dhono Dhanyo Auditorium , Thackeray Road, Alipore, , , , Kolkata, , India, 700027, ;Narula Institute of Technology, 81, Nilgunj Road, Agarpara, , , Kolkata, , India, 700109, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

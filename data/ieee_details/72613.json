@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 85D6xo40w7oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72613,
+      "eventTitle": "2026 6th International Conference on Artificial Intelligence, Robotics, and Communication (ICAIRC)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Xiamen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xiamen University - China",
+      "keywords": "Artificial Intelligence Applications & Technologies,Artificial Neural Networks,Natural Language Processing,Pervasive Computing and Ambient Intelligence,Robot Control,Robot Perception Systems,Robot Indoor localization and navigation,Wireless Communications Technologies and Systems,Satellite Communication Technologies,Cryptography and Network Security,",
+      "scope": "ICAIRC 2026 will serve as a global platform for sharing innovations in artificial intelligence, robotics, and modern communications. As AI, robotic systems, and communication networks rapidly evolve, their integration has become a key driver of global technological and industrial progress. The conference will facilitate international academic-industry collaboration to advance cross-disciplinary integration across these three core fields. It will cover machine learning, NLP, mobile and medical robots, optical and wireless communications, and network security, with keynotes, technical sessions, and workshops to inspire innovation and cooperation. Attendees will access cutting-edge research, exchange ideas, and build global networks to foster practical applications and academic development. By uniting worldwide experts, ICAIRC 2026 will deepen cross-integration of AI, robotics, and communications, supporting the global progress of related industries and disciplines.",
+      "callForPapers": "2026-08-28",
+      "url": "www.icairc.net/",
+      "eventContact": "ssk.patil@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xiamen University, No. 4221, Xiang'an South Road, Xiang'an District, Xiamen City, Fujian Province, China, , , , Xiamen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 393kwY40jqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71827,
+      "eventTitle": "2026 10th International Conference on System Reliability and Safety (ICSRS)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; General Topics for Engineers; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Rome",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Reliability Society; Italy Section R Chapter; Politecnico di Milano; Southwest Jiaotong University",
+      "keywords": "System design and modeling based on reliability,Machine learning and data analysis in reliable engineering,Product reliability assessment and management,Engineering reliability maintenance and safety management,",
+      "scope": "ICSRS 2026 marks the 10th anniversary of the International Conference on System Reliability and Safety. It will be held in Rome, Italy, from November 23 to 25, 2026, with technical co-sponsorship from Politecnico di Milano, IEEE Reliability Society and the IEEE Reliability Society Italy Chapter. As a milestone event, it brings together global researchers, practitioners and industry experts to share cutting‑edge progress in system reliability, safety, risk analysis, fault diagnosis, fault‑tolerant control, maintenance optimization and related fields. The conference aims to promote academic exchanges, technological innovation and industry‑academia cooperation, inheriting a decade of achievements to advance the development of reliability and safety engineering worldwide.",
+      "callForPapers": "2026-07-05",
+      "url": "www.icsrs.org/",
+      "eventContact": "icsrs_info@126.com",
+      "sponsorTypes": "1; 5; 9; 9",
+      "venues": "NHOW Roma, Corso d'Italia 1, 00198, Roma, Italy, , , , Roma, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

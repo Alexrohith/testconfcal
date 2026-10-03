@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jqH8xo402r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73004,
+      "eventTitle": "2027 6th International Conference on Computer, Artificial Intelligence and Control Engineering (CAICE)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Xidian University, Guangzhou Institute of Technology",
+      "keywords": "Intelligent Control Systems,Deep Learning Architectures,Robotics & Automation,Edge Computing Paradigms,Computer Vision Applications,",
+      "scope": "The 7th International Conference on Computer, Artificial Intelligence and Control Engineering (CAICE 2027) provides a global forum for researchers, engineers, and industry practitioners to present and discuss recent advances at the intersection of computing systems, intelligent algorithms, and control methodologies. The conference solicits original contributions addressing theoretical foundations, emerging technologies, and practical applications across three core domains: computer science and information technology, artificial intelligence and machine learning, and control engineering and automation systems. Topics of interest encompass distributed and cloud computing, deep learning architectures, computer vision, intelligent decision systems, adaptive and robust control, robotics, and smart automation. CAICE 2027 encourages interdisciplinary research that bridges these fields and fosters collaboration between academia and industry.",
+      "callForPapers": "2026-11-01",
+      "url": "www.ic-caice.net/",
+      "eventContact": "caice.conf@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Xidian University of Guangzhou Institute of Technology, No. 83 Zhiming Road, Zhongxin Guangzhou Knowledge City, Huangpu District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, 510555, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

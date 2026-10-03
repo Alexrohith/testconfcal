@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gNP+xo406L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72541,
+      "eventTitle": "2026 4th International Conference on Foundation and Large Language Models (FLLM)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-20",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Al Ain University ; Spain Section; Universidad Politecnica De Valencia - Spain",
+      "keywords": "Large Language Models,Transformers and Attention ,Artificial intelligence,",
+      "scope": "With the emergence of foundation models (FMs) and Large Language Models (LLMs) that are trained on large amounts of data at scale and adaptable to a wide range of downstream applications, Artificial intelligence is experiencing a paradigm revolution. BERT, T5, ChatGPT, GPT-4, Falcon 180B, Codex, DALL-E, Whisper, and CLIP are now the foundation for new applications ranging from computer vision to protein sequence study and from speech recognition to coding. Earlier models had a reputation of starting from scratch with each new challenge. The International Conference on Foundation and Large Language Models (FLLM) addresses the architectures, applications, challenges, approaches, and future directions.",
+      "callForPapers": "2026-07-21",
+      "url": "fllm-conference.org/2026/",
+      "eventContact": "Izzat.Alsmadi@tamusa.edu",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Novotel Barcelona City Hotel, , , , , Barcelona, , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

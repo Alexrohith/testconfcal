@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2fiQx4403L4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73014,
+      "eventTitle": "2026 IEEE Workshop on Novel Directions in Vision Science and Visualization Research (VISxVISION)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-10",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Boston",
+        "region": "Massachusetts",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Visual perception,Data Visualization,Information Visualization,Human Centered,Cognition,",
+      "scope": "VisXVision focuses on contributions relating vision science (e.g., human perception and cognition) to all areas of visualization. The theme of the workshop this year is Leveraging Vision Science Approaches to Ground Theory, Methods, and Reliability of Visualization. We believe our field needs at least two things to stay well-grounded: new ideas, and confidence that those ideas hold up.",
+      "callForPapers": "2026-07-17",
+      "url": "visxvision.com/",
+      "eventContact": "general_chair@ieeevis.org",
+      "sponsorTypes": "1",
+      "venues": "The Westin Copley Place, 10 Huntington Ave, , , , Boston, MA, USA, 02116, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

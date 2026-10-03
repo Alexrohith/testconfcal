@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: gKSSx440y7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73481,
+      "eventTitle": "2027 International Conference on Data Science and Intelligent Information Processing (DSIIP)",
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-21",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Wuhan Textile University",
+      "keywords": "Big Data Analytics and Mining,Data Visualization Technologies,Data-Driven Decision Support Systems,Wearable Device Sensing Data Analysis,Multimodal Wearable Data Fusion and Analysis,Intelligent Perception and Pattern Recognition,Natural Language Processing,Computer Vision and Image Understanding,Speech, Audio, and Signal Processing,Fuzzy Information Processing and Soft Computing,Intelligent Agents and Multi-Agent Systems,Human-Machine Cooperative Interactive Information Processing,",
+      "scope": "DSIIP 2027 will be a high-level interdisciplinary academic forum focusing on two core research domains: data science and intelligent information processing. In the field of data science, the conference will focus on advanced big data mining, visual data analysis, and data-driven decision support systems, as well as wearable intelligent sensing and multimodal data fusion technologies for accurate perception of human behavior and environmental states. In terms of intelligent information processing, it will cover pattern recognition, computer vision understanding, natural language processing, audio signal processing, soft computing, fuzzy information processing, multi-agent collaborative systems, and human-machine interactive information processing technologies. Through professional interdisciplinary academic exchanges, DSIIP 2027 will promote theoretical progress and practical engineering applications in the fields of data science and intelligent information processing.",
+      "callForPapers": "2027-01-02",
+      "url": "www.dsiip.org/",
+      "eventContact": "dsiip.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Wuhan Textile University, No.1 Yangguang Avenue, Jiangxia District, Wuhan City, Hubei Province, China, , , , Wuhan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

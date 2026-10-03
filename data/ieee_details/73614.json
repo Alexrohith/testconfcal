@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6Zecx440r78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73614,
+      "eventTitle": "2027 Sixteenth International Conference on Mobile Computing and Ubiquitous Networking (ICMU)",
+      "startDate": "2027-09-22",
+      "endDate": "2027-09-24",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Taipei",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "IEEE Computer Society; Information Processing Society of Japan - IPSJ",
+      "keywords": "Mobile Computing,Ubiquitous Networking,Ubiquitous Networking,Ad Hoc Network,Wireless Network,Smart Device,Intelligent Environment,Internet of Things,",
+      "scope": "The 16th International Conference on Mobile Computing and Ubiquitous Networking (ICMU 2027) focuses on the active area of research and development in mobile communications, applications, algorithms and systems as well as ubiquitous services and computing. The special focus of ICMU includes advancing technologies for next generation distributed and ubiquitous computing where human, networked sensors, connected devices and environment are involved. Examples of such technologies are IoT, human-centric sensing, energy-efficient mobile systems, socialnetworking, machine-to-machine communications, mobile cloud computing and mobile social P2P. Not only these issues but also fundamental algorithms and theory for mobile system privacy, security, reliability and robustness are also the topics of interest.",
+      "callForPapers": "2027-04-25",
+      "url": "www.icmu.org/icmu2027/",
+      "eventContact": "fukazawa@sophia.ac.jp",
+      "sponsorTypes": "1; 9",
+      "venues": "National Taiwan University (NTU), No. 1, Sec. 4, Roosevelt Road, Da'an District, , , Taipei, , Taiwan, 106319, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

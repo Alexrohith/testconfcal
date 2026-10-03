@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /pngwY406qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73086,
+      "eventTitle": "2026 IEEE VIS Workshop on Topology meets Artificial Intelligence (TopoInVis Connect)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-10",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Boston",
+        "region": "Massachusetts",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Topological methods,Data analysis and visualization,Theory and applications of topological methods,AI and Machine Learning,",
+      "scope": "- Topological methods for the analysis and visualization of:     High dimensional point cloud data     Graph data     Scalar, vector, tensor, multi-field data     Time-varying data     Ensemble data     Uncertain data - Topological methods for data science (dimensionality reduction, clustering, etc.) - Topological methods and machine learning - Computational methods for topological data analysis and visualization - Software systems for topological data analysis and visualization - Visual analytic frameworks relying on topological methods - Applications of topological data analysis and visualization",
+      "callForPapers": "2026-06-15",
+      "url": "topoinvis-workshop.github.io/2026/",
+      "eventContact": "general_chair@ieeevis.org",
+      "sponsorTypes": "1",
+      "venues": "The Westin Copley Place, 10 Huntington Avenue, , , , Boston, MA, USA, 02116, ;",
+      "region": "Region01-Northeast USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /9bowY40qaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71708,
+      "eventTitle": "2026 IEEE 4th International Conference on Artificial Intelligence Innovation (ICAII)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Beijing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Beijing Union University",
+      "keywords": "Natural Language Processing,Intelligent Database Systems,Distributed and Parallel Computing,Computer Vision,Expert Systems and Multi-agent Systems,Machine Learning and Neural Networks,Evolutionary Algorithms,",
+      "scope": "ICAII conference series provide a platform to explore the potential of AI, as well as its ethical and social implications. It is an excellent forum for both young and experienced researchers and seasoned academics to present and defend their work on a global stage. The conference encourages sharing of experiences and difficulties between researchers and mentoring new researchers, ensuring research is taken to the boundaries of new knowledge. With its truly international presence, ICAII 2026 is poised to be an outstanding conference.",
+      "callForPapers": "2026-05-10",
+      "url": "www.icaii.org",
+      "eventContact": "hongmei@pmail.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Beijing Union University, North Fourth Ring Campus, No. 97 Beisihuan East Road, Chao Yang District, , , , Beijing, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

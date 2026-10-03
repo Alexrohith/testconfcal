@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9YbkwY4086QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73172,
+      "eventTitle": "2026 International Conference on Networking, Sensing and Control (ICNSC)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Southwest University",
+      "keywords": "Adaptive systems,Discrete event systems,Digital twin,Fuzzy and neural systems,Internet of Things,Meta learning,Multi-objective optimization,Objective detection,Quantum machine learning,Reinforcement learning,Semiconductor manufacturing systems,Sensor networks,Swarm intelligence,Wireless communications,",
+      "scope": "The conference themed \"AI and Industrial Internet of Things\" focuses on the convergence of Artificial Intelligence (AI) and the Industrial Internet of Things (IIoT), and the theoretical and methodological challenges arising from intelligent, large-scale connected industrial systems. It aims to showcase the latest advances in edge intelligence, federated and distributed learning, real-time anomaly detection, AI-enabled cyber-physical systems, and the modeling, control, and optimization of complex industrial processes. The conference encourages the exploration of novel approaches to predictive maintenance, digital twins, resource-constrained on-device inference, robustness and security of connected systems, and the integration of physical models with data-driven learning, fostering both foundational research and its translation into next-generation industrial systems.",
+      "callForPapers": "",
+      "url": "cis.swu.edu.cn/ICNSC2026/",
+      "eventContact": "luoxin@swu.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "Southwest University, , , , , Chongqing, , China, 400715, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

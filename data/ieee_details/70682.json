@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: x+v9xo402roBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70682,
+      "eventTitle": "2026 International Conference on Robotic Computing and Communication (RoboticCC)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Irvine",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Institute for Semantic Computing Foundation",
+      "keywords": "Robotics, Computing, Communication, Artificial Intelligence,",
+      "scope": "The boundaries between Computer Science, Communication, and Robotics are continuing to be softened. On one hand computers are continuing to be humanized and a large number of cyber-physical systems are being networked to act upon the physical world. On the other hand the robotic community is looking into the robots of the 21st century that are versatile computing machines that are massively connected with high social impact potential, such as enhance transportation safety, reduce agricultural pesticide use, and improve public safety and crime-fighting efficacy, among other things.   ​",
+      "callForPapers": "2026-09-01",
+      "url": "www.RoboticComputing.org",
+      "eventContact": "psheu@uci.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hills Hotel, 25205 La Paz Rd, , , , Laguna Hills, CA, USA, 92658, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

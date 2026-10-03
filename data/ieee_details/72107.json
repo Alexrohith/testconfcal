@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 78XjwY40h6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72107,
+      "eventTitle": "2027 International Conference on Intelligent Computing Frontiers (ICICF)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-23",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section IT Chapter; Jain University (Deemed-to-be University)",
+      "keywords": "Artificial Intelligence,Machine Learning,Data Science,Deep Learning,Intelligent Systems,Big Data Analytics,Natural Language Processing,Computer Vision,Cloud Computing,Cybersecurity,Information Theory,Signal Processing,",
+      "scope": "The International Conference on Intelligent Computing Frontiers (ICICF 2027) aims to provide a platform for researchers, academicians, and industry professionals to present advances in intelligent computing and emerging technologies. The conference focuses on Artificial Intelligence, Machine Learning, Data Science, and Computational Intelligence, along with their real-world applications.  It also covers interdisciplinary areas such as Natural Language Processing, Computer Vision, Big Data Analytics, Cloud and Edge Computing, Cybersecurity, Internet of Things, and Distributed Systems. Additionally, the conference includes theoretical and applied aspects of Information Theory, Signal Processing, and Optimization Techniques.  ICICF 2027 promotes innovation, collaboration, and knowledge exchange to address current challenges and future directions in intelligent computing.",
+      "callForPapers": "2026-09-20",
+      "url": "icicf-2027.vercel.app/",
+      "eventContact": "suresha0279@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "JAIN (Deemed-to-be University), Faculty of Engineering and Technology (FET), , 45th km, NH-209, Jakkasandra Post, Kanakapura Main Road, Ramanagara District, Bengaluru, , India, 562112, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

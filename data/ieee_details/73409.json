@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6tyVx440/74BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73409,
+      "eventTitle": "2027 IEEE 20th International Symposium on Applied Computational Intelligence and Informatics (SACI)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Timisoara",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "Hungary Section; Hungary Section CS Chapter; Hungary Section IE/RA Joint Chapter; Hungary Section SMC Chapter; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "computational intelligence,intelligent mechatronics,system engineering,intelligent manufacturing systems,intelligent robotics,Informatics,",
+      "scope": "SACI 2027 conference focuses on theory and application on the field of applied computational intelligence and informatics. The aim is to provide platform for scientists, teachers, researchers and students as well to publish their papers, and discuss the results.",
+      "callForPapers": "2027-01-20",
+      "url": "saci2027.uni-obuda.hu/",
+      "eventContact": "noemi.kallos@irob.uni-obuda.hu",
+      "sponsorTypes": "1; 3; 5; 5; 5",
+      "venues": "Conference Center, Politehnica University, Bulevardul Vasile Pârvan 2, , , , Timisoara, , Romania, 300223, ;Hotel Visegrad, Visegrad, Rev u. 15, , , , Visegrád, , Hungary, 2025, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

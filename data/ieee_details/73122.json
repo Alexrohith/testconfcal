@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3ouRx440xLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73122,
+      "eventTitle": "2026 International Conference on Computer Vision, Image Processing and Computational Imaging (CVIP)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Yinchuan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Ningxia University",
+      "keywords": "Advanced Computer Vision Technologies,Target Detection and Feature Extraction,Visual Intelligent Perception Systems,Image Semantic Understanding and Segmentation,Image Processing and Intelligent Analysis,Image Enhancement and Noise Suppression,Image Compression and Efficient Transmission,Image Privacy Protection and Encryption,Computational Imaging and Intelligent Systems,Super-Resolution Computational Imaging and Image Reconstruction,Embedded and Real-Time Computational Imaging Systems,",
+      "scope": "CVIP 2026 will gather leading global researchers, engineers and scientists concentrating on computer vision, image processing and computational imaging; its welcome submissions span core fields including advanced computer vision technology, target detection and feature extraction, visual intelligent perception systems, image semantic understanding and segmentation, image processing and intelligent analysis, image enhancement and noise suppression, image compression and efficient transmission, image privacy protection and encryption, computational imaging and intelligent systems, super-resolution computational imaging and image reconstruction, as well as embedded and real-time computational imaging systems, and the conference will host keynote speeches and technical sessions for participants to exchange innovative theories and practical solutions, strengthen international academic collaboration, and accelerate the industrial application of vision and computational imaging technologies.",
+      "callForPapers": "2026-10-03",
+      "url": "www.iccvip.org/",
+      "eventContact": "zhs.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Ningxia University, No. 489, Helan Mountain West Road, Xixia District, Yinchuan City, Ningxia Hui Autonomous Region, China, , , , Yinchuan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

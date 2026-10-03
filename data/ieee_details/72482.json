@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5Kz+xo40zboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72482,
+      "eventTitle": "2026 International Conference on Networking, Architecture and Storage (NAS)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Huazhong University of Science & Technology; IEEE Computer Society",
+      "keywords": "Networking,Architecture,Digital Storage,Artificial Intelligence,",
+      "scope": "The International Conference on Networking, Architecture, and Storage provides a high-quality international forum to bring together researchers and practitioners from academia and industry to discuss cutting-edge research on networking, high-performance computer architecture, and parallel and distributed data storage technologies. NAS 2026 will expose participants to the most recent developments in the interdisciplinary areas.",
+      "callForPapers": "2026-06-21",
+      "url": "nas-conf.org/NAS-2026/index.html",
+      "eventContact": "wxiao@vcu.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "TBA, , , , , Wuhan, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

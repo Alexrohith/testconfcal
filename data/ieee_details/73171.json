@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nLPqwY40taIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73171,
+      "eventTitle": "2027 IEEE 5th International Conference on Control, Electronics and Computer Technology (ICCECT)",
+      "startDate": "2027-04-28",
+      "endDate": "2027-04-30",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Jilin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chongqing University of Science and Technology; Harbin Section",
+      "keywords": "Electronics Engineering,Computer Technology,Control Engineering,Cloud Computing,Information Technology,Machine Learning,Artificial Intelligence,Neural Network,Big Data,Image Processing,Robotics,Electromagnetic Compatibility,",
+      "scope": "To expand opportunities for scientific exchanges, 2027 IEEE 5th International Conference on Control, Electronics and Computer Technology (ICCECT 2027) is finally determined to be held at Jilin (China) during April 28-30, 2027. Academic professionals, scholars as well as students in the fields of control engineering, electronics engineering and computer science are all welcomed to participate in this conference! It is believed to be a great opportunity to share your latest research, spark your inspiration, and have a close talk with professionals.",
+      "callForPapers": "2027-01-23",
+      "url": "www.iccect.com/",
+      "eventContact": "iccect@iccect.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Jilin Worldtrade Winning Hotel, Jiangwan Road No.2, Changyi District, Jilin, , , , Jilin, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lo2Bx4403LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73362,
+      "eventTitle": "2027 First International Congress on Recent Advances in Computing Systems",
+      "startDate": "2027-03-15",
+      "endDate": "2027-03-17",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Porto",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "Institute of Electronics and Informatics Engineering of Aveiro (IEETA); Mosharaka for Studies and Research, Jordan; Portugal Section; University of Trás-os-Montes e Alto Douro (UTAD)",
+      "keywords": "Computer Networks,Mobile Computing,Software Engineering,Artificial Intelligence,",
+      "scope": "Future Computing Systems; Intelligent Informatics; Multimedia Systems, Networks and Technologies; Security and Digital Forensics; Artificial Intelligence; Computer Vision and Pattern Recognition; Information Technologies and Information Systems; Computer Science Foundations; Software Engineering; Software Security and Privacy;",
+      "callForPapers": "2027-01-10",
+      "url": "https://mosharaka.net/?Area=Conferences&Page=CongSite&Cong=34",
+      "eventContact": "jkmahasneh@just.edu.jo",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "PortoBay Flores, , , , , Porto, , Portugal, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

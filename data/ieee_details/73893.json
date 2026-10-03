@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0M2Yx440l78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73893,
+      "eventTitle": "2027 IEEE International Black Sea Conference on Communications and Networking (BlackSeaCom)",
+      "startDate": "2027-06-07",
+      "endDate": "2027-06-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sofia",
+        "region": "",
+        "country": "Bulgaria"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Networking,Signal Processing,Robotics,IoT,Commutations,6G mobile communications,Public Safety communications,Aerial communications,Embedded AI,",
+      "scope": "The IEEE BlackSeaCom series of conferences are held in the countries surrounding the Black Sea. The goal of the IEEE BlackSeaCom is to bring together visionaries in academia, research labs, and industry from all over the world to the shores of the Black Sea. Here they will address many of the outstanding grand challenges that exist in the areas of communications and networking while having an opportunity to explore this exciting and dynamic region that has a rich history.",
+      "callForPapers": "2027-02-06",
+      "url": "",
+      "eventContact": "a.m.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Sofia, , Bulgaria, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

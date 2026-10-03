@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 65f8xo400LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72097,
+      "eventTitle": "2026 International Conference on Future Telecommunications and Artificial Intelligence (IC-FTAI)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-26",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Alexandria",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Egypt/Alexandria AP/MTT Joint Chapter; Higher Institute of Engineering and Technology, King Mariout; IEEE Antennas and Propagation Society; IEEE Microwave Theory and Technology Society",
+      "keywords": "IC-FTAI 2026, Electromagnetic fields, Antennas and propagation, Microwave theory and technology, Telecommunications (TC), wireless and green communications, Signal Processing, Electronics and devices, Power management for TC Space and radar systems, M2M ML and AI, High power electromagnetic, computer science, mechatronics and robotics, green and renewable energy.,",
+      "scope": "research, development, and applications of all tracks related to telecommunications (TC) and artificial intelligence (AI), including antennas and propagation, microwaves, signal processing, wireless and green communications, electronics, space, radar systems, computer architecture, computer systems, security, bioinformatics and computational biology, systems, applications, and emerging technologies for TC and AI related to AP, MTT, C, and CI societies.",
+      "callForPapers": "2026-09-14",
+      "url": "r8.ieee.org/egypt-apmtt/ic-ftai-conference/",
+      "eventContact": "dr_yasser.madany@yahoo.com",
+      "sponsorTypes": "1; 1; 3; 5; 9",
+      "venues": "Green Plaza Hotel Alexandria, Ezbet El-Nozha, Sidi Gaber, , , , Alexandria, , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

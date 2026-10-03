@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +KaMx440wL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70542,
+      "eventTitle": "2026 Fifth International Conference on Smart Technologies, Communication and Robotics (STCR)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sathyamangalam",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bannari Amman Institute of Technology; Madras Section",
+      "keywords": "Signal Processing,Control and Automation Technologies,Bio-inspired Techniques for Communications,Artificial Intelligence,Data Science and Optimization,Cyber-Physical Systems,Embedded Wireless Systems,Orthogonal Methods for Antenna Engineering,Medical Electronics Engineering,Smart Technologies in Power Systems,",
+      "scope": "This conference will provide a wonderful forum to refresh knowledge base and explore the innovations in signal processing and systems. It is also for researchers, academia, professionals, and students to disseminate information on the latest developments of signal processing and systems. This conference strives to offer plenty of networking opportunities and interact with leading scientists and researchers, friends and colleagues. There is a need for real innovations that come from research in telecommunication. Technology for effective utilization of frequency resources, high speed data communications, power saving of wireless communication devices, GPS-based relative positioning method between vehicles and such, which expands the possibilities of wireless communications, is the need of the hour. The primary goal of STCR is to provide a platform to promote sharing of ideas which will contribute to fostering continued research in the respective fields.",
+      "callForPapers": "2026-09-01",
+      "url": "stcr.bitsathy.ac.in/",
+      "eventContact": "POONGODIC@BITSATHY.AC.IN",
+      "sponsorTypes": "3; 9",
+      "venues": "Bannari Amman Institute of Technology, Allthukombai , Sathyamangalam , , , Sathyamangalam , , India, 638401, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

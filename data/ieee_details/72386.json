@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /aCNx440u7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72386,
+      "eventTitle": "2027 International Conference on Software, Knowledge, Information Management & Applications (SKIMA)",
+      "startDate": "2027-05-26",
+      "endDate": "2027-05-28",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuxi",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society; Scotland Academy, Wuxi Taihu University",
+      "keywords": "Artificial Intelligence,Generative AI,Language models,Data mining,Decision support systems,Blockchain Technology,Cloud Computing,Cyber Security,Educational technology,Enterprise interoperability,e-Business,e-Tourism,Future internet,Fuzzy systems,Big Data,Data visulisation,Artificial Neural systems,Information Systems,Knowledge Management,Software engineering,SmartPrecision Agriculture ,Supply chains & logistics management,System and Information Security,Internet of things (IoTs),eHealthmHealthDi",
+      "scope": "Agile and Complex systems, AI, Machine Learning, Decision support systems & optimisation, Medical Informatics & eHealth, Systems Biology and Bioinformatics, Big data, Business ecosystems modelling & simulation, Business intelligence, Cloud computing, Collaborative systems, Complex system management, Data engineering & mining, Distribution systems & strategies, E-Learning & technology-enhanced learning, Enterprise interoperability, E-strategy & e-Business models, e-Tourism, Future Internets, Fuzzy, GA & neural systems, Human factors, Human adaptive mechatronics, Information search & retrieval, Information interfaces & presentation, Information systems & infrastructure, Intelligent control and robotics, Intelligent manufacturing systems, Internet of things, Knowledge-based entrepreneurship, Life-cycle engineering and PLM, Mobile technology, Modern production management.",
+      "callForPapers": "",
+      "url": "skimanetwork.org/",
+      "eventContact": "keshav.dahal@uws.ac.uk",
+      "sponsorTypes": "1; 9",
+      "venues": "The Scotland Academy, Wuxi Taihu University (WTU), 68 Qianrong Road, , Binhu District, Jiangsu Province, , Wuxi, , China, 214064, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

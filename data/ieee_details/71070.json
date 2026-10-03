@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: w9SWx440/bsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71070,
+      "eventTitle": "2026 IEEE Tenth Ecuador Technical Chapters Meeting (ETCM)",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-24",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Guayaquil",
+        "region": "",
+        "country": "Ecuador"
+      },
+      "sponsors": "Andean Council; Ecuador Section; Ecuador Section AP Chapter; Ecuador Section C Chapter ; Ecuador Section CIS Chapter; Ecuador Section COM Chapter; Ecuador Section E Chapter; Ecuador Section ED/CAS Joint Chapter; Ecuador Section EMB Chapter; Ecuador Section IA/RL Jt. Chapter; Ecuador Section IE/CS Joint Chapter; Ecuador Section PE Chapter; Ecuador Section RA Chapter ; Ecuador Section TEM Chapter; Ecuador Section Women in Engineering (WIE) Affinity Group; Ecuador Section Young Professionals Affinity Group; Region 09 - Latin America",
+      "keywords": "Communications Society,Computational Intelligence Society,Computer Society,Education Society,Engineering in Medicine and Biology Society,Industry Applications Society,Power & Energy Society,Technology Management,Antennas and Propagation Society,Circuits and Systems Society,Electron Devices Society,Control Systems Society,Industrial Electronics Society,Reliability Society,",
+      "scope": "IEEE ETCM 2026 aims to provide a comprehensive and highly prestigious venue for academics, engineers and researchers in particular from Ecuador Technical Chapters fields of expertise. The conference covers both theoretical and practical issues related to Communications, Computer and Software Engineering, Computational Intelligence, Systems and Control, Industrial Electronics, Engineering in Medicine and Biology, Power and Energy, Circuits, Systems and Electron Devices, Education in Engineering,Robotics and Automation, Social issues and professional practice and others.",
+      "callForPapers": "2026-05-10",
+      "url": "attend.ieee.org/etcm-2026/",
+      "eventContact": "jbarzola@gmail.com",
+      "sponsorTypes": "2; 3; 4; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5; 5",
+      "venues": "Instituto Superior Tecnológico Bolivariano de Tecnología (ITB), Avenida Pedro Menéndez Gilbert, Atarazana, , , Guayaquil, , Ecuador, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

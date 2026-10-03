@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: qe+Qx4400rsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71876,
+      "eventTitle": "2026 IEEE International Conference on Embodied AI (Embodied AI)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-02",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Luoyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Embodied Intelligence,Robot Learning,Perception-Action Integration,Interactive AI Systems,Computer Vision,",
+      "scope": "The International Conference on Embodied AI aims to bring together researchers and practitioners from artificial intelligence, robotics, cognitive science, and related disciplines to advance the science and engineering of intelligent agents that learn, reason, and act through physical embodiment. The conference focuses on algorithms, systems, and theories that enable machines to perceive, interact with, and adapt to complex real-world environments through integrated sensing, cognition, and action. By fostering interdisciplinary dialogue, the conference seeks to accelerate progress toward robust, generalizable, and scalable embodied intelligence, bridging advances in machine learning, robotics, simulation, and human-AI interaction to support the next generation of autonomous and interactive systems.",
+      "callForPapers": "2026-06-15",
+      "url": "www.ieee-hpcc.org/2026/embodiedai/ (under construction)",
+      "eventContact": "liangxueqin@xidian.edu.cn",
+      "sponsorTypes": "1",
+      "venues": "Courtyard by Marriott Luoyang, No. 288 Kaiyuan Avenue, Luolong District, , , , Luoyang, , China, 471025, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

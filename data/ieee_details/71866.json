@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: iKr8xo40wroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71866,
+      "eventTitle": "2027 International Conference on Artificial Intelligence, Smart Electronic & Energy Systems (AISEE)",
+      "startDate": "2027-01-22",
+      "endDate": "2027-01-23",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Mangaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Mangalore Subsection; St Joseph Engineering College, Mangalore",
+      "keywords": "Intelligent Vision & Language Systems,AI in Healthcare,AI for Smart and Secure Systems,Communication Systems,Signal Processing & VLSI Systems,Electrical Power and Energy Systems.,",
+      "scope": "The conference aims to attract researchers and professionals working in diverse domains, including Intelligent Vision & Language Systems, AI in Healthcare, AI for Smart and Secure Systems, Communication Systems, Signal Processing & VLSI Systems, and Electrical Power and Energy Systems. A Detailed list is provided in: https://sjec-aisee.netlify.app/call_for_papers",
+      "callForPapers": "2026-10-04",
+      "url": "sjec-aisee.netlify.app/",
+      "eventContact": "jaishmab@sjec.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "St Joseph Engineering College, Vamanjoor, Mangaluru, , , Mangaluru, , India, 575028, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

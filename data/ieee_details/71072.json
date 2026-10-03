@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tOGRx4404b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71072,
+      "eventTitle": "2026 16th International Conference on Information Science and Technology (ICIST)",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-06",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Coimbra",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "City University of Hong Kong - CityU; IEEE Systems, Man, and Cybernetics Society; University of Coimbra",
+      "keywords": "Information Theory and Applications,Computational Intelligence,Networks and Communication,Computer Vision and Image Processing,Control and Automation,Signal Processing,Robotics,",
+      "scope": "ICIST2026 aims to provide a high-level international forum for scientists, engineers, and educators to present the state-of-the-art research and applications in neural networks and related fields. The symposium will feature plenary speeches given by world-renowned scholars, regular sessions with broad coverage, and special sessions focusing on popular topics.",
+      "callForPapers": "2026-05-15",
+      "url": "conference.cs.cityu.edu.hk/icist/",
+      "eventContact": "nzhang@udc.edu",
+      "sponsorTypes": "1; 9; 9",
+      "venues": ", , , , , Coimbra, , Portugal, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

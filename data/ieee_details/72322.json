@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7viVx440+LsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72322,
+      "eventTitle": "2026 XXVIII Robotics Mexican Congress (COMRob)",
+      "startDate": "2026-10-26",
+      "endDate": "2026-10-28",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Ciudad de México",
+        "region": "",
+        "country": "Mexico"
+      },
+      "sponsors": "Asociación Mexicana de Robótica e Industria A.C; Mexico Section; Universidad Iberoamericana Ciudad de México",
+      "keywords": "Autonomous Robots,Intelligent robots,Climbing robots,Mobile robots,Parallel robots,Robot control,Telerobotics,Control, Robotics And Mechatronics,Robotics And Robots,Control theory,Robotics and automation,",
+      "scope": "Robotics continues to be a rapidly expanding field of research and education worldwide. The upcoming COMRob 2026, organized by the \"Asociación Mexicana de Robótica e Industria A.C. (AMROB)\", aims to foster the growth and promotion of robotics in Mexico. This event draws students, researchers, and professionals from diverse academic backgrounds, all with the objective of showcasing the advancements and outcomes of their work in educational, research, technological development, and industrial applications. In addition, COMRob 2026 serves as a platform for networking and collaboration among participants. It facilitates the exchange of ideas, best practices, and the exploration of potential partnerships between academia and industry. By bringing together experts and enthusiasts in robotics, the event not only contributes to the advancement of knowledge but also fosters innovation and drives the growth of the robotics sector in Mexico and beyond.",
+      "callForPapers": "2026-06-21",
+      "url": "comrob2026.mecatronica-ibero.mx/en/index.html",
+      "eventContact": "andres.molano@ibero.mx",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Universidad Iberoamericana Ciudad de México, Prolongación paseo de Reforma 880,  Lomas de Santa Fe, , , Ciudad de México, , Mexico, 01219, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

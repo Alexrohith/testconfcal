@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 87L8xo400boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74021,
+      "eventTitle": "2027 International Conference on Data Science, Modeling and Simulation, and Artificial Intelligence (DSMSAI)",
+      "startDate": "2027-04-23",
+      "endDate": "2027-04-25",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Fuzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Yango University",
+      "keywords": "Data Science and Big Data Technology,Computational Modeling and Simulation,Complex System Modeling,Digital Twin and Real-time Simulation,Deep Learning and Large Language Models,Agent AI and Multi-Agent Systems,Generative AI and Explainable AI,",
+      "scope": "DSMSAI 2027 is a leading international academic conference focusing on the latest progress in data science, modeling and simulation, and artificial intelligence. Its goal is to gather global researchers, industry experts, and academics to share insights and advance collaboration and innovation in related fields. Given the explosive growth of data and the ever-increasing complexity of real-world systems, DSMSAI 2027 will stress the need for interdisciplinary advancement-especially in big data analytics and knowledge discovery, computational modeling and digital twin technologies, and AI-driven intelligent systems covering large language models, generative AI, and trustworthy AI. By enabling interdisciplinary communication, DSMSAI 2027 will provide a key platform for shaping the future of data-driven innovation and intelligent simulation, with the final aim of driving sustainable, intelligent solutions for next-generation scientific discovery and engineering applications.",
+      "callForPapers": "2027-02-09",
+      "url": "dsmsai.com",
+      "eventContact": "dsmsai.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Yango University, No.99 Denglong Road, Economic and Technological Development Zones, Fuzhou City, Fujian Province, China, , , , Fuzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

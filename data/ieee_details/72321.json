@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pqLvwY40y6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72321,
+      "eventTitle": "2026 Conference on Embodied Intelligent Robotics Technology (EIRT)",
+      "startDate": "2026-11-26",
+      "endDate": "2026-11-28",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; France Section SMC Chapter; IEEE Systems, Man, and Cybernetics Society; University of Haute Alsace",
+      "keywords": "Embodied artificial intelligence and cognitive robotics,Learning and adaptation in embodied systems,Embodied learning and cognitive reasoning,Multi-sensor integration and data fusion,Robotic machine vision and 3D perception,Robotic motion control algorithms,Soft robot drive and control,Multi-robot collaborative control,Swarm intelligence for robotic systems,Robotic autonomous navigation,Human-robot natural language interaction,",
+      "scope": "EIRT 2026 will be hosted by the University of Haute-Alsace and held in Paris, France, November 26-28, 2026. As robotics advances, embodied intelligence will become pivotal in reshaping robotic perception, environmental interaction, and human collaboration. AI, sensor fusion, soft robotics, and human-robot interaction breakthroughs will drive innovation in manufacturing, healthcare, education, and other high-tech industries. As a premier international platform, EIRT 2026 will gather global researchers, practitioners, and leaders to share cutting-edge research, discuss trends, and showcase applications. Through keynotes, technical sessions, and workshops, the conference will facilitate exchanges, foster cross-domain collaboration, and accelerate the development of embodied intelligent robotics. We welcome your participation and contributions to explore a smarter future powered by embodied intelligent robotics jointly.",
+      "callForPapers": "2026-09-11",
+      "url": "https://www.iceirt.com/",
+      "eventContact": "tf.pc@outlook.com",
+      "sponsorTypes": "1; 3; 5; 9",
+      "venues": "Shangri-La Hotel, Paris, 10, avenue d'Iéna, Paris, 75116, France, , , , Paris, , France, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

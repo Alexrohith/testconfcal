@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5p2Mx440prsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 66762,
+      "eventTitle": "2026 IEEE Sustainable Power and Energy Conference (iSPEC)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Thiruvananthapuram",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Chinese Society for Electrical Engineering; IEEE Power & Energy Society; Kerala Section; Kerala Section PES Chapter",
+      "keywords": "Renewable Energy, Energy Storage,Sustainable Power,Smart Grid,Sustainable Transportation,Power Electronics,Power Systems,Energy Systems,Carbon Neutral,Internet of Things,Cyber Security,Artificial Intelligence,Power Grid,Resilience,Solar Energy,Wind Energy,Microgrids,Blockchain,Hydrogen,",
+      "scope": "2026 IEEE Sustainable Power Energy Conference (iSPEC) aims to advance sustainable energy systems by addressing the key challenges and enhancing innovation in areas like renewable energy integration, smart grids, and energy storage. The conference focuses on improving grid resilience, enhancing energy efficiency, reducing carbon emissions, and leveraging AI, IoT, and advanced digital technologies for optimization and predictive maintenance. It also emphasizes the economic and policy frameworks, social responsibility, and environmental governance to promote sustainable development. By uniting researchers, industry professionals, and policymakers, iSPEC serves as a platform to explore cutting-edge solutions, share knowledge, and shape the future of clean and reliable energy systems.",
+      "callForPapers": "2026-07-31",
+      "url": "ispec2026.org/",
+      "eventContact": "rahulsatheesh21@ieee.org",
+      "sponsorTypes": "1; 3; 5; 9",
+      "venues": "Mar Baselios College of Engineering and Technology, GWWQ+V4C, Mar Ivanios Vidyanagar, P.O, Nalanchira, , , Thattinakam, Thiruvananthapuram, , India, 695015, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 7OGCx440gL4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72834,
+      "eventTitle": "2026 2nd International Conference on Advanced Computing and Intelligent Robotics Applications (ACIRA)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangdong High Performance Computing Society; Guangzhou Section; Shenyang Ligong University",
+      "keywords": "Advanced Computing,Artificial Intelligence,Intelligent Robotics,Autonomous Systems,Cyber-Physical Systems,",
+      "scope": "ACIRA 2026 focuses on advancing research and applications in advanced computing, artificial intelligence, and intelligent robotics, with an emphasis on autonomous systems, data-driven intelligent technologies, and their integration into cyber-physical and real-world engineering environments.",
+      "callForPapers": "2026-08-07",
+      "url": "www.icacira.com/",
+      "eventContact": "caobin02@163.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Sun Yat-sen University, No.135 Xingangxi Road, Haizhu District, Guangzhou, China, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

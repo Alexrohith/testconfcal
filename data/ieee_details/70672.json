@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hrWZx440hbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70672,
+      "eventTitle": "2026 International Conference on AI-Enabled Smart Solutions for Industry, Governance, Healthcare, and Sustainable Development (AISIGH–SD)",
+      "startDate": "2026-12-28",
+      "endDate": "2026-12-30",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Centurion University of Technology & Management",
+      "keywords": "renewable integration, smart grids, transportation electrification, Industry 4.0, Robotics, Digital Healthcare, AI Driven personalized care, Sustainable Infrastructure Development,",
+      "scope": "The International Conference on AI-Enabled Smart Solutions for Industry, Governance, Healthcare, and Sustainable Development (AISIGH–SD 2026) explores the design, deployment, governance and societal implications of AI systems that enable intelligent, resilient and equitable solutions across industry, public sector, healthcare and sustainable development domains. The conference brings together researchers, practitioners, policymakers and community stakeholders to present novel algorithms, systems, case studies, evaluations, policy analyses, and interdisciplinary collaborations that prioritize social impact, ethics, transparency, and long-term sustainability.AISIGH–SD 2026 solicits original, unpublished papers, system demonstrations, data and dataset papers, position papers, and workshop proposals on AI-enabled solutions for industry, governance, healthcare, and sustainable development. Topics of interest include, but are not limited to, applied machine learning, trustworthy.",
+      "callForPapers": "2026-03-10",
+      "url": "www.aisigh-sd.co.in",
+      "eventContact": "sudhansu.nitrkl@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Centurion University of Technology and Management, At- Ramachandrapur, Po- Jatni, Jatni, Khordha, , , Bhuaneswar , , India, 752050, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

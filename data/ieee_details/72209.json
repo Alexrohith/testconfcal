@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: lqnbwY40taQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72209,
+      "eventTitle": "2027 International Conference on Machine Learning and Autonomous Systems (ICMLAS)",
+      "startDate": "2027-02-25",
+      "endDate": "2027-02-27",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Electron Devices Society; Stamford International University",
+      "keywords": "FPGA-Based Accelerators, Embedded Sensor Interfaces, Wireless Sensor Networks, PID Controller Design, Neural Network Control Systems, Optical Neural Networks,",
+      "scope": "The emerging modern mobile robotic systems and intelligent information systems are becoming increasingly ubiquitous and distributed, where they are intended to operate in highly dynamic and continuously fluctuating societal and economic environments. Moreover, the introduction of autonomous systems has revolutionized a wide range of applications like agriculture, healthcare, education, military, industries, and so on. The 4th International Conference on Machine Learning and Autonomous Systems [ICMLAS 2027] on 11-13 March, 2027 will be an interdisciplinary platform for the researchers to contribute their research works that address the state-of-the-art technologies, development, and methodologies for the futuristic intelligent autonomous system developments and applications.",
+      "callForPapers": "2026-11-26",
+      "url": "icmlas.com/2027/",
+      "eventContact": "icmlasconference@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Stamford International University, 16, Motorway Road Km2, Bangkok-Chon Buri New Line , , , Bangkok, , Thailand, 10250, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

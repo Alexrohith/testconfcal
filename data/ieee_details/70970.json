@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 153awY40r6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70970,
+      "eventTitle": "2026 3rd International Conference on Advanced Robotics, Automation Engineering and Machine Learning (ARAEML)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Suzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Computing and Engineering Association; Nanjing Section; Nanjing University - NJU; Xi'an Jiaotong-Liverpool University",
+      "keywords": "Robotics and automation,Machine Learning,",
+      "scope": "Advanced Robotics, Automation Engineering and Machine Learning",
+      "callForPapers": "2026-04-30",
+      "url": "www.araeml.net/",
+      "eventContact": "shirley@i-cea.net",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Xi'an Jiaotong University Liverpool International Convention Center, No.99 Ren’ai Road, Suzhou Industrial Park, Suzhou, , , , Suzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 44bswY402KIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70916,
+      "eventTitle": "2026 International Conference on Computational Intelligence and Sustainable Communication Systems (ICCISCS)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Meerut",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Meerut Institute of Engineering and Technology (MIET); Uttar Pradesh Section",
+      "keywords": "artificial intelligence,machine learning,data analytics,computer vision,image processing,internet of things,smart communication,suistanable development,natural language processing  ,speech recognition,cyber security,suistanable communication,quantum computing,autonomus systems ,",
+      "scope": "Computational Sciences, Data Sciences, and Artificial Intelligence & Machine Learning are the driving forces behind transformative growth across industries. Advanced computational intelligence enables solutions for complex tasks such as knowledge retrieval, large-scale simulations, automation, device control, and efficient data management. It also deepens scientific understanding through mathematical modeling and highperformance computing. With Computational Intelligence and Communication at the core of modern AI and ML advancements.",
+      "callForPapers": "2026-07-01",
+      "url": "miet.ac.in/icciscs-2026",
+      "eventContact": "rambir.singh@miet.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Meerut Institute of Engineering and Technology, NH 58 Bhagpat Bypass Road Crossing, , , , Meerut, , India, 250005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 19ncwY4056EBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71204,
+      "eventTitle": "2026 IEEE conference on E-Business Engineering (ICEBE)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "AI and Machine Learning ,Blockchain Technologies,Cloud Computing,",
+      "scope": "The IEEE International Conference on E-Business Engineering (ICEBE 2025) invites researchers, practitioners, and academics to submit original papers that explore both the theoretical and practical aspects of integrating Artificial Intelligence into e-business engineering.",
+      "callForPapers": "2026-07-29",
+      "url": "conferences.computer.org/icebe/2026/index.html",
+      "eventContact": "rayteam@yeah.net",
+      "sponsorTypes": "1",
+      "venues": ", Huazhong University of Science and Technology, Hubei Province, , , Wuhan, , China, 430074, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

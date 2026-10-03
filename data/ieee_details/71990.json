@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wJuPx440t7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71990,
+      "eventTitle": "2026 IEEE 23rd International Conference on Smart Communities: Improving Quality of Life using AI, Robotics and IoT (HONET)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Gazimagusa",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Center for Optoelectronics & Optical Communication, UNC Charlotte; North Carolina Council; Turkiye Section",
+      "keywords": "Smart Cities, IoTs, Communication Technologies, Cloud Computing, Power & Energy, Smart Grids, Photonics & Integrated Photonics, Robotics, Automation & AI, Autonomous Transportation, VANETS, 6G & 7G ,e-Healthcare, Renewable Energy, Higher Edu Delivery Skills & Technology, Smart Communities, Cyber Security, Artificial Intelligence,Smart Cities, IoTs, Communication Technologies, Cloud Computing, Power & Energy, Smart Grids, Photonics & Integrated Photonics, Robotics, Automation & AI,",
+      "scope": "HONET has been phenomenal in attracting quality research papers from around the world. The conference has been successful, gradually emerging as a focal point for research that targets local and global issues related to science and technology. The 23rd International Conference IEEE HONET 2026 maintains a focus on R&D and the use of information & communication technology for Smart Cities and Communities. Specifically, the role of IoT, Robotics and AI, data analytics, and energy & autonomous transportation in conjunction with ICT, e-Healthcare & role of Photonics, renewable energy will be explored in the technical sessions. As per previous IEEE HONET events, we are expecting papers in above mentioned. Also, forums on Higher Edu Skills & Smart-Cities, workshops, tutorials and students' poster sessions will be included. IEEE HONET 2023 will be hosted Cyprus Int'l University, Nicosia, N. Cyprus",
+      "callForPapers": "2026-07-15",
+      "url": "honet-ict.org",
+      "eventContact": "ddeniz@ciu.edu.tr",
+      "sponsorTypes": "3; 4; 9",
+      "venues": "Salamis Bay Hotel, Gazimagusa, Mersin 10, , , , , , Turkiye, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

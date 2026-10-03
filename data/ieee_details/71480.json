@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0uaWx440ib8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71480,
+      "eventTitle": "OCEANS 2028 San Diego",
+      "startDate": "2028-09-18",
+      "endDate": "2028-09-22",
+      "about": "General Topics for Engineers",
+      "location": {
+        "city": "San Diego",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Oceanic Engineering Society",
+      "keywords": "Robotics",
+      "scope": "The event for global maritime professionals to learn, innovate, and lead in the protection and utilization of the world's largest natural resource - our Oceans",
+      "callForPapers": "2028-04-28",
+      "url": "https://sandiego28.oceansconferences.org/",
+      "eventContact": "alan.kenny@kenautics.com",
+      "sponsorTypes": "1",
+      "venues": "Town and Country San Diego, 500 Hotel Circle North, , , , San Diego, CA, USA, 92108, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

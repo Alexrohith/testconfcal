@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vOudx440o7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72341,
+      "eventTitle": "2026 4th International Conference on Cyber Resilience (ICCR)",
+      "startDate": "2026-12-06",
+      "endDate": "2026-12-07",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Irbid",
+        "region": "",
+        "country": "Jordan"
+      },
+      "sponsors": "Irbid National University; Jordan Section",
+      "keywords": " Cybersecurity and AI., Blockchain Technology.,Financial Technology Security, Cyber Law, Policy, and Strategy. , Cryptography., Cybersecurity in Digital Health., Digital Forensics., Internet of Things., Big Data and Data Analytics, E-Learning and M-Learning., Steganography and Watermarking., Cybersecurity in Smart Cities.,",
+      "scope": "ICCR provides a platform for theoretical and practical discourse on the multifaceted aspects of cyber resilience.",
+      "callForPapers": "2026-10-15",
+      "url": "iccr.ac/",
+      "eventContact": "khaled.shaalan@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Irbid National University, , , , , Irbid, , Jordan, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

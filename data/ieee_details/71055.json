@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xsPnwY40oaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71055,
+      "eventTitle": "2026 IEEE 7th International Conference on Computer, Big Data, Artificial Intelligence (ICCBD+AI)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Fuzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Fuzhou University",
+      "keywords": "Cloud Computing,Edge Computing,Computer applications,Big Data applications,Big Data Visualization Analysis,Big Data Search and Mining,Computational and artificial intelligence,Natural language processing,Machine Learning,Intelligent Robots,Computer Vision,Deep Learning,",
+      "scope": "ICCBD+AI 2026 seeks to establish a premier platform for global scholars and researchers to exchange ideas and foster collaboration in the fields of computer technology, big data applications, and artificial intelligence. By facilitating academic dialogue, this event aims to drive technological innovation and advancement, thereby contributing to the digital and intelligent future society.",
+      "callForPapers": "2026-09-18",
+      "url": "www.iccbdai.org",
+      "eventContact": "guangyong_c@yeah.net",
+      "sponsorTypes": "4; 9",
+      "venues": "Holand Garden Hotel, Building 4, Dianjin Business Center, No. 208, North Side of Pusang Avenue, Cangshan District, Fuzhou City, Fujian, , , , Fuzhou , , China, 350028, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

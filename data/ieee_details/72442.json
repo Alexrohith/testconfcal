@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0a2ax440mLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72442,
+      "eventTitle": "2027 IEEE 7th International Conference on Power, Electronics and Computer Applications (ICPECA)",
+      "startDate": "2027-01-29",
+      "endDate": "2027-01-31",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Shenyang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Harbin Section; Tianjin University of Technology and Education",
+      "keywords": "Power Engineering,Electrical Engineering,Automation,Robotics ,Control,Signal Technology,Computer Application,Computer Technology,Pattern Recognition,Image Processing,Cloud and Grid Computing, Data Mining,Information Technologies,",
+      "scope": "2027 IEEE 7th International Conference on Power, Electronics and Computer Applications (ICPECA 2027) will take place in Shenyang, China, on January 29-31, 2027. ICPECA 2027 seeks to provide a high-level forum for experts, researchers, professionals, innovators and practitioners in the field of Power, Electronics and Computer Applications from industry and academia to present and discuss the wide spectrum of original and novel researches and contributions together.",
+      "callForPapers": "2026-10-29",
+      "url": "www.icpeca.org/",
+      "eventContact": "icpeca@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Grand Metropark North York Hotel Shenyang, 35 Tongze N St, Tai Yuan Jie Shang Quan, Heping District, , , , Shenyang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

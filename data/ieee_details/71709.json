@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: oPGgx4400b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71709,
+      "eventTitle": "2026 6th International Conference on Electron Devices and Applications (ICEDA)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Components, Circuits, Devices and Systems",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Southern University of Science and Technology",
+      "keywords": "Epitaxy and Light-emitting Diodes,Sensors and Sensing Systems,Electronics and Electrical  Engineering,Power Electronics for Data center and Telecom,System on a Chip (SOC) and  Network on a Chip,Optical Electronic Devices & Photonics,Circuits, Devices and Systems,Microsystems and Applications,",
+      "scope": "Electron devices are widely used in industry as well as our daily life, such as information processing, telecommunication, and signal processing. The world is growing at a fast rate and it is relevant for the technology enthusiast to upgrade with latest changes happening in the society. Moreover, it is difficult to spend few hours without electronics gadgets and they had become an important part of our everyday routine. ICEDA 2026 will continue to bring together researchers and practitioners from electron devices and applications and related areas who are interested in developing, studying and using electron devices to share their research experiences and indulge in interactive discussions and communications at the event.",
+      "callForPapers": "2026-07-10",
+      "url": "www.iceda.org/",
+      "eventContact": "cao__chi@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "South University of Science and Technology, China, 1088 Xueyuan Avenue, , , , Shenzhen , , China, 518055, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: l7KLx440ur4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71360,
+      "eventTitle": "2026 International Conference on Advanced Scientific Computing (ICASC)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-23",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Cluj-Napoca",
+        "region": "",
+        "country": "Romania"
+      },
+      "sponsors": "National Institute for Research and Development of Isotopic and Molecular Technologies; Romania Section C Chapter",
+      "keywords": "Grid,Cloud,High Performance Computing,Quantum computing,semiconductor te,Data Analysis and big data,Antennas and propagation,Radio technologies,Active Networking,Containers,Artificial intelligence,Scientific computing,deep learning,robotics,Radio technologies,Cybersecurity,",
+      "scope": "ICASC 2026 is devoted to recent developments on the application of advanced computing technologies and methods in physics and engineer research and related areas. The conference is addressed to specialists with various backgrounds of expertise, such as computer scientists and researchers in numerical methods, developers and users of software applications, quantum computing, providers and beneficiaries of data-intensive services, data center administrators, systems of any kind with an engineer background.",
+      "callForPapers": "2026-07-01",
+      "url": "www.itim-cj.ro/icasc/",
+      "eventContact": "felix@itim-cj.ro",
+      "sponsorTypes": "5; 9",
+      "venues": "conference hall of INCDTIM, str Donat 67-103, , , , Cluj-Napoca, , Romania, 400327, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

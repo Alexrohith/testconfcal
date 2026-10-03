@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jvOlx440978BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68703,
+      "eventTitle": "2026 3rd International Conference on Computational Systems and Communication (ICCSC)",
+      "startDate": "2026-10-05",
+      "endDate": "2026-10-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Thiruvananthapuram",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Department of Science & Technology,  Government of India; Kerala Section; LBS Institute of Technology for Women",
+      "keywords": "Communication networks,Bio-inspired Computing,cloud computing,",
+      "scope": "The scope of the conference covers a broad range of topics related to computing technologies, communication systems, and their interdisciplinary applications. The conference will incorporate, but not be limited to, the following topics: • Wireless communications and Mobile Networks (5G, and beyond) • RF circuits, systems and antennas • Signal and Image Processing • Cognitive Radio & Spectrum Management • Microelectronics, MEMS and Nano technologies • Optical and satellite communication Technologies • Artificial Intelligence and Machine Learning • Cloud Computing and Big Data Analytics • Cybersecurity and Data Privacy • Internet of Things (IoT) and Smart Systems • Blockchain and Cryptographic Systems • Quantum Computing and Emerging Technologies • Human-Computer Interaction and Virtual Reality • Robotics, Control and Automation • Green and Sustainable Communication Technologies • Health care – devices and technologies",
+      "callForPapers": "2025-07-15",
+      "url": "iccsc2026.com/",
+      "eventContact": "sumasekhar@lbsitw.ac.in",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "LBSITW, LBS Institute of Technology for Women , Poojappura, Thiruvananthapuram, Kerala, Thiruvananthapuram, , India, 695012, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

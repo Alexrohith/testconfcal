@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uN7awY40saQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71712,
+      "eventTitle": "2026 IEEE 8th International Conference on Cognitive Machine Intelligence (CogMI)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "San Jose",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Human Machine Collaboration,Man Machine Collaborative Learning,Intelligent and Smart SystemsApplications,Machine Behavior,Machine Cognition,AI enabled Applications,",
+      "scope": "The topics will broadly cover Machine intelligence that includes AI, Machine Learning, Deep Learning; and behaviors and cognitive aspects of Intelligent machine",
+      "callForPapers": "2026-06-01",
+      "url": "www.sis.pitt.edu/lersais/conference/cogmi/2026/",
+      "eventContact": "hlu@scu.edu",
+      "sponsorTypes": "1",
+      "venues": "TBA, , , , , , PA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

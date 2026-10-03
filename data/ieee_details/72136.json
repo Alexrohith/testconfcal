@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 17,Rid: nMfcwY405qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72136,
+      "eventTitle": "2026 IEEE Latin American Conference on Nanotechnology (LANANO)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Viña del Mar",
+        "region": "",
+        "country": "Chile"
+      },
+      "sponsors": "IEEE Nanotechnology Council; Universidad Andres Bello",
+      "keywords": "Nanotechnology, Nanomedicine, Nanomaterials, Quantum Technology, Machine Learning,",
+      "scope": "IEEE-LANANO fosters global collaboration and knowledge exchange in nanoscience and nanotechnology throughout Latin America. IEEE-LANANO 2026 will spotlight several emerging areas, including (1) advanced nanomaterials, (2) new trends in nanoelectronics, (3) nanotechnology in life sciences, (4) machine learning in nanotechnology, and (5) quantum technology, alongside other nanotechnology-related fields.",
+      "callForPapers": "2026-07-12",
+      "url": "ieee-lanano.org/2026/",
+      "eventContact": "wtiznado@unab.cl",
+      "sponsorTypes": "1; 9",
+      "venues": "Auditorio Rojo Universidad Andres Bello, Sede Viña del Mar, Quillota 980, Valparaíso, Viña del Mar, Valparaíso, , , , , , Chile, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

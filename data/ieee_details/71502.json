@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2eSsx440qr0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71502,
+      "eventTitle": "2026 International Conference on Electrical Engineering and Photonics (EExPolytech)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Saint Petersburg",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "Peter the Great St. Petersburg Polytechnic University; Russia (Northwest) Section",
+      "keywords": "Electrical engineering,Photonics,Signal processing,Telecommunications,Nanoscience,",
+      "scope": "2026 International Conference on Electrical Engineering and Photonics (EExPolytech) is a conference that aims to bring together specialists in Electrical Engineering and Photonics. The topics cover diverse applications in technology fields such as image processing, communications, sensing, and instrumentation, as well as their applications in biology, chemistry and fundamental physics. The conference is designed for researchers to report on the latest findings on Electrical Engineering and Photonics and stimulate scientific exchange among researchers and engineers from industry and academia.",
+      "callForPapers": "2026-08-30",
+      "url": "eexpolytech.spbstu.ru/",
+      "eventContact": "ovsyannikova_as@spbstu.ru",
+      "sponsorTypes": "3; 9",
+      "venues": "Peter the Great St.Petersburg Polytechnic University, 29 Polytechnicheskaya str., , , , Saint Petersburg, , Russia, 195251, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

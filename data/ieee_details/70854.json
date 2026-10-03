@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: qdOVx4409LsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70854,
+      "eventTitle": "2027 IEEE 4th International Student Conference on Digital Generation",
+      "startDate": "2027-02-24",
+      "endDate": "2027-02-26",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Astana",
+        "region": "",
+        "country": "Kazakhstan"
+      },
+      "sponsors": "Astana IT University; Astana IT University Student Branch; Kazakhstan CIS/RA Jt. Chapter; Kazakhstan Section; Ukraine Section",
+      "keywords": "Computer Science,Technology And Engineering Management,Communications,Computational Intelligence,Robotics And Automation,Signal Processing,",
+      "scope": "The main objective of the \"2027 IEEE 4th International Student Conference on Digital Generation\" is to foster students' research activity and stimulate their engagement in scientific  research by creating a platform for presenting research results, conducting academic  discussions, and interacting with experts.  The scope of the relevant IEEE Societies and IEEE Transactions:  1. Computer Science  2. Technology And Engineering Management 3. Communications  4. Computational Intelligence 5. Robotics And Automation 6. Signal Processing",
+      "callForPapers": "2026-11-20",
+      "url": "sc.astanait.edu.kz/",
+      "eventContact": "d.kaskabayeva@astanait.edu.kz",
+      "sponsorTypes": "3; 3; 5; 5; 9",
+      "venues": "Astana IT University, Ave.Mangilik Yel 55/11, C1-block, , , , Astana, , Kazakhstan, 010000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

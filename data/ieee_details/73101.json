@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 56jpwY40w6IBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73101,
+      "eventTitle": "2026 2nd International Conference on Digital Innovations for Sustainable Solutions (ICDISS)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-21",
+      "about": "Bioengineering; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Faridabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Manav Rachna International Institute Of Research And Studies",
+      "keywords": "Sustainable Development, computation advancement,Data Analatics and Computing,Artificial Intelligence & Machine Learning,Informatics and applications,Threat Intelligence and Mitigations ,Block Chain,Genomic Analytics,Spatial Analytics,",
+      "scope": "The conference focuses on emerging computational technologies and their role in achieving sustainable development goals. It provides an international forum for researchers, academicians, industry experts, and policymakers to present innovative research in Artificial Intelligence, Machine Learning, Deep Learning, Data Science, Cyber Security, Quantum Computing, Cloud Computing, Bioinformatics, Computational Intelligence, Intelligent Analytics, and Communication Systems. The conference emphasizes the development of intelligent, secure, scalable, and sustainable computational solutions for real-world challenges. The conference aims to promote knowledge exchange, facilitate interdisciplinary research collaborations, and showcase innovative computational solutions that contribute to achieving the United Nations Sustainable Development Goals (SDGs) and building a sustainable digital future.",
+      "callForPapers": "2026-07-10",
+      "url": "manavrachna.edu.in/icdiss/",
+      "eventContact": "malik.mamta@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Manav Rachna  International Institute of Research and Studies , Sector – 43, Aravalli Hills, Delhi – Surajkund Road,, Faridabad – 121004, (Haryana), MRIIRS, Faridabad, , India, 121004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

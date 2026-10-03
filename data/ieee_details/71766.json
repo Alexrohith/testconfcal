@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iLPCwo40gKoBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71766,
+      "eventTitle": "2026 International Conference on Microelectronics (ICM)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-10",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuching",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Circuits and Systems Society; Malaysia Section CAS Chapter",
+      "keywords": "Microelectronics,Field Programmable Gate Array (FPGA),Analog and RF Circuit Design Techniques,CAD Tools,Biomedical Engineering,Complex Hardware Systems,Cyber-physical Systems Security,Semiconductor Systems,Smart sensors and sensor networks,Smart Applications and New Trends for a Connected Industry of the Future,Metaverse,AI Circuits,Internet of Things,On Edge Circuit and System,Energy efficient computing based on emerging technologies,Machine Learning CAS,Testing CAS,Power Systems Management,",
+      "scope": "The International Conference on Microelectronics has already been held numerous times in different countries across the Middle East, Southern Europe, and Asia for the past 37 years. The 38th edition of the conference will take place in Kuching, Malaysia. ICM 2026 will include oral, poster sessions and tutorials given by experts on state-of-the-art topics. The regular technical program will run for three days. In addition, tutorial sessions will be held on the first day of the conference. ICM 2026 is a highly technical conference that focuses on the latest developments in circuits and systems research. As such, the conference is primarily aimed at researchers, academics, engineers, and professionals in the field of circuits and systems. The conference, spanning over four days, will include peer-reviewed paper submissions, and accepted papers will be considered for inclusion in IEEE Xplore.",
+      "callForPapers": "2026-08-01",
+      "url": "ieee-icm.org/",
+      "eventContact": "fzr@upm.edu.my",
+      "sponsorTypes": "1; 5",
+      "venues": "Hilton Kuching, Jalan Tunku Abdul Rahman, , , , Kuching, , Malaysia, 93100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

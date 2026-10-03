@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nYyhx440yLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71905,
+      "eventTitle": "2026 International Conference on Algorithms, Data Mining, and Information Technology (ADMIT)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuhan",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Society for Applied Computing ; Wuhan Section; Wuhan University of Technology",
+      "keywords": "Algorithms,Data Mining,Information Technology,Computer Science,Big Data,Wuhan,China,",
+      "scope": "Contributed papers are solicited describing original works in Algorithms, Data Mining, and Information Technology.",
+      "callForPapers": "2026-08-20",
+      "url": "www.admit2026.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Wuhan University of Technology, No. 122, Luoshi Road, Hongshan District, Wuhan City, Hubei Province, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

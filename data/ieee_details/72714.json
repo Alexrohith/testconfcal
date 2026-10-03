@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wd+Yx440/7sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72714,
+      "eventTitle": "2027 Graduate Conference on Technology, Computing, and Advanced Engineering (TECHNOVA-GRACE)",
+      "startDate": "2027-08-04",
+      "endDate": "2027-08-05",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Universitas Muhammadiyah Yogyakarta",
+      "keywords": "Signal Processing & Analysis,Robotics & Control Systems,Power Energy & Industry Applications,Computing & Processing (Hardware/Software),",
+      "scope": "Signal Processing & Analysis Robotics & Control Systems Power, Energy, & Industry Applications Computing & Processing (Hardware/Software)",
+      "callForPapers": "2026-04-15",
+      "url": "technova-grace.umy.ac.id",
+      "eventContact": "nilahusna01.nh@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Dasron Hamid Building, , , , , Bantul, , Indonesia, 55184, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1f6ax440p78BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71796,
+      "eventTitle": "2026 International Conference on Sustainable Technology and Engineering (i-COSTE)",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-03",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Dhaka",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh University of Business and Technology (BUBT); IEEE Systems Council",
+      "keywords": "Renewable Energy,Alternative Energy Engineering,Energy Storage,Hydrogen Technology,Sustainable Energy Systems,Smart Farming,Sustainable Development Goal,Energy Supply and Energy Utilities,Future Electricity Grid,oT and Cyber Security in Energy Systems,Industrial Automation and Robotics,Micro Grid,",
+      "scope": "The 2026 IEEE International Conference on Sustainable Technology and Engineering (i-COSTE 2026) is a premier global forum dedicated to advancing research and innovation in sustainable and intelligent engineering solutions. The conference will be held in hybrid mode, enabling participation from researchers, academics, industry professionals, and students worldwide. i-COSTE 2026 aims to promote collaboration and knowledge exchange on emerging technologies that support sustainable development and resilient infrastructure. The conference will feature keynote speeches, technical paper presentations, workshops, and tutorials covering areas such as artificial intelligence for sustainability, renewable energy systems, smart cities, green computing, cybersecurity, and digital transformation. The event seeks to foster interdisciplinary research and practical solutions that address environmental challenges and contribute to a sustainable and technology-driven future for humanity.",
+      "callForPapers": "2026-06-30",
+      "url": "i-coste.org/",
+      "eventContact": "jashnilkumar0319@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Bangladesh University of Business and Technology (BUBT), , , , , Dhaka, , Bangladesh, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

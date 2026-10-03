@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nrmhx440178BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70831,
+      "eventTitle": "2026 18th International Conference on Frontiers of Information Technology, Applications and Tools (FITAT)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-02",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Cheongju",
+        "region": "",
+        "country": "Korea (South)"
+      },
+      "sponsors": "Chungbuk National University; Future Information Technology Academy (FITA); Seoul Section",
+      "keywords": "Database,Data Science,Data Mining,Bioinformatics,Deep Learning,Large language models,",
+      "scope": "The FITAT 2026 is composed of six sessions, which will discuss the challenges facing information technology professionals with core database technologies, data mining, bio-medical informatics, sensor network technology and current IT applications.",
+      "callForPapers": "2026-04-25",
+      "url": "fitat.org",
+      "eventContact": "khryu@tdtu.edu.vn",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Chungbuk National University, Chungdae-ro 1, Seowon-gu, , , , Cheongju, , Korea (South), 28644, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

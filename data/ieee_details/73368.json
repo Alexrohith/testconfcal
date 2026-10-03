@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8KyIx440irsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73368,
+      "eventTitle": "2027 International Conference on Advanced Robotics and Intelligent Systems (ARIS)",
+      "startDate": "2027-08-25",
+      "endDate": "2027-08-28",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Taipei",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; Robotics Society of Taiwan",
+      "keywords": "Robotics, Autonomous Robots, Mobile Robots, Intelligent Robots, Soft Robotics, Humanoid Robots, Artificial Intelligence, Medical Robotics, Robot Control,",
+      "scope": "The International Conference on Advanced Robotics and Intelligent Systems (ICARIS) serves as a premier interdisciplinary forum for researchers, engineers, industry practitioners, and academics to present and discuss the latest advances in robotics, automation, and intelligent systems. The conference aims to bridge theoretical research with practical applications, fostering collaboration across the global robotics community.",
+      "callForPapers": "2027-04-15",
+      "url": "aris2027.ntut.edu.tw/",
+      "eventContact": "hchuang@ccu.edu.tw",
+      "sponsorTypes": "1; 9",
+      "venues": "Prince of Songkla University, Phuket Campus, 80 Moo 1 Vichitsongkram Road, Kathu, Phuket 83120, Thailand, , , , Phuket, , Thailand, 83120, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

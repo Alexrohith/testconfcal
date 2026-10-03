@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: o4Gvx4400r0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72347,
+      "eventTitle": "2026 3rd International Conference on Intelligent Communication, Sensing and Electromagnetics (ICSE)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Sun Yat-sen University",
+      "keywords": "Intelligent wireless communication,AI-driven communication signal processing,Cognitive radio and intelligent spectrum management,Intelligent sensor design,Multi-sensor data fusion technology,Electromagnetic field modeling and simulation,Electromagnetic compatibility,Electromagnetic interference suppression,Electromagnetic detection and imaging,Electromagnetic-communication-sensing integration,",
+      "scope": "ICSE 2026 will act as a pivotal international platform for advancing intelligent communication, sensing, and electromagnetics technologies, uniting global experts, researchers, and practitioners to share innovative findings, address technical challenges, and foster collaboration. Its scope covers key domains: intelligent communication technologies (5G-Advanced/6G systems, AI-driven signal processing, secure communication), intelligent sensing and detection systems (intelligent sensors, multi-sensor data fusion, WSN intelligence), and electromagnetics and intelligent integration (electromagnetic modeling, intelligent antenna design, EMI suppression). The conference will feature keynote speeches, interactive workshops, and technical sessions, offering access to cutting-edge research and networking opportunities. We warmly invite global professionals in related fields to contribute insights and promote technological integration.",
+      "callForPapers": "2026-09-26",
+      "url": "www.icicse.net/",
+      "eventContact": "mli.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Sun Yat-sen University, No. 66 Gongchang Road, Guangming District, Shenzhen City, Guangdong Province, China, , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

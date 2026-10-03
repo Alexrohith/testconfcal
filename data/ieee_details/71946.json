@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jICMx440pbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71946,
+      "eventTitle": "2026 IEEE International Conference on Teaching, Assessment, and Learning for Engineering (TALE)",
+      "startDate": "2026-12-01",
+      "endDate": "2026-12-04",
+      "about": "Bioengineering; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pattaya",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "IEEE Education Society; Region 10 - Asia and Pacific; Thailand Section",
+      "keywords": "E-Learning,Blended Learning,Learning Technologies,Educational Systems and Technologies,STEM Education,Innovative Pedagogies,Artificial Intelligence in Education,Educational Data Mining,Augmented and Virtual Reality in Education,Gamification and Serious Games in Education,Ethics in Education,",
+      "scope": "TALE is the IEEE Education Society's flagship Asia-Pacific (Region 10) conference series",
+      "callForPapers": "2026-06-30",
+      "url": "tale-conference.org",
+      "eventContact": "cdyer@conferencecatalysts.com",
+      "sponsorTypes": "1; 2; 3",
+      "venues": "Grande Centre Point Pattaya, , , , , Pattaya, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

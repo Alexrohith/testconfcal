@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vvqWx440jL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68747,
+      "eventTitle": "2026 International Automatic Control Conference (CACS)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-24",
+      "about": "Bioengineering; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Taichung",
+        "region": "",
+        "country": "Taiwan"
+      },
+      "sponsors": "Chinese Automatic Control Society - CACS; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Automatic Control,Intelligent control,Evolutionary Robotics,Control, Robotics And Mechatronics,Biological control systems,",
+      "scope": "This event will provide a great opportunity for scientists, engineers, and practitioners to present the latest design concepts, research results, developments, and applications, as well as to facilitate interactions between scholars and practitioners. Submission of papers with new research results in all aspects of control and automation are encouraged. To broaden the scope and promote participations, organized sessions will also be welcome and incorporated into the CACS 2026 program. Best paper awards will be given to those with outstanding achievements.",
+      "callForPapers": "2026-07-15",
+      "url": "cacs2026.fcu.edu.tw/",
+      "eventContact": "hchuang@ccu.edu.tw",
+      "sponsorTypes": "1; 9",
+      "venues": "Feng Chia University, No. 100, Wenhua Rd., Xitun Dist., Taichung City 407102 , Taiwan, , , , , , Taiwan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

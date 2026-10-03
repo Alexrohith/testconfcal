@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 06+Kx440qrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71695,
+      "eventTitle": "2026 International Conference on Decision Aid Sciences and Applications (DASA)",
+      "startDate": "2026-12-27",
+      "endDate": "2026-12-29",
+      "about": "Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Transportation",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Applied Science University; Mae Fah Luang University; Thailand Section; Thailand Section C Chapter",
+      "keywords": "Decision Models,Engineering Decision Making,Decision Aid and Expert System,Optimization Models for Engineering Decision Making,Decision Aid in Finance and Marketing,Artificial Intelligence for Decision Aid in Engineering and Business,",
+      "scope": "The International Conference on Decision Aid Sciences and Applications is an interdisciplinary forum for the presentation of recent developments and applications in the field of Decision Aid Sciences. This Hybrid Conference aims to disseminate recent models and techniques related to decision making in engineering and business and decision processes through researchers and practitioners from all over the world. There will be rigorous plenary talks by invited speakers as well as contributed talks. A Workshop for postgraduate students at the early stage of their dissertation research will be organized during the conference and will include a variety of panels as well as, practical sessions on developing dissertation proposals, launching academic careers, and a meet-the-editors session.",
+      "callForPapers": "2026-10-01",
+      "url": "dasa26.mfu.ac.th",
+      "eventContact": "samatthachai.yam@mfu.ac.th",
+      "sponsorTypes": "3; 5; 9; 9",
+      "venues": "The Century Park Hotel, , , , , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

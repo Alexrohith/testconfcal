@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 29,Rid: oNL6xo40uboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71531,
+      "eventTitle": "2026 International Conference on Sensing, Measurement & Data Analytics in the era of Artificial Intelligence (ICSMD)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Aerospace; Components, Circuits, Devices and Systems; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Instrumentation and Measurement Society; Sichuan University",
+      "keywords": "Measurement Technique,Data Analytics,Sensor,Artificial Intelligence,",
+      "scope": "ICSMD 2026 aims at providing a dedicated forum for researchers, scientists, engineers and practitioners throughout the world to present their latest research findings, ideas, developments and applications in the area of sensing technology, measurement methodology, and data analytics approaches in the fast changing era of artificial intelligence.",
+      "callForPapers": "2026-08-20",
+      "url": "icsmd2026.aconf.org/",
+      "eventContact": "yanruqiang@xjtu.edu.cn",
+      "sponsorTypes": "1; 9",
+      "venues": "Sichuan University, 24 South Section 1, 1st Ring Road, , , Chengdu, , China, 610065, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 09+jx440678BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68479,
+      "eventTitle": "2027 IEEE International Conference on Software Analysis, Evolution and Reengineering (SANER)",
+      "startDate": "2027-03-09",
+      "endDate": "2027-03-12",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Richmond",
+        "region": "Virginia",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Software Analysis,Software Evolution,Software Reingeneering,Program Comprehension,Mining Software Repositories,",
+      "scope": "Software Analysis, Evolution, and Reengineering invites high-quality submissions of papers describing original and unpublished research results. We encourage submissions describing various types of research, e.g., empirical, theoretical, and tool-oriented. The topics of the submissions should be of direct interest to the software analysis, evolution, and reengineering community.",
+      "callForPapers": "2026-10-06",
+      "url": "",
+      "eventContact": "kostadin@gmail.com",
+      "sponsorTypes": "1",
+      "venues": "Virginia Commonwealth University, 817 W Franklin St, , , , Richmond, VA, USA, 23220, ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

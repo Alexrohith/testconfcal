@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: puqJx440pLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72835,
+      "eventTitle": "2026 12th International Conference on Mechanical Engineering and Aerospace Engineering (MEAE)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Aerospace; General Topics for Engineers; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Xi'an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society; School of Civil Aviation, Northwestern Polytechnical University; State Key Laboratory of Airliner Integration Technology and Flight Simulation",
+      "keywords": "Flight Dynamics, Guidance and Control,Systems Engineering and Reliability in Aerospace,Artificial Intelligence and Digital Technologies in Aerospace,Avionics, Electromechanical and Cyber-Physical Systems,Heat Transfer and Thermal Management in Aerospace,",
+      "scope": "Focusing primarily on aerospace engineering together with its intersection with mechanical engineering, this conference covers frontier research including commercial aviation, deep‑space exploration, commercial aerospace, unmanned systems, high‑precision manufacturing and intelligent aerospace technologies. Hosted by Northwestern Polytechnical University and sponsored by the State Key Laboratory of Airliner Integration Technology and Flight Simulation, MEAE 2026 takes place in Xi’an, China from November 27 to 29, 2026. It gathers global scholars and industry professionals to exchange cutting‑edge aerospace advances, promote technological innovation and academic‑industrial collaboration.",
+      "callForPapers": "2026-07-10",
+      "url": "www.meae.org/index.html",
+      "eventContact": "ymchen0125@163.com",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Yohol Hotel, No. 180, South 2nd Ring Road West Section, Yanta District, Xi'an, Shaanxi, , , , Xi'an, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

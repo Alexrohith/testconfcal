@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: y8n3xo40mroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71002,
+      "eventTitle": "2026 International Conference on Intelligent Education and Intelligent Research (IEIR)",
+      "startDate": "2026-11-04",
+      "endDate": "2026-11-07",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Central China Normal University; Hubei Society of Artificial Intelligence for Research and Education; IEEE Education Society",
+      "keywords": "Educational Technology, Intelligent Research, Intelligent Education, AI for Research,,",
+      "scope": "It aims to provide a forum to foster scientific exchange between researchers, practitioners,  scientists, students, and engineers across intelligent education and intelligent research. The  target audience of the conference includes those working in education, research, and industry.",
+      "callForPapers": "",
+      "url": "ieir2026.org/",
+      "eventContact": "jiangxl@mails.ccnu.edu.cn",
+      "sponsorTypes": "1; 9; 9",
+      "venues": ", , , , , Kuala Lumpur, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

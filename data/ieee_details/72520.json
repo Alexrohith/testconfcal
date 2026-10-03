@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 9/+Ix440qb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72520,
+      "eventTitle": "2026 International Conference on Innovative Computing, Intelligent Systems and Engineering Technology (ICISCET)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Vanderbijlpark",
+        "region": "",
+        "country": "South Africa"
+      },
+      "sponsors": "South Africa Section C/SMC Joint Chapter; Tshwane University of Technology",
+      "keywords": "Artificial Intelligence and Intelligent Systems,Computer Systems and Electrical Engineering,Advance Computing and Software Engineering,Communication and Networking Technologies,Cybersecurity and Trustworthy Computing,Robotics, Autonomous Systems and Intelligent Machines,",
+      "scope": "Intelligent Systems and Engineering Technologies",
+      "callForPapers": "2026-06-01",
+      "url": "iciscet2026.co.za/",
+      "eventContact": "newmosesolaifa@yahoo.com",
+      "sponsorTypes": "5; 9",
+      "venues": "Emerald Resort & Casino, 777 Frikkie Meyer Blvd, , , , Vanderbijlpark, , South Africa, 1911, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: u5yvx440070BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70418,
+      "eventTitle": "2026 IFIP/IEEE 34th International Conference on Very Large Scale Integration (VLSI-SoC)",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-14",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Limassol",
+        "region": "",
+        "country": "Cyprus"
+      },
+      "sponsors": "Ecole Centrale de Lyon; IEEE Circuits and Systems Society; IEEE Council on Electronic Design Automation; IFIP WG10.5; University of Limerick",
+      "keywords": "Applications and Architectures for AI and ML, Communication Architectures and Technologies, Computing Paradigms, Digital Circuits Design and Synthesis, Embedded System Design, Emerging Technologies and Applications, Low-Power, Energy-Efficient and Thermal-Aware Design, Security, Sensing and Signal Processing Technologies, Smart Systems, Devices and Applications, System Specification, Simulation and Verification, Test and Dependability,",
+      "scope": "The purpose of VLSI-SoC is to provide a forum to exchange ideas and showcase academic as well as industrial research in architectures, circuits, devices, design automation, verification, test, and security, within digital, analog, and mixed-signal systems.",
+      "callForPapers": "2026-04-21",
+      "url": "www.vlsi-soc.com",
+      "eventContact": "florenc.demrozi@uis.no",
+      "sponsorTypes": "1; 1; 9; 9; 9",
+      "venues": "St. Raphael Resort, Amathountos Avenue 502, Pyrgos, , , , Limassol, , Cyprus, 4520, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

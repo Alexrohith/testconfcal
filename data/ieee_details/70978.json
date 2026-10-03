@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zaiLx440ub4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70978,
+      "eventTitle": "2026 22nd International Conference on Wireless and Mobile Computing, Networking and Communications (WiMob)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Avignon",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Communications Society; Laboratoire d'Informatique (LIA-UA) ",
+      "keywords": "Wireless Communications,Next Generation Mobile Networking,Artificial Intelligence based Communications & Networking,Trust, Security and Privacy in Wireless and Mobile Networks,Blockchain and Cryptocurrency in Mobile Networks,Large Language Model for Wireless and Mobile Networks,Integrated Sensing and Communication (ISAC),Semantic Communication,Quantum Communication Network,",
+      "scope": "The WiMob conference is an international forum for the exchange of experience and knowledge among researchers and developers concerned with wireless and mobile technology. For twenty-two years, the International WiMob conference has provided unique opportunities for researchers to interact, share new results, show live demonstrations, and discuss emerging directions in next generation networks, 5G/6G, IoT and Artificial Intelligence based Communication and Networking. WiMob 2026 is soliciting high quality technical papers addressing research challenges in the areas of Wireless Communication, Next Generation Mobile Networking, , Green and sustainable communications and network computing, Security on Wireless and mobile Networks and Artificial Intelligence based Communications and Networking and Blockchain. Papers should present original work validated via analysis, simulation or experimentation. Practical experiences and Testbed trials also are welcome.",
+      "callForPapers": "2026-06-01",
+      "url": "www.wimob.org",
+      "eventContact": "abderrahim.benslimane@univ-avignon.fr",
+      "sponsorTypes": "1; 9",
+      "venues": "AVIGNON GRAND HOTEL, 34 Boulevard Saint Roch , , , , Avignon, , France, 84000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

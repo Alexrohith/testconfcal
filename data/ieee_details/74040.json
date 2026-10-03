@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +9XewY404aEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74040,
+      "eventTitle": "2027 IEEE International Conference on Data Mining Workshops (ICDMW)",
+      "startDate": "2027-11-15",
+      "endDate": "2027-11-18",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Brisbane",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Data Mining, Machine Learning, Clustering Methods, Pattern Recognition,",
+      "scope": "The conference covers all aspects of data mining, including algorithms, software, systems, and applications. ICDM draws researchers and application developers from a wide range of data mining related areas such as statistics, machine learning, pattern recognition, databases and data warehousing, data visualization, knowledge-based systems, and high-performance computing.",
+      "callForPapers": "2027-06-06",
+      "url": "icdm2027-website.onrender.com/",
+      "eventContact": "xwu@hfut.edu.cn",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Brisbane, , Australia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

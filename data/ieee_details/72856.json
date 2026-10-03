@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uvntwY40vaUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72856,
+      "eventTitle": "2027 IEEE Statistical Signal Processing Workshop (SSP)",
+      "startDate": "2027-06-28",
+      "endDate": "2027-07-01",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Annecy",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Statistical Analysis,Statistical Signal Processing,Optimization methods,Adaptive Systems,Adaptive Signal Processing,Detection Algorithms,Estimation Theory,Signal Processing over graphs,Signal and system modelling,Bayesian methods,Signal separation methods,matrix and tensor methods,distributed signal processing,sampling and reconstruction,data-driven methods and machine learning,",
+      "scope": "The SSP Workshop is a unique meeting that brings together members of the IEEE Signal Processing Society and researchers from both academia and industry in fields associated with statistical signal processing and its applications. Following the SSP tradition, the workshop will offer a rich technical program with plenty of opportunities for discussion and interaction with colleagues. Plenary speakers will be sought to cover major aspects of statistical signal processing.",
+      "callForPapers": "2027-02-28",
+      "url": "2027.ieeessp.org",
+      "eventContact": "ammar.mian@univ-smb.fr",
+      "sponsorTypes": "1",
+      "venues": "Centre de Congrès Impérial, Grand Annecy, Allée de l'impérial, , , Annecy, , France, 74000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2OrBwo40gacBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70165,
+      "eventTitle": "2026 IEEE 33rd International Conference on Electronics, Circuits and Systems (ICECS)",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-11",
+      "about": "Components, Circuits, Devices and Systems",
+      "location": {
+        "city": "Thessaloniki",
+        "region": "",
+        "country": "Greece"
+      },
+      "sponsors": "ELKE Aristotle University of Thessaloniki; Greece Section; Greece Section CAS/SSC Joint Chapter; IEEE Circuits and Systems Society",
+      "keywords": "Analod and mixed signal circuits,Biomedical and bioinspired circuits and systems,Digital circuits and systems,Inear and non-linear circuits,EDA test and reliability,Circuits and Systems for AI Algorithms,AI-driven circuit design,Energy harvesting and power management,Microsystems ans embedded systems,Sensors and Sensing Systems,Neural networks, Machine and Deep Learning,Signal Processing, Image and Video,VLSI Systems and Applications,Emerging technologies and technology trends,Education in circ",
+      "scope": "ICECS is an international conference dedicated to circuits and systems, held annually in Region 8. The conference is an annual event designed to bring together industrial players and academics, to communicate on the latest advances in the discipline and to encourage exchanges on current issues.",
+      "callForPapers": "2026-05-25",
+      "url": "www.icecs2026.gr/",
+      "eventContact": "aria@auth.gr",
+      "sponsorTypes": "1; 3; 5; 9",
+      "venues": "The Met hotel, 48, 26th October street, , , , Thessaloniki, , Greece, 54124, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

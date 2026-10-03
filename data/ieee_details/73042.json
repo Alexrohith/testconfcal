@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6bH5xo40u7oBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73042,
+      "eventTitle": "2026 3rd International Conference on Artificial Intelligence, Metaverse, and Cybersecurity (ICAMAC)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-19",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "",
+        "region": "",
+        "country": ""
+      },
+      "sponsors": "Higher Colleges of Technology - Computer and Information Science Department ; Rochester Institute of Technology Dubai; Sakarya University; United Arab Emirates Section; United Arab Emirates Section E Chapter",
+      "keywords": "Artificial intelligence,Cybersecurity,Metaverse,software engineering,Big Data Applications,",
+      "scope": "Aim: ICAMAC2026 aspires to unite diverse stakeholders-academics, scientists, experts, students, and industry representatives-to engage in the exchange and exploration of both theoretical concepts and practical insights. By fostering discussions, presentations, and networking opportunities, the conference aims to cultivate a rich knowledge-sharing environment. Scope: AI: Focus on AI in education, sustainability, healthcare, and robotics. Metaverse: Discuss Metaverse integration with AI, including virtual environments. Cybersecurity: Address challenges in securing AI and Metaverse technologies. Networking and Collaboration: Enhance professional networks and interdisciplinary collaborations. ICAMAC2026 aspires to drive innovation in these dynamic fields",
+      "callForPapers": "2026-09-13",
+      "url": "www.icamac.com/",
+      "eventContact": "kxocad1@rit.edu",
+      "sponsorTypes": "3; 5; 9; 9; 9",
+      "venues": "",
+      "region": "",
+      "isvirtual": "Y",
+      "eventFormat": "virtual"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

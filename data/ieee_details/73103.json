@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 46+Wx4407bsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73103,
+      "eventTitle": "2026 2nd International Conference on Computational Intelligence and Robotics (CIR)",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-27",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Haikou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hainan University ; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Computational Intelligence,Robotics and Automation,Intelligent Systems,Data Science and AI,Control and Optimization,Emerging Technologies,",
+      "scope": "CIR 2026 focuses on advancing research and global collaboration in computational intelligence and robotics. The conference highlights progress in core algorithms, intelligent optimization, deep learning, natural language processing, and computer vision, while addressing the latest achievements in robotics, including perception, motion planning, human–robot interaction, service robotics, and industrial automation. By fostering interdisciplinary exchange and international cooperation, CIR 2026 aims to drive innovative applications, tackle real-world challenges, and shape the future of smart technologies.",
+      "callForPapers": "2026-10-01",
+      "url": "www.ic-cir.com/",
+      "eventContact": "cir.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Hainan University, China, 58 Renmin Avenue, Meilan District Haikou, Hainan Province 570228 China, , , , Haikou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

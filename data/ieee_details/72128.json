@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: j8inx440gsABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72128,
+      "eventTitle": "2026 4th International Conference on Information Network and Computer Communications (INCC)",
+      "startDate": "2026-11-28",
+      "endDate": "2026-11-30",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Niigata",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Niigata University",
+      "keywords": "Computer Networks,Information analysis and infrastructure,Wireless Sensor and Communication Networks,Mobile Computing and Communication,Communications Engineering,Emerging Computing and Frontier Networking Technologies,Wireless and Mobile Communications,",
+      "scope": "2026 4th International Conference on Information Network and Computer Communications (INCC) will be held in Niigata, Japan during November 28-30, 2026, co-sponsored by Niigata University. It is a major conference venue for researchers to present and exchange significant and innovative contributions and ideas in the field of networking and closely related areas. INCC covers both theoretical and systems research. For INCC 2026, the conference includes a main technical program, a number of workshops, keynote speeches and panels.",
+      "callForPapers": "2026-06-25",
+      "url": "https://www.incc.net/",
+      "eventContact": "cmchen@iiai.net",
+      "sponsorTypes": "1; 9",
+      "venues": "Niigata University, 8050 Ikarashi 2-no-cho, Nishi-ku, Niigata, 950-2181, JAPAN, , , , Niigata, , Japan, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

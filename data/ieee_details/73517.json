@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: hOGix440yLwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73517,
+      "eventTitle": "2026 International Symposium on Empirical Software Engineering and Measurement (ESEM)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-09",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Garching b. Munich",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "Association for Computing Machinery - ACM; IEEE Computer Society; Technical University of Munich",
+      "keywords": "Empirical software engineering,Measurement,",
+      "scope": "Research in empirical software engineering and software measurement",
+      "callForPapers": "2026-05-11",
+      "url": "conf.researchr.org/track/eseiw-2026/eseiw-2026-esem---technical-track",
+      "eventContact": "stefan.wagner@tum.de",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Science Congress Center Munich, Walther-von-Dyck-Straße 4, , , , Garching b. Munich, , Germany, 85748, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

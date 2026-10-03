@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h7CMx440t7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70833,
+      "eventTitle": "2026 International Conference on Computer and Applications (ICCA)",
+      "startDate": "2026-12-21",
+      "endDate": "2026-12-24",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "CAIRO",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Université de Technologie et de Sciences Appliquées Libano-Française",
+      "keywords": "Computer Applications, Smart Cities, Artificial Intelligence, Medical Robotics, Smart Healthcare,  Connected Health, Algorithms and Optimisation, Graph Applications,,Graph Application,Connecting Health,Generative AI,Education Applications,Smart Cities,Smart Cities,Deep Learning,Deepfake,CONNECTED HEALTH,",
+      "scope": "Technology and Computer Applications Connected Health, Bioinformatics, Machine Learning  Security, E-Learning, Virtual Education, Assistive Technology, Graphics, Robotics, Virtual  Machines Haptics, Social Computing, Smart Cities, Image Processing, Biometry, Big Data  Analytics, Neural Networks, Optimizations, Graphics Big Data Analytics, Computer Graphics,  Education, Serious Games, Fuzzy Logic, Artificial Intelligence Steganography, Deep Learning,  Optimization Edutainment Games, Machine Learning Cryptography, Multimedia Applications, Education Embedded Systems Virtual and Augmented  Reality Special Needs Applications, Information Security Grid Computing, Transportation,  Algorithms Information Forensics, Robotics, Number Theory Cloud Computing, Soft Computing, Natural language Ontology, Constraints Satisfaction, Mathematics & AI Knowledge Extraction.  Geospatial, Data Analysis Computational Modeling and Simulation Internet of Things",
+      "callForPapers": "2026-05-25",
+      "url": "icca-conf.info/",
+      "eventContact": "dana.bandock@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": ", , , , , , , Egypt, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: i9CGx440mb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72439,
+      "eventTitle": "2026 8th International Conference on Frontier Technologies of Information and Computer (ICFTIC)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Qingdao",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": " China University of Petroleum (East China); IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Artificial Intelligence and Intelligent Systems,Systems, Information Systems and Software Engineering,Communication, Networks and Information Security,Cybernetics, Human-Machine Systems and Emerging Technologies,",
+      "scope": "ICFTIC 2026 is an international conference focused on advancing research and innovation in information and computer technologies. It provides a global platform for scholars, researchers, and industry practitioners to exchange ideas, present research results, and promote collaboration. The conference will highlight developments in areas such as Artificial Intelligence, Big Data Analytics, Next-Generation Communication Networks, Internet of Things, Computer Vision, and Information Security. By bridging theory and practice, ICFTIC 2026 aims to promote innovation, support impactful applications, and address challenges in scalability, security, and system performance. Through interdisciplinary exchange and international participation, the conference seeks to foster collaboration and contribute to the future of information and computing technologies.",
+      "callForPapers": "2026-08-15",
+      "url": "www.icftic.org/",
+      "eventContact": "icftic.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "China University of Petroleum (East China), China, No. 66, Changjiang West Road, Huangdao District, Qingdao City, Shandong Province, 266580, P.R.China, , , , Qingdao, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2p7nwY40tKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71841,
+      "eventTitle": "2026 International Conference on Digital Intelligence and Cybersecurity (ICDIC)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Xiamen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Huaqiao University; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Digital Intelligence Technologies,Digital Systems and Applications,Digital Twin Technologies,Machine Learning Algorithms,Deep Learning Models,Big Data Intelligence,Digital Infrastructure Security,AI-Driven Cybersecurity,Network Security Protection,Intrusion Detection Systems,Malware Detection and Defense,IoT Security,Blockchain Security,",
+      "scope": "ICDIC 2026 will provide a high-level platform for global researchers and practitioners to share state-of-the-art progress in digital intelligence and cybersecurity. It will cover key topics including digital intelligence technologies, digital systems and applications, digital twin technologies, machine learning, deep learning, and big data intelligence. The conference will also focus on digital infrastructure security, AI-driven cybersecurity, network security protection, intrusion detection, malware defense, IoT security, and blockchain security. It will feature high-quality original papers exploring theories, algorithms, systems, and industrial implementations. We will welcome experts and scholars from all over the world to attend this grand event and promote academic exchanges and technological innovation, further advancing the integration and development of digital intelligence and cybersecurity.",
+      "callForPapers": "2026-08-15",
+      "url": "www.ic-dic.org/",
+      "eventContact": "wdl.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Huaqiao University, No. 668, Jimei Avenue, Jimei District, Xiamen City, Fujian Province, China, , , , Xiamen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

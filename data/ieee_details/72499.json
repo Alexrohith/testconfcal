@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 3vmXx440kr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72499,
+      "eventTitle": "2026 7th International Conference on Mechanical Automation and Intelligent Manufacturing (MAIM)",
+      "startDate": "2026-10-29",
+      "endDate": "2026-10-31",
+      "about": "Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Aksu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xinjiang Institute of Technology",
+      "keywords": "Intelligent Manufacturing Systems,Autonomous Robotics,Digital Twin Technologies,Human-Machine Collaboration,",
+      "scope": "MAIM 2026 explores the intelligent transformation of manufacturing systems through artificial intelligence and advanced automation technologies. The conference emphasizes cyber-physical integration, autonomous industrial systems, and human-machine symbiosis in production environments. Core areas include intelligent control architectures, digital twin technologies, adaptive robotic systems, and smart sensing for operational excellence. The program addresses cognitive ergonomics, ethical AI governance in automated workflows, and next-generation manufacturing paradigms spanning Industry 4.0 and 5.0. Contributions bridging computational intelligence, systems engineering, and mechanical automation are invited to advance both theoretical foundations and engineering implementations in intelligent manufacturing.",
+      "callForPapers": "2026-08-15",
+      "url": "www.icmaim.net/",
+      "eventContact": "zfl.conf@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xinjiang Institute of Technology, No. 1 Xuefu Road, Aksu City, Aksu Prefecture, Xinjiang Uygur Autonomous Region, China, , , , Aksu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

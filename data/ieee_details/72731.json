@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jNnjwY40naIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72731,
+      "eventTitle": "2027 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS)",
+      "startDate": "2027-04-10",
+      "endDate": "2027-04-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kanazawa",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Amikom Purwokerto University (Faculty of Computer Science); Kanazawa University; Nagoya Section",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Data Science,Computer Vision,Natural Language Processing,Robotics,Intelligent Systems,Cloud Computing,Big Data Analytics,",
+      "scope": "2027 the 2nd International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS) is an international forum for researchers, academics, and industry professionals to present and discuss advances in artificial intelligence, machine learning, and data science. The conference promotes the exchange of innovative research results, methodologies, and applications addressing challenges in a data-driven digital world.  ICCRAIDS encourages interdisciplinary collaboration in areas such as artificial intelligence, robotics, natural language processing, computer vision, big data analytics, intelligent systems, and cloud computing. The conference will feature keynote speeches, peer-reviewed paper presentations, and discussions on emerging trends and future directions in AI and data science.",
+      "callForPapers": "2027-01-15",
+      "url": "iccraids.org",
+      "eventContact": "arif@amikompurwokerto.ac.id",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Kanazawa University Kakuma Campus, Kakuma-machi, Graduate School of Natural Science and Technology (Conference Venue Area), , , Kanazawa, , Japan, 920-1192, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

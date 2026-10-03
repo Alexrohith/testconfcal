@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 5tqnx440+LwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70274,
+      "eventTitle": "2026 IEEE 33rd International Conference on High Performance Computing, Data and Analytics Workshop (HiPCW)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-19",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "HIPC Trust; IEEE Computer Society",
+      "keywords": "Distributed Parallel Architecture,Parallel algorithms,Parallel languages,Parallel machines,Parallel Processing,Parallel programming,High Performance Computing,distributed computing,Emerging Computation Models,Algorithmic techniques for resource allocation and optimization,Provably efficient parallel and distributed algorithms for advanced scientific computing and irregular applications,Networks for high performance computing platforms,Memory ,cache and storage architectures,",
+      "scope": "All areas of high performance computing, data, and analytics including areas of AI/ML",
+      "callForPapers": "2026-04-06",
+      "url": "hipc.org/",
+      "eventContact": "mail2vinaybabu@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: o5SOx440sLsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71515,
+      "eventTitle": "2026 IEEE International Conference on Agrosystem Engineering, Technology & Applications (AGRETA)",
+      "startDate": "2026-10-10",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section IE/IA Joint Chapter",
+      "keywords": "Precision Agriculture,Smart Farming,Agricultural Robotics,Automation in Agriculture,Drone Based Monitoring,Internet of Things (IoT) in Farming,Agricultural Sensor Networks,Artificial  Intelligence for Crop Management,Remote Sensing in Agriculture,Geographic Information  Systems (GIS),,Non-Destructive Testing Methods,Sustainable Agriculture Technologies,Waste  Management in Agrosystems,Food Security and Traceability,Cyber-Physical Systems in  Agriculture,",
+      "scope": "The 4th IEEE International Conference on Agrosystem Engineering, Technology & Applications  (AGRETA 2026) brings together academia, industry and government to exchange the very  latest advances in engineering solutions for sustainable agriculture. It encompasses the design,  development and deployment of smart, automated and data-driven agrosystems that boost  productivity, ensure food security, minimize environmental impact and improve resource  efficiency.",
+      "callForPapers": "2026-04-30",
+      "url": "https://www.ihsanyassin.com/cms/conference.php?conf_id=0a0d19c8-cede-45c6-8cd8-f5b4c5103e4a",
+      "eventContact": "nooritawati@ieee.org",
+      "sponsorTypes": "5",
+      "venues": "Concorde Hotel, 2, Jalan Sultan Ismail, 50250 Kuala Lumpur, MALAYSIA, , , , Kuala Lumpur, , Malaysia, 50250 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

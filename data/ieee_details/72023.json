@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: z4+ex440vb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72023,
+      "eventTitle": "2026 International Conference on Advanced Technologies for Communications (ATC)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-17",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Gia Lai Province",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "IEEE Communications Society; Quy Nhon University; The Radio-Electronics Association of Vietnam - REV",
+      "keywords": "Communication Theory ,Wireless Communications ,Computer Communications ,Optical Networking,Satellite Communications,Signal, Image and Video Processing,Signal Processing for Communications,Signal Processing for Big Data,Antenna Systems,Electromagnetic Scattering, Channel Measurement and Propagation,Emerging IC technologies,VLSI Design Automation,Internet of Things and Sensors,Microwave TQuantum communication,RF, Microwave Circuits, Systems & Applications,5GA6G WIRELESS SMillimeter Wave, THz Techn",
+      "scope": "The conference provides an international forum for researchers to present recent advances in communications, networking, signal processing, electronics, and emerging information technologies. The scope includes communication theory, wireless communications, and machine learning for communication systems. It also covers networking technologies such as ad hoc and sensor networks, optical and satellite communications, and network management. Contributions in signal processing for communications, multimedia, big data, IoT systems, and biomedical applications are also encouraged. Additional topics include antennas and propagation, integrated circuits, embedded and smart electronic systems, as well as microwave and millimeter-wave technologies. Special sessions focus on advanced technologies for 5G-Advanced and 6G wireless systems, and emerging paradigms such as quantum communication and quantum-secure networks.",
+      "callForPapers": "2026-05-30",
+      "url": "atc-conf.org/",
+      "eventContact": "bmktvt@gmail.com",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "The International Centre for Interdisciplinary Science and Education (ICISE Center), 07 Science Avenue, Quy Nhon Nam Ward, , , , Gia Lai province, , Vietnam, 55131, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: y4Slx44057wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73997,
+      "eventTitle": "2027 IEEE 27th International Symposium on Cluster, Cloud and Internet Computing Workshops (CCGridW)",
+      "startDate": "2027-05-24",
+      "endDate": "2027-05-27",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Denton",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Cloud Computing,Edge Computing,Distributed Computing Systems,Compute Continuum,AI Systems,High-Performance Computing (HPC),internet computing,",
+      "scope": "IEEE CCGridW the workshop wing of IEEE CCGrid conference where topics related to the design, implementation, evaluation, and operation of scalable distributed systems are investigated. The conference brings together researchers and practitioners working on system architectures, middleware, resource management, cloud-native technologies, distributed AI, performance optimization, sustainability, and next-generation computing platforms.",
+      "callForPapers": "2027-02-15",
+      "url": "",
+      "eventContact": "Cihan.Tunc@unt.edu",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

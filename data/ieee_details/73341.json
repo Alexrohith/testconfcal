@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: pNmDx44067oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73341,
+      "eventTitle": "2026 IEEE 14th International Conference on Communications and Broadband Networking (ICCBN)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chengdu Section; Xihua University",
+      "keywords": "Communication Networks,Broadband Technologies,IoT and Smart Cities,5G and Beyond,Selected Areas,Artificial Intelligence,Security & Integration,",
+      "scope": "ICCBN 2026 will cover a diverse range of topics, including but not limited to: Emerging 6G technologies; Evolving broadband network architectures; Internet of Things (IoT) and intelligent connectivity; Artificial intelligence applications in communication; Data privacy and network security challenges; Commercialization and implementation of emerging communication technologies, etc.",
+      "callForPapers": "2026-07-05",
+      "url": "www.iccbn.org",
+      "eventContact": "suhang@stu.xhu.edu.cn",
+      "sponsorTypes": "3; 9",
+      "venues": "Chengdu New Hope High-Tech Crowne Plaza Hotel, Jinniu District, No. 1 Xixin Avenue, High-Tech West Zone, Chengdu, China, , , , Chengdu, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

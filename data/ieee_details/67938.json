@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: j/D/xo405LoBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 67938,
+      "eventTitle": "2026 IEEE Caribbean Conference (CaribCon)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Kingston",
+        "region": "",
+        "country": "Jamaica"
+      },
+      "sponsors": "Jamaica Section; Region 03 - Southeastern USA; Region 09 - Latin America",
+      "keywords": "CaribCon,emerging Technology , cyber security,computer applications ,Artificial Intelligence,",
+      "scope": "Technical Conference on Emerging Technologies and their  Implications in the Caribbean. It is anticipated that approximately 75 papers will be presented at the conference.  A student paper competition will be a feature of the conference.",
+      "callForPapers": "2026-08-07",
+      "url": "https://2026.ieeecaribcon.org/",
+      "eventContact": "udeaghac@gmail.com",
+      "sponsorTypes": "2; 2; 3",
+      "venues": "AC Hotel, 38-42 Lady Musgrave Rd, , , , Kingston, , Jamaica, 00000, ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

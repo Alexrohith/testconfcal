@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +PCKx440tr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71403,
+      "eventTitle": "2027 IEEE 36th International Conference on Robot and Human Interactive Communication (RO-MAN)",
+      "startDate": "2027-08-23",
+      "endDate": "2027-08-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Waterloo",
+        "region": "Ontario",
+        "country": "Canada"
+      },
+      "sponsors": "IEEE Robotics and Automation Society; Korean Robotics Society - KROS; Robotics Society of Japan - RSJ",
+      "keywords": "Human-robot Interaction,Artificial Intelligence,Humanoid Robots,Communications,Cognitive Robotics,Cognitive science,autonomous robots,educational robots,intelligent robots,rehabilitation robotics,service robots,transparent HRI,Affective Computing,Ethical HRI,",
+      "scope": "Human-Robot Collaboration",
+      "callForPapers": "",
+      "url": "attend.ieee.org/ro-man-2027/",
+      "eventContact": "silrossi@unina.it",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "University of Waterloo, 200 University Ave. West, , , , Waterloo, ON, Canada, N2L 3G1, ;",
+      "region": "Region07-Canada",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oM/fwY400aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70268,
+      "eventTitle": "2026 3rd International Conference on Artificial Intelligence and Knowledge Discovery in Concurrent Engineering (ICECONF)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-15",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Chennai",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Madras Section; St. Joseph's Institute of Technology",
+      "keywords": "Artificial Intelligence & Machine Learning,Big Data Analytics,Concurrent Engineering,Knowledge Engineering,Computational Intelligence,Internet of Things,",
+      "scope": "3rd International Conference on Artificial Intelligence and Knowledge Discovery in Concurrent Engineering is organized by the Department of Information Technology, St. Joseph’s Institute of Technology, Chennai, India. The primary goal of the conference is to promote research and developmental activities in the field of Artificial Intelligence, Knowledge Engineering and Concurrent Engineering. It also helps unite the great minds who believe in a technologically literate society. This conference on Artificial Intelligence and Knowledge Discovery in Concurrent Engineering promises the enormous potential to stimulate educational opportunities for researchers, academicians and postgraduate students. Recent developments in concurrent engineering and intelligence to handle the huge volume of available data have brought the faster solutions offered by advanced technologies to various fields of application. It is a powerful tool for educators to interact with their peers.",
+      "callForPapers": "2026-03-30",
+      "url": "iceconf.in/2026/",
+      "eventContact": "binoj@stjosephstechnology.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Conference Hall, St. Joseph's College of Engineering, OMR, Chennai, , , Chennai, , India, 600119, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

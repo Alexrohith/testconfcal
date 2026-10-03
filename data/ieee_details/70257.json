@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: n72bx440krwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70257,
+      "eventTitle": "2026 14th International Conference on Systems and Control (ICSC)",
+      "startDate": "2026-12-16",
+      "endDate": "2026-12-18",
+      "about": "Aerospace; Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Porto",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "El Condor; IEEE Control Systems Society; Portugal Section",
+      "keywords": "Control systems,Systems theory,Modeling and simulation,Estimation and identification,Observer design,Robust and optimal control,Fault detection and fault-tolerant control,Nonlinear and time-delay systems,Fractional-order systems,ntelligent and AI-based control,Process control,Power and renewable energy systems,Robotics and mechatronics,Industrial automation,Cyber-physical systems,Real-time and embedded systems,control education,transportation systems,motion control,Fuzzy and neural systems,",
+      "scope": "The International Conference on Systems and Control (ICSC) aims to provide an international forum for the presentation and discussion of advances in systems theory, modeling, control, optimization, and their emerging applications. The conference welcomes both theoretical developments and practical contributions in the design, analysis, and implementation of control systems across various engineering domains. Topics of interest include linear and nonlinear systems, hybrid and time-delay systems, estimation and identification, observer design, robust and optimal control, intelligent and AI-based control, and applications to renewable energy, robotics, process control, and cyber-physical systems.",
+      "callForPapers": "2026-09-30",
+      "url": "icsc.conference.univ-poitiers.fr/",
+      "eventContact": "abdelwahab.aitouche@gmail.com",
+      "sponsorTypes": "1; 3; 9",
+      "venues": "Instituto Superior de Engenharia do Porto (ISEP), Rua Dr. António Bernardino de Almeida, 431, , , , Porto, , Portugal, 4249-015, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

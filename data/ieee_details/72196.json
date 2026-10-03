@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gM/qwY40tqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72196,
+      "eventTitle": "2027 International Conference on Quantum Informatics, Communication Systems and Applications (IQICSA)",
+      "startDate": "2027-09-24",
+      "endDate": "2027-09-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Army Institute of Technology; Pune Section",
+      "keywords": "Quantum Computing,Quantum Communication,Quantum Networks,Quantum Hardware,Quantum Machine learning,Quantum AI,Quantum Informatics,Applications of Quantum Technologies in industry,Automation Technologies,Human-Computer Interaction,Internet of Things (IoT),",
+      "scope": "IQICSA-2027 dedicated to exploring how quantum principles are transforming the way computation is conceived, built, and applied. The conference creates a shared space for researchers, technologists, educators, and industry innovators to exchange ideas, challenge assumptions, and present breakthroughs that push beyond classical limits. This event is designed not just to report progress, but to shape the direction of quantum computing research and development in the years ahead. The major scope of conference is given below: 1. Quantum Informatics & Information Theory 2. Quantum Computing Technologies 3. Quantum applications in Healthcare and drug discovery, Finance and optimization , Smart cities and IoT , Defense, cybersecurity, and Quantum-enhanced AI and data analytics 4. Quantum Communication & Cryptography 5. Quantum Hardware & Devices 6. Quantum Communication Systems & Networks (Next-Gen)",
+      "callForPapers": "2027-02-10",
+      "url": "ieee.aitpune.com/iqicsa2027/",
+      "eventContact": "akadam@aitpune.edu.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Army Institute of Technology, Alandi Road, Dighi Hills, , , Pune, , India, 411015, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

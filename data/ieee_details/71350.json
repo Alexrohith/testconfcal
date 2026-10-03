@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 3,Rid: +9Oqx440h70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71350,
+      "eventTitle": "2027 IEEE International Conference on Multimedia & Expo (ICME)",
+      "startDate": "2027-07-13",
+      "endDate": "2027-07-17",
+      "about": "Signal Processing and Analysis",
+      "location": {
+        "city": "Xiamen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Circuits and Systems Society; IEEE Communications Society; IEEE Computer Society; IEEE Signal Processing Society",
+      "keywords": "Multimedia,Multimedia Computing,Multimedia Computing,Multimedia Systems,Multimedia Applications,",
+      "scope": "The IEEE International Conference on Multimedia & Expo (ICME) serves as a premier forum for presenting and discussing advances in multimedia computing, communications, and systems. The conference covers the full spectrum of multimedia research, including multimedia content analysis and understanding, multimodal learning and fusion, multimedia representation and generation, multimedia systems and infrastructures, human–computer interaction, and emerging multimedia applications. ICME also emphasizes interdisciplinary research that integrates vision, language, audio, and other modalities, as well as real-world deployment and industrial impact of multimedia technologies.",
+      "callForPapers": "2026-12-08",
+      "url": "",
+      "eventContact": "jyji@xmu.edu.cn",
+      "sponsorTypes": "1; 1; 1; 1",
+      "venues": "Xiamen International Conference & Exhibition Center, Xiamen International Conference & Exhibition Center, No. 198 Huizhan Road, Siming District, Fujian Province, Xiamen, , China, 361005, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

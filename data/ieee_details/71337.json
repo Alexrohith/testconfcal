@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wtqtx440w8ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71337,
+      "eventTitle": "2026 9th International Conference on Robotic Systems and Applications (ICRSA)",
+      "startDate": "2026-10-30",
+      "endDate": "2026-11-01",
+      "about": "Robotics and Control Systems",
+      "location": {
+        "city": "Huizhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; Huizhou University",
+      "keywords": "Adaptive Signal Processing and Control,Intelligent Transport Systems,Computation-Driven  Machine Intelligence,SensorActuator Networks,Intelligent Autonomous Systems,",
+      "scope": "2026 9th International Conference on Robotic Systems and Applications (ICRSA 2026) will be held from October 30-November 1, 2026 in Huizhou, China. The conference is sponsored by Huizhou University, hosted by School of Electronic Information and Electrical Engineering, Huizhou University, China. It aims to facilitate technology and knowledge exchange among international researchers/scholars in the field of Robotic Systems and applications. We can proudly say that ICRSA 2026 conference is going to be even more of a truly international and an excellent forum for both young and experienced researchers and seasoned academics to present and defend their work on a global stage. Sharing experiences and difficulties between researchers with mentoring new researchers is where we ensure research is taken to the boundaries of new knowledge.",
+      "callForPapers": "2026-06-15",
+      "url": "www.icrsa.org/",
+      "eventContact": "yuzh@stmails.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Country Garden Hot Spring Hotel Huizhou, Huizhou, Guangdong Province · Huiyang District · Tiantou Village Section, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

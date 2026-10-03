@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uILBwo4086kBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69489,
+      "eventTitle": "2026 IEEE Technology & Engineering Management Conference - Asia Pacific (TEMSCON-ASPAC)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-17",
+      "about": "Aerospace; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Rajkot",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Technology and Engineering Management Society (TEMS); Marwadi University, Rajkot",
+      "keywords": "strategic engineering management, cyber-physical convergence,Artificial intelligence,machine learning,strategic engineering management,cyber-physical convergence,intelligent system deployment ,Cloud Computing,edge computing ,Blockchain,quantum computing,sustainability ,Application Security,talent management,Healthcare,defence,Aerospace accidents,smart manufacturing,industry 5.0,startups,digital innovation ,future ready workforce strategies,",
+      "scope": "This conference will explore strategic engineering management, cyber-physical convergence, and intelligent system deployment using cutting-edge technologies such as AI/ML, cloud/edge computing, blockchain, and quantum computing. It integrates sustainability, security, and talent management as key enablers for deploying solutions in healthcare, defence, aerospace, smart manufacturing, and Industry 5.0. The conference also embraces startups, digital innovation, and future-ready workforce strategies for responsible growth.",
+      "callForPapers": "2026-03-31",
+      "url": "2026-aspac-temscon.marwadiuniversity.ac.in",
+      "eventContact": "amit.ved@marwadieducation.edu.in",
+      "sponsorTypes": "1; 9",
+      "venues": "Marwadi University, At and PO : Gauridad, Rajkot-Morbi Highway, , , Rajkot, , India, 360007, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

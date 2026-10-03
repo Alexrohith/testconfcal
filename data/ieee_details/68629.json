@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 84PfwY40zaQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68629,
+      "eventTitle": "2029 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "startDate": "2029-06-11",
+      "endDate": "2029-06-15",
+      "about": "Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Los Angeles",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "Computer Vision Foundation - CVF; IEEE Computer Society",
+      "keywords": "Computer Vision,Artificial Intelligence,Facial Recongition,Computer Vision for Robtoics,Deep Machine Learning,Self Driving Vehicles,Computer Vision Theroy,3D Vision,",
+      "scope": "CVPR is the premier annual computer vision event comprising the main conference and several co-located workshops and short courses. With its high quality and low cost, it provides an exceptional value for students, academics and industry researchers. Field of",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "csaliba@computer.org",
+      "sponsorTypes": "1; 9",
+      "venues": "Los Angeles Convention Center, , , , , Los Angeles, CA, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

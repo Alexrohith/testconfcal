@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 7uytx440xcABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72701,
+      "eventTitle": "2026 Symposium on Future Telecommunication Technologies (SOFTT)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-02",
+      "about": "Communication, Networking and Broadcast Technologies; Fields, Waves and Electromagnetics; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "DIY Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Telkom University",
+      "keywords": "Key Enablers Beyond 5G,Fundamental Beyond 5G,Beyond 5G Technologies Implementation,Signal Processing,Communications,",
+      "scope": "Signal Processing & Analysis General Topics for Engineers (Math, Science & Engineering) Fields, Waves & Electromagnetics Communication, Networking & Broadcasting",
+      "callForPapers": "2026-09-20",
+      "url": "https://softt.telkomuniversity.ac.id/",
+      "eventContact": "gelarbudiman@telkomuniversity.ac.id",
+      "sponsorTypes": "3; 9",
+      "venues": "EASTPARC HOTEL Yogyakarta , Laksda Adisucipto Km 6,5 Seturan , , , , Yogyakarta, , Indonesia, 55281, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

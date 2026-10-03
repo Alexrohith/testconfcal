@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iL79xo404r0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70106,
+      "eventTitle": "2026 IEEE Technology Summit - Ethical AI",
+      "startDate": "2026-10-01",
+      "endDate": "2026-10-02",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Budapest",
+        "region": "",
+        "country": "Hungary"
+      },
+      "sponsors": "IEEE Technical Activities",
+      "keywords": "artificial intelligence,",
+      "scope": "Ethical AI",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "c.l.edwards@ieee.org",
+      "sponsorTypes": "6",
+      "venues": "InterContinental Budapest,  Apáczai Csere J. u. 12-14, 1052, , , , Budapest, , Hungary, 1052, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

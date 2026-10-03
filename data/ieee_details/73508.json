@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xabiwY40kqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73508,
+      "eventTitle": "2027 4th International Conference on Microwave, Optical and Communication Engineering (ICMOCE)",
+      "startDate": "2027-05-21",
+      "endDate": "2027-05-23",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Jatni, Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Indian Institute of Technology Bhubaneswar",
+      "keywords": "Microwave, Optical ,Communication,Signal processing,Bioscience,AI & Machine learning,6G and NXN Communication,",
+      "scope": "ICMOCE 2027 will provide an international forum for the exchange of ideas on state-of-the-art research in microwave, optical and communication engineering, as well as other allied areas. The fields of interest are as follows; Antennas and Antenna Arrays; Conformal Antennas; Microwave Circuits; MMIC; THz Systems; Quantum Antennas; Optical Fiber Technology; Optical Devices and Sensors; Optical Signal Processing; Optical Wireless Techniques; Photonic Applications; PhIC; Quantum Photonics; Communication Networks; Next-Generation Communication; Modulation and Coding Theory; Signal Processing for Communication; Augmented and Virtual Reality in Communication; AI for Biosensing; Bio-Photonics; Bio-Radar; Microwave Imaging; Microwave Sensors for Healthcare; AI Assisted Transportation, Agriculture & Healthcare; AI Applications in Communication & Radar",
+      "callForPapers": "2027-01-31",
+      "url": "conference.iitbbs.ac.in/icmoce/",
+      "eventContact": "pks@iitbbs.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "School of Electrical and Computer Sciences, IIT Bhubaneswar, IIT Bhubaneswar, At:Arugul, Dt: Khordha, , , Jatni, Bhubaneswar, , India, 752051, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

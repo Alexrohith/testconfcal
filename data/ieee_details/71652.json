@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: rKn3xo40sb0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71652,
+      "eventTitle": "2026 21st International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP)",
+      "startDate": "2026-11-19",
+      "endDate": "2026-11-21",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Artificial Intelligence Association of Thailand (AIAT); Thailand Section; Thailand Section SMC Chapter",
+      "keywords": "International Joint Symposium on Artificial Intelligence,Natural Language Processing,iSAI NLP2026,iSAI NLP,International Conference,Bangkok, Thailand,",
+      "scope": "The 2026 IEEE International Joint Symposium on Artificial Intelligence and Natural Language Processing (iSAI-NLP) provides an international forum for researchers and practitioners to present advances in artificial intelligence, natural language processing, machine learning, data analytics, and related computational technologies. The conference promotes academic exchange, interdisciplinary collaboration, and emerging AI-driven innovations.",
+      "callForPapers": "2026-08-15",
+      "url": "isai-nlp2026.aiat.or.th/",
+      "eventContact": "krachada@tu.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": ", , , , , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

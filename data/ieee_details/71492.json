@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ++npwY40xqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71492,
+      "eventTitle": "2026 14th International Conference on Intelligent Systems and Embedded Design (ISED)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Warangal",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Council on Electronic Design Automation; National Institute of Technology Warangal",
+      "keywords": "Intelligent Systems,System and Embedded Design,Embedded AI and Machine Learning,Artificial Intelligence of Things,Sustainability Systems and Devices,Robotics and Autonomous Systems,System Security,Healthcare Devices and Systems,Generative AI,Generative Driven Design,",
+      "scope": "The conference aims to foster collaborative endeavors and unveil cutting-edge research that can further drive innovation and development in the interdisciplinary domains of high performance or low-power circuits, algorithms, electronics, embedded systems, AI chips, and SoC technology, Generative driven deign, AI/ML driven intelligent systems, etc.",
+      "callForPapers": "2026-08-15",
+      "url": "cms.nitw.ac.in/conference/ised2026/",
+      "eventContact": "sanjayauce@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Department of Computer Science and Engineering, National Institute of Technology Warangal, , , , Warangal, , India, 506004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

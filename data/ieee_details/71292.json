@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 8Z7Bwo40j6cBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71292,
+      "eventTitle": "2026 13th International Conference on Wireless Networks and Mobile Communications (WINCOM)",
+      "startDate": "2026-10-21",
+      "endDate": "2026-10-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Tangier",
+        "region": "",
+        "country": "Morocco"
+      },
+      "sponsors": "IEEE Communications Society; Mobitic Association",
+      "keywords": "Wireless Mobile Networks,Future Internet and Next-Generation Networking,Massive MIMO and Multi-User MIMO Systems,6G Network Programmability and Softwarization,Security and Cybersecurity in Wireless and Mobile Networks,Attacks, Threats, and Vulnerability Analysis in 6G,Cloud, Edge, and Fog Computing for IoT,M2M and Massive Machine-Type Communications (mMTC),ML and AI for Communication Networks,Federated Learning and Distributed Intelligence,AI for Edge, Fog, and Cloud Computing,smart antennas,",
+      "scope": "The 13th International Conference on Wireless Networks and Mobile Communications (WINCOM 2026) will be held from October 21 to 24, 2026, in Tangier, Morocco. WINCOM has established itself as an important international forum for the exchange of innovative ideas and the dissemination of cutting-edge research among researchers and industry experts actively involved in the fields of wireless and mobile communications. As the flagship conference of the MobiTic Association, WINCOM 2026 will be thematically centered on “AI-Driven Wireless Systems”, highlighting the transformative role of AI and ML in the design, optimization, and management of next-generation wireless and mobile networks. The conference will focus on intelligent radio resource management, AI-based network optimization, self-organizing and autonomous networks, and AI-enabled 5G and 6G systems, reflecting the evolution of communication infrastructures toward adaptive, autonomous, and data-driven network architectures.",
+      "callForPapers": "2026-05-31",
+      "url": "www.wincom-conf.org/WINCOM_2026/",
+      "eventContact": "ibrahimi.khalil@uit.ac.ma",
+      "sponsorTypes": "1; 9",
+      "venues": "Kenzi Solazur Tanger, 168 Ave Mohammed VI, Tangier 90000, Morocco, , , , Tangier, , Morocco, 90000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

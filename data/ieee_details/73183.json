@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /6yox4407rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73183,
+      "eventTitle": "2027 12th International Conference on Intelligent Informatics and Biomedical Sciences (ICIIBMS)",
+      "startDate": "2027-11-24",
+      "endDate": "2027-11-27",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Okinawa Institute of Science and Technology Graduate University; Thailand Section",
+      "keywords": "Information Engineering,Biomedical Applications,Image Processing,Medial Image,Biomedical informatics,Biomedical Engineering,Biomedical computing,Information Technology,Computer Science,Artificial Intelligent,Medical Technology,Computer Life Science,Artificial Intelligent,Medical Technology,Anatomy and Physiology,Mental                      Health Technology,Neural  Networks,Biomedical image processing,",
+      "scope": "The conference aims to excite scientists, academician, graduate students to address open issues in all aspects of Intelligent Informatics, Computer Science, Information Technology, Information Engineering, Bioinformatics, Biomedical Control Engineering and Robotics, and neuroscience, and all emerging topics related to the above field that will pave the way to reach a new milestone in technology in the years to come, as the effect of new technology on society can draw attention to an old issue and can change our understanding of that issue.",
+      "callForPapers": "2027-06-30",
+      "url": "www.iciibms.org",
+      "eventContact": "mbz145@yahoo.com",
+      "sponsorTypes": "3; 9",
+      "venues": "The Institute of Science Innovation and Culture Rajamangala University of Technology Krungthep, Auditorium, Floor 5, Creative Building,, 2 Nanglinchee Road, Sathorn, Bangkok,10120, , Bangkok, , Thailand, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: tOnowY40lKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71724,
+      "eventTitle": "2026 2nd International Conference on Sustainable Technology for Energy and Power Systems (STEPS)",
+      "startDate": "2026-10-23",
+      "endDate": "2026-10-25",
+      "about": "Components, Circuits, Devices and Systems; Engineering Profession; Power, Energy and Industry Applications",
+      "location": {
+        "city": "SRINAGAR",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; National Institute of Technology Srinagar",
+      "keywords": "Power Systems,Smart Grid,Energy Management,Microgrid,Power Electronics Applications,Grid Integration of Renewables,Artificial Intelligence in Power Systems,Machine Learning in Energy Systems,Green Technology,",
+      "scope": "The 2nd International Conference on Sustainable Technology for Energy and Power Systems 2026 provides a platform for researchers, academicians, industry professionals, and policymakers to present and discuss advancements in sustainable energy and modern power systems. The conference focuses on renewable energy sources such as solar, wind, hydro, biomass, and hybrid systems, along with their integration into existing and future power grids. It covers smart grids, microgrids, distributed generation, energy storage systems, power electronics, and energy management techniques that enhance efficiency, reliability, and sustainability. The scope also includes emerging technologies such as artificial intelligence, IoT, and data analytics for intelligent monitoring, control, and optimization of energy systems. The conference aims to promote green, clean, efficient, and reliable energy solutions for sustainable development.",
+      "callForPapers": "2026-06-15",
+      "url": "steps2026.vercel.app/",
+      "eventContact": "salone@nitsri.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "National Institute of Technology Srinagar, Hazratbal, Jammu and Kashmir, , , Srinagar, , India, 190006, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

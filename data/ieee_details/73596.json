@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kcXCwo40h6cBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73596,
+      "eventTitle": "2026 International Conference on Engineering and Emerging Technologies (ICEET)",
+      "startDate": "2026-12-12",
+      "endDate": "2026-12-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Istanbul",
+        "region": "",
+        "country": "Turkiye"
+      },
+      "sponsors": "Istanbul Aydin University; Superior University Lahore, Pakistan; Turkiye Section",
+      "keywords": "Modern Communication Technology,Machine Learning for Communications,,Integrated Sensing & Communication,Optical Networks,Satellite Networks,Wireless Transfer Systems & Meta-Materials,Vehicular Electronics and Intelligent Transportation,Robotics and Automation,Nanotechnology,Signal and Image Processing,Alternate Energy Systems,Power Electronics and Circuits,Software Engineering,Developments in Aviation Technologies,Education & Technologies,Computer Networks & Security,Artificial Intelligence,",
+      "scope": "ICEET 2026 technical tracks span original research in the field of computer, communication and electrical engineering for applications in all fields of science and technology. Topics include, but are not limited to: ? Modern Communication Technology ? Vehicular Electronics and Intelligent Transportation ? Robotics and Automation ? Nanotechnology ? Signal Processing ? Alternate Energy Systems ? Antenna & Wave Propagation ? Next Generation Networks ? Power Electronics and Circuits ? Heterogeneous Networks ? Energy Efficient Buildings ? Wireless Transfer Systems & Meta-Materials ? Technology Entrepreneurship ? Smart Grids & Energy Management ? Software Engineering ? Information Security ? VLSI Designs ? Data Science ? Pervasive & Ubiquitous Computing ? Multimedia Services ? Artificial Intelligence ? Future Internet Architecture ? Computer Networks & Security ? Education & Technologies (E·learning) ? Biomedical Engineering & Systems ? Developments in Aviation Technologies",
+      "callForPapers": "2026-09-12",
+      "url": "iceet.net/",
+      "eventContact": "khalidibrahim@aydin.edu.tr",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Istanbul Aydın University, , , , , Istanbul, , Turkiye, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

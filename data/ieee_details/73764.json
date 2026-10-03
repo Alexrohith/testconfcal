@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8+HvwY40/aIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73764,
+      "eventTitle": "2027 International Conference on Electronic Information Engineering and Intelligent Information Processing (EIEIIP)",
+      "startDate": "2027-03-05",
+      "endDate": "2027-03-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Shangrao",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Shangrao Normal University",
+      "keywords": "Electronic Information Engineering,Intelligent Signal Processing,Multimodal Information Processing,Embedded Systems and Internet of Things,Wireless Communications and Mobile Networks,Machine Learning and Deep Learning,Computer Vision and Image Processing,Big Data Analytics and Intelligent Computing,Cloud Computing and Soft Computing,Intelligent Systems and Applications,Robotics and Unmanned Systems,System Security and Privacy Computing,Intelligent Decision Support Systems,",
+      "scope": "EIEIIP 2027 will act as an international academic platform devoted to cutting edge studies on electronic information engineering and intelligent information processing technologies. Its topics will cover intelligent signal processing, multimodal information processing, embedded systems and the Internet of Things, wireless communications and mobile networks, machine learning and deep learning, computer vision and image processing, big data analytics and intelligent computing, cloud computing and soft computing, intelligent systems and applications, robotics and unmanned systems, system security and privacy oriented computing, and intelligent decision support systems. The conference will arrange keynote speeches and interactive sessions to ensure attendees gain access to pioneering research outcomes, participate in in depth academic discussions, and carry out professional networking, accelerating technical innovation and academic progress within these research fields.",
+      "callForPapers": "2026-12-20",
+      "url": "www.eieiip.com/",
+      "eventContact": "landu.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Shangrao Normal University, No. 401, Zhimin Avenue, Xinzhou District, Shangrao City, Jiangxi Province, China, , , , Shangrao, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

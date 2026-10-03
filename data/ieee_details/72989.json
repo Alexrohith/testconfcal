@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s7zjwY40nKIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72989,
+      "eventTitle": "2027 4th International Conference on the Frontiers of Intelligent Control Measurement and Signal Systems (FICMSS)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-10",
+      "about": "Computing and Processing; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Xi’an",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Chang'an University; Xian Section",
+      "keywords": "Intelligent Control,Fault Detection and Diagnosis,Robotics and Automation,Measurement Technology,Intelligent Instruments,Precision Measurement,Signal Processing,Embedded Systems,Machine Learning,, Deep Learning,",
+      "scope": "The 4th International Conference on the Frontiers of Intelligent Control, Measurement and Signal Systems (FICMSS) is dedicated to advancing research at the intersection of intelligent control, measurement science, and signal processing. It welcomes original contributions covering control theory and applications (including robotics, autonomous systems, and industrial automation), advanced measurement technologies and intelligent instrumentation, and digital/analog signal processing (including AI/ML-driven signal analysis, real-time systems, and embedded signal processing). The scope also includes cross-cutting topics such as cyber-physical systems, IoT-enabled measurement and control, and data-driven intelligent systems, serving as a forum for researchers and engineers to share breakthroughs in these rapidly evolving fields.",
+      "callForPapers": "2026-11-10",
+      "url": "www.ficmss.org/",
+      "eventContact": "minye_conf@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Crowne Plaza Xi’an, No. 1 Zhuque Road Middle Section, Beilin District, Xi'an, 710061, Shaanxi, China, , , , Xi’an, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

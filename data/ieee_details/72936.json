@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: n5ikx4407b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72936,
+      "eventTitle": "2026 IEEE International Multi-Conference on Engineering, Computer and Information Sciences (SIBIRCON)",
+      "startDate": "2026-10-11",
+      "endDate": "2026-10-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Novosibirsk",
+        "region": "",
+        "country": "Russia"
+      },
+      "sponsors": "IEEE Industry Applications Society; Russia (Siberia) Section; Russia (Siberia) Section IE/IA/PEL Joint Chapter; Russia/Russia (Siberia)/Russia (Northwest) Joint Section IT Chapter; Siberian State Univ of Telecom & Informatics COM SBC; Siberian State Univ of Telecomm & Informatics STB; Siberian State University of Telecommunications and Information Sciences - SibSUTI",
+      "keywords": "Industrial Electronics,Control Software,Smart Energy,Mathematical Modeling,Information theory,Next Generation Communications,Data storage systems,Data Analysis,Ontologies,Knowledge Engineering,Optimization methods,Cyber-Physical Systems,smart factories,Formal specification, verification, and validation of industrial control software,",
+      "scope": "Engineering, Computer and Information Sciences",
+      "callForPapers": "",
+      "url": "sibircon.ieeesiberia.org",
+      "eventContact": "khazanking@ieee.org",
+      "sponsorTypes": "1; 3; 5; 5; 5; 5; 9",
+      "venues": "Siberian State University of Telecommunications and Information Sciences, ul. Kirova, 86, , , , Novosibirsk, , Russia, 630102, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

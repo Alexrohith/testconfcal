@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hLSNx440xb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72011,
+      "eventTitle": "2026 International Conference on Space Robotics (iSpaRo)",
+      "startDate": "2026-11-03",
+      "endDate": "2026-11-06",
+      "about": "Aerospace; Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Cologne",
+        "region": "",
+        "country": "Germany"
+      },
+      "sponsors": "German Aerospace Center (DLR); IEEE Robotics and Automation Society",
+      "keywords": "Space Robotic Locomotion,Orbital Mission Planning,Spacecraft and Satellite Technology,Proximity Ops-Rendezvous-Docking,In-Space Operations and Services (ISOS),Active Debris Removal,Autonomy for Orbital Space Systems,Artificial Intelligence for orbital operations,Planetary Mission Planning,Robotic Testing Facilitperception-vision sensors,Telerobotics and terobotic manipulation,intelligence and autonomy for planetary exploration,human robot interobotic manipulation and ISRU,Multi-Robot Cooperation",
+      "scope": "The International Conference on Space Robotics (iSpaRo), launched in 2024, is a new international conference dedicated to advancements in Space Robotics. iSpaRo will feature presentations from both academic and industry in oral and poster sessions as well as keynotes and workshops. iSpaRo conference also aims to foster a network of researchers and industry professionals, including the new generations and emerging talent, to encourage future collaborations and innovations",
+      "callForPapers": "2026-06-16",
+      "url": "www.isairas-isparo.de/",
+      "eventContact": "maximo.roa@dlr.de",
+      "sponsorTypes": "1; 9",
+      "venues": "Confex Cologne, Barmer Straße 20, , , , Cologne, , Germany, 50679, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

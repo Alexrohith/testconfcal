@@ -1,0 +1,348 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "totalResults": 360,
+    "results": [
+      {
+        "eventId": 72059,
+        "eventTitle": "2026 International Conference on Computer Science, Artificial Intelligence and Digital Media Technology (ICADT)",
+        "startDate": "2026-11-13",
+        "endDate": "2026-11-15",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+        "location": {
+          "city": "Hangzhou",
+          "region": "",
+          "country": "China"
+        },
+        "sponsors": "Communication University of Zhejiang; Nanjing Section",
+        "url": "/conf/details?id=72059",
+        "isvirtual": "Y",
+        "eventFormat": "hybrid"
+      },
+      {
+        "eventId": 72707,
+        "eventTitle": "2026 7th International Conference on Artificial Intelligence and Computer Engineering (ICAICE)",
+        "startDate": "2026-11-14",
+        "endDate": "2026-11-16",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+        "location": {
+          "city": "Shenzhen",
+          "region": "",
+          "country": "China"
+        },
+        "sponsors": "Guangzhou Section; Sun Yat-sen University",
+        "url": "/conf/details?id=72707",
+        "isvirtual": "N",
+        "eventFormat": "inperson"
+      },
+      {
+        "eventId": 71200,
+        "eventTitle": "2026 International Conference on Artificial Intelligence Models and Systems (iAIMS)",
+        "startDate": "2026-11-16",
+        "endDate": "2026-11-20",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers",
+        "location": {
+          "city": "Barcelona",
+          "region": "",
+          "country": "Spain"
+        },
+        "sponsors": "Al Ain University ; Spain Section",
+        "url": "/conf/details?id=71200",
+        "isvirtual": "Y",
+        "eventFormat": "hybrid"
+      },
+      {
+        "eventId": 71392,
+        "eventTitle": "2026 4th International Conference on Artificial Intelligence and Applications (ICAIA)",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-20",
+        "about": "Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+        "location": {
+          "city": "New Delhi",
+          "region": "",
+          "country": "India"
+        },
+        "sponsors": "Delhi Section; Maharaja Surajmal Institute of Technology",
+        "url": "/conf/details?id=71392",
+        "isvirtual": "Y",
+        "eventFormat": "hybrid"
+      },
+      {
+        "eventId": 72795,
+        "eventTitle": "2026 IEEE International Conference for Women in Computing (InCoWoCo)",
+        "startDate": "2026-11-19",
+        "endDate": "2026-11-20",
+        "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+        "location": {
+          "city": "Pune",
+          "region": "",
+          "country": "India"
+        },
+        "sponsors": "Pune Section; Pune Section E Chapter; Pune Section WIE Affinity Group; Symbiosis Institute of Computer Studies and Research, Symbiosis International (Deemed University)",
+        "url": "/conf/details?id=72795",
+        "isvirtual": "Y",
+        "eventFormat": "hybrid"
+      },
+      {
+        "eventId": 71514,
+        "eventTitle": "2026 IEEE 8th International Conference on Robotics, Intelligent Control and Artificial Intelligence (RICAI)",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+        "location": {
+          "city": "Shenzhen",
+          "region": "",
+          "country": "China"
+        },
+        "sponsors": "Guangzhou Section; Southern University of Science and Technology",
+        "url": "/conf/details?id=71514",
+        "isvirtual": "N",
+        "eventFormat": "inperson"
+      },
+      {
+        "eventId": 72569,
+        "eventTitle": "2026 3rd International Conference on Big Data Analytics and Artificial Intelligence Application (BDAIA)",
+        "startDate": "2026-11-20",
+        "endDate": "2026-11-22",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+        "location": {
+          "city": "Zhuhai",
+          "region": "",
+          "country": "China"
+        },
+        "sponsors": "Guangzhou Section; Zhuhai College of Science and Technology",
+        "url": "/conf/details?id=72569",
+        "isvirtual": "Y",
+        "eventFormat": "hybrid"
+      },
+      {
+        "eventId": 72009,
+        "eventTitle": "2026 International Conference on Intelligent Computing and Emerging Communication Technologies (ICEC)",
+        "startDate": "2026-11-26",
+        "endDate": "2026-11-28",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Signal Processing and Analysis",
+        "location": {
+          "city": "Guntur",
+          "region": "",
+          "country": "India"
+        },
+        "sponsors": "Guntur Subsection; IEEE Hyderabad Section; SRM University, AP India",
+        "url": "/conf/details?id=72009",
+        "isvirtual": "N",
+        "eventFormat": "inperson"
+      },
+      {
+        "eventId": 72585,
+        "eventTitle": "2026 International Conference on Intelligent Sensing, Communications, and Marine Applications (ISCMA)",
+        "startDate": "2026-11-27",
+        "endDate": "2026-11-29",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+        "location": {
+          "city": "Haikou",
+          "region": "",
+          "country": "China"
+        },
+        "sponsors": "Hainan University, China; IEEE Communications Society",
+        "url": "/conf/details?id=72585",
+        "isvirtual": "Y",
+        "eventFormat": "hybrid"
+      },
+      {
+        "eventId": 71985,
+        "eventTitle": "2026 IEEE International Congress on Cybermatics (Cybermatics)",
+        "startDate": "2026-11-30",
+        "endDate": "2026-12-04",
+        "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+        "location": {
+          "city": "Montbéliard",
+          "region": "",
+          "country": "France"
+        },
+        "sponsors": "IEEE Computer Society",
+        "url": "/conf/details?id=71985",
+        "isvirtual": "N",
+        "eventFormat": "inperson"
+      }
+    ],
+    "returnOffset": 100,
+    "resultFacets": [
+      {
+        "facetName": "isvirtual",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "Y": 215,
+          "N": 145
+        }
+      },
+      {
+        "facetName": "conf_dates",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "['2026-09-17T00:00:00Z','2026-09-18T00:00:00Z']": 0,
+          "['2026-09-17T00:00:00Z','2026-10-17T00:00:00Z']": 30,
+          "['2026-09-17T00:00:00Z','2027-03-17T00:00:00Z']": 286
+        }
+      },
+      {
+        "facetName": "isdisplayextconfsearchui",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "Y": 360
+        }
+      },
+      {
+        "facetName": "sponsor_types_desc",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "geo": 228,
+          "soc": 146,
+          "misc": 3
+        }
+      },
+      {
+        "facetName": "eventformat",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "virtual": 6,
+          "hybrid": 209,
+          "inperson": 145
+        }
+      },
+      {
+        "facetName": "field_of_interest",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "Bioengineering": 77,
+          "Communication, Networking and Broadcast Technologies": 235,
+          "Engineered Materials, Dielectrics and Plasmas": 40,
+          "Nuclear Engineering": 11,
+          "Computing and Processing": 316,
+          "Transportation": 64,
+          "Geoscience": 21,
+          "Robotics and Control Systems": 224,
+          "Signal Processing and Analysis": 230,
+          "Components, Circuits, Devices and Systems": 153,
+          "Aerospace": 26,
+          "Engineering Profession": 101,
+          "Fields, Waves and Electromagnetics": 57,
+          "General Topics for Engineers": 110,
+          "Photonics and Electrooptics": 44,
+          "Power, Energy and Industry Applications": 125
+        }
+      },
+      {
+        "facetName": "conf_country",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "Malaysia": 6,
+          "Portugal": 2,
+          "Oman": 2,
+          "Iceland": 1,
+          "Greece": 1,
+          "Austria": 1,
+          "Korea (South)": 4,
+          "Iran": 2,
+          "Morocco": 2,
+          "Brazil": 4,
+          "Algeria": 3,
+          "Chile": 1,
+          "Japan": 14,
+          "Ghana": 1,
+          "India": 89,
+          "Canada": 3,
+          "Taiwan": 2,
+          "Italy": 8,
+          "Germany": 2,
+          "Singapore": 6,
+          "Hong Kong": 1,
+          "Egypt": 3,
+          "Thailand": 6,
+          "Russia": 2,
+          "Malta": 1,
+          "Sweden": 2,
+          "Vietnam": 1,
+          "Pakistan": 7,
+          "China": 88,
+          "Poland": 1,
+          "France": 7,
+          "Jordan": 2,
+          "Bulgaria": 1,
+          "Tunisia": 2,
+          "Bosnia and Herzegovina": 1,
+          "USA": 23,
+          "Romania": 1,
+          "Sri Lanka": 5,
+          "Uruguay": 1,
+          "Uzbekistan": 2,
+          "United Kingdom": 4,
+          "United Arab Emirates": 5,
+          "Spain": 4,
+          "Turkiye": 3,
+          "Lebanon": 1,
+          "Azerbaijan": 1,
+          "Bangladesh": 5,
+          "Norway": 2,
+          "Mexico": 2,
+          "Australia": 8,
+          "Indonesia": 8
+        }
+      },
+      {
+        "facetName": "conf_region",
+        "facetValue": null,
+        "facetSize": null,
+        "facetType": null,
+        "facetExpr": null,
+        "bucketValues": null,
+        "facetBuckets": {
+          "Region04-Central USA": 2,
+          "Region10-Asia and Pacific": 250,
+          "Region07-Canada": 3,
+          "Region03-Southeastern USA": 3,
+          "Region02-Eastern USA": 1,
+          "Region09-Latin America": 9,
+          "Region06-Western USA": 10,
+          "Region08-Europe,Middle East,Africa": 70,
+          "Region01-Northeast USA": 2,
+          "Region05-Southwestern USA": 4
+        }
+      }
+    ],
+    "searchStatus": "{Timems: 3,Rid: 2dK3v440tZgBCtQWQA==}",
+    "searchStr": "machine learning",
+    "pagination": false,
+    "pageSize": 10,
+    "sortOrder": "ASC"
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResults",
+  "status": 200,
+  "metadata": {}
+}

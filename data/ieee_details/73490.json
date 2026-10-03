@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vpTiwY40/qEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73490,
+      "eventTitle": "2027 2nd International Conference on Artificial Intelligence and Data Mining (AIDM)",
+      "startDate": "2027-03-12",
+      "endDate": "2027-03-14",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Guilin",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guilin University of Aerospace Technology; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Artificial Intelligence,Intelligent and Secure Computing,Data Mining,Machine Learning,Wireless Communication Security,",
+      "scope": "AIDM 2027 is a premier research-oriented conference dedicated to advancements in artificial intelligence, intelligent and secure computing, and data mining. The conference will bring together global experts to explore key topics including machine learning, deep learning, generative AI, explainable AI, multi-agent systems, network security, trustworthy AI, big data analytics, knowledge discovery and graph mining. By fostering interdisciplinary dialogue, AIDM 2027 aims to accelerate breakthroughs, drive practical applications, and nurture future talent.",
+      "callForPapers": "2026-12-20",
+      "url": "2027.ic-aidm.org/",
+      "eventContact": "aidm.pc@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Guilin University Of Aerospace Technology, China, 2 Jinji Road, Qixing District, Guilin City, Guangxi Zhuang Autonomous Region, 541004, China, , , , Guilin, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

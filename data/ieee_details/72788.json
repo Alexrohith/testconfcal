@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /4v5xo40xL0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72788,
+      "eventTitle": "2026 9th International Conference on Algorithms, Computing and Artificial Intelligence (ACAI)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Computing and Engineering Association; Nanjing Section; Nanjing University - NJU; Zhejiang University of Technology",
+      "keywords": "Algorithms,Computing & IT,Artificial Intelligence,",
+      "scope": "It focuses on the intersection of algorithms, high-performance computing, and AI. Its scope covers theoretical and applied research across areas including advanced numerical algorithms, machine learning, neural networks, computer vision, fuzzy systems, natural language processing, parallel and distributed computing, hybrid computational methods, and emerging fields such as brain-machine interfaces and cognitive systems. The conference aims to advance computational paradigms that drive scientific and technological innovation.",
+      "callForPapers": "2026-09-20",
+      "url": "www.acai-conf.net/",
+      "eventContact": "rachel@i-cea.net",
+      "sponsorTypes": "3; 9; 9; 9",
+      "venues": "Zhejiang University of Technology, No. 288, Liuhe Road, Xihu District Hangzhou, Zhejiang Province, , , , Hangzhou, , China, 310023, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

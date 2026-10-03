@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: q6mgx440t7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72364,
+      "eventTitle": "2026 IEEE International Conference on Networking, Intelligent Systems, and IoT (ICONS-IoT)",
+      "startDate": "2026-11-23",
+      "endDate": "2026-11-25",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bandung",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Indonesia Section SP Chapter; Telkom University",
+      "keywords": "AI-Driven Solutions for Environmental Conservation,Intelligent Sensing and Communication Infrastructure for Disaster Relief,Smart Cities and Urban Development,Healthcare Innovations for Public Well-being,Cybersecurity and Privacy Protection in the Digital Age,Future Trends and Emerging Applications,Industry 4.0 and Sustainable Manufacturing,Social Impact and Inclusive Technology Development,",
+      "scope": "Robotics & control system; components, circuits, devices & systems; power, energy, & industry applications; communications, networking & broadcasting; computing & processing (hardware/software); Fields, Waves and Electromagnetics; General Topics for Engineers (Math, Science & Engineering).",
+      "callForPapers": "2026-07-01",
+      "url": "https://icons-iot.org/",
+      "eventContact": "casmika@telkomuniversity.ac.id",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Hotel Bandung, Jl. Merdeka No.2, Braga, Kec. Sumur Bandung, Kota Bandung, Jawa Barat 40111, Indonesia, , , , Bandung, , Indonesia, 40111, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

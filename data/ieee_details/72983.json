@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sI3owY40uqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72983,
+      "eventTitle": "2027 International Conference on Multidisciplinary Research in Science and Engineering (ICMDRSE)",
+      "startDate": "2027-07-08",
+      "endDate": "2027-07-09",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Nuclear Engineering; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pune",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Pune Section; Vishwakarma University",
+      "keywords": "Artificial Intelligence, Data Science, Machine Learning, Deep Learning,   Intelligent Systems, Cognitive Computing, Distributed Computing, Blockchain Technology, Internet of Things, Cloud Computing, Cyber Security, Smart Systems, Robotics and Automation, Advanced Manufacturing, Renewable Energy, Sustainability, Healthcare technologies, Biotechnology, Engineering Educational innovations  & Social innovations,",
+      "scope": "The 1st International Conference on Multidisciplinary Research in Science and Engineering (ICMDRSE-2027) aims to provide an international platform for researchers, academicians, scientists, industry professionals, and students to present and exchange innovative ideas, research findings, and technological advancements in multidisciplinary domains of science and engineering. The conference focuses on emerging areas including Artificial Intelligence, Intelligent Systems, Distributed Computing, Data Science, Smart Technologies, Renewable Energy, Healthcare Technologies, Advanced Engineering Systems, and Applied Sciences. It encourages interdisciplinary collaboration and promotes research that addresses real-world industrial, societal, and environmental challenges through sustainable and intelligent solutions. . ICMDRSE-2027 will feature keynote lectures, technical paper presentations, special sessions, workshops, and expert discussions that foster knowledge sharing, innovation.",
+      "callForPapers": "2026-08-01",
+      "url": "icmdrse.vupune.ac.in/",
+      "eventContact": "harish.motekar@vupune.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Vishwakarma University, Pune, Survey No 2,3,4 Laxminagar, Kondhwa (Bk.), , , Pune, , India, 411048, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

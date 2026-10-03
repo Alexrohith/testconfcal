@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: w/D6xo40uroBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70556,
+      "eventTitle": "2026 IEEE 13th Joint International Information Technology and Artificial Intelligence Conference (ITAIC)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Chongqing",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "China Council; Chongqing Global Union Academy of Science and Technology",
+      "keywords": "Information Technology and Computer Science,Big Data,Artificial Intelligence,",
+      "scope": "The aim of IEEE ITAIC 2026 is to provide a platform for researchers, engineers, academicians as well as industrial professionals from all over the world to present their research results and development activities in Information Technology and Artificial Intelligence. It provides opportunities for the delegates to exchange new ideas and application experiences, to establish business or research relations and to find global partners for future collaboration.",
+      "callForPapers": "2026-10-20",
+      "url": "www.itaic.org/",
+      "eventContact": "guastvip@163.com",
+      "sponsorTypes": "4; 9",
+      "venues": "Air China Hotel Chongqing,  2 Hongjin Road, Jiangbei District, , , , Chongqing, , China, 400000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

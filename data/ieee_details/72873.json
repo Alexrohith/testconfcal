@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uMviwY4066QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72873,
+      "eventTitle": "2027 IEEE Signal Processing Summit (SP Summit)",
+      "startDate": "2027-11-28",
+      "endDate": "2027-12-04",
+      "about": "Computing and Processing; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Signal Processing Imagine Processing, Machine Learning, Multimedia, Speech, Artificial Intelligence, Agentic, Video Streaming, Automation,",
+      "scope": "The IEEE Signal Processing Summit offers prospective attendees an unparalleled, end-to-end journey through the entire lifecycle of intelligent systems by uniquely uniting ICIP (Image Processing), ASLI (Audio, Speech, and Language Intelligence), and CAI (Conference on Artificial Intelligence). This premier cross-disciplinary event bridges foundational signal processing with cutting-edge industrial AI, taking you from raw sensory ingestion—such as advanced visual analysis, spatial audio, and natural language understanding—straight through to scalable, trustworthy enterprise deployments and autonomous agentic workflows. Whether you are a researcher, industry executive, or engineer, attending this summit provides a rare opportunity to collaborate across domains, witness real-world AI applications in critical sectors like healthcare and aerospace, and gain a holistic blueprint for the next generation of multimodal technology.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "alisa.abraham@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "Marina Bay Sands, , , , , Singapore, , Singapore, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 0+OLx440s7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70662,
+      "eventTitle": "2026 IEEE Nigeria International Conference on Digital Transformation (NIGERCON)",
+      "startDate": "2026-11-05",
+      "endDate": "2026-11-06",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Geoscience; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Lagos",
+        "region": "",
+        "country": "Nigeria"
+      },
+      "sponsors": "Nigeria Section",
+      "keywords": "Digital Transformation,Artificial Intelligence,,Generative AI,Smart Cities,Financial Technology,Healthcare Technology,Sustainable Development,5G Networks,Internet of Things,Blockchain,Cybersecurity,Agricultural Technology,Manufacturing Automation,Telemedicine,Biometric Systems,Digital Economy,Cloud Computing,Innovation Ecosystem,Industry 4.0,",
+      "scope": "NIGERCON 2026 brings together researchers, industry practitioners, policymakers, and technology leaders to explore the convergence of emerging technologies driving digital transformation across critical sectors in Nigeria and Africa. The conference focuses on practical applications of AI, telecommunications, fintech, healthcare technology, smart infrastructure, and sustainable innovations that address unique African challenges while contributing to global knowledge. Technical sessions will cover advances in generative AI, 5G/6G networks, blockchain applications, biometric systems, agricultural technology, pharmaceutical supply chains, manufacturing automation, digital financial services, and smart city solutions. The conference emphasizes research-to-market pathways, fostering collaboration between academia, industry, and government to build inclusive innovation ecosystems that drive economic resilience and societal transformation across Africa",
+      "callForPapers": "2026-04-15",
+      "url": "",
+      "eventContact": "ifeyinwa.achumba@ieee.org",
+      "sponsorTypes": "3",
+      "venues": ", , Lagos, , Nigeria, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

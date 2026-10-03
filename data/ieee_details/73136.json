@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h/r6xo40yroBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73136,
+      "eventTitle": "2027 International Conference on Artificial Intelligence, Big Data, Computing and Data Communication Systems (icABCD)",
+      "startDate": "2027-07-22",
+      "endDate": "2027-07-23",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Port Louis",
+        "region": "",
+        "country": "Mauritius"
+      },
+      "sponsors": "Mauritius Section; Society of Information Technologists and Engineers Ltd",
+      "keywords": "artificial intelligence,big data,Computing & IT,data communication systems,",
+      "scope": "The conference aims at bringing together researchers and practitioners from all over the world working on soft computing, big data technologies, data communication systems and computer security on a common platform so that they can present and discuss emerging ideas and trends in these highly challenging research fields. ICABCD has the following thematic priorities: Artificial Intelligence, Communication Technologies, Information Security, Computer Vision, ICT in Society and Emerging Trends in Technology.",
+      "callForPapers": "2026-11-30",
+      "url": "icabcd.org/2027/",
+      "eventContact": "sameerchand.pudaruth@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Hilton Mauritius Resort & Spa., Port Louis, , Mauritius, 00230, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

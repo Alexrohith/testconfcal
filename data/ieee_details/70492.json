@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +s2fx440yb8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70492,
+      "eventTitle": "2026 2nd International Conference on Data Science and Geoinformatics (ICDSG)",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-27",
+      "about": "Computing and Processing; General Topics for Engineers; Geoscience; Signal Processing and Analysis",
+      "location": {
+        "city": "Denpasar, Bali",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "INABIMS Center ITN Malang; Indonesia Section",
+      "keywords": "ICDSG 2025,Data Science,Geoinformatics,Bali Indonesia,Artificial Intelligent,IoT and Cybersecurity,",
+      "scope": "The topics offered in ICDSG fall within the IEEE areas of Computing & Processing, General Topics for Engineers, Geoscience, and Signal Processing & Analysis, with two dedicated tracks: Data Science and Geoinformatics. The Data Science track covers machine learning, deep learning, data engineering, big data analytics, visualization, and AI-driven decision systems for real-world applications. The Geoinformatics track focuses on spatial data acquisition, analysis, modelling, and the integration of geospatial technologies with AI (GeoAI), remote sensing, sensors, and engineering systems. ICDSG welcomes contributions that fuse Data Science, Geoinformatics, and engineering principles to address complex challenges. All topics align with the IEEE scope.",
+      "callForPapers": "2026-09-05",
+      "url": "icdsg.org/2026/",
+      "eventContact": "info@icdsg.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Sovereign Bali Hotel, Jl. Raya Tuban, Lingkungan Griya No. 2, Tuban, Bali, , , , Denpasar, Bali, , Indonesia, 80111, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

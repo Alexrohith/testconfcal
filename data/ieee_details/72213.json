@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sLqBx440+L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72213,
+      "eventTitle": "2027 IEEE/IAPR International Joint Conference on Biometrics (IJCB)",
+      "startDate": "2027-09-13",
+      "endDate": "2027-09-17",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Foz do Iguaçu",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "IEEE Biometrics Council; International Association for Pattern Recognition - IAPR",
+      "keywords": "Biometrics, Artificial Intelligence, Computer Vision, Forensics, Security & Privacy,",
+      "scope": "The IEEE/IAPR International Joint Conference on Biometrics (IJCB) is the premier international forum for research in biometrics and related technologies. It combines two major biometrics conferences, the IEEE Biometrics Theory, Applications, and Systems (BTAS) conference and the International Conference on Biometrics (ICB), and is made possible through a special agreement between the IEEE Biometrics Council and the IAPR TC-4.",
+      "callForPapers": "2027-04-10",
+      "url": "ijcb2027.ieee-biometrics.org",
+      "eventContact": "rhernandez@ucm.cl",
+      "sponsorTypes": "1; 9",
+      "venues": "Mabu Thermas & Resort, Av. das Cataratas, 3175 - Vila Yolanda, , , , Foz do Iguaçu, , Brazil, 85853-000, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

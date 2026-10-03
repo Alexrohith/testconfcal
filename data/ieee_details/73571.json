@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wJX7xo401b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73571,
+      "eventTitle": "2026 International Conference on Applied Artificial Intelligence, Data Engineering and Sciences (ICAIDES)",
+      "startDate": "2026-11-12",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Jakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Indonesia Section; Tarumanagara University",
+      "keywords": "Electrical engineering,Electronic engineering,Communication system,Signal processing,Artificial intlligence,smart grid,Smart manufacturing,Data science,",
+      "scope": "Electrical and electronic engineeing, artificial intelligence",
+      "callForPapers": "2026-09-30",
+      "url": "icaides.untar.ac.id",
+      "eventContact": "hugeng@ieee.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Tarumanagara University, Jl. Letjen S. Parman No.1, Grogol Petamburan, West Jakarta, , Jakarta, , Indonesia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

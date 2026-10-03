@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ro+kx4401LwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72165,
+      "eventTitle": "2026 IEEE International Conference on Recent Advances in Systems Science and Engineering (RASSE)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Chengdu",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems Council",
+      "keywords": "systems engineering,system of systems,complex adaptive systems,complex systems,systems engineering architecture,software systems engineering,virtual prototyping,agile for complex systems,systems engineering competency,systems engineering education,model-based systems,digital thread,enterprise systems engineering, program management for complex systems,,",
+      "scope": "The Conference addresses the discipline of systems engineering, especially complex systems of systems, including theory, technology, methodology, and applications of complex systems, system of-systems, and integrated systems of national and global significance.",
+      "callForPapers": "2026-06-01",
+      "url": "ieee-rasse.org",
+      "eventContact": "cyoung@conferencecatalysts.com",
+      "sponsorTypes": "1",
+      "venues": "Sheraton Chengdu Pidu, No. 560 Huashi Street, Deyuan Road , Pidu District , Sichuan , Chengdu, , China, 611730, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 2tXlwY40+6QBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70686,
+      "eventTitle": "2027 2nd International Conference on Emerging Smart Technology for Sustainable Development (ESTSD)",
+      "startDate": "2027-01-09",
+      "endDate": "2027-01-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Greater Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Sharda University; Uttar Pradesh Section",
+      "keywords": "Artificial Intelligence and Machine Learning,6G Communications and Edge Computing,Robotics Automation and Networking,Renewable Energy and Smart Grids,Drone & EV Technology,Quantum Technology,",
+      "scope": "The conference aims to provide a multidisciplinary platform for students, researchers, academicians, practicing engineers, policymakers, and industry professionals to exchange ideas, present research outcomes, and discuss future directions in emerging areas of science and technology with a strong focus on sustainable development. It seeks to promote interdisciplinary collaboration among experts from environmental science, biosciences, healthcare, engineering, information technology, and social sciences to develop integrated and innovative solutions for global sustainability challenges. The conference will showcase cutting-edge technologies and scientific advancements in areas such as smart cities, artificial intelligence and machine learning, advanced data communication and edge computing, renewable energy and smart grids, robotics and automation, and digital health. It also aims to explore alignment with the United Nations Sustainable Development Goals (SDGs).",
+      "callForPapers": "2026-09-01",
+      "url": "estsd2026.sirsd.com/",
+      "eventContact": "subrata.sahana@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "APJ Abdul Kalam Auditorium, Plot No. 32-34, Knowledge Park III,Greater Noida , Uttar Pradesh , , Greater Noida, , India, 201310, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

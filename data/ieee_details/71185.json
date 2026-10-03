@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: ivKAx4402roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71185,
+      "eventTitle": "2026 International Conference on Frontiers of Information Technology (FIT)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-15",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Geoscience; Signal Processing and Analysis",
+      "location": {
+        "city": "Islamabad",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "COMSATS University Islamabad; Islamabad Section",
+      "keywords": "Computing & IT,Data Science,Artificial Intelligence,Smart Grid,Cyber Security,",
+      "scope": "We have planned to accept papers under following tracks, 1. Modeling & Simulation for Emerging Technologies, 2. Signal Processing & Next Generation Communication Systems, 3.  Smart Grid, Energy & Electronics, 4. Data Science & Advanced Analytics, 5. Pattern Recognition, Image & Natural Language Processing, 6. Adaptive Systems, Networks, IoT &  Cloud Computing, 7. Remote Sensing and Geospatial Information Technology, 8. Software Engineering, 9. Network, Cyber & Information Security, 10. Remote Health Monitoring and Prediction Systems",
+      "callForPapers": "",
+      "url": "fit.edu.pk/",
+      "eventContact": "majid_iqbal@comsats.edu.pk",
+      "sponsorTypes": "3; 9",
+      "venues": "COMSTECH Secretariat, 33-Constitution Avenue, G-5/2,, , , , Islamabad, , Pakistan, 45500, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 4vfdwY40xKQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72542,
+      "eventTitle": "2026 13th International Conference on Social Networks Analysis, Management and Security (SNAMS)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-20",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Barcelona",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Al Ain University ; Spain Section; Universidad Politecnica De Valencia - Spain",
+      "keywords": "Social Networks Analysis,Data mining and machine learning,Online Social Networks,",
+      "scope": "Social network analysis is the study of relationships between social entities, a field significantly enriched by the recent advances in internet technologies and social media platforms such as Facebook, Twitter, and LinkedIn. These platforms offer unprecedented opportunities for individuals to connect, communicate, and share their perspectives on a vast array of topics. The dynamic and ever-evolving nature of social networks, coupled with the massive scale of user participation, poses significant challenges for researchers, particularly in data mining and machine learning. The International Conference on Social Networks Analysis, Management and Security (SNAMS-2026) aims to provide a comprehensive forum for researchers, practitioners, and industry experts to present and discuss their latest findings and innovations in the realm of social network analysis. This conference seeks to explore the vast opportunities in social networks, addressing both theoretical and practical challenges.",
+      "callForPapers": "2026-07-21",
+      "url": "emergingtechnet.org/SNAMS2026/index.php",
+      "eventContact": "Izzat.Alsmadi@tamusa.edu",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Novotel Barcelona City Hotel, , , , , Barcelona , , Spain, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

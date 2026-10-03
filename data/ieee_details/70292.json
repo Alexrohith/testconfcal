@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: yfylx4407bwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70292,
+      "eventTitle": "2026 4th Networking International Conference on Emerging Trends in Expert Systems, Applications & Security, ASIA (NICE-TEAS ASIA)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Geoscience; Nuclear Engineering; Robotics and Control Systems",
+      "location": {
+        "city": "Hanoi",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Apex University; Banking Academy of Vietnam; Madhya Pradesh Section",
+      "keywords": "Expert Systems,Expert Applications,Application Security,Cloud Computing Security,Computer Security,Cyber Security,Data Security,Cloud Computing,",
+      "scope": "The conference aspires to bring together academicians, researchers, and industry professionals from 30+ countries to foster meaningful collaborations, encourage the exchange of cutting-edge research, and open pathways for international project partnerships. It offers a vibrant and inclusive platform to share advancements in Expert Systems, applications and cybersecurity, addressing both academic and real-world challenges.",
+      "callForPapers": "2026-08-30",
+      "url": "asia.nice-teas.com",
+      "eventContact": "vijaydiamond@gmail.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Banking Academy of Vietnam, Faculty of Information Technology & Digital Economics, Banking Academy of Vietnam, Hanoi, Vietnam, Room 603-604, Building A2, Banking Academy, 12 Chua Boc, Dong Da, Hanoi, , , Hanoi, , Vietnam, 100000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

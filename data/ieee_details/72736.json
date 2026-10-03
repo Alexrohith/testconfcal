@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wYLawY40rqQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72736,
+      "eventTitle": "2026 7th International Conference on Machine Learning and Computer Application (ICMLCA)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University of Technology",
+      "keywords": "Machine Learning & Artificial Intelligence,Neural Networks,Cloud Computing,Distributed Systems,Intelligent Systems,",
+      "scope": "The 2026 International Conference on Machine Learning and Computer Applications (ICMLCA 2026) focuses on the fields of machine learning, artificial intelligence, and computational methods in computer applications. Centering on research advances in supervised and unsupervised learning, deep learning, data mining, and intelligent system development, the conference aims to promote the integration of theoretical foundations, algorithmic innovation, and practical implementation. It seeks to foster long-term development of cutting-edge technologies and provide an interdisciplinary platform for exploring AI-driven solutions in diverse scientific, industrial, and real-world scenarios.",
+      "callForPapers": "2026-09-01",
+      "url": "www.icmlca.org/",
+      "eventContact": "icmlca.pc@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University of Technology, China, No. 18, Chaowang Road, Gongshu District, Hangzhou, Zhejiang Province, China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

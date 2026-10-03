@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2/qfx440s7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69642,
+      "eventTitle": "2026 IEEE International Carnahan Conference on Security Technology (ICCST)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Photonics and Electrooptics; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Las Palmas de Gran Canaria",
+        "region": "",
+        "country": "Spain"
+      },
+      "sponsors": "Fundación Canaria Parque Científico Tecnológico de la Universidad de Las Palmas de Gran Canaria, FCPCT; IEEE Aerospace and Electronic Systems Society",
+      "keywords": "Computer Security,Cybersecurity,Access Control,Threat Assessment,Aerospace and electronic systems,Biometrics (access Control),Quantum Cryptography,Data Encryption,Cryptographic protocols,Cyber Security,",
+      "scope": "The ICCST is focused on the research, development, testing, and systems engineering of electronic security technology, including the operational testing, life-cycle, and performance. ICCST is an annual IEEE conference which provides a forum to share and discuss advances in security technology. Its scope is quite broad and includes both theoretical and applied work.",
+      "callForPapers": "",
+      "url": "site.ieee.org/iccst/",
+      "eventContact": "moises.diaz@ulpgc.es",
+      "sponsorTypes": "1; 9",
+      "venues": "Elder Museum of Science and Technology (Spanish: Museo Elder de la Ciencia y la Tecnología) , Parque Santa Catalina, , , , Las Palmas, , Spain, 35007, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

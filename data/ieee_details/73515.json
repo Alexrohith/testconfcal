@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: hL7bwY40tqQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73515,
+      "eventTitle": "2027 14th International Conference on Machine Intelligence Theory and Applications (MiTA)",
+      "startDate": "2027-02-11",
+      "endDate": "2027-02-18",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Tasmania",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "Hanyang University; IEEE Systems, Man, and Cybernetics Society; Zhejiang Normal University",
+      "keywords": "Machine Learning,Artificial Intelligence,Computational Intelligence,Nenural Networks,Fuzzy  system,Optimization methods,",
+      "scope": "MiTA aims to provide a high-level international forum for scientists, engineers, and educators to  present the state of the art of research and applications in related fields. The conference will  feature plenary speeches given by world-renowned scholars, regular sessions with broad coverage, and special sessions focusing on popular topics.",
+      "callForPapers": "2026-10-15",
+      "url": "mita2027.com/",
+      "eventContact": "xmhu@ieee.org",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "University of Tasmania(Tasmania), Dechaineux Lecture Theatre, 37 Hunter Street, Hobart , , Tasmania, , Australia, 7000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

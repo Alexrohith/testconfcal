@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: j8abx440k7wBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73286,
+      "eventTitle": "2027 International Conference on Advanced Secure and Sustainable Enabling Technologies (ASSETech)",
+      "startDate": "2027-06-11",
+      "endDate": "2027-06-13",
+      "about": "Bioengineering; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Hanoi",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; International Centre for Advanced Research and Education Foundation (ICARE Foundation)",
+      "keywords": "AI for Sustainable Development,Intelligent Automation and Smart Applications,Explainable and Responsible AI,Cybersecurity and Information Assurance,Privacy-Preserving Computing,Internet Security and Digital Forensics,Internet of Things (IoT) and Smart Devices,Robotics, Automation and Digital Twin Technologies,Quantum Computing and Emerging Technologies,Green Computing and Sustainable ICT,AI in Healthcare and Biomedical Systems,Sustainable Agriculture and Environmental Monitoring,Ethical, Legal a",
+      "scope": "As global challenges such as climate change, energy scarcity, rapid urbanization, and resource depletion intensify, there is an increasing need for secure, intelligent, and sustainable technologies that promote environmental stewardship and societal resilience. The International Conference on Advanced Secure and Sustainable Enabling Technologies (ASSETech) provides a multidisciplinary platform for researchers, academicians, industry professionals, and policymakers to exchange innovative ideas and research on AI, IoT, cybersecurity, smart systems, renewable energy, green computing, sustainable manufacturing, and other enabling technologies. The conference aims to foster collaboration and accelerate the development of secure, intelligent, and sustainable solutions that contribute to the UN Sustainable Development Goals and a technology-driven sustainable future.",
+      "callForPapers": "2027-01-30",
+      "url": "www.icasset.info/",
+      "eventContact": "anchit.b@buv.edu.vn",
+      "sponsorTypes": "1; 9",
+      "venues": "British University Vietnam,  Ecopark Township, , , , Hanoi, , Vietnam, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: vt7nwY40jKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71462,
+      "eventTitle": "2026 4th International Conference on Big Data and Data Mining (BDDM)",
+      "startDate": "2026-11-27",
+      "endDate": "2026-11-29",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Changsha",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Beijing Section; Central South University",
+      "keywords": "Big Data Analytics,Data Mining Algorithms,Machine Learning and Deep Learning,Distributed and Parallel Computing for Big Data,Graph Mining and Knowledge Graphs,Data Streams and Real-Time Processing,Data Security,Text, video, multimedia data mining,",
+      "scope": "BDDM 2026 pay attention to theoretical and practical advances in data mining and big data analytics. The conference covers data mining algorithms, machine learning and deep learning for large-scale data, and distributed and parallel computing systems for big data processing. Key topics include graph mining and knowledge graphs, data stream mining and real-time analytics, as well as data security and privacy in data-driven systems.",
+      "callForPapers": "2026-09-17",
+      "url": "www.icbddm.org/",
+      "eventContact": "qqyun_contact@yeah.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Wyndham Garden Changsha, Lufeng Community, No. 50 Jinjiang Road, Yuelu Sub-district, Yuelu District, Changsha, Hunan, China, Changsha, , China,  410000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

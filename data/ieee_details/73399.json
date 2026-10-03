@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: ovPawY40zKEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73399,
+      "eventTitle": "2027 Second International Conference on Agrivoltaics Innovations Focusing on Smart Farming with Renewable Energy, Machine Learning and Embedded Technologies (IC-AISMART)",
+      "startDate": "2027-08-26",
+      "endDate": "2027-08-27",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Bangaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section RAS Chapter; JSS Academy of Technical Education, Bengaluru",
+      "keywords": "Agrivoltaics,Smart Farming,Renewable Energy,Machine Learning,Artificial Intelligence,Embedded Systems,Internet of Things,Robotics,Industrial Automation,Sustainable Agriculture,",
+      "scope": "The conference focuses on advances in agrivoltaics, smart farming, renewable energy, artificial intelligence, machine learning, embedded systems, Internet of Things, robotics, autonomous systems, and industrial automation. It aims to bring together researchers, academicians, industry professionals, entrepreneurs, and students to present innovative technologies and practical solutions for sustainable agriculture, energy-efficient farming, intelligent monitoring, precision agriculture, crop management, environmental protection, and smart rural development.",
+      "callForPapers": "2027-05-10",
+      "url": "www.ic-aismart.com/",
+      "eventContact": "pruthvi.malli@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "JSS Academy of Technical Education, SSATE-B Campus, Dr.Vishnuvardhan Road,, Uttarahalli - Kengeri Main Road, Srinivaspura-Post, Bengaluru, , Benagluru, , India, 560060, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

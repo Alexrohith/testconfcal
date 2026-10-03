@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0bKjx440578BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72581,
+      "eventTitle": "2027 7th International Conference on Expert Clouds and Applications (ICOECA)",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Bengaluru",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; RV College of Engineering",
+      "keywords": "Cloud Infrastructure,Software-defined network,Multimedia cloud computing,IoT-Cloud Integration,Network function virtualization,Secure Communication,Edge Computing,",
+      "scope": "Recent years have witnessed that the knowledge-based systems have the ability to exhibit a higher level of intelligent performance as human experts. Expert systems help to solve the computationally complicated real-time applications by processing only the explicitly stated knowledge parameters. With new technologies like cloud computing, IoT, Sustainable computing it has been critical to meet the quality requirements of intelligent knowledge-based systems like expert systems. The emerging researches in the area of Artificial Intelligence, Expert Systems and computing technologies are changing the landscape of Intelligent Systems in real-time applications. This 7th International Conference on Expert Clouds and Applications [ICOECA 2027] is solely dedicated to discovering the new research insights on Artificial Intelligence, Big Data, Cloud Computing, Sustainability, Knowledge-based Expert Systems.",
+      "callForPapers": "2026-12-09",
+      "url": "icoeca.com/2027/",
+      "eventContact": "icoeca2023@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "RV College of Engineering, RV Vidyaniketan Post, , Mysore Road , , , Bengaluru , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

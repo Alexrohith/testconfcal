@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pr+ox4408LwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72583,
+      "eventTitle": "2026 IEEE International Conference on Distributed Ledger Technologies (ICDLT)",
+      "startDate": "2026-12-03",
+      "endDate": "2026-12-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Alcobaça",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Blockchain Community; IEEE Portugal Blockchain Group; Portugal Section",
+      "keywords": "blockchain, DLT,web3,Autonomous agents,Identity,Decentralized Finance,post-quantum architecture,Directed acyclic graph (DAG),Cyber Security,",
+      "scope": "Blockchain is playing an important role in enabling secure decentralization across many emerging fields, including digital asset transactions, the Internet of Things, cyber-physical systems, and federated learning.  This raises many challenges and issues for the research community to address. The main objective of the conference is to bring together persons with shared interests in blockchain and distributed ledger technology. This conference will provide a platform for researchers and practitioners to contribute to identifying emerging research areas in Blockchain Distributed Ledger Technology and to present the latest advances & innovations in theory and applications.",
+      "callForPapers": "2026-07-15",
+      "url": "blockchainconfluence.pt/",
+      "eventContact": "leidze@gmail.com",
+      "sponsorTypes": "3; 5; 6",
+      "venues": "MONTEBELO MOSTEIRO DE ALCOBAÇA , Rua Silvério Raposo, n.º 2, , , https://montebelohotels.com/, Alcobaça, , Portugal, 2460-075 , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

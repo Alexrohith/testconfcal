@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: //yCx440gb4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72307,
+      "eventTitle": "2026 3rd International Conference on Remote Sensing and Digital Earth (RSDE)",
+      "startDate": "2026-11-13",
+      "endDate": "2026-11-15",
+      "about": "Geoscience; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hangzhou Normal University; Nanjing Section",
+      "keywords": "Remote sensing,Earth observation,Image processing,Artificial intelligence,Sensors,",
+      "scope": "The 2026 3rd International Conference on Remote Sensing and Digital Earth (RSDE 2026) focuses on the latest research, technologies, and applications in remote sensing, earth observation, and digital geospatial systems. The conference covers a broad spectrum of topics including advanced remote sensing sensors and imaging systems, satellite and UAV-based data acquisition, geospatial data analysis, image processing, machine learning and artificial intelligence for remote sensing, environmental monitoring, natural hazard assessment, and digital Earth frameworks. RSDE 2026 provides a platform for researchers, engineers, and practitioners to exchange innovative ideas and interdisciplinary solutions that integrate sensing technologies, computational methods, and real-world applications in environmental, agricultural, urban, and climate-related studies.",
+      "callForPapers": "2026-08-28",
+      "url": "www.ic-rsde.org/",
+      "eventContact": "tghu_pb@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Hangzhou Normal University, No. 2318 Yuhangtang Road, Hangzhou City, Zhejiang Province, China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

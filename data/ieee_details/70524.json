@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uZyJx440qr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70524,
+      "eventTitle": "2026 XVI Latin American Congress on Electricity Generation and Transmission (CLAGTEE)",
+      "startDate": "2026-10-19",
+      "endDate": "2026-10-23",
+      "about": "Computing and Processing; Engineering Profession; Power, Energy and Industry Applications; Signal Processing and Analysis",
+      "location": {
+        "city": "Santiago",
+        "region": "",
+        "country": "Chile"
+      },
+      "sponsors": "Chile Section; Chile Section CAS Chapter; Pontificia Universidad Catolica de Valparaiso; São Paulo State University (UNESP); Universidad Nacional de Mar del Plata (UNMdP)",
+      "keywords": "Power Systems,Planning,Power markets,Power Distribution Planning,Flexible AC transmission systems,Renewable Energy Systems,Sensor,pmu,Smart Grid,Power system economics,Artificial Intelligence,",
+      "scope": "Power System",
+      "callForPapers": "2026-03-30",
+      "url": "clagtee2026.vercel.app",
+      "eventContact": "ing.blanco@gmail.com",
+      "sponsorTypes": "3; 5; 9; 9; 9",
+      "venues": "MR. Hotel, Av. Pedro de Valdivia 164, 7500000 Providencia, Región Metropolitana, Chile, , , , Santiago de Chile, , Chile, , ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

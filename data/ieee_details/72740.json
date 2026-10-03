@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: iOT3xo40nLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72740,
+      "eventTitle": "2027 IEEE Symposium Series on Computational Intelligence (SSCI)",
+      "startDate": "2027-02-14",
+      "endDate": "2027-02-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Gold Coast",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computational Intelligence Society",
+      "keywords": "Computational Intelligence,Deep Learning,Artificial Intelligence,Cooperative Intelligent Systems,AI for Science,Trustworthy AI,AI for Finance,",
+      "scope": "IEEE SSCI is widely recognized for cultivating the interchange of state-of-the-art theories and sophisticated algorithms within the broad realm of Computational Intelligence Applications. The Symposia provide for cross-pollination of research concepts, fostering an environment that facilitates future inter and intra collaborations.",
+      "callForPapers": "2026-09-10",
+      "url": "https://attend.ieee.org/ssci-2027/",
+      "eventContact": "leo.zhang@griffith.edu.au",
+      "sponsorTypes": "1",
+      "venues": ", , , , , Southport, , Australia, 4215, ;Gold Coast Convention and Exhibition Centre, 2684-2690 Gold Coast Hwy, , , , Broadbeach, , Australia, 4218, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

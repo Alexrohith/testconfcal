@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zM3Awo408KkBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71383,
+      "eventTitle": "2026 IEEE International Conference on Intelligent Computing and Next-Generation Technologies (ICONET)",
+      "startDate": "2026-10-15",
+      "endDate": "2026-10-16",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Debbieh",
+        "region": "",
+        "country": "Lebanon"
+      },
+      "sponsors": "Lebanon Section; Lebanon Section C Chapter; Lebanon Section COM Chapter; Lebanon Section EMB Chapter; Lebanon Section PE/CAS/PEL Joint Chapter",
+      "keywords": "Machine Learning,Artificial Intelligence,Data Science,Software Systems,Cloud Computing,Cloud Computing,Cybersecurity,Internet of Think,Health Technologies,Biomedical Engineering,Next-Generation Networks, Intelligent and Software,Autonomous Systems and Robotics,Green Networking and Power Management,Network Security and Privacy,Post-Quantum and Quantum,Blockchain and Distributed Trust Systems,Emerging Communication Technologies,Standards, Ethics, and Digital Transformation,",
+      "scope": "2026 International Conference on Intelligent Computing and Next-Generation Technologies (ICONET) is a scientific venue dedicated to sharing advances in computing, intelligent systems, and next-generation communication technologies. It brings together researchers, academics, and industry professionals to present original research, exchange knowledge, and explore emerging trends in areas such as AI, network architectures, cybersecurity, and cloud and edge systems. ICONET26 will feature advanced research presentations by invited keynote speakers in Computer Engineering. This conference is the official scientific event for the IEEE Computer Society Lebanon Chapter and will be hosted in 2026 by the Faculty of Engineering at Beirut Arab University, Lebanon. The conference will run for two days, and submitted papers will undergo peer review. 2026 International Conference on Intelligent Computing and Next-Generation Technologies (ICONET) is a scientific venue dedicated to sharing advances in c",
+      "callForPapers": "2026-07-01",
+      "url": "events.bau.edu.lb/ICONET26/Conferences/Details/27/262EF317E45E6909D28BB8C60BF3F85B89DA2F1291CA75E7C72547829D790E3E",
+      "eventContact": "akassem@ndu.edu.lb",
+      "sponsorTypes": "3; 5; 5; 5; 5",
+      "venues": "Beirut Arab University, Faculty of Engineering, , , , Debbieh, , Lebanon, 00000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

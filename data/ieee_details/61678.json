@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: nMGVx440/b4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 61678,
+      "eventTitle": "2028 IEEE 8th International Conference on Smart Information Systems and Technologies (SIST)",
+      "startDate": "2028-05-17",
+      "endDate": "2028-05-19",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Astana",
+        "region": "",
+        "country": "Kazakhstan"
+      },
+      "sponsors": "Astana IT University; Kazakhstan CIS/RA Jt. Chapter; Kazakhstan Subsection; Ukraine Section",
+      "keywords": "IT in Education and Research,Edge Computing,e-Learning Platforms ,Robotics and Control Systems,Signal Processing ,Energy and Industry Applications,Technolgy and Engineering Management, IT in Education and Research,",
+      "scope": "2028 IEEE 8th International Conference on Smart Information Systems and Technologies (SIST) is one of the first and biggest IEEE Conference in Kazakhstan which continues tradition of bringing together experts from different IT-related fields, emphasizing the following topics: - Technology and Engineering Management; - IT in Education and Research; - Emerging Trends and Technologies IT Application; - Data Science and Advanced Analytics. 2028 IEEE SIST Conference allows people to exchange their experience, enlarge and broaden their knowledge and perspectives on specific topics, widen their professional network and contribute to the finding responses to some issues on recent trends in IT. The Conference serve as a starting point for ideas and cooperation that could be used for various government and R&D projects.",
+      "callForPapers": "2028-02-07",
+      "url": "sist.astanait.edu.kz/",
+      "eventContact": "abay.aryn@astanait.edu.kz",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Astana IT University, 55/11 Mangilik Yel Ave., , , , Astana, , Kazakhstan, 0100000, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

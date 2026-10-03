@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /8uPx440074BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73374,
+      "eventTitle": "2027 7th Technology Innovation Management and Engineering Science International Conference (TIMES-iCON)",
+      "startDate": "2027-06-23",
+      "endDate": "2027-06-25",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Thailand Section; Thailand Section EMB Chapter; The Association of Thai Digital Industries   ",
+      "keywords": "Healthcare Information Technology Management, Innovation Management, Knowledge Engineering, Digital Business Management, Science and Technology Engineering, Data Science, Big Data, Entrepreneurship, Blockchain, Quantum IT, Internet of Things, Artificial Intelligence,Digital Innovation, Digital Disruption, Digital Technology, Information Technology Management, Healthcare Information Technology ManagemenDigital Innovation,Digital DisruptiDigital Innovation, Digital Disruption, Digital Technolog",
+      "scope": "Digital Innovation, Disruption and Technologies, Information Technology Management, Healthcare Information Technology Management, Data Science and Big Data, Science and Technology Engineering, Digital Economics, Digital Business Management and Business Model Innovation, Smart City Management, Logistics and Supply Chain Management, Project Management and Organizational Development, Digital Education, Innovation and Knowledge Management, The Digital Era in e.g., Strategic Management, Change Management, Entrepreneurship, HR Management, Organizational Culture and Leadership, Behavioral Sciences, and Communication Studies",
+      "callForPapers": "2027-04-01",
+      "url": "timesicon2027.atdi.or.th/",
+      "eventContact": "yod.suk@mahidol.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "Mercure Bangkok Sukhumvit 24, 5.1 Sukhumvit Road Soi 24, Khlong Tan, Klong Toey, , , , Bangkok, , Thailand, 10110, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: wsKPx440ubsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73121,
+      "eventTitle": "2027 IEEE 15th International Conference on Serious Games and Applications for Health (SeGAH)",
+      "startDate": "2027-06-23",
+      "endDate": "2027-06-25",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Osaka",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "Kansai Section; Portugal Section",
+      "keywords": "Simulation,Virtual environments,Patient education,Game-based learning,Exercising and active living,Natural user interface,Human-computer interface,Assistive technologies,Accessibility,Diagnosis Algorithms,Game design and development,Artificial intelligence,Signal processing,E-learning and Education,Public Health Informatics,Telemedicine and real-time monitoring,Clinical training,Healthcare professionals training,Rehabilitation,Public health education,Medical imaging processing Analysis and Visua",
+      "scope": "At the heart of the SEGAH conference lies a commitment to advancing the field of health and healthcare through innovative solutions and technologies. Our primary objectives are: 1. Facilitating In-Depth Discussions: We aim to create a dynamic platform where experts, researchers, and practitioners can engage in meaningful discussions. These dialogues focus on the latest advancements, challenges, and future directions in the areas of serious games and their applications in health and healthcare. 2. Promoting Knowledge Exchange: The conference serves as a nexus for sharing a wealth of knowledge, experiences, and scientific findings. This exchange is pivotal in driving forward the understanding and implementation of serious games as effective tools in healthcare education, training, and treatment. 3. Showcasing Cutting-Edge Solutions. 4. Cultivating a Community of Innovation.",
+      "callForPapers": "2027-01-15",
+      "url": "www.segah.org/osaka2027/index.html",
+      "eventContact": "dduque@ipca.pt",
+      "sponsorTypes": "3; 3",
+      "venues": "Ritsumeikan University, 2-150 Iwakura-cho, Ibaraki, , , Osaka, , Japan, 567-8570, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

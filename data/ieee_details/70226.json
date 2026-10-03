@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wJysx440pb0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70226,
+      "eventTitle": "2026 First International Conference on Signal Processing, Automation, Communication and Emerging Technology (ICSPACET)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-09",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Trichy",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "K.RAMAKRISHNAN COLLEGE OF TECHNOLOGY; Madras Section",
+      "keywords": "Emerging Technology,Signal Processing,Automation,",
+      "scope": "SPACE serves as a vital platform to discuss the latest advancements, research trends, and real-world challenges in designing intelligent, efficient, and sustainable engineering systems. SPACE emphasizes the importance of integrating advanced signal processing techniques, automation strategies, and communication frameworks to meet the evolving demands of smart industries, healthcare systems, transportation, and IoT-enabled environments. It provides an excellent opportunity for delegates to exchange ideas, share findings, and explore new collaborations across academia, research organizations, and industries. Through this conference, participants will gain exposure to groundbreaking concepts in artificial intelligence, machine learning, robotics, 5G/6G communication, embedded systems, and signal analytics, bridging the gap between theory and practical implementation. SPACE ultimately aims to create a dynamic ecosystem that supports knowledge sharing and technological advancement.",
+      "callForPapers": "2026-10-01",
+      "url": "space.krct.ac.in/",
+      "eventContact": "drpunitha2913@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "K.RAMAKRISHNAN COLLEGE OF TECHNOLOGY, SAMAYAPURAM, TRICHY, , , Trichy, , India, 621112, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

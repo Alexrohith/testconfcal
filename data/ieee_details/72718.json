@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: uoakx4404bwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72718,
+      "eventTitle": "2026 2nd International Conference on Algorithms, Software and Network Security (ASNS)",
+      "startDate": "2026-11-06",
+      "endDate": "2026-11-08",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanchang University; Nanjing Section; Zhejiang University of Technology",
+      "keywords": "Algorithms Optimization,Software Engineering Systems,Network Security,Cryptography & Data Protection,Intelligent Computing,",
+      "scope": "ASNS 2026 focuses on advancing research and applications in algorithms, software engineering, and network security, covering intelligent algorithm design, software system development and verification, and secure communication and data protection in emerging computing environments such as IoT, cloud, edge, and distributed systems.",
+      "callForPapers": "2026-07-24",
+      "url": "www.icasns.com/",
+      "eventContact": "xwyao25@163.com",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Zhejiang University of Technology, No.18, Chaowang Road, Xiacheng District, Hangzhou City, Zhejiang Province, PR China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

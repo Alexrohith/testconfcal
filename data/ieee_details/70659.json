@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wvaox440gL0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70659,
+      "eventTitle": "2026 International Conference on NexGen Networks and Cybernetics (IC2NC)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Erode",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Nandha Engineering College",
+      "keywords": "Blockchain for Secure IoT and WSN Communications,RF and Microwave Communication,UAV-Based Networks,Secure Data Transmission,Cyber-Physical System,Wireless Sensor Networks,5G6G Networks,Intrusion Detection and Prevention Systems,",
+      "scope": "The International Conference on NexGen Networks and Cybernetics (IC2NC) aims to bring together leading researchers, academicians, industry experts, and practitioners to discuss and explore advancements in next-generation networks and cybernetics. The conference provides a platform for exchanging ideas, sharing research findings, and fostering collaborations in the domains of networking technologies, cybersecurity, artificial intelligence, and cyber-physical systems.",
+      "callForPapers": "2026-09-01",
+      "url": "ic2nc.com/second2026/index.html",
+      "eventContact": "icnncnextgen@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Nandha Engineering College, Erode - Perundurai Main Road, , , , Erode, , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

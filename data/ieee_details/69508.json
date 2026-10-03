@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s52Ax44017oBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69508,
+      "eventTitle": "2026 IEEE Design Methodologies Conference (DMC)",
+      "startDate": "2026-11-18",
+      "endDate": "2026-11-20",
+      "about": "Components, Circuits, Devices and Systems; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Aalborg",
+        "region": "",
+        "country": "Denmark"
+      },
+      "sponsors": "European Center for Power Electronics - ECPE; IEEE Power Electronics Society",
+      "keywords": "Artificial Intelligence, Cybersecurity, Design Automation, Testing & Verification, Power Electronics,",
+      "scope": "The goal of DMC is to promote new techniques and design methodologies in power electronics. It will give us a possibility to identify the challenges that are awaiting us and to discuss the potential of these new design and analysis paradigms in Power Electronics.  The IEEE DMC will bring together the professionals from industry and research institutions with experience in both Power Electronics, Design Automation, Artificial Intelligence and Cyber Security to present and discuss their opinion, experience, needs and vision of future. They will jointly contribute to the effort to identify methodologies and tools that have been developed and used to resolve the issues during design and optimization of modern power electronics components and systems, and propose new solutions in these emerging fields.",
+      "callForPapers": "",
+      "url": "attend.ieee.org/dmc-2026/",
+      "eventContact": "sssa@energy.aau.dk",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Aalborg, , Denmark, 9220, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

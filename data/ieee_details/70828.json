@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r+uDx4407LoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70828,
+      "eventTitle": "2026 International Conference on Logistics and Industrial Engineering (ICLIE)",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-06",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Ho Chi Minh",
+        "region": "",
+        "country": "Vietnam"
+      },
+      "sponsors": "Van Lang University (VLU); Vietnam Section",
+      "keywords": "Industrial Engineering,Internet of Things,Manufacturing Engineering,Logistics,Artificial Intelligence ,Supply Chain ,Operations Optimization ,",
+      "scope": "The International Conference on Logistics and Industrial Engineering (ICLIE) is an international forum for leading researchers, educators, software developers, and practitioners to discuss current issues and share ideas and experiences on the latest developments in the fields of Industrial System Engineering, Logistics and Supply Chain Management, and Management Science.",
+      "callForPapers": "2026-04-30",
+      "url": "iclie-vlu.com/",
+      "eventContact": "tinh.nv@vlu.edu.vn",
+      "sponsorTypes": "3; 9",
+      "venues": "Van Lang University, Campus 3, 69/68 Dang Thuy Tram Street, Ward 5, Go Vap District, Ho Chi Minh City 70000, Vietnam., , , , Ho Chi Minh, , Vietnam, 700000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

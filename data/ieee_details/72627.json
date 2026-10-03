@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: keDBwo40+qkBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72627,
+      "eventTitle": "2026 International Conference on Innovations in Science, Engineering and Technology (ICISET)",
+      "startDate": "2026-11-08",
+      "endDate": "2026-11-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Chittagong",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh Section; International Islamic University Chittagong",
+      "keywords": "Algorithms, Information Systems Artificial Intelligence, Machine Learning, IoT Computer Vision, Robotics, HCI, Computer Graphics Signal Processing, NLP, Fuzzy, Neural Networks Distributed, Mobile, Cloud Computing Database, Data Mining, Big Data, Transmission System Technologies, HVDC, FACTS,  Distribution System, Substation Automation, Renewable Energy, Microgrids, Smart Grids, Advanced Metering & Smart Energy Systems, Electronic Components, Circuits, Devices, Sensor Des",
+      "scope": "Algorithms, Information Systems Artificial Intelligence, Machine Learning, IoT Computer Vision, Robotics, HCI, Computer Graphics Signal Processing, NLP, Fuzzy, Neural Networks Distributed, Mobile, Cloud Computing Database, Data Mining, Big Data, Transmission System Technologies, HVDC, FACTS,  Distribution System, Substation Automation, Renewable Energy, Microgrids, Smart Grids, Advanced Metering & Smart Energy Systems, Electronic Components, Circuits, Devices, Systems Remote Sensing, Sensor Design Microcontrollers, Embedded Systems Robotics, Instrumentation, Industrial Automation Materials Science, VLSI & Fabrication, Wireless Technologies, Communication, Information  Systems Security M2M, Drones, UAV, V2X , Hybrid Communication Antenna, Wave Propagation, Underwater, Satellite, Space Communications",
+      "callForPapers": "2026-06-06",
+      "url": "https://iciset.iiuc.ac.bd/iciset2026/",
+      "eventContact": "sikder_islam@yahoo.co.uk",
+      "sponsorTypes": "3; 9",
+      "venues": "International Islamic University Chittagong, Kumira, , , , Chittagong , , Bangladesh, 4318 , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

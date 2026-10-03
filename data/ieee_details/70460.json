@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: komux440x8ABCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70460,
+      "eventTitle": "2028 IEEE Radar Conference (RadarConf'28)",
+      "startDate": "2028-04-28",
+      "endDate": "2028-05-05",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Oklahoma City",
+        "region": "Oklahoma",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Aerospace and Electronic Systems Society",
+      "keywords": "radar,systems & components,phenomenology,waveform diversity,signal processing,spectrum sharing,AIML Applications,,,,",
+      "scope": "The scope is this conference is to expand the field of radar.",
+      "callForPapers": "",
+      "url": "www.radarconf2028.org/",
+      "eventContact": "cmiller@conferencecatalysts.com",
+      "sponsorTypes": "1",
+      "venues": "Skirvin Oklahoma City, a Hilton Hotel, One Park Avenue, , , , , OK, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

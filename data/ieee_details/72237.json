@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: pODowY40vqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72237,
+      "eventTitle": "2026 13th International Conference on Advanced Informatics: Concepts, Theory and Applications (ICAICTA)",
+      "startDate": "2026-10-20",
+      "endDate": "2026-10-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Kampar, Perak",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "FICT,  Universiti Tunku Abdul Rahman; Malaysia Section C Chapter",
+      "keywords": "Artificial Intelligence,Machine Learning,Speech processing,Pervasive Computing,Information And Communication Technology,Data Mining,Database systems,Simulation,Cryptography,Expert Systems,Game Theory,Knowledge Management,",
+      "scope": "The conference will cover a broad spectrum of topics in informatics, including but not limited to Artificial Intelligence and Machine Learning, Natural Language Processing, Distributed and Cloud Systems, Computational Science and Engineering, Information Technology Applications, Cybersecurity and Cryptography, Data Analytics, Knowledge Modelling, and other relevant emerging fields.",
+      "callForPapers": "",
+      "url": "icaicta.org/",
+      "eventContact": "rohani.bakar.my@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": "Block A, UTAR Kampar Campus, Bandar Barat, Jalan Universiti, , , Kampar, Perak, , Malaysia, 31900, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

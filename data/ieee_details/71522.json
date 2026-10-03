@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 6LjuwY4016IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71522,
+      "eventTitle": "2026 International Conference on Advanced Computer Science and Information Systems (ICACSIS)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Depok",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Faculty of Computer Science Universitas Indonesia; Indonesia Section; Indonesia Section C Chapter; Indonesia Section SMC Chapter",
+      "keywords": "E-Government,E-Business and E-Commerce,Enterprise Architecture Design and Management,Software Requirements Engineering,Software Design and Architecture,Software Development Methodologies,Machine Learning and Deep Learning,Bio-inspired and Evolutionary Computing,Soft Computing and Fuzzy Systems,User Experience Design and Evaluation,User Behavior Analysis,Brain-computer Interfaces,Computer Architecture,Computer Networks,High Performance Computing,Bioinformatics and Biomedical Applications,Biometri",
+      "scope": "The conference covers advances in Information Systems, Software Engineering, Artificial Intelligence, Human–Computer Interaction, and Computer Systems & Networks, with emphasis on governance, architecture, and innovation. It welcomes research on IT governance, e-government, enterprise architecture, and strategic IS/IT management, alongside software design, testing, verification, and development methodologies. In AI and Data Science, topics include machine learning, NLP, multimodal retrieval, semantic web, and multiagent systems. Emerging technologies such as IoT, smart sensor networks, AR/VR, social computing, and bioinformatics are encouraged. Cross-field applications—health, education, GIS, and cultural heritage—highlight the conference’s focus on impactful, interdisciplinary digital transformation.",
+      "callForPapers": "2026-06-15",
+      "url": "icacsis.cs.ui.ac.id",
+      "eventContact": "anggitha12@cs.ui.ac.id",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "Faculty of Computer Science, Universitas Indonesia, Kampus UI Depok, Indonesia, Jl. Prof. DR. Sudjono D. Pusponegoro, Pondok Cina, Kecamatan Beji, Kota Depok, Jawa Barat 16424, , , , Depok, , Indonesia, 16424, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

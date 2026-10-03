@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +LClx4409b8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71890,
+      "eventTitle": "2026 IEEE Conference on Cloud and Big Data Computing (CBDCom)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-13",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession",
+      "location": {
+        "city": "Melbourne",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Theories and Algorithms, Systems and Management, Computer Security, Privacy and Trust, Tools and Applications,",
+      "scope": "Cloud and Big Data Computing",
+      "callForPapers": "2026-06-30",
+      "url": "cyber-science.org/2026/cbdcom/",
+      "eventContact": "fengling.han@rmit.edu.au",
+      "sponsorTypes": "1",
+      "venues": "RMIT University, 124 La Trobe Street, Melbourne, Victoria, , Meibourne, , Australia, VIC 3000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

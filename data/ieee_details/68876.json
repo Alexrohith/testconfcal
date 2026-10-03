@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: jcTpwY40saIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68876,
+      "eventTitle": "2026 IEEE International Workshop on Information Forensics and Security (WIFS)",
+      "startDate": "2026-12-07",
+      "endDate": "2026-12-11",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Sendai",
+        "region": "",
+        "country": "Japan"
+      },
+      "sponsors": "IEEE Signal Processing Society",
+      "keywords": "Information Forensics and security,applied cryptography,watermarking and data hiding,anonymization and data privacy,Multimedia forensics,Machine learning for information forensics and security,Biometrics,Cybersecurity,Surveillance,Application in information forensics and security,",
+      "scope": "Organized by the IEEE Information Forensics and Security Technical Committee (IFS-TC) of the IEEE Signal Processing Society, WIFS is the major scientific event addressing all topics related to Information Forensics and Security aspects in a broad sense. Bringing together academic researchers, government agencies and industrials this leading conference allows discussing of emerging challenges, exchanging fresh ideas and sharing state-of-the-art results and technical expertise in all disciplines associated with Information Forensics and Security.",
+      "callForPapers": "2026-07-15",
+      "url": "wifs2026.utt.fr",
+      "eventContact": "remi.cogranne@utt.fr",
+      "sponsorTypes": "1",
+      "venues": "Sakura Hall, 2 Chome-1-1 Katahira, Aoba Ward, , , Sendai, , Japan, 980-0812, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

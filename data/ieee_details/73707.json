@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2/2mx44087wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73707,
+      "eventTitle": "2026 IEEE 52nd Conference on Local Computer Networks Companion Proceedings (LCN-C)",
+      "startDate": "2027-10-19",
+      "endDate": "2027-10-21",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Daytona Beach",
+        "region": "Florida",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Conference Companion Proceedings,",
+      "scope": "Companion Proceedings",
+      "callForPapers": "",
+      "url": "ieeelcn.org",
+      "eventContact": "matthias.wuebbeling@cs.uni-bonn.de",
+      "sponsorTypes": "1",
+      "venues": "The Shores, Daytona Beach Shores, , , , Daytona Beach Shores, FL, USA, , ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

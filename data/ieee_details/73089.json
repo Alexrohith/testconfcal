@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vJzhwY404KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73089,
+      "eventTitle": "2026 6th International Conference on Computational Modeling, Simulation and Data Analysis (CMSDA)",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Nanchang",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Jiangxi University of Chinese Medicine",
+      "keywords": "Computational Modeling,Computer Simulation,Data Analysis,Intelligent Systems,Artificial Intelligence,Machine Learning,",
+      "scope": "The 2026 6th International Conference on Computational Modeling, Simulation and Data Analysis (CMSDA 2026) will focus on advances in computational modeling, simulation methodologies, and data analysis techniques for complex and data-intensive systems. The conference highlights recent developments in system modeling and simulation, data-driven modeling approaches, machine learning for modeling and prediction, intelligent systems, and optimization methods for complex decision-making. It also covers emerging applications in cyber-physical systems, robotics, IoT-enabled environments, and human-machine interaction systems. By bringing together researchers, engineers, and industry practitioners, CMSDA 2026 aims to promote interdisciplinary collaboration and facilitate the exchange of innovative ideas that support scalable, intelligent, and real-world solutions in dynamic and interconnected environments.",
+      "callForPapers": "2026-09-28",
+      "url": "www.icmsda.com/",
+      "eventContact": "reggie.pb@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Jiangxi University of Chinese Medicine, 1688 Meiling Avenue, Wanli District, Nanchang City, Jiangxi Province, China, , , , Nanchang, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

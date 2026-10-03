@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: n9v3xo40s70BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72508,
+      "eventTitle": "2027 IEEE Conference on Artificial Intelligence (CAI)",
+      "startDate": "2027-11-30",
+      "endDate": "2027-12-02",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; IEEE Computer Society; IEEE Signal Processing Society; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Artificial Intelligence,",
+      "scope": "The IEEE Conference on Artificial Intelligence (IEEE CAI) is an international conference and exhibition with an emphasis on the applications of AI and key AI verticals that impact industrial technology applications and innovations.",
+      "callForPapers": "",
+      "url": "cai.ieee.org",
+      "eventContact": "wuzhizheng@gmail.com",
+      "sponsorTypes": "1; 1; 1; 1",
+      "venues": "Marina Bay Sands Singapore, 10 Bayfront Ave, , , , , , Singapore, 018956, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

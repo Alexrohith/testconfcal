@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2b+Cx4409boBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68544,
+      "eventTitle": "2026 IEEE Jamaica Talent and Technology Event",
+      "startDate": "2026-10-22",
+      "endDate": "2026-10-23",
+      "about": "Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Kingston",
+        "region": "",
+        "country": "Jamaica"
+      },
+      "sponsors": "IEEE Conferences, Events & Experiences (CEE); Region 03 - Southeastern USA",
+      "keywords": "Robotics,Engineering in Medicine and Biology,Power and Energy,Young Professionals,Artificial Intelligence,One IEEE,Youth,Students ,",
+      "scope": "robotics, power and energy, engineering in medicine and biology, young professionals, ai, one ieee, youth, students",
+      "callForPapers": "",
+      "url": "https://cvent.me/w79ErZ",
+      "eventContact": "d.stankiewicz@ieee.org",
+      "sponsorTypes": "2; 6",
+      "venues": "AC Hotel Kingston, 38-42 Lady Musgrave Rd, , , , Kingston, , Jamaica, , ;",
+      "region": "Region03-Southeastern USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

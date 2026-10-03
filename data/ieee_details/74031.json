@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 4t3iwY407KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 74031,
+      "eventTitle": "2028 IEEE International Conference on Data Mining (ICDM)",
+      "startDate": "2028-11-17",
+      "endDate": "2028-11-20",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Singapore",
+        "region": "",
+        "country": "Singapore"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Data Mining,big data,machine learning,foundation models,multimodal data,data mining applications,",
+      "scope": "The conference scope includes: (1) foundations, algorithms, models, and theory of data mining, including big data mining; (2) deep learning and statistical methods for data mining; (3) mining from heterogeneous data sources, including text, semi-structured, spatio-temporal, streaming, graph, web, and multimedia data; (4) data mining systems and platforms, and their efficiency, scalability, security, and privacy; (5) data mining for modelling, visualization, personalization, and recommendation; (6) data mining for cyber-physical systems and complex, time-evolving networks; (7) advantages and potential limitations of data mining with large models; (8) applications of data mining in other domains like social sciences, physical sciences, finance, and health informatics.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "xiaoli_li@sutd.edu.sg",
+      "sponsorTypes": "1",
+      "venues": ", , , , , , , Singapore, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

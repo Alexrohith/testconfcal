@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1J77xo40vLoBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72362,
+      "eventTitle": "2027 16th International Conference on Pattern Recognition Systems (ICPRS)",
+      "startDate": "2027-03-08",
+      "endDate": "2027-03-11",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Bordeaux",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "Asociacion Chilena de Reconocimiento de Patrones; Chile/Chile Sur Jt Section CIS Chapter; France Section SP Chapter; UK and Ireland Section WIE Affinity Group; Université de Bordeaux",
+      "keywords": "Artificial Intelligence Techniques in Pattern Recognition,Computer Vision,Deep Learning and Neural  Networks for Pattern Recognition,Fuzzy and Hybrid Techniques in PR,High Performance  Computing for Pattern Recognition,Image Processing and Analysis,Mathematical Morphology,Mathematical Theory of Pattern Recognition,Natural  Language Processing and ReTracking and Recognition,Pattern Recognition  Principles,Bioinformatics  Clustering,Biometrics,Data Mining and Big Data,",
+      "scope": "We seek articles on emerging trends describing novel and previously unpublished results on all  aspects including advances, achievements, in- use experiences (application, design,  engineering, deployment, utility and challenges) of Pattern Recognition Systems, from  academia, industry, NGOs and others, to be selected for oral presentations or posters.",
+      "callForPapers": "2026-10-25",
+      "url": "https://www.icprs.org/",
+      "eventContact": "sergio.velastin@ieee.org",
+      "sponsorTypes": "5; 5; 5; 9; 9",
+      "venues": "Université de Bordeaux, Domaine universitaire, , 351 Cr de la Libération, ,  Talence, , , , France, F-33405, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

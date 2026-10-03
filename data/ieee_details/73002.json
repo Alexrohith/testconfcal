@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 856Rx4403r4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73002,
+      "eventTitle": "2027 International Conference on Connected Intelligence for Industrial Applications (CI2A)",
+      "startDate": "2027-03-19",
+      "endDate": "2027-03-21",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Yogyakarta",
+        "region": "",
+        "country": "Indonesia"
+      },
+      "sponsors": "Duta Wacana Christian University; IEEE Computer Society",
+      "keywords": "Industrial Intelligence,Edge Intelligence,Industrial IoT,Connected Intelligence,Computer  vision,Reinforcement learning,Explainable AI,Generative AI,Digital twin,cyber-physical systems,Blockchain,Quantum Computing,Brain-Inspired Computing,Multi-Agent Systems,",
+      "scope": "The International Conference on Connected Intelligence for Industrial Applications (CI2A) is a premier global forum that brings together researchers, industry professionals, and innovators to explore the convergence of Artificial Intelligence (AI), Industrial IoT, and Smart Automation. Our mission is to drive forward-thinking solutions by fostering knowledge exchange and collaborative research in connected intelligence tailored for real-world industrial transformation.",
+      "callForPapers": "2026-12-15",
+      "url": "ci2a.info/",
+      "eventContact": "hrudayakumar@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Duta Wacana Christian University, Jl. Dr. Wahidin Sudirohusodo No.5-25, Kotabaru, Kec. Gondokusuman, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55224, Indonesia, , Yogyakarta, , Indonesia, 55224, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 3LmOx440wrsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70368,
+      "eventTitle": "2026 International Conference on Sustainable Energy: Achieving Energy Security and Climate Goals through Sustainable and Smart Solutions (ICUE)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Pathum Thani",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Asian Institute of Technology (AIT); IEEE Industry Applications Society; IEEE Power & Energy Society; PES Thailand Section Chapter, PE31",
+      "keywords": "Smart and Sustainable Power Systems,Smart grid architecture and modern technologies,Digitalization for energy applications,Artificial Intelligence, Internet of Things,Cybersecurity in power infrastructures,clean energy technologies,Power and energy infrastructure innovations,Climate change adaptation, Climate change policies and financing,Sustainable materials for energy storage,Renewable energy,Sustainable cities,Green buildings and infrstructures,Green transportation and electric vehicles,Fuel",
+      "scope": "The 2026 edition of ICUE will place a stronger emphasis on the intersection of climate goals, energy security, and digital innovation. Under the theme “Achieving Energy Security and Climate Goals through Sustainable and Smart Solutions”. ICUE 2026 will be a catalyst for positive change by promoting the integration of AI, IoT, blockchain, cloud computing and smart technologies with sustainable energy systems, strengthening resilience against climate challenges, and advancing secure, equitable, and inclusive energy solutions. The vision is to accelerate the transition towards a climate-resilient, digitally empowered, and sustainable ecosystem for future generations.",
+      "callForPapers": "2026-03-31",
+      "url": "icue2026.ait.ac.th",
+      "eventContact": "icue2026@ait.ac.th",
+      "sponsorTypes": "1; 1; 5; 9",
+      "venues": "Asian Institute of Technology Conference Center, 58 moo 9 Phahonyothin Road , Khlong Nueng, Khlong Luang District, , Pathum Thani, , Thailand, 12120, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

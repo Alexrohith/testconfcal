@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8qeTx440674BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71854,
+      "eventTitle": "2026 ACM/IEEE Joint Conference on Digital Libraries (JCDL)",
+      "startDate": "2026-10-13",
+      "endDate": "2026-10-16",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Denton",
+        "region": "Texas",
+        "country": "USA"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Hypertext, Hypermedia and Web - ACM SIGWEB; Association for Computing Machinery Special Interest Group on Information Retrieval  - ACM SIGIR; IEEE Computer Society",
+      "keywords": "digital libraries,digital preservation,scholarly communication,information retrieval,information science,data science,open science,Metadata,digital archiving,knowledge organization,scientific communication,information behavior,large language models,generative ai,scientific peer review,research data management,ai in digital libraries,knowledge extraction,digital humanities,",
+      "scope": "The ACM/IEEE Joint Conference on Digital Libraries (JCDL 2025) focuses on advancing research and practice in digital libraries and related fields. The conference welcomes work on digital information discovery, organization, management, retrieval, reuse, and preservation. Topics of interest include but are not limited to, digital preservation, scholarly communication, metadata standards, open science, research data management, scientometrics, knowledge extraction, user behavior, digital curation, and digital humanities. JCDL 2025 will place a special emphasis on emerging technologies and methods, including the use of large language models (LLMs), generative AI, and machine learning for digital libraries. As a fully asynchronous virtual conference, it seeks to expand participation opportunities across geographic and institutional boundaries.",
+      "callForPapers": "",
+      "url": "2026.jcdl.org/",
+      "eventContact": "Junhua.Ding@unt.edu",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Gateway Center, University of North Texas, , , , , Denton, TX, USA, , ;",
+      "region": "Region05-Southwestern USA",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

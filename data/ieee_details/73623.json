@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: h6iRx440374BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73623,
+      "eventTitle": "2027 9th International Conference on Software Engineering and Computer Science (CSECS)",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-11",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "International Society for Applied Computing ; Nanjing Section; Zhejiang Sci-Tech University",
+      "keywords": "Software Engineering,Computer Science,AI-Driven Software Engineering,Intelligent Systems,Computer Science Foundations,Algorithms,Data Science,Big Data,Cloud Computing,Computer graphics,image processing,computer vision,Human-computer interaction,Internet of Things (IoT),Cybersecurity,",
+      "scope": "new advances and research results in the fields of theoretical, experimental, and applied Software Engineering and Computer Science.",
+      "callForPapers": "2027-02-09",
+      "url": "https://www.csecs.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "3; 9; 9",
+      "venues": "Zhejiang Sci-Tech University, No. 928, 2nd Street, Qiantang District, Hangzhou City, Zhejiang Province, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

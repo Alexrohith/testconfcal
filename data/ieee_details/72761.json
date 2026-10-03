@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: puaQx440274BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72761,
+      "eventTitle": "2026 2nd International Symposium on AI-Driven Image Processing and Computer Vision Technology (AIPCVT)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Suqian",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Suqian University",
+      "keywords": "Image Processing,Computer Vision,Deep Learning,Intelligent Imaging,Visual Computing,",
+      "scope": "AIPCVT 2026 focuses on advances in AI-driven image processing and computer vision, including intelligent imaging, deep learning, visual understanding, and their applications in multimedia systems, autonomous systems, medical imaging, and industrial intelligence.",
+      "callForPapers": "2026-08-21",
+      "url": "www.ipcvt.com/",
+      "eventContact": "aipcvt_pc@163.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Suqian University, No. 399 Huanghe South Road, Suqian, Jiangsu Province, China, , , , Suqian, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

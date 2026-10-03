@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sdXmwY40rqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72684,
+      "eventTitle": "2027 International Conference on Artificial Intelligence, Systems, and Emerging Technologies (ICAISET)",
+      "startDate": "2027-05-03",
+      "endDate": "2027-05-06",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "CAIRO",
+        "region": "",
+        "country": "Egypt"
+      },
+      "sponsors": "Egypt Section; Université de Technologie et de Sciences Appliquées Libano-Française",
+      "keywords": "Artificial Intelligence and Machine Learning  Deep Learning Architectures Natural Language Processing Computer Vision and Pattern Recognition Reinforcement Learning AI Ethics and Governance Explainable AI, CHATGPT Computer Systems and Infrastructure  Cloud Computing Edge Computing Distributed Systems High-Performance Computing Network Security Quantum Computing Virtualization Technologies Green Computing Emerging TechnologiArtificial Intelligence and Machine LeaArtificial Intelligence and Machin",
+      "scope": "Artificial Intelligence and Machine Learning  Deep Learning Architectures Natural Language Processing Computer Vision and Pattern Recognition Reinforcement Learning AI Ethics and Governance Explainable AI, AI in EDUCATION AI in Healthcare, Connected Health Generative AI Models, CHATGPT Computer Systems and Infrastructure  Cloud Computing Edge Computing Distributed Systems High-Performance Computing Network Security Quantum Computing Virtualization Technologies Green Computing Emerging Technologies Internet of Things (IoT) 5G/6G Networks Blockchain Applications Extended Reality (AR/VR/MR) Digital Twins Smart Cities Autonomous Systems Robotics and Automation Software Engineering and Development  Agile Methodologies DevOps and MLOps Software Testing and Quality Assurance Microservices Architecture API Design and Integration Low-Code/No-Code Platforms Legacy System Modernization Software Security. Data Science and Analytics  Big Data Technologies Data Mining Predictive Analytics Business I",
+      "callForPapers": "2027-01-10",
+      "url": "icca-conf.info/icaiset27",
+      "eventContact": "dana.bandock@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Al Shorouk Academy, 4J94+VJ5, Shuhada Rd, El Shorouk, , Cairo , , Egypt, 11837, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

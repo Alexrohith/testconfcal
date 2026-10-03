@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zJaix4400rwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73802,
+      "eventTitle": "2027 3rd International Conference on Cognitive Computing in Engineering, Communications, Sciences and Biomedical Health Informatics (IC3ECSBHI)",
+      "startDate": "2027-04-09",
+      "endDate": "2027-04-11",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Greater Noida -NCR Delhi",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gautam Buddha University; Uttar Pradesh Section",
+      "keywords": "intelligent computing,engineering sciences and healthcare,Biomedical & Healthcare Informatics,AI and its applications,high-performance computing,Cognitive computing for engineering, sciences and healthcare,Intelligent systems based on Data Science,helpful to society at large scale in terms of healthcare solutions,",
+      "scope": "• This Conference is a distinctive effort to explore and empower multi-disciplinary research based on AI in Biomedical & Healthcare Informatics. • This conference will provide recent developments in the area of AI and its applications in the emerging fields of Engineering & Healthcare. • The convergence of AI and high-performance computing provides the capability to solve complex problems leveraging these platforms to create pervasive healthcare systems is the major task of this conference. • It focuses on identifying challenges and solutions through an integrated approach, shaping the path for new research dimensions. • A deeper understanding of current trends in cognitive computing techniques within the domain of engineering, sciences and healthcare. • This conference will provide an open forum to the researchers, academicians, healthcare and industry professionals to share and exchange their ideas which may be helpful to society at large scale in terms of healthcare solutions.",
+      "callForPapers": "2026-11-30",
+      "url": "www.ic3ecsbhi.com",
+      "eventContact": "mahmadiitr@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "School of Engineering, Gautam Buddha University, Greater Noida, Uttar Pradesh, NCR Delhi, Greater Noida, , India, 201312, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

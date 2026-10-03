@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: +O6Vx44057sBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70424,
+      "eventTitle": "2026 5th International Conference on Mechatronics and Mechanical Engineering (ICMME)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Dalian",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Dalian Jiaotong University; IEEE Robotics and Automation Society; Nanotechnology and Multifunctional Structures Research Center; The Association of Marine Affairs; University of Haute Alsace",
+      "keywords": "Mechanical Engineering, Mechatronics Technology,",
+      "scope": "1. Mechanical Engineering Advanced design theories and methods Advanced manufacturing processes and technologies Mechanical equipment and control technology Advanced manufacturing models and management technologies Digital manufacturing and intelligent manufacturing Additive manufacturing technology Material joining technology Applied mechanics Solid mechanics Computational fluid dynamics Modeling and simulation Automation Robot technology 2. Mechatronics Technology Sensors and intelligent sensing technologies Sensor fabrication and micro/nano manufacturing technologies Robotic automation and control Sustainable and green mechatronics technology Transportation and vehicle mechatronics technology Industry 5.0 and mechatronics technology Intelligent control and optimization of mechatronics systems Computer mechatronics Electronic science and engineering Mechanical and electrical equipment maintenance and management Thermal management of electromechanical systems",
+      "callForPapers": "2026-07-15",
+      "url": "www.icmme.net/",
+      "eventContact": "icmme@acamail.org",
+      "sponsorTypes": "1; 9; 9; 9; 9",
+      "venues": "Dalian Jiaotong University, 794 Huanghe Road, Shahekou District, Dalian, Liaoning Province, China, , , , Dalian, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: uP+sx440n70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 69346,
+      "eventTitle": "2026 IEEE-EMBS Conference on Biomedical Engineering and Sciences (IECBES)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-11",
+      "about": "Bioengineering; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section EMB Chapter",
+      "keywords": "Biomedical image processing,Biomedical signal processing,Biomedical and medical robots,IoT in healthcare,Big data analytics in healthcare,",
+      "scope": "The conference covers some of the latest trends in biomedical signal processing, biomedical imaging and image processing, robotics and IoT in healthcare",
+      "callForPapers": "2026-07-31",
+      "url": "www.iecbes.org/",
+      "eventContact": "darwin_gouwanda@yahoo.com",
+      "sponsorTypes": "5",
+      "venues": "Kuala Lumpur, , , , , Kuala Lumpur, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

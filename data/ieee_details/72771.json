@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vrHlwY40kaIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72771,
+      "eventTitle": "2026 6th International Conference on Electrical Engineering and Control Science (IC2ECS)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Urumqi",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Xinjiang University",
+      "keywords": "Smart Grids and Intelligent Energy Networks,Machine Learning in Control of Electrical Systems,Distributed Control Strategies,Industrial Process Control and Optimization,",
+      "scope": "IC2ECS 2026 provides a dedicated platform for advancing research at the intersection of electrical engineering and control science. The conference addresses critical developments in power system intelligence, renewable energy integration, smart grid architectures, and advanced control methodologies for industrial and energy applications. It encompasses theoretical contributions, modeling approaches, and practical implementations across power electronics, automation systems, and networked control environments. The program encourages interdisciplinary perspectives that bridge electrical infrastructure with intelligent decision-making, data analytics, and system optimization. Researchers and practitioners are invited to present original findings that advance the reliability, efficiency, and adaptability of electrical systems in contemporary engineering contexts.",
+      "callForPapers": "2026-09-28",
+      "url": "www.ic2ecs.com/",
+      "eventContact": "ic2oecs.conf@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Xinjiang University, No. 666 Shengli Road, Tianshan District, Urumqi City, Xinjiang Province, China, , , , Urumqi, , China, 830046, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

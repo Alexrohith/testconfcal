@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: noedx440qrwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70397,
+      "eventTitle": "2026 11th International Conference on Communication and Electronics Systems (ICCES)",
+      "startDate": "2026-10-14",
+      "endDate": "2026-10-16",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Coimbatore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "IEEE Electron Devices Society; PPG Institute of Technology",
+      "keywords": "Cognitive Informatics,Low-Power Digital Circuits,Quantum Communication,RF Circuits,Bioinspired Electronics Systems,5G Networks and Communication,Internet of Things,Computational Electronics,",
+      "scope": "Following the consecutive success of Communication and Electronics Systems [CES], the conference committee is pleased to announce the 11th International Conference on Communication and Electronics Systems [ICCES 2026] in emerging information and communication technologies [ICT] and smart electronics. ICCES 2026 will be organized from PPG Institute of Technology Campus on 14-16, October 2026. ICCES 2026 seeks potential research submissions that solicit the state-of-the-art applications, innovative methods, and analyse the unexplored and unsolved challenges to establish the relative solutions to advance the existing applications and theories of ICT & smart electronics systems. Potential researchers and authors are invited to submit their novel, unpublished papers of significant research quality that addresses the advances and challenges in the interdisciplinary areas of both system theories and applications.",
+      "callForPapers": "2026-07-12",
+      "url": "icoecs.org/2026/",
+      "eventContact": "icces2022@gmail.com",
+      "sponsorTypes": "1; 9",
+      "venues": "PPG Institute of Technology, Saravanampatti P.O , , , , Coimbatore , , India, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

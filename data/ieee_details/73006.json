@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m9yXx440h7wBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73006,
+      "eventTitle": "2028 IEEE Consumer Communications & Networking Conference (CCNC)",
+      "startDate": "2028-01-14",
+      "endDate": "2028-01-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Las Vegas",
+        "region": "Nevada",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Communications Society",
+      "keywords": "Communication, Networking, Networking and Broadcasting, Computing and Processing, Robotics and Control,",
+      "scope": "CCNC will present the latest developments and technical solutions in the areas of sessions, special sessions, business application sessions, tutorials, and demonstration sessions home networking, consumer networking, enabling technologies (such as middleware) and novel applications and services. The conference will include a peer-reviewed program of technical",
+      "callForPapers": "",
+      "url": "ccnc2028.ieee-ccnc.org/",
+      "eventContact": "m.a.torres@comsoc.org",
+      "sponsorTypes": "1",
+      "venues": "Flamingo Las Vegas, 3555 Las Vegas Blvd S, , , , Las Vegas, NV, USA, 89109, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

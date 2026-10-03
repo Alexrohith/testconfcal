@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gfObx440lbwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71169,
+      "eventTitle": "2026 IEEE International Conferences on Internet of Things (iThings)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Montbéliard",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Computer Science,Communications And Networking,Social Computing,Green Computing,Internet Of Things,Wireless Sensor Networks,Cyber-physical Systems,",
+      "scope": "Cyberization is an emerging trend forming the new cyber world and reforming conventional worlds towards cyber-enabled hyper worlds. Cybermatics is to build systematic knowledge about new phenomena, behaviors, properties and practices in the cyberspace, cyberization and cyber-enabled hyper worlds. Cybermatics is characterized by not only catching up with the human intelligence (e.g. intelligent sensing, making decision and control, etc), but also learn from the nature-inspired attributes (e.g., dynamics, self-adaptability, energy saving). IEEE Cybermatics 2026 aims to provide a high-profile platform for researchers and engineers to exchange and explore state-of-art innovations in cyber technology and their applications in physical, social and mental worlds.",
+      "callForPapers": "2026-06-15",
+      "url": "ieee-smc-2026.web.app/",
+      "eventContact": "benoit.piranda@femto-st.fr",
+      "sponsorTypes": "1",
+      "venues": "University Marie et Louis Pasteur / UFR STGI, 4 place Tharradin, , , , Montbéliard, , France, 25200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

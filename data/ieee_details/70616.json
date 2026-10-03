@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: xoWNx440ursBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70616,
+      "eventTitle": "2027 IEEE 36th International Symposium on Industrial Electronics (ISIE)",
+      "startDate": "2027-06-30",
+      "endDate": "2027-07-03",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Photonics and Electrooptics; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "France Section; IEEE Industrial Electronics Society",
+      "keywords": "Low-power electronics,power elctronics,powerdrive,Control,Robotics,Mechatronics,Monitoring,Industrial Electronics,Industrial power systems,Energy Storage,Cyber Physical Systems,Motion Control,Gyroscopes And Microelectromechanical (mems) Sensors,Renewable Energy Systems,Resilience,Smart Grid,Artificial intelligence,",
+      "scope": "ISIE is the flagship annual symposium of the IEEE Industrial Electronics Society (IES). It provides an international platform for researchers, engineers, and industry professionals to share and discuss the latest innovations in areas such as power electronics, intelligent control, renewable energy, robotics, smart manufacturing, communications, and artificial intelligence. We welcome both completed research with new findings and innovative work-in-progress.",
+      "callForPapers": "2027-01-31",
+      "url": "",
+      "eventContact": "theodore.cherriere@centralesupelec.fr",
+      "sponsorTypes": "1; 3",
+      "venues": "International Conference Center of Sorbonne University, 4 place Jussieu, , , , Paris, , France, 75005, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

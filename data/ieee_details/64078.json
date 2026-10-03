@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8YCGx440jLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 64078,
+      "eventTitle": "2027 IEEE/ACM 49th International Conference on Software Engineering (ICSE)",
+      "startDate": "2027-04-25",
+      "endDate": "2027-05-01",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Dublin",
+        "region": "",
+        "country": "Ireland"
+      },
+      "sponsors": "Association for Computing Machinery Special Interest Group on Software Engineering  - ACM SIGSOFT; IEEE Computer Society",
+      "keywords": "Software Engineering,Artificial Intelligence for Software Engineering,Software Analytics,Software Architectures,Software Design,Software Security,Software Dependability,Software Evolution,Requirements Engineering,Software Testing,Software Analysis,Human and Social Aspects of Software Engineering,Software Evolution,Software Engineering for Artificial Intelligence,",
+      "scope": "The International Conference on Software Engineering (ICSE) is the premier forum for presenting and discussing the most recent and significant technical research contributions in the field of Software Engineering. In the research track, we invite high-quality submissions of technical research papers describing original and unpublished results of software engineering research.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "brian.fitzgerald@ul.ie",
+      "sponsorTypes": "1; 9",
+      "venues": "The Convention Centre Dublin, Spencer Dock, N Wall Quay, North Wall,  Dublin 1, , Dublin, , Ireland, D01T1W6, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

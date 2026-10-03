@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: t4PlwY40+KQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71981,
+      "eventTitle": "2026 IEEE International Conference on Smart Data (SmartData)",
+      "startDate": "2026-11-30",
+      "endDate": "2026-12-04",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Montbéliard",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "IEEE Computer Society",
+      "keywords": "Smart Data Infrastructure & Systems,Machine Learning Algorithms,AI Algorithms,AI-driven Analytics,Smart Data Applications,Data Governance,",
+      "scope": "Smart data aims to filter out the noise data and produce valuable data, which can be effectively used by enterprises and governments for planning, operation, monitoring, control, and intelligent decision making. Although unprecedentedly large amount of sensory data can be collected with the advancement of the Cyber-Physical-Social systems, the key is to explore how big data can become smart data and offer intelligence. Advanced big data modeling and analytics are indispensable for discovering the underlying structure from retrieved data and further acquiring smart data. The IEEE SmartData 2026 is to promote community-wide discussion identifying the computational intelligence technologies and theories for harvesting smart data from big data. It will provide a high-profile, leading-edge forum for scientists, engineers and researchers to discuss and exchange novel ideas, results, experiences and work-in-process on all aspects of smart data.",
+      "callForPapers": "2026-06-15",
+      "url": "Www.ieee-cybermatics2026.org/call-for-papers/smartdata",
+      "eventContact": "abdallah.makhoul@umlp.fr",
+      "sponsorTypes": "1",
+      "venues": "Université Marie et Louis Pasteur / UFR STGI, Place Tharradin, , , , Montbéliard, , France, 25200, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

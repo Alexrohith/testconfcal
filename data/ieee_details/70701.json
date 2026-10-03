@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: sLugx440xbwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70701,
+      "eventTitle": "2026 IEEE International Conference on Big Data (BigData)",
+      "startDate": "2026-12-14",
+      "endDate": "2026-12-17",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Phoenix",
+        "region": "Arizona",
+        "country": "USA"
+      },
+      "sponsors": "IEEE Computer Society; International Society of Big Data and Bioinformatics",
+      "keywords": "Big Data Science and Foundations,Big Data Infrastructure,Big Data Management,Big Data Search and Mining,Big Data Learning and Analytics,Data Ecosystem,oundation Models for Big Data,Big Data Applications,",
+      "scope": "We solicit high-quality original research papers (and significant work-in-progress papers) in any aspect of Big Data with emphasis on 5Vs (Volume, Velocity, Variety, Value and Veracity), including the Big Data challenges in scientific and engineering, social, sensor/IoT/IoE, and multimedia (audio, video, image, etc.) big data systems and applications.",
+      "callForPapers": "2026-08-16",
+      "url": "bigdataieee.org/BigData2026/CallForPapers.html",
+      "eventContact": "xh29@drexel.edu",
+      "sponsorTypes": "1; 9",
+      "venues": ", , , , , Phoenix, AZ, USA, , ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

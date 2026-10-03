@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: vuXdwY407qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73182,
+      "eventTitle": "2026 Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC)",
+      "startDate": "2026-11-09",
+      "endDate": "2026-11-12",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "Asia-Pacific of Signal and Information Processing Association (APSIPA); IEEE Signal Processing Society",
+      "keywords": "Signal Processing, Information Processing, Machine Learning, Data Analysis, Wirerless Communications,",
+      "scope": "APSIPA is interested in all aspects of signal and information processing theories, algorithms, securities, implementations, and applications.",
+      "callForPapers": "",
+      "url": "apsipa2026.org/",
+      "eventContact": "chanon.wa@kmitl.ac.th",
+      "sponsorTypes": "1; 9",
+      "venues": "Courtyard by Marriott Bangkok Suvarnabhumi Airport, 599/9 Lat Krabang Rd. Lat Krabang, , , , Bangkok, , Thailand, 10520, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

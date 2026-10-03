@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: p8P7xo40zboBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72836,
+      "eventTitle": "2027 2nd International Conference on Artificial Intelligence for Computing, Astronomy and Renewable Energy (AICARE)",
+      "startDate": "2027-03-06",
+      "endDate": "2027-03-07",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications",
+      "location": {
+        "city": "Kolkata",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Kolkata Section; Kolkata Section PES Chapter; University of Engineering & Management, Kolkata  ",
+      "keywords": "Artificial Intellegence,Cloud Computing,Deep Learning,Data Science,Renewable Energy,",
+      "scope": "The conference is centred on the application of Artificial Intelligence in Computing, Astronomy, and Renewable Energy. It aims to bring together researchers, academicians, industry experts, and students to present innovations, exchange ideas, and discuss emerging technologies in AI-driven systems.",
+      "callForPapers": "2026-10-15",
+      "url": "aicare.uem.edu.in/",
+      "eventContact": "Tanay.Pramanik@uem.edu.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "University of Engineering and Management Kolkta, University Area, Plot No. III – B/5, New Town, Action Area – III, Kolkata, West Bengal 700160, , , Kolkata, , India, 700160, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

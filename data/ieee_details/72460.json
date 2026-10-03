@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 9KOEx440ib4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72460,
+      "eventTitle": "2026 6th International Conference on Electronic Information Engineering and Computer Communication (EIECC)",
+      "startDate": "2026-12-25",
+      "endDate": "2026-12-27",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangzhou Section; South China University of Technology",
+      "keywords": "Electronic Information Engineering,Computer Communication,Wireless Communication,Computer Networks,Artificial Intelligence,",
+      "scope": "The 2026 6th International Conference on Electronic Information Engineering and Computer Communication (EIECC 2026) focuses on recent advances in electronic information engineering, computer communication systems, and intelligent information technologies. The conference scope includes, but is not limited to, electronic system design, signal processing, wireless and next generation communication networks (5G/6G and beyond), Internet of Things (IoT), computer networks, and distributed communication systems. It also emphasizes emerging interdisciplinary technologies such as artificial intelligence, machine learning, cybersecurity, edge and cloud computing, and intelligent information processing. The conference aims to provide a platform for researchers, engineers, and industry professionals to present innovative research results, exchange ideas, and explore practical applications that bridge theoretical developments with real-world communication and information systems.",
+      "callForPapers": "2026-10-10",
+      "url": "www.eiecc.org/",
+      "eventContact": "csyoupb@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "South China University of Technology, No. 381 Wushan Road, Tianhe District, Guangzhou City, Guangdong Province, China, , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

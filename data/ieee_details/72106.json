@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 6LrZwY40xKEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72106,
+      "eventTitle": "2026 9th International Conference on Machine Learning and Natural Language Processing (MLNLP)",
+      "startDate": "2026-12-26",
+      "endDate": "2026-12-28",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Xiamen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; International Society for Applied Computing ; Jimei University",
+      "keywords": "Machine Learning,Natural Language Processing,LLM,Deep Learning,Artificial Intelligence,Xiamen,",
+      "scope": "Contributed papers are solicited describing original works in Machine Learning and Natural Language Processing.",
+      "callForPapers": "2026-10-04",
+      "url": "www.mlnlp2026.net/",
+      "eventContact": "linda.ye@applied-computing.net",
+      "sponsorTypes": "1; 9; 9",
+      "venues": "Jimei University, No. 185, Yinjiang Road, Jimei District, Xiamen City, China, , , , , , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

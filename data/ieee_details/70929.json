@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oL7swY403aIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70929,
+      "eventTitle": "2026 1st International Conference on Intelligent and Sustainable Computing Systems (ICISCS)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-12",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Ghaziabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Inderprastha Engineering College; Uttar Pradesh Section",
+      "keywords": "Artificial Intelligence (AI),Machine Learning (ML),Internet of Things (IoT),cyber-physical systems,cloud and edge computing,green computing,data-driven decision-making,reduce resource consumption,promote societal well-being,designing computing architectures ,",
+      "scope": "The International Conference on Intelligent and Sustainable Computing Systems (ICISCS 2026) aims to provide a comprehensive platform for examining the convergence of intelligent technologies and sustainable computing paradigms to address contemporary global challenges. With rapid digital transformation across sectors, there is a growing demand for computing systems that are not only intelligent and high-performing but also energy-efficient, environmentally responsible, and socially inclusive. ICISCS 2026 focuses on promoting research and innovation that integrate intelligence with sustainability to develop resilient, scalable, and future-ready computing ecosystems.The scope of the conference covers theoretical foundations, algorithmic advancements, system architectures, and real-world applications of next-generation technologies, including Artificial Intelligence (AI), Machine Learning (ML), Internet of Things (IoT), cyber-physical systems, cloud and edge computing, green computing, an",
+      "callForPapers": "2026-07-03",
+      "url": "www.ipec.org.in/iciscs/",
+      "eventContact": "hod.cse@ipec.org.in",
+      "sponsorTypes": "3; 9",
+      "venues": "Inderprastha Engineering College, 63,Site  IV, Sahibabad Industrial Area,Surya Nagar Flyover Road, Surya Nagar Flyover Road, Sahibabad, Ghaziabad-Up, Ghaziabad, , India, 201010, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

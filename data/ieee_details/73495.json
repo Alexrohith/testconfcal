@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s8eFx4409roBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73495,
+      "eventTitle": "2027 Technology and Innovation Conference (TIC)",
+      "startDate": "2027-05-07",
+      "endDate": "2027-05-08",
+      "about": "Bioengineering; Communication, Networking and Broadcast Technologies; Computing and Processing; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Lisbon",
+        "region": "",
+        "country": "Portugal"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; World Research Union",
+      "keywords": "Technology,Information and Technology,Artificial Intelligence,Information Systems,Innovation. Entrepreneurship,Resource Management,",
+      "scope": "TIC 2027 (Technology and Innovation Conference) provides an international platform for researchers, academicians, industry practitioners, and policymakers to present original research and exchange knowledge on emerging technologies, engineering innovations, and intelligent systems. The conference covers Artificial Intelligence, Machine Learning, Data Science, Cybersecurity, Internet of Things, Robotics, Intelligent Systems, Smart Manufacturing, Cloud Computing, Digital Transformation, Sustainable Technologies, FinTech, Blockchain, Industry 5.0, Human-Centered Computing, Engineering Applications, and Innovation Management. TIC 2027 promotes interdisciplinary collaboration between academia and industry to accelerate technological advancement, foster innovation, and address global challenges through impactful engineering and technology-driven research.",
+      "callForPapers": "2027-02-28",
+      "url": "ticresearch.com/tic2027",
+      "eventContact": "nataliaes@uatlantica.pt",
+      "sponsorTypes": "1; 9",
+      "venues": "Universidade Atlântica,  Fábrica da Pólvora de, , , , Barcarena, , Portugal, 2730-036, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

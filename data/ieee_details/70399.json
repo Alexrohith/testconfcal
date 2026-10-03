@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: wLWwx440z70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70399,
+      "eventTitle": "2026 IEEE International Conference on Power, Control and Communication Infrastructure (ICPCCI)",
+      "startDate": "2026-10-08",
+      "endDate": "2026-10-09",
+      "about": "Aerospace; Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; Fields, Waves and Electromagnetics; Power, Energy and Industry Applications; Robotics and Control Systems; Transportation",
+      "location": {
+        "city": "Ahmedabad",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Gujarat Section; Gujarat Section AP/MTT Jt. Chapter; Institute of Infrastructure Technology Research and Management (IITRAM)",
+      "keywords": "Control systems ,Drones ,Communication Systems,Embedded Systems,Renewable Energy and Energy Storage,Unmanned Air Vehicle (uav),Power System,VLSI ,AI-ML,",
+      "scope": "ICPCCI 2026 conferences focus on a wide array of topics, broadly encompassing Control, Power systems, Communication, AIML and Drone technologies. This conference feature presentations on research, development, and applications in areas like power generation, transmission, and distribution; Control systems, Communication systems; Embedded systems; AI/ML, Drones and more.",
+      "callForPapers": "2025-12-01",
+      "url": "https://iitram.in/icpcci26/",
+      "eventContact": "arawat@iitram.ac.in",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "IITRAM Ahmedabad, Khokhara Circle, Maninagar East, , , Ahmedabad, , India, 380026, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: zObZwY402aEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72084,
+      "eventTitle": "2026 International Conference on Advancement and Innovation: Artificial Intelligence and Machine Learning (AI2ML)",
+      "startDate": "2026-11-17",
+      "endDate": "2026-11-18",
+      "about": "Computing and Processing",
+      "location": {
+        "city": "Islamabad",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Islamabad Section; National University of Sciences and Technology (NUST)",
+      "keywords": "Artificial Intelligence,Machine Learning,Deep Learning,Generative AI,LLMs,Agentic AI,Ethical AI ,Foundation Models ,Responsible AI,Applications of AI,",
+      "scope": "The conference focuses on advancements and innovations in Artificial Intelligence and Machine Learning, spanning foundational methods, data-centric development, and rigorous evaluation; foundation and generative models including multimodal intelligence; and agentic, trustworthy, and human-centered AI systems. It emphasizes reliable deployment through MLOps and benchmarking, responsible AI through governance, privacy, security, and assurance, and impactful applications across healthcare, climate and sustainability, mobility, finance, hardware/EDA, and digital identity (SSI) for secure, real-world AI adoption.",
+      "callForPapers": "2026-06-21",
+      "url": "conference.seecs.edu.pk/ai2ml-2026",
+      "eventContact": "seemab.latif@seecs.edu.pk",
+      "sponsorTypes": "3; 9",
+      "venues": "National Univesity of Sciences and Technology (NUST), Sector H-12, , , , Islamabad, , Pakistan, 44000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: kuj7xo402L0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72816,
+      "eventTitle": "2026 International Conference on Computing, Intelligence and Innovation (ICCII)",
+      "startDate": "2026-12-23",
+      "endDate": "2026-12-24",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Islamabad",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Islamabad Section; Riphah International University",
+      "keywords": "Computing, Electrical Engineering,Biomedical Engineering,Artificial Intelligence,Cyber Security,Software Engineering ,Data Science,Intelligent Systems,Cloud Computing,Blockchain,Distributed Systems,Fintech,Computational Intelligence,Health Informatics,",
+      "scope": "Multidisciplinary",
+      "callForPapers": "2026-09-01",
+      "url": "icfc.riphah.edu.pk/",
+      "eventContact": "m.zubair@riphah.edu.pk",
+      "sponsorTypes": "3; 9",
+      "venues": "Riphah International University, Sector I-14/3, , , , Islamabad, , Pakistan, 44000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

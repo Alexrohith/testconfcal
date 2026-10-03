@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 2YiFx440hLsBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71964,
+      "eventTitle": "2027 8th International Conference on Learning Innovation in Science and Technology (ICLIST)",
+      "startDate": "2027-03-18",
+      "endDate": "2027-03-20",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; General Topics for Engineers; Robotics and Control Systems",
+      "location": {
+        "city": "Bangkok",
+        "region": "",
+        "country": "Thailand"
+      },
+      "sponsors": "King Mongkut's University of Technology Thonburi ; Thailand Section; Thailand Section E Chapter",
+      "keywords": "Artificial Intelligence,Digital Learning Innovation,Engineering Education,STEM Education,Educational Technology,",
+      "scope": "The conference focuses on AI and Digital Learning Innovation for Sustainable Development • AI-Driven Learning Innovation in the Digital Age • Digital and Computer-Based Educational Technology for Enhanced Learning • Professional Development for Future Learning in AI and Engineering Education • AI-Supported Learning Assessment and Quality Improvement for Continuous Development • Innovative Learning Pathways: Active Learning, AI Integration, and Non-Degree Education • Artificial Intelligence Applications in Education • Experiential and Work-Integrated Learning with Micro-Credentials for Lifelong Learning • STEM Education for Technology, Engineering, and Digital Transformation • Other Topics Related to Science and Technology",
+      "callForPapers": "2026-10-30",
+      "url": "https://iclist.fiet.kmutt.ac.th/iclist2027/",
+      "eventContact": "mongkhon.nar@kmutt.ac.th",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "King Mongkut's University of Technology Thonburi, 126 Pracha-Uthid Rd., Bangmod, Thungkru, , , , Bangkok, , Thailand, 10140, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

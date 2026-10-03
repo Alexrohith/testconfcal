@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: lIacx440rr8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72555,
+      "eventTitle": "2027 International Conference on Internet Applications, Protocols, and Services (NETAPPS)",
+      "startDate": "2027-05-05",
+      "endDate": "2027-05-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Kuala lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "Malaysia Section VT/COM Joint Chapter; Universiti Utara Malaysia",
+      "keywords": "Internet Applications ,Network Protocols ,Internet of Things ,Blockchain ,Cybersecurity ,Fog Computing ,Cloud Computing ,Smart Connected Communities ,Wireless Networks ,Software Defined Networking ,Human Centered,Smart Cities Application ,",
+      "scope": "NETAPPS2027 covers next-generation Internet applications, protocols, and network services, including AI-enabled networking, IoT and smart connected communities, wireless/mobile/sensorand green communications, and software-defined and blockchain-based systems. It also addresses cloud, fog, edge computing and smart city/digital home services, with a strong focus on security, privacy, trust, and cyber defense/forensics for resilient AI-integrated communities.",
+      "callForPapers": "2026-11-01",
+      "url": "www.internetworks.my/conference/2027",
+      "eventContact": "moh.alsamman@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": ", , , , , Kuala lumpur, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

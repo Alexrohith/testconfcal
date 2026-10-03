@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: oefnwY40o6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73057,
+      "eventTitle": "2026 8th International Conference on Advancements in Computing (ICAC)",
+      "startDate": "2026-12-09",
+      "endDate": "2026-12-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Malabe",
+        "region": "",
+        "country": "Sri Lanka"
+      },
+      "sponsors": "Sri Lanka Institute of Information Technology; Sri Lanka Section; Sri Lanka Section C Chapter; Sri Lanka Section COM Chapter; Sri Lanka Section EMB Chapter; Sri Lanka Section GRS Chapter; Sri Lanka Section IA Chapter; Sri Lanka Section IES Chapter",
+      "keywords": "Artificial Intelligence and Machine Learning,Computational Linguistics,Natural Language Processing and Speech Processing,Computer Vision and Image Processing,Cloud and High-Performance Computing,Cybersecurity and Privacy,Internet of Things,Embedded Systems and Robotics,Software Engineering and DevOps,User Experience and Computing for Education and Digital Learning,",
+      "scope": "The International Conference on Advancements in Computing (ICAC), organized by the Faculty of Computing at SLIIT, is a platform for sharing cutting-edge research and practical applications in computing. ICAC 2026, themed \"Synergy of Minds and Machines: Computing in the Generative Age,\" explores the impact of emerging technologies like AI and Machine Learning. It features pre-conference workshops & tutorial sessions for hands-on learning. ICAC welcomes research in Artificial Intelligence and Machine Learning, Computational Linguistics, Natural Language Processing and Speech Processing, Computer Vision and Image Processing, Cloud and High-Performance Computing, Cybersecurity and Privacy, Internet of Things, Embedded Systems and Robotics, Software Engineering and DevOps, as well as User Experience and Computing for Education and Digital Learning. The goal is to foster innovation, collaboration  and research that addresses global challenges.",
+      "callForPapers": "2026-08-24",
+      "url": "icac.lk/",
+      "eventContact": "dinuka.w@sliit.lk",
+      "sponsorTypes": "3; 5; 5; 5; 5; 5; 5; 9",
+      "venues": "Sri Lanka Institute of Information Technology (SLIIT), New Kandy Road, Malabe, , , Malabe, , Sri Lanka, 10115, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

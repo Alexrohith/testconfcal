@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: /NKQx440wbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72146,
+      "eventTitle": "2026 International Conference on Computer Vision and Embodied Intelligence (CVEI)",
+      "startDate": "2026-10-16",
+      "endDate": "2026-10-18",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Zhengzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Henan Academy of Sciences; IEEE Systems, Man, and Cybernetics Society",
+      "keywords": "Computer vision and machine vision,Image segmentation and object detection,3D computer vision and point cloud processing,Visual tracking and motion analysis,Industrial computer vision and application,Embodied intelligent basic large model,Embodied intelligent system design and optimization,Embodied robot system integration and deployment,Computer vision-based embodied perception,Multimodal visual interaction in embodied systems,Visual-guided embodied motion control,Human-embodied agent interacti",
+      "scope": "CVEI 2026 will be held as a key international academic event focusing on computer vision, embodied intelligence, and their cross-application, featuring keynote speeches and technical sessions to drive innovation and development in related fields; the conference will bring together global researchers, engineers, and experts to share cutting-edge progress, tackle core technical challenges, and foster industry-academia collaboration, covering key topics including computer vision and machine vision, image segmentation and object detection, 3D computer vision and point cloud processing, visual tracking and motion analysis, industrial computer vision and applications, fundamental large models for embodied intelligence, embodied intelligent system design and optimization, embodied robot system integration and deployment, computer vision-based embodied perception, multimodal visual interaction in embodied systems, visual-guided embodied motion control, and human-embodied agent interaction",
+      "callForPapers": "2026-08-01",
+      "url": "www.ic-cvei.net/",
+      "eventContact": "ma.paprzycki@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Henan Academy of Sciences, No. 266-38 Mingli Road, Jinshui District, Zhengzhou City, Henan Province, China, , , , Zhengzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

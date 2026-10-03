@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8KDCwo40hKcBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73188,
+      "eventTitle": "2026 7th International Conference on Innovative Computing (ICIC)",
+      "startDate": "2026-12-02",
+      "endDate": "2026-12-03",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Lahore",
+        "region": "",
+        "country": "Pakistan"
+      },
+      "sponsors": "Lahore Section; Lahore Section C Chapter; Lahore Section COM Chapter; University of Management and Technology, Pakistan",
+      "keywords": "Artificial Intelligence,Machine Learning,Data Science,Cyber Security,Cloud Computing,Cloud Computing Security,Internet of things,software engineering,Computer Networks,Blockchain,Computer Vision,Immersive Games,Natural language processing,Big Data Analytics,Smart Systems,Digital Transformation,Emerging Computing Technologies,Bio Informatics,Computation Intelligence,",
+      "scope": "The International Conference on Innovative Computing (ICIC) aims to bring together leading academic scientists, researchers, and research scholars to exchange and share their experiences and research results about all aspects of Computer Science, and Information Technology. It also provides the premier interdisciplinary forum for scientists, engineers, and practitioners to present their latest research results, ideas, developments, and applications in all areas of Computer Science, and Information Technology. The conference will bring together leading academic scientists, researchers, and scholars in the domain of interest from around the world. Topics of interest for submission include, but are not limited to: Future Technologies (BlockChain/IOT/FinTech), Mobility/GIS, Distributed Systems/Cloud Computing; Data Science/AI/ML, Computing education, NextGen Communication Systems, Bio-Informatics, Social Applications of Computing, Green Computing, Information Security, and Simulation.",
+      "callForPapers": "2026-08-30",
+      "url": "icic.umt.edu.pk",
+      "eventContact": "usman.inayat@umt.edu.pk",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "University of Management and Technology, C-II Johar Town Lahore, , , , Lahore, , Pakistan, 54770, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

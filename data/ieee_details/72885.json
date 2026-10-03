@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 5rjiwY406aQBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72885,
+      "eventTitle": "2027 Third International Conference on Advanced Technologies in Intelligent Control, Environment, Computing & Communication Engineering (ICATIECE)",
+      "startDate": "2027-08-19",
+      "endDate": "2027-08-20",
+      "about": "Communication, Networking and Broadcast Technologies; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Bangalore",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Bangalore Section CIS Chapter; Dayananda Sagar Academy of Technology",
+      "keywords": "Artificial Intelligence & Machine Learning, Embedded Systems & IoT,Cyber-Physical Systems Data Analytics & Big Data, Blockchain & Cybersecurity,",
+      "scope": "ICATIECE-2027 provides a platform for researchers, academicians, and industry experts to share advancements in Intelligent Control, Environment, Computing, and Communication Engineering. The conference covers AI/ML, IoT, cybersecurity, sustainable technologies, automation, 5G/6G, smart systems, and emerging engineering innovations.",
+      "callForPapers": "2027-01-15",
+      "url": "icatiece.in/",
+      "eventContact": "madhumalabagalatti@gmail.com",
+      "sponsorTypes": "3; 5; 9",
+      "venues": "DAYANANDA SAGAR ACADEMY OF TECHNOLOGY AND MANAGEMENT, Opp. Art of Living, Udayapura, Kanakapura Main Road, Bangalore-560082, Karnataka, India, , , , Bangalore, , India, 560082, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

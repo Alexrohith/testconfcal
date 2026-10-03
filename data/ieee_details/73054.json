@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 38uWx440iL8BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73054,
+      "eventTitle": "2026 International Conference on Intelligent Robotics and Automatic Control (IRAC)",
+      "startDate": "2026-12-11",
+      "endDate": "2026-12-13",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Zhejiang University of Technology",
+      "keywords": "Intelligent Robot and Human-Machine Interaction,Medical Robots and Bio-Robotics,Robot Sensing and Data Fusion,Robot Radar, Lidar Signal Processing,Robot Vision and Image Feature Extraction, Grouping, and Segmentation,Automatic Control and Adaptive Control,Cooperative Control of Complex Systems,Networked Control Systems,Control of Biological Systems,Precision Motion Control,",
+      "scope": "IRAC 2026 aims to serve as a global platform for sharing insights, discussing trends, and advancing intelligent robotics and automatic control. Its core research areas will include: intelligent robots and human-machine interaction, medical robots and bio-robots, robot sensing and data fusion, robot radar and lidar signal processing, robot vision, image feature extraction, grouping and segmentation, automatic control and adaptive control, cooperative control of complex systems, networked control systems, control of biological systems, and precision motion control. The conference will facilitate international collaboration among experts and scholars worldwide. Keynote speeches, interactive sessions, and workshops will inspire creative ideas and advance joint research. Attendees will explore cutting-edge achievements, exchange in-depth views, and expand academic networks, driving sustained innovation and development across related fields.",
+      "callForPapers": "2026-09-26",
+      "url": "www.icirac.org/",
+      "eventContact": "xhua.l@outlook.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Zhejiang University of Technology, No. 18 Chaowang Road, Gongshu District, Hangzhou City, Zhejiang Province, China, , , , Hangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

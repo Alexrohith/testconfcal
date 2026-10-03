@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: nY+Qx440vbsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73566,
+      "eventTitle": "2027 IEEE International Conference on RFID Technology and Applications (RFID-TA)",
+      "startDate": "2027-09-20",
+      "endDate": "2027-09-22",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Fields, Waves and Electromagnetics; Signal Processing and Analysis",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Council on RFID; Malaysia Section RFID Chapter",
+      "keywords": "Active and passive tagging technologies,Antennas for tags and readers,Applications of RFIDs,Artificial intelligence in RFID,Backscatterring communications,Channel modeling and measurement,Chipless RFID,Circuits and Systems for RFID,Coding,Cryptography and modulation schemes,Cybersecurity and privacy enhancement,Future RFID technologies,Green RFID techniques,IoT for RFID,Localization positioning and sensing,Near-field RFID,Networking for RFID,RFID hardware,Smart RFID,RFID manufacturing,",
+      "scope": "The 17th IEEE International Conference on RFID Technology and Applications (IEEE RFID-TA 2027) is a flagship global event for researchers, engineers, and industry professionals engaged in Radio Frequency Identification (RFID) and its broad landscape of technologies and applications. This year, the conference will be hosted at Kuala Lumpur. RFID-TA 2026 will feature a dynamic Technical Program showcasing breakthroughs in areas such as chipless RFID, AI for RFID, energy harvesting, secure systems, localization, and the rapidly growing ecosystem of RFID-enabled IoT and sensing. The event will offer a wide spectrum of technical sessions, interactive panels, tutorials, workshops, and industry-focused demos, creating a space for both academic excellence and practical innovation.",
+      "callForPapers": "2027-03-31",
+      "url": "",
+      "eventContact": "limeh@utar.edu.my",
+      "sponsorTypes": "1; 5",
+      "venues": "Berjaya Times Square Hotel, Kuala Lumpur, Berjaya Times Square, 1, Jalan Imbi, Hotel, Bukit Bintang, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur, , , , Kuala Lumpur, , Malaysia, 55100, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

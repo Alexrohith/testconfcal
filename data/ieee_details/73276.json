@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: 1tTiwY40gqIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73276,
+      "eventTitle": "2028 American Control Conference (ACC)",
+      "startDate": "2028-05-30",
+      "endDate": "2028-06-02",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "San Francisco",
+        "region": "California",
+        "country": "USA"
+      },
+      "sponsors": "American Automatic Control Council; IEEE Control Systems Society",
+      "keywords": "Automatic Control,Automation,machine learningg,Robotics,Estimation,aerospace control,Modeling,Distributed control,Learning,",
+      "scope": "The American Control Conference (ACC) is an annual 3-day meeting that brings together an international community of researchers and practitioners in all areas related to the engineering and science of control systems.",
+      "callForPapers": "2027-09-24",
+      "url": "acc2028.a2c2.org/",
+      "eventContact": "zl5y@virginia.edu",
+      "sponsorTypes": "1; 9",
+      "venues": "Hilton San Francisco Union Square, 333 Ofarrell Street, , , , San Francisco, CA, USA, 94102, ;",
+      "region": "Region06-Western USA",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

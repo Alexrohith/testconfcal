@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: gO7cwY401KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71526,
+      "eventTitle": "2027 17th International Conference on Cloud Computing, Data Science & Engineering (Confluence)",
+      "startDate": "2027-01-21",
+      "endDate": "2027-01-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Engineering Profession; General Topics for Engineers; Signal Processing and Analysis",
+      "location": {
+        "city": "Noida",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Amity University - Department of Computer Science; Uttar Pradesh Section",
+      "keywords": "Cloud Computing,Data Science,Machine Learning,",
+      "scope": "Cloud Computing, Data Science, Machine Learning, Artificial Intelligence, Deep Learning, Neural Networks, Software Engineering and Many more",
+      "callForPapers": "2026-12-04",
+      "url": "amity.edu/aset/confluence2027/",
+      "eventContact": "chandu.pundru@gmail.com",
+      "sponsorTypes": "3; 9",
+      "venues": "Department of Computer Science & Engineering, Amity School of Engineering and Technology, Amity University, Sector 125, , Noida, Uttar Pradesh, , India, 201313, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

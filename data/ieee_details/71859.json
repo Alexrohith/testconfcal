@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 1OGdx440sLwBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71859,
+      "eventTitle": "2026 IEEE 36th International Telecommunication Networks and Applications Conference (ITNAC)",
+      "startDate": "2026-11-25",
+      "endDate": "2026-11-27",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Melbourne",
+        "region": "",
+        "country": "Australia"
+      },
+      "sponsors": "Australasian Association For Information and Communication Technology; IEEE Communications Society; IEEE Computer Society",
+      "keywords": "computer networking,mobile communications,,optical  communications,wireless communications,satellite communications,network design,,Communication system security,multi-access edge  computing,capacity planning,Wireless Sensor Networks,,network orchestration,network management,,Internet of  Things,network security,quantum communication and networking,",
+      "scope": "With the increasing focus on computer and telecommunication networks and applications, including the advent of cybersecurity, big data, cloud computing, and the Internet of Things, there has been rapid growth in research into telecommunication networks, security and privacy, data, mobile computing, cognitive computing, cloud computing, tools and applications, artificial intelligence, computer communications and modelling and simulation. The demand for high quality research outcomes has never been greater. ITNAC has been the forum for researchers and engineers to present and discuss topics related to advanced computing and data communication network technologies, services and applications. Novel contributions are presented in the form of keynote speeches by international experts, peer-reviewed technical papers, and posters. ITNAC 2026 seeks to address and capture highly innovative and state of the art research from academia, industry and standardization bodies.",
+      "callForPapers": "2026-09-01",
+      "url": "itnac.org.au",
+      "eventContact": "himanshu.agrawal@curtin.edu.au",
+      "sponsorTypes": "1; 1; 9",
+      "venues": "RMIT University, 124 La Trobe Street, Melbourne, Victoria, , Melbourne, , Australia, 3000, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

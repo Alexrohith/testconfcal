@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: moDbwY403qEBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72680,
+      "eventTitle": "2027 IEEE International Conference on Development and Learning (ICDL)",
+      "startDate": "2027-09-21",
+      "endDate": "2027-09-24",
+      "about": "Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Campinas - SP",
+        "region": "",
+        "country": "Brazil"
+      },
+      "sponsors": "IEEE Computational Intelligence Society; IEEE Robotics and Automation Society",
+      "keywords": "Machine Learning, Cognitive Development, Cognitive Robotics, Developmental Robotics, Computational Neuroscience, Developmental Learning, Artificial Intelligence,",
+      "scope": "The IEEE International Conference on Development and Learning (ICDL) is a unique meeting gathering researchers from computer science, robotics, psychology, neuroscience, and other disciplines to share and discuss research on how humans and other animals learn and develop and how this can inform and be informed by robotics and machine learning systems.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "esther@ic.unicamp.br",
+      "sponsorTypes": "1; 1",
+      "venues": "Unicamp Convention Center, Avenida Érico Veríssimo, 500. Cidade Universitária \"Zeferino Vaz\" – Barão Geraldo, , , , Campinas, , Brazil, 13083-851, ;",
+      "region": "Region09-Latin America",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

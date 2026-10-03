@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 397mwY40hKUBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71779,
+      "eventTitle": "2026 International Conference on Artificial Intelligence and Simulation (CAIS)",
+      "startDate": "2026-09-28",
+      "endDate": "2026-09-30",
+      "about": "Components, Circuits, Devices and Systems; Computing and Processing",
+      "location": {
+        "city": "Kuala Lumpur",
+        "region": "",
+        "country": "Malaysia"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Universiti Kebangsaan Malaysia - UKM",
+      "keywords": "Artificial Intelligence and Machine Learning, Intelligent Computing and Soft Computing, Distributed Intelligent Systems and Hybrid Intelligent Systems, Intelligent System Simulation and Multi-Agent Simulation, Real-Time Simulation Systems, Digital Twin Technologies, Intelligent Simulation Platforms, Robotic System Simulation and Brain-Machine Interface System Simulation,",
+      "scope": "Adhering to the vision of promoting academic innovation in artificial intelligence and simulation technologies, ICAIS 2026 aims to serve as an authoritative international academic forum, gathering global researchers, engineers, and industry experts to present cutting-edge achievements, tackle key technical challenges, and promote academia-industry integration. It will focus on the innovation, integration, and application in two key fields: artificial intelligence (soft computing algorithms, distributed intelligent algorithms, brain-machine interface technology, fuzzy intelligent systems, evolutionary computing, neural networks, cognitive modeling, intelligent optimization); simulation (intelligent system simulation, multi-agent simulation, real-time simulation, data-driven simulation, digital twin technology, quantum system simulation, intelligent simulation platforms, metaverse virtual simulation, robotic system simulation, BCI system simulation).",
+      "callForPapers": "2026-07-13",
+      "url": "www.ic-ais.net/",
+      "eventContact": "no.funabiki@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Universiti Kebangsaan Malaysia, Jalan Raja Muda Abdul Aziz, Kuala Lumpur, Malaysia, , , , Kuala Lumpur, , Malaysia, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

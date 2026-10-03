@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r4PmwY40lKIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73185,
+      "eventTitle": "2027 3rd International Conference on Computational Intelligence and Computing Applications (ICCICA)",
+      "startDate": "2027-03-11",
+      "endDate": "2027-03-12",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems",
+      "location": {
+        "city": "Samalkha",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Panipat Institute of Engineering & Technology",
+      "keywords": "Data science,machine learning,artificial intelligence,Blockchain,cyber security,internet of things,robotics and automation,power and ener,power and energy,fuzzy logic,",
+      "scope": "the conference will facilitate the presentation of recent developments and exchange of practical experience in the field of computational intelligence. The conference will encourage the discussion, dissemination of information, exchaneg of ideas and collaboration among the participants.",
+      "callForPapers": "2026-10-12",
+      "url": "www.piet.co.in/ICCICA27/",
+      "eventContact": "drupasana@nitdelhi.ac.in",
+      "sponsorTypes": "3; 9",
+      "venues": "PANIPAT INSTITUTE OF ENGINEERING AND TECHNOLOGY, 70 MILESTONE G.T.ROAD, SAMALKHA, PANIPAT, HARYANA, Panipat, , India, 132102, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

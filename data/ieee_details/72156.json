@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: z46Nx440qrsBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72156,
+      "eventTitle": "2027 13th International IEEE/EMBS Conference on Neural Engineering (NER)",
+      "startDate": "2027-09-07",
+      "endDate": "2027-09-10",
+      "about": "Bioengineering; Components, Circuits, Devices and Systems; Computing and Processing; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "MILANO",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Engineering Medicine and Biology Society",
+      "keywords": "Neuromodulation,Rehabilitation robotics,Neurostimulation,Brain computer interfaces,Computational Neuroscience,Artificial Intelligence,neuroengineering,neural interfaces,sensory and motor neuroprostheses,neural control,motor control and motor learning,brain physiology and modelling,neural signal processing,neurological disorders,clinical neurophysiology,neurorehabilitation,Rehabilitation technologies,Neurotechnologies,",
+      "scope": "Transforming Neural Engineering Research and Innovation into Clinical Reality Rationale Our proposal places a strong emphasis on the clinical translation of neural technologies, with a clear focus on patients’ needs across the full continuum of care and on the broader impact on healthcare systems worldwide. In particular, the scientific program will cover the patient’s journey, including diagnosis, treatment, rehabilitation and long-term monitoring, both at the preclinical and clinical level. At the same time, it will strongly embrace basic research and key enabling technologies, such as computational modelling, data science, and artificial intelligence (AI), which are currently driving major advances in Neural Engineering at a global scale",
+      "callForPapers": "",
+      "url": "https://neuro.embs.org/2027/",
+      "eventContact": "d.artis@ieee.org",
+      "sponsorTypes": "1",
+      "venues": "POLITECNICO DI MILANO, LEONARDO CAMPUS, TRIFOGLIO BUILDING (BUILDING 13), VIA BONARDI, , MILANO, , Italy, 20133, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

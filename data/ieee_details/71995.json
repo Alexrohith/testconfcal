@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: +cvuwY40w6UBCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71995,
+      "eventTitle": "2026 IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE)",
+      "startDate": "2026-11-01",
+      "endDate": "2026-11-03",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Geoscience; Robotics and Control Systems",
+      "location": {
+        "city": "Dhaka",
+        "region": "",
+        "country": "Bangladesh"
+      },
+      "sponsors": "Bangladesh Section C Chapter; Bangladesh University of Business and Technology (BUBT)",
+      "keywords": "Biomedical Engineering- Theory and Practice,Blockchain,Computer Vision,Algorithms ,Computer human interaction,Cloud Computing,E-Health,E-Learning,Edge/Fog Computing,Green Computing,Information Systems and Security,Internet of Things,Multimedia,Mechatronics and Robotics,Networking Protocol and Security,Quantum Computing,Artificial Intelligence,Autonomous Machines and Intelligent Automation,Big Data Platform,Machine Learning,Predictive Modelling and Analytics,Natural Language Processing,",
+      "scope": "The 11th IEEE Asia-Pacific Conference on Computer Science and Data Engineering (CSDE 2026) is an international forum that promotes research, innovation, and collaboration in computer science and data engineering. The conference will be held in hybrid mode, enabling participation from researchers, academics, industry professionals, and students worldwide.  CSDE 2026 aims to facilitate knowledge exchange on emerging technologies and modern computing solutions. The conference will feature keynote speeches, technical paper presentations, workshops, and tutorials covering topics such as artificial intelligence, machine learning, big data analytics, cloud computing, cybersecurity, and software engineering.  By bringing together experts from academia and industry, the conference encourages interdisciplinary collaboration and supports the development of innovative digital technologies to address real-world challenges.",
+      "callForPapers": "2026-06-30",
+      "url": "ieee-csde.org/",
+      "eventContact": "jashnilkumar0319@gmail.com",
+      "sponsorTypes": "5; 9",
+      "venues": "Bangladesh University of Business and Technology (BUBT), , , , , Dhaka, , Bangladesh, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

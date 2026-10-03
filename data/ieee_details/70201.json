@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: r8amx4404rwBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70201,
+      "eventTitle": "2026 International Conference on Future Communications and Networks (FCN)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-11-01",
+      "about": "Communication, Networking and Broadcast Technologies",
+      "location": {
+        "city": "Bologna",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "FuTURE Mobile Communication Forum; IEEE Communications Society; University of Bologna",
+      "keywords": "6G ,AI-Enabled Communications and Networks,Edge and Cloud Computing Networks,Mobile and Wireless Communications,Mobile and Wireless Networks,Next Generation Networks and Internet,5G ,5G-A,Space-Air-Ground Communications and Networks,Future Communications and Networks,",
+      "scope": "The conference aims to provide a forum that brings together International researchers from academia and practitioners in industry to meet and exchange ideas and recent research work on all aspects of future communications and networks. The scope of the conference covers a variety of theoretical and applied topics in the areas of communication and networks",
+      "callForPapers": "2026-06-15",
+      "url": "www.future-forum.org.cn/en/fcn2026/index.html",
+      "eventContact": "fuyu@future-forum.org.cn",
+      "sponsorTypes": "1; 9; 9",
+      "venues": ", , , , , Bologna, , Italy, , ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

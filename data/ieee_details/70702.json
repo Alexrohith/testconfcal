@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: n/3pwY40s6IBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70702,
+      "eventTitle": "2027 Integrated Circuit Academic Annual Conference and International Conference on Electronic Materials and Devices (CEMD)",
+      "startDate": "2027-01-15",
+      "endDate": "2027-01-17",
+      "about": "Components, Circuits, Devices and Systems; Engineered Materials, Dielectrics and Plasmas; Photonics and Electrooptics; Signal Processing and Analysis",
+      "location": {
+        "city": "Guangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Guangdong University of Technology; Guangzhou Section NANO Guangdong Chapter",
+      "keywords": "GaN/SiC materials power electronics,Wearable devices, stretchable circuits,QLED displays, optoelectronic integration,Radiation effects on electronic devices,Machine learning for material optimization,",
+      "scope": "This conference will be a high-level and high-quality academic event, featuring multiple specialized forums on topics including integrated circuits, electronic materials, advanced devices, and related technologies. We anticipate the participation of over 100 leading experts, scholars, journal editors, and industry researchers, who will present academic reports, discuss the latest research findings and technological advancements, and engage in in-depth exchanges on frontier developments and pressing issues.",
+      "callForPapers": "",
+      "url": "",
+      "eventContact": "conferences@sepsg.org",
+      "sponsorTypes": "5; 9",
+      "venues": ", , , , , Guangzhou, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

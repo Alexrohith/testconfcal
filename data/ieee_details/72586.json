@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 8bT9xo404b0BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72586,
+      "eventTitle": "2027 International Conference on Artificial Intelligence and Deep Learning Methods for Human Centric Systems (AIDL-HCSY)",
+      "startDate": "2027-01-18",
+      "endDate": "2027-01-20",
+      "about": "Computing and Processing; Engineering Profession; General Topics for Engineers; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Patiala",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Delhi Section; Thapar Institute of Engineering and Technology",
+      "keywords": "computer vision,NLP,AI healtcare,Robotics,HCI,Innovation. Entrepreneurship,",
+      "scope": "From healthcare to governance, education to cybersecurity, the conference invites researchers, practitioners, and policymakers to engage in rich dialogues and share innovations that are not only technically sound but also deeply rooted in human values.",
+      "callForPapers": "2026-08-30",
+      "url": "aidlhcsy.thapar.edu/",
+      "eventContact": "rahul.upadhyay@thapar.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Thapar School of Liberal Arts & Sciences, Thapar Institute of Engineering & Technology, Bhadson Road, , , Patiala, , India, 147004, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

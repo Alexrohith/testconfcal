@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: s8evx440x70BCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 73278,
+      "eventTitle": "2027 2nd International Conference on Embedded Systems, Mobile Communication and Computing (EMC²)",
+      "startDate": "2027-01-08",
+      "endDate": "2027-01-10",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Robotics and Control Systems",
+      "location": {
+        "city": "Shenzhen",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "IEEE Systems, Man, and Cybernetics Society; Shenzhen Institute for Advanced Study, UESTC",
+      "keywords": "Embedded Systems and Intelligent Applications,Mobile Communication Technology,Intelligent Computing and Information Processing,Intelligent control system,Next generation communication technology ,Optimization algorithm,",
+      "scope": "EMC² 2027 is a premier research-oriented conference dedicated to advancements in embedded systems, mobile communication, and computing. With a strong emphasis on academic excellence and industrial innovation, it aspires to serve as a leading platform for global scholarly exchange. The conference will convene distinguished experts, researchers, engineers, and industry leaders from around the world to address emerging opportunities and challenges in cutting-edge domains such as embedded architectures, mobile communication technologies, and intelligent computing systems. By fostering interdisciplinary dialogue and collaboration, EMC² 2027 aims to accelerate research breakthroughs, drive practical applications, advance disciplinary development, and nurture the next generation of talent.",
+      "callForPapers": "2026-10-05",
+      "url": "ic-emcc.org/",
+      "eventContact": "emcc.pub@outlook.com",
+      "sponsorTypes": "1; 9",
+      "venues": "Shenzhen Institute for Advanced Study, UESTC, China, Yinstar Intelligent Valley Phase 2, Guanlan, Longhua District, Shenzhen 518000, China, , , , Shenzhen, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: jcrewY404KEBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71450,
+      "eventTitle": "2027 IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB)",
+      "startDate": "2027-08-31",
+      "endDate": "2027-09-03",
+      "about": "Bioengineering; Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Milan",
+        "region": "",
+        "country": "Italy"
+      },
+      "sponsors": "IEEE Computational Intelligence Society",
+      "keywords": "Bioinformatics ,Computational Biology ,Computational Intelligence ,Artificial Intelligence ,Machine Learning,",
+      "scope": "The IEEE Conference on Computational Intelligence in Bioinformatics and Computational Biology (CIBCB) focuses on the development, evaluation, and application of computational intelligence techniques, such as Evolutionary Computation, Machine Learning, Deep Learning, and hybrid AI methods, to challenges in bioinformatics, computational biology, and biomedicine. The scope includes, but is not limited to, single-cell and multi-omics data analysis, genomics and transcriptomics, systems and synthetic biology, gene regulatory network inference, biomedical data mining, medical imaging, and AI-driven discovery in healthcare. CIBCB provides an interdisciplinary forum for researchers and practitioners from academia and industry to present novel methods, share experimental results, and discuss emerging technologies and open challenges at the intersection of artificial intelligence and the life sciences.",
+      "callForPapers": "2027-04-02",
+      "url": "attend.ieee.org/cibcb-2027",
+      "eventContact": "andrea.tangherloni@unibocconi.it",
+      "sponsorTypes": "1",
+      "venues": "Bocconi University, Via Sarfatti 25, , , , Milan, , Italy, 20136, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

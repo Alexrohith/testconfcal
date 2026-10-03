@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: yKSux440vr0BCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 68259,
+      "eventTitle": "2027 1st International Conference on Green Energy, Computing, and Communications (GreenTechCom)",
+      "startDate": "2027-02-05",
+      "endDate": "2027-02-06",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Bhubaneswar",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bhubaneswar Section; Bhubaneswar Section C Chapter; Bhubaneswar Section COM/C Jt. Chapter; Siksha O Anusandhan University",
+      "keywords": "Signal Processing,Communication Networks and Protocols,Sustainable and Energy-Efficient Computing,AI and ML,Cyber-Physical and Intelligent Infrastructure Systems,Sustainable and Renewable Energy Systems,",
+      "scope": "GreenTechCom: International Conference on Green Energy, Computing, and Communications aims to bring together researchers, industry professionals, academicians, and policy experts to explore innovations and challenges at the intersection of sustainable energy, intelligent computing, and communication technologies. The conference provides a multidisciplinary platform to exchange ideas and promote research that supports the transition to environmentally sustainable, energy-efficient, and digitally intelligent systems. Key areas include low-power computing architectures, AI/ML for energy optimization, signal processing for energy systems, IoT and wireless sensor networks for environmental monitoring, and sustainable 5G/6G communication protocols. The event also explores the role of cyber-physical systems and digital technologies in enabling smart cities and sustainable infrastructures.",
+      "callForPapers": "2026-04-15",
+      "url": "www.GreenTechCom.in",
+      "eventContact": "mihirmohanty@soa.ac.in",
+      "sponsorTypes": "3; 5; 5; 9",
+      "venues": "ITER, Siksha 'O' Anusandhan (Deemed to be University), Jagamara, Khandagiri, , , Bhubaneswar, , India, 751030, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

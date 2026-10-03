@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: zI78xo40wboBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72841,
+      "eventTitle": "2026 2nd International Conference on Artificial Intelligence Security and Governance (ICAISG)",
+      "startDate": "2026-11-20",
+      "endDate": "2026-11-22",
+      "about": "Communication, Networking and Broadcast Technologies; Computing and Processing",
+      "location": {
+        "city": "Hangzhou",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Hangzhou Normal University; Nanjing Section",
+      "keywords": "Content Generation and Tampering Content Detection,Traceability and Provenance Analysis of Synthetic Content,Security of Large Language Models,Data Privacy Protection, AI-Driven  Cybersecurity,Automated Adversarial Testing and Validation,",
+      "scope": "The convening of 2026 The 2nd International Conference on Artificial Intelligence Safety and Governance holds significant strategic importance. It aims to establish a global dialogue platform involving multiple stakeholders, promote the creation of an inclusive and balanced international governance framework, harmonize technical standards and regulatory policies, foster positive interactions between safety research and industrial innovation, and collectively guide AI technology toward trustworthy, reliable, and controllable development.",
+      "callForPapers": "2026-06-15",
+      "url": "www.icaisg.org/",
+      "eventContact": "yeyao@pmail.net",
+      "sponsorTypes": "3; 9",
+      "venues": "Grand New Century Hotel, NO.297,NO.5 St, Economic-Technological Development Area, , , , Hangzhou, , China, 310018, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: osLuwY402aIBCtQXVQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 71334,
+      "eventTitle": "2026 International Conference on AI for Industrial Monitoring, Control and Supervision (AIMCS)",
+      "startDate": "2026-10-28",
+      "endDate": "2026-10-30",
+      "about": "Aerospace; Bioengineering; Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Engineered Materials, Dielectrics and Plasmas; Engineering Profession; Fields, Waves and Electromagnetics; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis; Transportation",
+      "location": {
+        "city": "Paris",
+        "region": "",
+        "country": "France"
+      },
+      "sponsors": "Association Franco-Chinoise en Sciences & Technologies (AFCST); DGUT-CNAM Institute; France Section; France Section Reliability Chapter; University of Paris-Saclay",
+      "keywords": "Track 1: AI for Condition Monitoring & Diagnostics Data-driven condition monitoring Fault detection, isolation,AI for Condition Monitoring & Diagnostics,AI for Supervision, Control & Optimization,Track 3: Applications & Case Studies,Machine learning for predictive maintenance,Anomaly detection in industrial systems,Operational optimization and decision support,Data-driven condition monitoring,Digital twins for supervisory control,Deep learning for signal and image-based monitoring,Supervisory co",
+      "scope": "As industrial systems become increasingly complex, interconnected, and data-rich, artificial intelligence plays a pivotal role in enabling smart supervision, real-time condition monitoring, advanced diagnostics, and data-driven decision support for operations and maintenance. AIMCS 2026 will showcase state-of-the-art research, practical applications, and cross-disciplinary perspectives illustrating how AI technologies enhance reliability, safety, efficiency, and sustainability across modern industrial environments.",
+      "callForPapers": "2026-05-31",
+      "url": "aimcs2026.org/#home",
+      "eventContact": "david.bassir@utbm.fr",
+      "sponsorTypes": "3; 5; 9; 9; 9",
+      "venues": "MILLENNIUM HOTEL PARIS CHARLES DE GAULLE, PARIS, FRANCE, Hotel Zone 2 Allée du Verger, Roissy-en-France, , , , Paris, , France, 95700, ;",
+      "region": "Region08-Europe,Middle East,Africa",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

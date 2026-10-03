@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: m7mWx440+7sBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70666,
+      "eventTitle": "2026 IEEE International Conference on Distributed Computing, VLSI, Electrical Circuits and Robotics (DISCOVER)",
+      "startDate": "2026-10-09",
+      "endDate": "2026-10-10",
+      "about": "Communication, Networking and Broadcast Technologies; Components, Circuits, Devices and Systems; Computing and Processing; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "Puttur",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Bangalore Section; Mangalore Subsection",
+      "keywords": "Distributed Computing,Communications,VLSI,Electrical and Electronic Circuits,Robotics,Healthcare,",
+      "scope": "Being the 10th international event under IEEE Mangalore Sub-Section, 2026 DISCOVER intends to attract people working in diverse fields: Distributed Computing, Software Engineering, VLSI, Verification, Communication Engineering, Electrical and Electronic Circuits, Robotics and Healthcare. DISCOVER solicits paper submissions across six tracks as listed: Distributed Computing, Communications, VLSI, Electrical and Electronic Circuits, Robotics and Healthcare. A detailed list of topics is provided on the following link: https://www.ieee-discover.org/?q=article/call-papers",
+      "callForPapers": "2026-05-10",
+      "url": "ieee-discover.org/",
+      "eventContact": "ashwinib912_nitte@ieee.org",
+      "sponsorTypes": "3; 5",
+      "venues": "Vivekananda College of Engineering and Technology, Nehru Nagar, Dakshina Kannada, Karnataka, , Puttur, , India, 574203, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "N",
+      "eventFormat": "inperson"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 1,Rid: j52Kx440sr4BCtQWQA==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 70874,
+      "eventTitle": "2026 2nd International Conference on Robotics and Mechatronics (ICRM)",
+      "startDate": "2026-12-17",
+      "endDate": "2026-12-19",
+      "about": "Computing and Processing; General Topics for Engineers; Power, Energy and Industry Applications; Robotics and Control Systems; Signal Processing and Analysis",
+      "location": {
+        "city": "KOLLAM",
+        "region": "",
+        "country": "India"
+      },
+      "sponsors": "Amrita Vishwa Vidyapeetham; Kerala Section",
+      "keywords": "×Robotics &Mechatronics ,Embedded Systems & Sensing Technologies, ,Artificial Intelligence (Robotics, Autonomous Vehicles),Biomedical Engineering and Rehabilitation,Algorithms  (Robotics and Autonomous Vehicles) ,Control Systems,Automation & Manufacturing,",
+      "scope": "The scope of Robotics and Mechatronics encompasses advancements in medical and surgical  robotics, soft robotics, and mobile and industrial robotics, addressing applications in healthcare,  manufacturing, hazardous environments, and agriculture. Aerial and underwater robotics focus  on surveillance, exploration, and environmental monitoring, while innovations in mechanical  design, mechatronics applications, and intelligent systems enhance robot learning, human-robot interaction, and autonomous decision-making. Embedded systems and sensing technologies  drive real-time robotic applications through microcontroller- and FPGA-based systems, sensor  fusion, wireless communication, and edge computing, enabling precise control and perception in robotics. Artificial intelligence, including machine learning, deep learning, computer vision, and  natural language processing, facilitates robot autonomy, navigation, and interaction.",
+      "callForPapers": "2026-05-15",
+      "url": "www.amrita.edu/events/icrm/",
+      "eventContact": "sumans@am.amrita.edu",
+      "sponsorTypes": "3; 9",
+      "venues": "Amrita Vishwa Vidyapeetham, Amritapuri,, Vallikavu, , Clappana,, Kerala , Amritapuri, Karunagappally, Kollam, , India, 690525, ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}

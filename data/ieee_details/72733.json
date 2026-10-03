@@ -1,0 +1,33 @@
+{
+  "statusType": "OK",
+  "entity": {
+    "searchStatus": "{Timems: 0,Rid: 0MPlwY40pqIBCtQWTQ==}",
+    "event": null,
+    "eventDetail": {
+      "eventId": 72733,
+      "eventTitle": "2026 8th Asia Symposium on Image Processing (ASIP)",
+      "startDate": "2026-12-18",
+      "endDate": "2026-12-20",
+      "about": "Computing and Processing; Signal Processing and Analysis",
+      "location": {
+        "city": "Wuxi",
+        "region": "",
+        "country": "China"
+      },
+      "sponsors": "Nanjing Section; Wuxi University, China",
+      "keywords": "3D images and models,Image Processing and Enhancement,Signal & Image Processing and Applications,Graphics algorithms and applications,Machine learning technologies for vision,",
+      "scope": "2026 8th Asia Symposium on Image Processing will be held in Wuxi, China during December 18-20, 2026. It is sponsored by Wuxi University, China. It aims to provide a forum for researchers, practitioners, and professionals from the industry, academia and government to discourse on research and development, professional practice in Image Processing. Welcome scholars and researchers working in the field of  Image Processing from all over the world to attend the conference and share your experiences and lessons with other enthusiasts, and develop opportunities for cooperation.",
+      "callForPapers": "2026-07-15",
+      "url": "www.asip.net/",
+      "eventContact": "liuzp@fmail.org",
+      "sponsorTypes": "3; 9",
+      "venues": "Wuxi University, , , , , Wuxi, , China, , ;",
+      "region": "Region10-Asia and Pacific",
+      "isvirtual": "Y",
+      "eventFormat": "hybrid"
+    }
+  },
+  "entityType": "org.ieee.conf.data.aws.search.model.EventResult",
+  "status": 200,
+  "metadata": {}
+}
