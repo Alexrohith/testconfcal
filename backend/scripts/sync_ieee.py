@@ -9,7 +9,7 @@ from threading import Lock, local
 
 import requests
 from sqlalchemy import text
-from dotenv import dotenv_values, load_dotenv
+from dotenv import load_dotenv
 
 
 BACKEND_DIR = Path(__file__).resolve().parents[1]
@@ -48,13 +48,13 @@ CATEGORIES = {
 }
 
 def api_key_from_env():
-    return dotenv_values(BACKEND_DIR / ".env").get("IEEE_API_KEY")
+    return os.getenv("IEEE_API_KEY")
 
 
 def request_headers():
     api_key = api_key_from_env()
     if not api_key:
-        raise RuntimeError("IEEE_API_KEY is missing from backend/.env")
+        raise RuntimeError("IEEE_API_KEY is not set")
 
     return {
         "Accept": "application/json, text/plain, */*",
